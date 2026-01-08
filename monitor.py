@@ -712,12 +712,17 @@ class Web3Monitor:
                         if gen_btn:
                             await gen_btn.click()
                             logger.info("    Clicked generate share image button")
-                            
-                        await asyncio.sleep(4)  # 等待 Canvas 渲染
                         
-                        # 点击下载按钮 (通常是中间的按钮，第二个 .img-btn)
-                        # 优先尝试 src 包含 download 的图片，或者第二个 img-btn
-                        download_btn = await page.query_selector("img[src*='download'], div.img-btn:nth-child(2) img, .img-btn:nth-of-type(2) img")
+                        # 使用 wait_for_selector 等待下载按钮出现 (最多等待 15 秒)
+                        try:
+                            download_btn = await page.wait_for_selector(
+                                "img[src*='download'], div.img-btn:nth-child(2) img, .img-btn:nth-of-type(2) img", 
+                                state="visible", 
+                                timeout=15000
+                            )
+                        except:
+                            download_btn = None
+                        
                         if download_btn:
                             date_str = datetime.now().strftime('%Y-%m-%d')
                             filename = f"未来7天加密日历洞察_{date_str}.png"
@@ -736,7 +741,7 @@ class Web3Monitor:
                             # 推送到 Discord（使用文件方式）
                             self.pusher.send_file_image(
                                 "📅 RootData | 未来7天加密日历洞察",
-                                f"采集数据自 RootData 日历 ({date_str})",
+                                f"**看见关键事件，把握交易先机**\n\n采集数据自 RootData 日历 ({date_str})",
                                 save_path
                             )
                             
@@ -828,8 +833,16 @@ class Web3Monitor:
 
     async def run(self, once=False):
         async with async_playwright() as p:
-            browser = await p.chromium.launch(headless=self.config.data["settings"]["headless"])
-            context = await browser.new_context(user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36")
+            browser = await p.chromium.launch(
+                headless=self.config.data["settings"]["headless"],
+                args=['--no-sandbox', '--disable-setuid-sandbox', '--disable-dev-shm-usage', '--disable-gpu']
+            )
+            context = await browser.new_context(
+                user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+                locale='zh-CN',
+                timezone_id='Asia/Shanghai',
+                viewport={'width': 1920, 'height': 1080}
+            )
             
             # 加载认证 Cookie
             auth_conf = self.config.data.get("auth", {})

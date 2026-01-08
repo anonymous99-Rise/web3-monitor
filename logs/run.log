@@ -30,6 +30,12 @@
   [BlockBeats] 新快讯: 《怪奇物语》最终季新结局或将于今日播出，多个新账户已押注十万美元
 推送成功: 【BLOCKBEATS - 预测市场】《怪奇物语》最终季新结局或将于今日播出，多个新账户已押注十万美元
 已保存到 Markdown: ./output/blockbeats/2026-01-08.md
+  [BlockBeats] 新快讯: 某鲸鱼止损1224万美元BTC多单头寸，亏损1.5万美元
+推送成功: 【BLOCKBEATS - 链上侦探】某鲸鱼止损1224万美元BTC多单头寸，亏损1.5万美元
+已保存到 Markdown: ./output/blockbeats/2026-01-08.md
+  [BlockBeats] 新快讯: 波段巨鲸「pension-usdt.eth」ETH空单解套后迅速离场，已完全平仓6300万美元头寸
+推送成功: 【BLOCKBEATS - 链上侦探】波段巨鲸「pension-usdt.eth」ETH空单解套后迅速离场，已完全平仓6300万美元头寸
+已保存到 Markdown: ./output/blockbeats/2026-01-08.md
   [BlockBeats] 新快讯: 某鲸鱼5倍杠杆做多120枚BTC，建仓均价90,539美元
 推送成功: 【BLOCKBEATS - 链上侦探】某鲸鱼5倍杠杆做多120枚BTC，建仓均价90,539美元
 已保存到 Markdown: ./output/blockbeats/2026-01-08.md
@@ -53,12 +59,6 @@
 已保存到 Markdown: ./output/blockbeats/2026-01-08.md
   [BlockBeats] 新快讯: 某鲸鱼平仓136枚BTC多单亏损2.2万美元，随即开启做空
 推送成功: 【BLOCKBEATS - 链上侦探】某鲸鱼平仓136枚BTC多单亏损2.2万美元，随即开启做空
-已保存到 Markdown: ./output/blockbeats/2026-01-08.md
-  [BlockBeats] 新快讯: ZEC短时下跌6%引多空博弈，链上ZEC最大多头与「山寨空军车头」均大举加仓
-推送成功: 【BLOCKBEATS - 链上侦探】ZEC短时下跌6%引多空博弈，链上ZEC最大多头与「山寨空军车头」均大举加仓
-已保存到 Markdown: ./output/blockbeats/2026-01-08.md
-  [BlockBeats] 新快讯: 「闪电反手」巨鲸减仓ETH多单，账户总浮亏570万美元
-推送成功: 【BLOCKBEATS - 链上侦探】「闪电反手」巨鲸减仓ETH多单，账户总浮亏570万美元
 已保存到 Markdown: ./output/blockbeats/2026-01-08.md
   [BlockBeats] 新快讯: Anthropic计划以3500亿美元的投前估值，融资100亿美元
 推送成功: 【BLOCKBEATS - 融资】Anthropic计划以3500亿美元的投前估值，融资100亿美元
@@ -104,14 +104,17 @@ Scraping RootData...
   Calendar Insight Image...
     Clicked calendar insight icon
     Clicked generate share image button
-    Download button not found
+    Clicked download button
+    Saved Calendar Image: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-01-08.png
+    Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-01-08.png
+推送成功: 📅 RootData | 未来7天加密日历洞察
   Market Image...
     Clicked market download icon
     Clicked save button
     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-08.png
     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-08.png
 推送成功: 📊 RootData | Top Gainers
-Cycle completed. 2026-01-08 08:45:13.692148
+Cycle completed. 2026-01-08 09:00:15.815850
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -121,37 +124,38 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-: DePIN项目DAWN完成1300万美元B轮融资，Polychain领投
-2026-01-08 08:44:32,419 - INFO - 推送成功: 【BLOCKBEATS - 融资】DePIN项目DAWN完成1300万美元B轮融资，Polychain领投
-2026-01-08 08:44:32,421 - INFO - 已保存到 Markdown: ./output/blockbeats/2026-01-08.md
-2026-01-08 08:44:32,447 - INFO -   [BlockBeats] 新快讯: DePIN项目Fuse Energy完成7000万美元B轮融资，Lowercarbon和Balderton共同领投
-2026-01-08 08:44:32,664 - INFO - 推送成功: 【BLOCKBEATS - 融资】DePIN项目Fuse Energy完成7000万美元B轮融资，Lowercarbon和Balderton共同领投
-2026-01-08 08:44:32,666 - INFO - 已保存到 Markdown: ./output/blockbeats/2026-01-08.md
-2026-01-08 08:44:32,692 - INFO -   [BlockBeats] 新快讯: 前Meta首席AI科学家拟为其新AI公司融资5亿欧元，估值约30亿欧元
-2026-01-08 08:44:32,903 - INFO - 推送成功: 【BLOCKBEATS - 融资】前Meta首席AI科学家拟为其新AI公司融资5亿欧元，估值约30亿欧元
-2026-01-08 08:44:32,905 - INFO - 已保存到 Markdown: ./output/blockbeats/2026-01-08.md
-2026-01-08 08:44:32,930 - INFO -   [BlockBeats] 新快讯: DeFi流动性层Harbor完成420万美元种子轮融资，Triton Capital等领投
-2026-01-08 08:44:33,118 - INFO - 推送成功: 【BLOCKBEATS - 融资】DeFi流动性层Harbor完成420万美元种子轮融资，Triton Capital等领投
-2026-01-08 08:44:33,119 - INFO - 已保存到 Markdown: ./output/blockbeats/2026-01-08.md
-2026-01-08 08:44:33,166 - INFO -   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
-2026-01-08 08:44:35,311 - INFO -   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
-2026-01-08 08:44:36,477 - INFO -   Category: 项目动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1003&is_hot=1
-2026-01-08 08:44:37,710 - INFO -   Category: 市场观点 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1002&is_hot=1
-2026-01-08 08:44:38,499 - INFO -   Category: 链上数据 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1001&is_hot=1
-2026-01-08 08:44:39,137 - INFO -   Category: 融资动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1000&is_hot=1
-2026-01-08 08:44:40,210 - INFO - Scraping RootData...
-2026-01-08 08:44:40,249 - INFO -   List: Top 100 项目
-2026-01-08 08:44:44,195 - INFO -   List: 透明度评分提升榜
-2026-01-08 08:44:46,723 - INFO -   List: 交易所透明度排名
-2026-01-08 08:44:50,679 - INFO -   Calendar Events...
-2026-01-08 08:44:53,026 - INFO -   Calendar Insight Image...
-2026-01-08 08:44:53,550 - INFO -     Clicked calendar insight icon
-2026-01-08 08:44:54,633 - INFO -     Clicked generate share image button
-2026-01-08 08:44:58,653 - WARNING -     Download button not found
-2026-01-08 08:44:58,653 - INFO -   Market Image...
-2026-01-08 08:45:02,705 - INFO -     Clicked market download icon
-2026-01-08 08:45:12,986 - INFO -     Clicked save button
-2026-01-08 08:45:13,027 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-08.png
-2026-01-08 08:45:13,028 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-08.png
-2026-01-08 08:45:13,683 - INFO - 推送成功: 📊 RootData | Top Gainers
-2026-01-08 08:45:13,692 - INFO - Cycle completed. 2026-01-08 08:45:13.692148
+ockbeats/2026-01-08.md
+2026-01-08 08:59:29,752 - INFO -   [BlockBeats] 新快讯: DePIN项目Fuse Energy完成7000万美元B轮融资，Lowercarbon和Balderton共同领投
+2026-01-08 08:59:30,071 - INFO - 推送成功: 【BLOCKBEATS - 融资】DePIN项目Fuse Energy完成7000万美元B轮融资，Lowercarbon和Balderton共同领投
+2026-01-08 08:59:30,072 - INFO - 已保存到 Markdown: ./output/blockbeats/2026-01-08.md
+2026-01-08 08:59:30,097 - INFO -   [BlockBeats] 新快讯: 前Meta首席AI科学家拟为其新AI公司融资5亿欧元，估值约30亿欧元
+2026-01-08 08:59:30,366 - INFO - 推送成功: 【BLOCKBEATS - 融资】前Meta首席AI科学家拟为其新AI公司融资5亿欧元，估值约30亿欧元
+2026-01-08 08:59:30,367 - INFO - 已保存到 Markdown: ./output/blockbeats/2026-01-08.md
+2026-01-08 08:59:30,395 - INFO -   [BlockBeats] 新快讯: DeFi流动性层Harbor完成420万美元种子轮融资，Triton Capital等领投
+2026-01-08 08:59:30,726 - INFO - 推送成功: 【BLOCKBEATS - 融资】DeFi流动性层Harbor完成420万美元种子轮融资，Triton Capital等领投
+2026-01-08 08:59:30,727 - INFO - 已保存到 Markdown: ./output/blockbeats/2026-01-08.md
+2026-01-08 08:59:30,774 - INFO -   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
+2026-01-08 08:59:32,117 - INFO -   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
+2026-01-08 08:59:33,238 - INFO -   Category: 项目动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1003&is_hot=1
+2026-01-08 08:59:34,485 - INFO -   Category: 市场观点 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1002&is_hot=1
+2026-01-08 08:59:35,145 - INFO -   Category: 链上数据 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1001&is_hot=1
+2026-01-08 08:59:36,246 - INFO -   Category: 融资动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1000&is_hot=1
+2026-01-08 08:59:36,930 - INFO - Scraping RootData...
+2026-01-08 08:59:36,964 - INFO -   List: Top 100 项目
+2026-01-08 08:59:41,872 - INFO -   List: 透明度评分提升榜
+2026-01-08 08:59:44,931 - INFO -   List: 交易所透明度排名
+2026-01-08 08:59:47,568 - INFO -   Calendar Events...
+2026-01-08 08:59:49,902 - INFO -   Calendar Insight Image...
+2026-01-08 08:59:50,082 - INFO -     Clicked calendar insight icon
+2026-01-08 08:59:51,632 - INFO -     Clicked generate share image button
+2026-01-08 08:59:58,435 - INFO -     Clicked download button
+2026-01-08 08:59:58,484 - INFO -     Saved Calendar Image: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-01-08.png
+2026-01-08 08:59:58,484 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-01-08.png
+2026-01-08 08:59:59,118 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
+2026-01-08 08:59:59,120 - INFO -   Market Image...
+2026-01-08 09:00:04,274 - INFO -     Clicked market download icon
+2026-01-08 09:00:15,235 - INFO -     Clicked save button
+2026-01-08 09:00:15,243 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-08.png
+2026-01-08 09:00:15,243 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-08.png
+2026-01-08 09:00:15,801 - INFO - 推送成功: 📊 RootData | Top Gainers
+2026-01-08 09:00:15,815 - INFO - Cycle completed. 2026-01-08 09:00:15.815850

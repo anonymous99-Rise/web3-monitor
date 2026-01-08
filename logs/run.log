@@ -1,19 +1,8 @@
-  [BlockBeats] 新快讯: 币安人生市值跌破昨日低点
-推送成功: 【BlockBeats - 链上侦探】币安人生市值跌破昨日低点
-已保存到 Markdown: ./output/blockbeats/2026-01-08.md
-  [BlockBeats] 新快讯: X知名账号Rainbow Fish购入500万枚本人原型Meme币，FISH短时大涨市值创新高
-推送成功: 【BlockBeats - 链上侦探】X知名账号Rainbow Fish购入500万枚本人原型Meme币，FISH短时大涨市值创新高
-已保存到 Markdown: ./output/blockbeats/2026-01-08.md
-  Database initialized: data.db
-  Loaded BlockBeats cookies
-  Loaded TechFlow cookies
-  Loaded RootData cookies
   Total 28 cookies loaded
-Scraping BlockBeats...
-  Category: 预测市场 - https://www.theblockbeats.info/newsflash?type=1
-  Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
-  Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
-Scraping TechFlow...
+推送成功: 🚀 Web3-Monitor 已启动!
+  [BlockBeats] 新快讯: 波段巨鲸「pension-usdt.eth」持续减仓ETH空单，仍浮盈15万美元
+推送成功: 【BLOCKBEATS - 链上侦探】波段巨鲸「pension-usdt.eth」持续减仓ETH空单，仍浮盈15万美元
+已保存到 Markdown: ./output/blockbeats/2026-01-08.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
   Category: 项目动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1003&is_hot=1
@@ -25,6 +14,32 @@ Scraping RootData...
   List: 透明度评分提升榜
   List: 交易所透明度排名
   Calendar Events...
+  Calendar events fetch failed: Page.wait_for_selector: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator(".event-list, table, .calendar-event") to be visible
+
   Calendar Insight Image...
+    Clicked calendar insight icon
+    Insight capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(".img-btn img[alt='download']") to be visible
+
   Market Image...
-Cycle completed. 2026-01-08 07:27:30.150587
+    Market download icon not found
+Cycle completed. 2026-01-08 07:42:06.515660
+  Database initialized: data.db
+  Loaded BlockBeats cookies
+  Loaded TechFlow cookies
+  Loaded RootData cookies
+Scraping BlockBeats...
+  Category: 预测市场 - https://www.theblockbeats.info/newsflash?type=1
+  Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
+  Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
+Scraping TechFlow...
+026-01-08 07:42:02,276 - WARNING -     Insight capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(".img-btn img[alt='download']") to be visible
+
+2026-01-08 07:42:02,276 - INFO -   Market Image...
+2026-01-08 07:42:06,357 - WARNING -     Market download icon not found
+2026-01-08 07:42:06,515 - INFO - Cycle completed. 2026-01-08 07:42:06.515660

@@ -69,13 +69,12 @@ class Config:
         self.footer_text = self.data["discord"].get("footer", "Power By 东方隐侠安全团队·Anonymous@ 隐侠安全客栈")
         
         # RootData API Key (优先从环境变量读取)
-        rootdata_auth = self.data.get("auth", {}).get("rootdata", {})
+        rootdata_auth = self.data.get("auth", {})
         self.rootdata_api_key = os.getenv("ROOTDATA_API_KEY", rootdata_auth.get("api_key", ""))
         
         # 创建必要的目录
-        for dir_path in [self.image_dir, self.markdown_dir]:
-            if not os.path.exists(dir_path):
-                os.makedirs(dir_path)
+        if not os.path.exists(self.markdown_dir):
+            os.makedirs(self.markdown_dir)
 
 
 

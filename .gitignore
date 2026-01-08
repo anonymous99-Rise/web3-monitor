@@ -1,0 +1,52 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+*.egg-info/
+dist/
+build/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs (内容忽略，保留目录)
+logs/*.log
+
+# Database (不推送到仓库)
+*.db
+data.db
+
+# Environment
+.env
+.env.local
+
+# Downloads (图片内容忽略，保留目录结构)
+downloads/**/*
+!downloads/.gitkeep
+!downloads/*/.gitkeep
+
+# Output (Markdown 内容忽略，保留目录结构)
+output/**/*
+!output/.gitkeep
+!output/*/.gitkeep
+
+# Playwright
+playwright-report/
+test-results/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+

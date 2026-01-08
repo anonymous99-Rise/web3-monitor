@@ -1,0 +1,5 @@
+playwright
+pyyaml
+requests
+python-dotenv
+beautifulsoup4

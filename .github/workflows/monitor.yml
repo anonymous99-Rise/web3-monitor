@@ -1,0 +1,87 @@
+name: Web3 Monitor
+
+on:
+  schedule:
+    - cron: '0 */1 * * *'  # 每2小时运行一次
+  workflow_dispatch:  # 支持手动运行
+    inputs:
+      debug:
+        description: '启用调试模式'
+        required: false
+        default: 'false'
+
+env:
+  PYTHON_VERSION: '3.10'
+
+jobs:
+  monitor:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: ${{ env.PYTHON_VERSION }}
+          cache: 'pip'
+
+      - name: Install Dependencies
+        run: |
+          pip install --upgrade pip
+          pip install -r requirements.txt
+          python -m playwright install chromium --with-deps
+
+      - name: Create Required Directories
+        run: |
+          mkdir -p downloads/calendar_insights
+          mkdir -p downloads/market_summary
+          mkdir -p output/blockbeats
+          mkdir -p output/techflow
+          mkdir -p output/rootdata
+          mkdir -p logs
+
+      - name: Run Monitor
+        env:
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+        run: |
+          python monitor.py --once 2>&1 | tee logs/run.log
+
+      - name: Check for Errors
+        if: failure()
+        run: |
+          echo "Monitor execution failed. Check logs for details."
+          cat logs/err.log 2>/dev/null || echo "No error log found"
+
+      - name: Commit and Push Results
+        if: always()
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          
+          # 添加需要跟踪的文件
+          git add -f processed_ids.json || true
+          git add -f downloads/ || true
+          git add -f output/ || true
+          git add -f logs/run.log || true
+          
+          # 检查是否有变更
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "🤖 Auto-update: $(date +'%Y-%m-%d %H:%M') [skip ci]"
+            git push origin HEAD:${{ github.ref_name }}
+          fi
+
+      - name: Upload Logs as Artifact
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: monitor-logs-${{ github.run_number }}
+          path: logs/
+          retention-days: 7

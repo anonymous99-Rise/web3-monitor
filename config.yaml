@@ -1,0 +1,89 @@
+# Web3 Monitor Configuration
+
+# Discord Webhook Settings
+discord:
+  enabled: true  # 是否启用 Discord 推送 (false 则仅采集保存)
+  webhook_url: "YOUR_DISCORD_WEBHOOK_URL_HERE"
+  username: "Web3 Monitor"
+  avatar_url: ""
+  footer: "Power By 东方隐侠安全团队·Anonymous@ 隐侠安全客栈"
+
+# General Settings
+settings:
+  save_images: true
+  image_dir: "./downloads"
+  markdown_dir: "./output"  # Markdown 输出目录
+  history_file: "processed_ids.json"
+  database: "data.db"
+  headless: true
+  timeout: 60000
+
+
+
+# Site Configurations
+sites:
+  blockbeats:
+    enabled: true
+    interval: 300 # seconds
+    categories:
+      - name: "预测市场"
+        type: 1
+      - name: "链上侦探"
+        type: 2
+      - name: "融资"
+        type: 3
+
+  techflow:
+    enabled: true
+    interval: 300
+    is_hot: true # 只采集精选
+    categories:
+      - name: "AI前沿"
+        id: 1005
+      - name: "加密股票"
+        id: 1004
+      - name: "项目动态"
+        id: 1003
+      - name: "市场观点"
+        id: 1002
+      - name: "链上数据"
+        id: 1001
+      - name: "融资动态"
+        id: 1000
+
+  rootdata:
+    enabled: true
+    interval: 3600 # 数据聚合频率较低
+    list_tasks:
+      - name: "Top 100 项目"
+        url: "https://cn.rootdata.com/rootdatalist/2025/top-projects"
+      - name: "透明度评分提升榜"
+        url: "https://cn.rootdata.com/rankings/transparency"
+      - name: "交易所透明度排名"
+        url: "https://cn.rootdata.com/exchanges/ranking"
+    
+    calendar:
+      enabled: true
+      url: "https://cn.rootdata.com/calendar"
+      insight_enabled: true # 未来7天加密日历洞察
+    
+    market:
+      enabled: true
+      url: "https://cn.rootdata.com/Market"
+
+# Authentication (详见 docs/CONFIGURATION.md)
+auth:
+  blockbeats:
+    enabled: true
+    cookies: "lang=cn; _qimei_uuid42=1a1080c2028100bfbd7945d20a357a74bfcbd41c36; _qimei_fingerprint=e5e93c94b608c2a0d9948aaea3c9aaaa; _qimei_i_3=5fc77786c00b5189c19ff830588727e6a2eff0f21a080b8bbd8b200e2fc6716f693536943c89e2b891f7; theme=dark; autoUpdate=1; token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImtpZCI6ImFwaSJ9.eyJpc3MiOiJsb2NhbGhvc3QiLCJzdWIiOiJ0b2tlbiIsImlhdCI6MTc2Nzg0Njk4MiwiZGF0YSI6eyJpZCI6MTMyMDAyfX0.ZtyiPfWryTg619qMa9wm2CszcuYYZb7Sk6iuQJnTbMY"
+
+  techflow:
+    enabled: true
+    cookies: "acw_tc=a3b5c99517678473473296656e00144e17c0a9ec91b8c515d240c0b271; cdn_sec_tc=a3b5c99517678473473296656e00144e17c0a9ec91b8c515d240c0b271; NEXT_LOCALE=zh-CN; _qimei_uuid42=1a1080c2a1b100526fa55534908b18d4b679d4884e; _qimei_fingerprint=e5e93c94b608c2a0d9948aaea3c9aaaa; _qimei_i_3=56c77a86c00b5189c19ff830588727e6a2eff0f21a080b8bbd8b200e2fc6716f693536943c89e294aebf; refresh_token=YPdaFTZXhjYIiUZB6Z6vuKJUvGFdDjnmU_FBav46X4a5bC5vY_NEUdqQwR5W_zv4; accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoxNTIwMywidXNlcm5hbWUiOiI3OTE3NTE1NjgiLCJlbWFpbCI6Ijc5MTc1MTU2OEBxcS5jb20iLCJpYXQiOjE3Njc4NDk5MTUsImV4cCI6MTc2Nzg1MDgxNX0.VsNxz5VUMgeeh1OLM6uVwttlOhowR-YowH7AMu2wz9w"
+
+  rootdata:
+    enabled: true
+    cookies: "rd_v1.currency=FIAT_USD; rd_v1.theme=light; rd_v1.uuid=18c8b9ca-ef00-42be-85ac-ed6fb949956a; _qimei_uuid42=1a1080c2d311007bf112196e74f42f3ede675998da; _qimei_fingerprint=e5e93c94b608c2a0d9948aaea3c9aaaa; _qimei_i_3=67ba6686c00b5189c19ff830588727e6a2eff0f21a080b8bbd8b200e2fc6716f693536943c89e29aaebd; rd_v1.auth._token.local1=false; rd_v1.auth._token_expiration.local1=false; rd_v1.auth._token.local3=false; rd_v1.auth._token_expiration.local3=false; rd_v1.auth.strategy=local2; rd_v1.auth._token.local2=s8iurgqbv9-394639-67-b6vuszpyhk-1767847744242; rd_v1.auth._token_expiration.local2=1770439743684"
+    # RootData API Key (推荐)
+    # 获取方式: https://cn.rootdata.com/Api/Doc -> 复制 Access Key
+    api_key: "RJughDKWvQAlPs61dFaMn3vhP5jNUP4A"

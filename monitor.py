@@ -1,4 +1,5 @@
 import os
+import re
 import time
 import json
 import yaml
@@ -62,6 +63,7 @@ class Config:
         
         # Markdown 存储目录
         self.markdown_dir = self.data["settings"].get("markdown_dir", "./output")
+        self.output_dir = self.markdown_dir # Alias for compatibility
         
         # 页脚配置
         self.footer_text = self.data["discord"].get("footer", "Power By 东方隐侠安全团队·Anonymous@ 隐侠安全客栈")
@@ -480,7 +482,12 @@ class Web3Monitor:
                 
                 title = (await title_el.inner_text()).strip()
                 content = (await content_el.inner_text()).strip() if content_el else ""
-                item_time = (await time_el.inner_text()).strip().split('\n')[0] if time_el else ""
+                
+                # 提取时间 (尝试用正则提取 HH:MM)
+                raw_time_text = (await time_el.inner_text()).strip() if time_el else ""
+                time_match = re.search(r'\d{2}:\d{2}', raw_time_text)
+                item_time = time_match.group(0) if time_match else raw_time_text.split('\n')[0]
+                
                 link = await link_el.get_attribute("href") if link_el else ""
                 
                 item_id = f"bb_{cat['type']}_{title}_{item_time}"

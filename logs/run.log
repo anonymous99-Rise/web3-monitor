@@ -1,7 +1,10 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 波段巨鲸「pension-usdt.eth」持续减仓ETH空单，仍浮盈15万美元
-推送成功: 【BLOCKBEATS - 链上侦探】波段巨鲸「pension-usdt.eth」持续减仓ETH空单，仍浮盈15万美元
+  [BlockBeats] 新快讯: 某巨鲸做多约1100万美元BTC，并买入约18万枚HYPE
+推送成功: 【BLOCKBEATS - 链上侦探】某巨鲸做多约1100万美元BTC，并买入约18万枚HYPE
+已保存到 Markdown: ./output/blockbeats/2026-01-08.md
+  [BlockBeats] 新快讯: 某交易员昨日建仓54.8万美元币安人生，现浮亏逾27%
+推送成功: 【BLOCKBEATS - 链上侦探】某交易员昨日建仓54.8万美元币安人生，现浮亏逾27%
 已保存到 Markdown: ./output/blockbeats/2026-01-08.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -14,19 +17,17 @@ Scraping RootData...
   List: 透明度评分提升榜
   List: 交易所透明度排名
   Calendar Events...
-  Calendar events fetch failed: Page.wait_for_selector: Timeout 15000ms exceeded.
-Call log:
-  - waiting for locator(".event-list, table, .calendar-event") to be visible
-
+  [RootData] 日历事件: 10 条
+推送成功: 📅 RootData | 今日日历事件
+已保存到 Markdown: ./output/rootdata/2026-01-08.md
   Calendar Insight Image...
     Clicked calendar insight icon
-    Insight capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
-Call log:
-  - waiting for locator(".img-btn img[alt='download']") to be visible
-
+    Clicked generate share image button
+    Download button not found
   Market Image...
-    Market download icon not found
-Cycle completed. 2026-01-08 07:42:06.515660
+    Clicked market download icon
+    Market capture failed: 'Config' object has no attribute 'output_dir'
+Cycle completed. 2026-01-08 08:34:11.529947
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -36,10 +37,12 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-026-01-08 07:42:02,276 - WARNING -     Insight capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
-Call log:
-  - waiting for locator(".img-btn img[alt='download']") to be visible
-
-2026-01-08 07:42:02,276 - INFO -   Market Image...
-2026-01-08 07:42:06,357 - WARNING -     Market download icon not found
-2026-01-08 07:42:06,515 - INFO - Cycle completed. 2026-01-08 07:42:06.515660
+��存到 Markdown: ./output/rootdata/2026-01-08.md
+2026-01-08 08:33:56,614 - INFO -   Calendar Insight Image...
+2026-01-08 08:33:56,706 - INFO -     Clicked calendar insight icon
+2026-01-08 08:33:58,206 - INFO -     Clicked generate share image button
+2026-01-08 08:34:02,223 - WARNING -     Download button not found
+2026-01-08 08:34:02,223 - INFO -   Market Image...
+2026-01-08 08:34:06,481 - INFO -     Clicked market download icon
+2026-01-08 08:34:11,515 - WARNING -     Market capture failed: 'Config' object has no attribute 'output_dir'
+2026-01-08 08:34:11,529 - INFO - Cycle completed. 2026-01-08 08:34:11.529947

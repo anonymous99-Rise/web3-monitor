@@ -188,19 +188,27 @@ class DiscordPusher:
             "rootdata": 0xf39c12     # 橙色
         }
         
+        # 截断内容
+        content_text = content[:450] + "..." if len(content) > 450 else content
+        
+        # 构建 description（包含链接）
+        desc_parts = [content_text]
+        if url:
+            desc_parts.append(f"\n\n🔗 **链接**: [查看原文]({url})")
+        
         fields = [
-            {"name": "📂 分类", "value": category, "inline": True},
-            {"name": "⏰ 时间", "value": publish_time or datetime.now().strftime("%H:%M:%S"), "inline": True},
-            {"name": "🔗 链接", "value": f"[查看原文]({url})" if url else "无", "inline": True}
+            {"name": "📂 分类", "value": category or "未分类", "inline": True},
+            {"name": "⏰ 时间", "value": publish_time or datetime.now().strftime("%H:%M"), "inline": True}
         ]
         
         self.send_embed(
             title=f"【{source.upper()} - {category}】{title}",
-            description=content[:500] + "..." if len(content) > 500 else content,
+            description="\n".join(desc_parts),
             url=url,
             color=color_map.get(source.lower(), 0x00ff00),
             fields=fields
         )
+
 
     def send_table_embed(self, title, rows, source="rootdata", table_url=None, page_size=5):
         """发送表格数据推送 - 分页显示"""
@@ -646,11 +654,17 @@ class Web3Monitor:
             await page.goto(rd_conf["calendar"]["url"])
 
             try:
-                await page.wait_for_selector(".event-list, table, .calendar-event", timeout=15000)
-                # 提取今日事件
+                # 使用正确的列表选择器
+                await page.wait_for_selector(".list-table, .list-row", timeout=15000)
+                # 提取今日事件（从列表行）
                 events = await page.evaluate('''() => {
-                    const items = document.querySelectorAll('.event-item, .calendar-event, tr[class*="event"]');
-                    return Array.from(items).slice(0, 10).map(i => i.innerText.replace(/\\n/g, ' | ').trim());
+                    const rows = document.querySelectorAll('.list-row');
+                    return Array.from(rows).slice(0, 10).map(row => {
+                        // 尝试提取项目名和事件描述
+                        const project = row.querySelector('a[href*="/Projects/detail/"]')?.innerText.trim() || "";
+                        const desc = row.innerText.replace(project, "").replace(/\\n/g, " ").trim();
+                        return project ? `${project} | ${desc}` : row.innerText.replace(/\\n/g, " | ").trim();
+                    });
                 }''')
                 if events and len(events) > 0:
                     event_str = "\n".join([f"{i+1}. {e}" for i, e in enumerate(events)])
@@ -678,19 +692,25 @@ class Web3Monitor:
             if rd_conf["calendar"].get("insight_enabled"):
                 logger.info("  Calendar Insight Image...")
                 try:
-                    # 点击橙色分享图标 (class: create-banner-btn)
-                    icon = await page.query_selector("div.create-banner-btn, div.create-banner-btn img")
+                    # 点击橙色分享图标 (class: img-btn 或 day-perfix)
+                    icon = await page.query_selector(".img-btn, .day-perfix img, div.create-banner-btn")
                     if icon:
                         await icon.click()
                         logger.info("    Clicked calendar insight icon")
-                        await asyncio.sleep(2)
+                        # 等待弹窗出现
+                        await page.wait_for_selector(".v-dialog, .calendar-img, .ant-modal-content, .el-dialog", timeout=10000)
                         
-                        # 等待弹窗出现并渲染完成
-                        await page.wait_for_selector(".img-btn img[alt='download']", timeout=10000)
-                        await asyncio.sleep(1)  # 等待渲染
+                        # 点击 "生成分享图" 按钮 (如果存在)
+                        gen_btn = await page.query_selector("button:has-text('生成分享图'), button:has-text('Generate'), .generate-btn")
+                        if gen_btn:
+                            await gen_btn.click()
+                            logger.info("    Clicked generate share image button")
+                            
+                        await asyncio.sleep(4)  # 等待 Canvas 渲染
                         
-                        # 点击下载按钮，使用 Playwright 的 download 事件
-                        download_btn = await page.query_selector(".img-btn:has(img[alt='download']), div.img-btn img[alt='download']")
+                        # 点击下载按钮 (通常是中间的按钮，第二个 .img-btn)
+                        # 优先尝试 src 包含 download 的图片，或者第二个 img-btn
+                        download_btn = await page.query_selector("img[src*='download'], div.img-btn:nth-child(2) img, .img-btn:nth-of-type(2) img")
                         if download_btn:
                             date_str = datetime.now().strftime('%Y-%m-%d')
                             filename = f"未来7天加密日历洞察_{date_str}.png"
@@ -729,20 +749,22 @@ class Web3Monitor:
             logger.info("  Market Image...")
             await page.goto(rd_conf['market']['url'])
             try:
-                await page.wait_for_selector("table, .market-table, .top-gainers", timeout=10000)
+                await page.wait_for_selector(".v-data-table, table, .top-gainers", timeout=10000)
                 
-                # 点击下载图标触发预览弹窗
-                dl_icon = await page.query_selector("div.down-icon, .download-icon, [class*='down-icon']")
+                # 点击下载图标（通过 src 包含 download 定位）
+                dl_icon = await page.query_selector("img[src*='download'], .header-gainers img, .down-icon")
                 if dl_icon:
                     await dl_icon.click()
                     logger.info("    Clicked market download icon")
+                    await asyncio.sleep(3)
+                    
+                    # 等待预览弹窗出现
+                    await page.wait_for_selector(".v-dialog, .el-dialog, .generate-img-footer", timeout=10000)
                     await asyncio.sleep(2)
                     
-                    # 等待预览弹窗和保存按钮出现
-                    await page.wait_for_selector(".generate-img-footer button.action_btn, button.action_btn", timeout=10000)
-                    
-                    # 点击"保存"按钮，使用 Playwright 的 download 事件
-                    save_btn = await page.query_selector(".generate-img-footer button.action_btn, button.action_btn")
+                    # 点击"保存"按钮
+                    save_btn = await page.query_selector("button.action_btn, .v-btn:has-text('保存'), button:has-text('保存')")
+
                     if save_btn:
                         date_str = datetime.now().strftime('%Y-%m-%d')
                         filename = f"Market_Top_Gainers_{date_str}.png"

@@ -52,6 +52,7 @@ jobs:
         run: |
           python monitor.py --once 2>&1 | tee logs/run.log
 
+
       - name: Check for Errors
         if: failure()
         run: |

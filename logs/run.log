@@ -1,22 +1,13 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 以色列疑似打击黎巴嫩，可疑账户浮盈175%
-推送成功: 【BLOCKBEATS - 预测市场】以色列疑似打击黎巴嫩，可疑账户浮盈175%
+  [BlockBeats] 新快讯: 链上晚间回顾：巨鲸调仓活跃，短期风险管理特征明显
+推送成功: 【BLOCKBEATS - 链上侦探】链上晚间回顾：巨鲸调仓活跃，短期风险管理特征明显
 已保存到 Markdown: ./output/blockbeats/2026-01-09.md
-  [BlockBeats] 新快讯: Tether于Tron网络新增铸造10亿USDT
-推送成功: 【BLOCKBEATS - 链上侦探】Tether于Tron网络新增铸造10亿USDT
+  [BlockBeats] 新快讯: 贝莱德ETF地址向Coinbase存入2400枚BTC和24,760枚ETH，价值约2.94亿美元
+推送成功: 【BLOCKBEATS - 链上侦探】贝莱德ETF地址向Coinbase存入2400枚BTC和24,760枚ETH，价值约2.94亿美元
 已保存到 Markdown: ./output/blockbeats/2026-01-09.md
-  [BlockBeats] 新快讯: 某鲸鱼沉寂两年后首次向HyperLiquid存入264万美元并买入HYPE
-推送成功: 【BLOCKBEATS - 链上侦探】某鲸鱼沉寂两年后首次向HyperLiquid存入264万美元并买入HYPE
-已保存到 Markdown: ./output/blockbeats/2026-01-09.md
-  [BlockBeats] 新快讯: 两新建钱包花费2.3万美元押注「以色列将在2026年1月31日前袭击伊朗」
-推送成功: 【BLOCKBEATS - 链上侦探】两新建钱包花费2.3万美元押注「以色列将在2026年1月31日前袭击伊朗」
-已保存到 Markdown: ./output/blockbeats/2026-01-09.md
-  [BlockBeats] 新快讯: 主流Perp DEX一览：Hyperliquid交易量稳居榜首，Aster位列第二
-推送成功: 【BLOCKBEATS - 链上侦探】主流Perp DEX一览：Hyperliquid交易量稳居榜首，Aster位列第二
-已保存到 Markdown: ./output/blockbeats/2026-01-09.md
-  [BlockBeats] 新快讯: 某巨鲸已建仓价值3.1亿美元多单，目前总利润已超940万美元
-推送成功: 【BLOCKBEATS - 链上侦探】某巨鲸已建仓价值3.1亿美元多单，目前总利润已超940万美元
+  [BlockBeats] 新快讯: 稳定币公司Rain以19.5亿美元估值完成2.5亿美元融资，ICONIQ领投
+推送成功: 【BLOCKBEATS - 融资】稳定币公司Rain以19.5亿美元估值完成2.5亿美元融资，ICONIQ领投
 已保存到 Markdown: ./output/blockbeats/2026-01-09.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -42,7 +33,7 @@ Scraping RootData...
     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-09.png
     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-09.png
 推送成功: 📊 RootData | Top Gainers
-Cycle completed. 2026-01-09 11:22:08.965099
+Cycle completed. 2026-01-09 12:50:20.843528
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -52,16 +43,13 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-    Clicked calendar insight icon
-2026-01-09 11:21:45,237 - INFO -     Clicked generate share image button
-2026-01-09 11:21:50,954 - INFO -     Clicked download button
-2026-01-09 11:21:50,987 - INFO -     Saved Calendar Image: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-01-09.png
-2026-01-09 11:21:50,987 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-01-09.png
-2026-01-09 11:21:51,429 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
-2026-01-09 11:21:51,432 - INFO -   Market Image...
-2026-01-09 11:21:57,606 - INFO -     Clicked market download icon
-2026-01-09 11:22:08,492 - INFO -     Clicked save button
-2026-01-09 11:22:08,506 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-09.png
-2026-01-09 11:22:08,507 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-09.png
-2026-01-09 11:22:08,954 - INFO - 推送成功: 📊 RootData | Top Gainers
-2026-01-09 11:22:08,965 - INFO - Cycle completed. 2026-01-09 11:22:08.965099
+01-09.png
+2026-01-09 12:50:03,478 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-01-09.png
+2026-01-09 12:50:04,315 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
+2026-01-09 12:50:04,318 - INFO -   Market Image...
+2026-01-09 12:50:09,220 - INFO -     Clicked market download icon
+2026-01-09 12:50:20,213 - INFO -     Clicked save button
+2026-01-09 12:50:20,221 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-09.png
+2026-01-09 12:50:20,221 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-09.png
+2026-01-09 12:50:20,833 - INFO - 推送成功: 📊 RootData | Top Gainers
+2026-01-09 12:50:20,843 - INFO - Cycle completed. 2026-01-09 12:50:20.843528

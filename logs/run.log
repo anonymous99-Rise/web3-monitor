@@ -1,16 +1,10 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 「Strategy对手盘」多单跌破均价后大幅砍仓48%，持仓规模由3.5亿骤降至1.8亿美元
-推送成功: 【BLOCKBEATS - 链上侦探】「Strategy对手盘」多单跌破均价后大幅砍仓48%，持仓规模由3.5亿骤降至1.8亿美元
+  [BlockBeats] 新快讯: 某巨鲸向Hyperliquid转入809万枚USDC，计划以133.88美元至135美元买入59,458枚SOL
+推送成功: 【BLOCKBEATS - 链上侦探】某巨鲸向Hyperliquid转入809万枚USDC，计划以133.88美元至135美元买入59,458枚SOL
 已保存到 Markdown: ./output/blockbeats/2026-01-09.md
-  [BlockBeats] 新快讯: 「2000万波段猎手」分批止盈HYPE、XPL空单，近一周盈利达3050万美元
-推送成功: 【BLOCKBEATS - 链上侦探】「2000万波段猎手」分批止盈HYPE、XPL空单，近一周盈利达3050万美元
-已保存到 Markdown: ./output/blockbeats/2026-01-09.md
-  [BlockBeats] 新快讯: 某鲸鱼止损平仓1553万美元ETH多单头寸，亏损61.6万美元
-推送成功: 【BLOCKBEATS - 链上侦探】某鲸鱼止损平仓1553万美元ETH多单头寸，亏损61.6万美元
-已保存到 Markdown: ./output/blockbeats/2026-01-09.md
-  [BlockBeats] 新快讯: 某巨鲸从Binance提取价值320万美元LINK
-推送成功: 【BLOCKBEATS - 链上侦探】某巨鲸从Binance提取价值320万美元LINK
+  [BlockBeats] 新快讯: Amber Group于4小时前将5800枚ETH转入Copper
+推送成功: 【BLOCKBEATS - 链上侦探】Amber Group于4小时前将5800枚ETH转入Copper
 已保存到 Markdown: ./output/blockbeats/2026-01-09.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -36,7 +30,7 @@ Scraping RootData...
     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-09.png
     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-09.png
 推送成功: 📊 RootData | Top Gainers
-Cycle completed. 2026-01-09 09:31:13.366877
+Cycle completed. 2026-01-09 10:27:12.995324
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -46,13 +40,12 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
- -     Saved Calendar Image: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-01-09.png
-2026-01-09 09:30:56,975 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-01-09.png
-2026-01-09 09:30:57,370 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
-2026-01-09 09:30:57,373 - INFO -   Market Image...
-2026-01-09 09:31:02,424 - INFO -     Clicked market download icon
-2026-01-09 09:31:12,898 - INFO -     Clicked save button
-2026-01-09 09:31:12,906 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-09.png
-2026-01-09 09:31:12,906 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-09.png
-2026-01-09 09:31:13,351 - INFO - 推送成功: 📊 RootData | Top Gainers
-2026-01-09 09:31:13,366 - INFO - Cycle completed. 2026-01-09 09:31:13.366877
+hts/未来7天加密日历洞察_2026-01-09.png
+2026-01-09 10:26:49,918 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
+2026-01-09 10:26:49,920 - INFO -   Market Image...
+2026-01-09 10:26:54,545 - INFO -     Clicked market download icon
+2026-01-09 10:27:12,418 - INFO -     Clicked save button
+2026-01-09 10:27:12,426 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-09.png
+2026-01-09 10:27:12,426 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-09.png
+2026-01-09 10:27:12,926 - INFO - 推送成功: 📊 RootData | Top Gainers
+2026-01-09 10:27:12,995 - INFO - Cycle completed. 2026-01-09 10:27:12.995324

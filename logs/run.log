@@ -1,16 +1,16 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 新账户押注以色列今日打击黎巴嫩
-推送成功: 【BLOCKBEATS - 预测市场】新账户押注以色列今日打击黎巴嫩
+  [BlockBeats] 新快讯: 三个新账户押注近三万美元笃定哈梅内伊将于本月下台
+推送成功: 【BLOCKBEATS - 预测市场】三个新账户押注近三万美元笃定哈梅内伊将于本月下台
 已保存到 Markdown: ./output/blockbeats/2026-01-09.md
-  [BlockBeats] 新快讯: Solana链上Meme币PIPPIN触底反弹66%，市值重回4亿美元
-推送成功: 【BLOCKBEATS - 链上侦探】Solana链上Meme币PIPPIN触底反弹66%，市值重回4亿美元
+  [BlockBeats] 新快讯: 某鲸鱼平仓1380万美元BTC多单头寸，亏损2.9万美元
+推送成功: 【BLOCKBEATS - 链上侦探】某鲸鱼平仓1380万美元BTC多单头寸，亏损2.9万美元
 已保存到 Markdown: ./output/blockbeats/2026-01-09.md
-  [BlockBeats] 新快讯: Metalpha再次从Kraken提取6000枚ETH，约合1867万美元
-推送成功: 【BLOCKBEATS - 链上侦探】Metalpha再次从Kraken提取6000枚ETH，约合1867万美元
+  [BlockBeats] 新快讯: 「PEPE最大多头」重新开设PEPE多单，现浮盈3.4万美元
+推送成功: 【BLOCKBEATS - 链上侦探】「PEPE最大多头」重新开设PEPE多单，现浮盈3.4万美元
 已保存到 Markdown: ./output/blockbeats/2026-01-09.md
-  [BlockBeats] 新快讯: 「麻吉」减仓ETH多单，账户总浮亏25万美元
-推送成功: 【BLOCKBEATS - 链上侦探】「麻吉」减仓ETH多单，账户总浮亏25万美元
+  [BlockBeats] 新快讯: 「Strategy对手盘」获利了结SOL、ZEC等多个币种，目前已平仓超400万美元
+推送成功: 【BLOCKBEATS - 链上侦探】「Strategy对手盘」获利了结SOL、ZEC等多个币种，目前已平仓超400万美元
 已保存到 Markdown: ./output/blockbeats/2026-01-09.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -36,7 +36,7 @@ Scraping RootData...
     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-09.png
     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-09.png
 推送成功: 📊 RootData | Top Gainers
-Cycle completed. 2026-01-09 07:28:23.604506
+Cycle completed. 2026-01-09 08:34:31.006270
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -47,12 +47,12 @@ Scraping BlockBeats...
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
  -     Saved Calendar Image: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-01-09.png
-2026-01-09 07:28:07,459 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-01-09.png
-2026-01-09 07:28:07,945 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
-2026-01-09 07:28:07,947 - INFO -   Market Image...
-2026-01-09 07:28:12,601 - INFO -     Clicked market download icon
-2026-01-09 07:28:23,006 - INFO -     Clicked save button
-2026-01-09 07:28:23,014 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-09.png
-2026-01-09 07:28:23,015 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-09.png
-2026-01-09 07:28:23,591 - INFO - 推送成功: 📊 RootData | Top Gainers
-2026-01-09 07:28:23,604 - INFO - Cycle completed. 2026-01-09 07:28:23.604506
+2026-01-09 08:34:14,323 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-01-09.png
+2026-01-09 08:34:14,878 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
+2026-01-09 08:34:14,880 - INFO -   Market Image...
+2026-01-09 08:34:19,903 - INFO -     Clicked market download icon
+2026-01-09 08:34:30,366 - INFO -     Clicked save button
+2026-01-09 08:34:30,374 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-09.png
+2026-01-09 08:34:30,374 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-09.png
+2026-01-09 08:34:30,996 - INFO - 推送成功: 📊 RootData | Top Gainers
+2026-01-09 08:34:31,006 - INFO - Cycle completed. 2026-01-09 08:34:31.006270

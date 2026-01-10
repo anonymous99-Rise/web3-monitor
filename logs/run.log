@@ -1,7 +1,7 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 某地址沉寂近1年后增持8万枚SOL，价值约1087万美元
-推送成功: 【BLOCKBEATS - 链上侦探】某地址沉寂近1年后增持8万枚SOL，价值约1087万美元
+  [BlockBeats] 新快讯: KOLECT完成120万美元Pre-Seed融资，Amber Group旗下amber.ac领投
+推送成功: 【BLOCKBEATS - 融资】KOLECT完成120万美元Pre-Seed融资，Amber Group旗下amber.ac领投
 已保存到 Markdown: ./output/blockbeats/2026-01-10.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -27,7 +27,7 @@ Scraping RootData...
     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-10.png
     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-10.png
 推送成功: 📊 RootData | Top Gainers
-Cycle completed. 2026-01-10 10:23:49.548182
+Cycle completed. 2026-01-10 11:19:57.255431
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -38,10 +38,10 @@ Scraping BlockBeats...
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
  RootData | 未来7天加密日历洞察
-2026-01-10 10:23:32,833 - INFO -   Market Image...
-2026-01-10 10:23:37,345 - INFO -     Clicked market download icon
-2026-01-10 10:23:48,887 - INFO -     Clicked save button
-2026-01-10 10:23:48,906 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-10.png
-2026-01-10 10:23:48,906 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-10.png
-2026-01-10 10:23:49,537 - INFO - 推送成功: 📊 RootData | Top Gainers
-2026-01-10 10:23:49,548 - INFO - Cycle completed. 2026-01-10 10:23:49.548182
+2026-01-10 11:19:41,185 - INFO -   Market Image...
+2026-01-10 11:19:46,297 - INFO -     Clicked market download icon
+2026-01-10 11:19:56,768 - INFO -     Clicked save button
+2026-01-10 11:19:56,788 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-10.png
+2026-01-10 11:19:56,788 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-10.png
+2026-01-10 11:19:57,243 - INFO - 推送成功: 📊 RootData | Top Gainers
+2026-01-10 11:19:57,255 - INFO - Cycle completed. 2026-01-10 11:19:57.255431

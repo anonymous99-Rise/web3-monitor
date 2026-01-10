@@ -1,8 +1,5 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 做多3.1亿美元主流币巨鲸扭盈为亏，潜在损失超1100万美元
-推送成功: 【BLOCKBEATS - 链上侦探】做多3.1亿美元主流币巨鲸扭盈为亏，潜在损失超1100万美元
-已保存到 Markdown: ./output/blockbeats/2026-01-10.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
   Category: 项目动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1003&is_hot=1
@@ -24,11 +21,10 @@ Scraping RootData...
   Market Image...
     Clicked market download icon
     Clicked save button
-    Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
-=========================== logs ===========================
-waiting for event "download"
-============================================================
-Cycle completed. 2026-01-10 14:22:16.229415
+    Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-10.png
+    Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-10.png
+推送成功: 📊 RootData | Top Gainers
+Cycle completed. 2026-01-10 15:22:27.925837
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -38,12 +34,9 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-�来7天加密日历洞察
-2026-01-10 14:21:36,888 - INFO -   Market Image...
-2026-01-10 14:21:41,179 - INFO -     Clicked market download icon
-2026-01-10 14:21:49,286 - INFO -     Clicked save button
-2026-01-10 14:22:16,220 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
-=========================== logs ===========================
-waiting for event "download"
-============================================================
-2026-01-10 14:22:16,229 - INFO - Cycle completed. 2026-01-10 14:22:16.229415
+-10 15:22:12,682 - INFO -     Clicked market download icon
+2026-01-10 15:22:27,395 - INFO -     Clicked save button
+2026-01-10 15:22:27,415 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-10.png
+2026-01-10 15:22:27,415 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-10.png
+2026-01-10 15:22:27,912 - INFO - 推送成功: 📊 RootData | Top Gainers
+2026-01-10 15:22:27,925 - INFO - Cycle completed. 2026-01-10 15:22:27.925837

@@ -1,10 +1,10 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 某持仓10.1万枚ETH五年的巨鲸/机构过去1日将4万枚ETH转入CEX，仍持有2.6万枚ETH
-推送成功: 【BLOCKBEATS - 链上侦探】某持仓10.1万枚ETH五年的巨鲸/机构过去1日将4万枚ETH转入CEX，仍持有2.6万枚ETH
+  [BlockBeats] 新快讯: 某鲸鱼过去22天合约盈利990万美元，现持有3.1亿美元多单浮亏140万美元
+推送成功: 【BLOCKBEATS - 链上侦探】某鲸鱼过去22天合约盈利990万美元，现持有3.1亿美元多单浮亏140万美元
 已保存到 Markdown: ./output/blockbeats/2026-01-10.md
-  [BlockBeats] 新快讯: 某波段交易Smart Money地址10小时前从Binance提币1139枚ETH
-推送成功: 【BLOCKBEATS - 链上侦探】某波段交易Smart Money地址10小时前从Binance提币1139枚ETH
+  [BlockBeats] 新快讯: 「BTC OG内幕巨鲸」扛单近一个月已损失555万美元资金费
+推送成功: 【BLOCKBEATS - 链上侦探】「BTC OG内幕巨鲸」扛单近一个月已损失555万美元资金费
 已保存到 Markdown: ./output/blockbeats/2026-01-10.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -14,24 +14,9 @@
   Category: 融资动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1000&is_hot=1
 Scraping RootData...
   List: Top 100 项目
-  [RootData] 新榜单: Top 100 项目
-推送成功: 【RootData - Top 100 项目】
-推送成功: 【RootData - Top 100 项目】 (续)
-已保存到 Markdown: ./output/rootdata/2026-01-10.md
   List: 透明度评分提升榜
-  [RootData] 新榜单: 透明度评分提升榜
-推送成功: 【RootData - 透明度评分提升榜】
-推送成功: 【RootData - 透明度评分提升榜】 (续)
-已保存到 Markdown: ./output/rootdata/2026-01-10.md
   List: 交易所透明度排名
-  [RootData] 新榜单: 交易所透明度排名
-推送成功: 【RootData - 交易所透明度排名】
-推送成功: 【RootData - 交易所透明度排名】 (续)
-已保存到 Markdown: ./output/rootdata/2026-01-10.md
   Calendar Events...
-  [RootData] 日历事件: 10 条
-推送成功: 📅 RootData | 今日日历事件
-已保存到 Markdown: ./output/rootdata/2026-01-10.md
   Calendar Insight Image...
     Clicked calendar insight icon
     Clicked generate share image button
@@ -45,7 +30,7 @@ Scraping RootData...
     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-10.png
     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-10.png
 推送成功: 📊 RootData | Top Gainers
-Cycle completed. 2026-01-10 01:49:20.008399
+Cycle completed. 2026-01-10 03:26:45.554830
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -55,18 +40,12 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-0.md
-2026-01-10 01:48:53,244 - INFO -   Calendar Insight Image...
-2026-01-10 01:48:53,350 - INFO -     Clicked calendar insight icon
-2026-01-10 01:48:54,514 - INFO -     Clicked generate share image button
-2026-01-10 01:49:00,168 - INFO -     Clicked download button
-2026-01-10 01:49:00,224 - INFO -     Saved Calendar Image: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-01-10.png
-2026-01-10 01:49:00,224 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-01-10.png
-2026-01-10 01:49:02,914 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
-2026-01-10 01:49:02,917 - INFO -   Market Image...
-2026-01-10 01:49:07,826 - INFO -     Clicked market download icon
-2026-01-10 01:49:19,279 - INFO -     Clicked save button
-2026-01-10 01:49:19,300 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-10.png
-2026-01-10 01:49:19,300 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-10.png
-2026-01-10 01:49:19,996 - INFO - 推送成功: 📊 RootData | Top Gainers
-2026-01-10 01:49:20,008 - INFO - Cycle completed. 2026-01-10 01:49:20.008399
+hts/未来7天加密日历洞察_2026-01-10.png
+2026-01-10 03:26:29,272 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
+2026-01-10 03:26:29,275 - INFO -   Market Image...
+2026-01-10 03:26:33,957 - INFO -     Clicked market download icon
+2026-01-10 03:26:44,832 - INFO -     Clicked save button
+2026-01-10 03:26:44,855 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-10.png
+2026-01-10 03:26:44,855 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-10.png
+2026-01-10 03:26:45,545 - INFO - 推送成功: 📊 RootData | Top Gainers
+2026-01-10 03:26:45,554 - INFO - Cycle completed. 2026-01-10 03:26:45.554830

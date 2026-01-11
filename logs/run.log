@@ -1,5 +1,8 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
+  [BlockBeats] 新快讯: DWF Labs联创：已对某DeFi项目完成100万美元种子轮投资
+推送成功: 【BLOCKBEATS - 融资】DWF Labs联创：已对某DeFi项目完成100万美元种子轮投资
+已保存到 Markdown: ./output/blockbeats/2026-01-11.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
   Category: 项目动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1003&is_hot=1
@@ -24,7 +27,7 @@ Scraping RootData...
     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-11.png
     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-11.png
 推送成功: 📊 RootData | Top Gainers
-Cycle completed. 2026-01-11 05:28:08.628365
+Cycle completed. 2026-01-11 06:35:51.302477
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -34,9 +37,11 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
--11 05:27:57,701 - INFO -     Clicked market download icon
-2026-01-11 05:28:08,146 - INFO -     Clicked save button
-2026-01-11 05:28:08,156 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-11.png
-2026-01-11 05:28:08,156 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-11.png
-2026-01-11 05:28:08,615 - INFO - 推送成功: 📊 RootData | Top Gainers
-2026-01-11 05:28:08,628 - INFO - Cycle completed. 2026-01-11 05:28:08.628365
+ RootData | 未来7天加密日历洞察
+2026-01-11 06:35:35,235 - INFO -   Market Image...
+2026-01-11 06:35:39,825 - INFO -     Clicked market download icon
+2026-01-11 06:35:50,723 - INFO -     Clicked save button
+2026-01-11 06:35:50,730 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-11.png
+2026-01-11 06:35:50,730 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-11.png
+2026-01-11 06:35:51,223 - INFO - 推送成功: 📊 RootData | Top Gainers
+2026-01-11 06:35:51,302 - INFO - Cycle completed. 2026-01-11 06:35:51.302477

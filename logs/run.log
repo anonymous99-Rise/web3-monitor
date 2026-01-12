@@ -1,25 +1,10 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 「百胜战神」40倍杠杆做空近50枚BTC，建仓均价92,081.6美元
-推送成功: 【BLOCKBEATS - 链上侦探】「百胜战神」40倍杠杆做空近50枚BTC，建仓均价92,081.6美元
+  [BlockBeats] 新快讯: 两新建地址共投入5万美元，预测「哈梅内伊在1月31日之前下台」
+推送成功: 【BLOCKBEATS - 预测市场】两新建地址共投入5万美元，预测「哈梅内伊在1月31日之前下台」
 已保存到 Markdown: ./output/blockbeats/2026-01-12.md
-  [BlockBeats] 新快讯: 「铁杆多头」止盈减仓FARTCOIN多单，浮盈4.2万美元
-推送成功: 【BLOCKBEATS - 链上侦探】「铁杆多头」止盈减仓FARTCOIN多单，浮盈4.2万美元
-已保存到 Markdown: ./output/blockbeats/2026-01-12.md
-  [BlockBeats] 新快讯: 某鲸鱼10倍新增做多42,498枚ZEC，整体多单持仓达2.59亿美元
-推送成功: 【BLOCKBEATS - 链上侦探】某鲸鱼10倍新增做多42,498枚ZEC，整体多单持仓达2.59亿美元
-已保存到 Markdown: ./output/blockbeats/2026-01-12.md
-  [BlockBeats] 新快讯: 「闪电反手」巨鲸止盈减仓BTC多单，账户总浮亏93万美元
-推送成功: 【BLOCKBEATS - 链上侦探】「闪电反手」巨鲸止盈减仓BTC多单，账户总浮亏93万美元
-已保存到 Markdown: ./output/blockbeats/2026-01-12.md
-  [BlockBeats] 新快讯: 「2000万波段猎手」加仓BNB、HYPE等山寨币空单，账户浮盈743万美元
-推送成功: 【BLOCKBEATS - 链上侦探】「2000万波段猎手」加仓BNB、HYPE等山寨币空单，账户浮盈743万美元
-已保存到 Markdown: ./output/blockbeats/2026-01-12.md
-  [BlockBeats] 新快讯: 周末热门巨鲸一览：「BTC OG 内幕巨鲸」多单扭亏为盈，「Strategy 对手盘」补仓BTC多单超9000万美元
-推送成功: 【BLOCKBEATS - 链上侦探】周末热门巨鲸一览：「BTC OG 内幕巨鲸」多单扭亏为盈，「Strategy 对手盘」补仓BTC多单超9000万美元
-已保存到 Markdown: ./output/blockbeats/2026-01-12.md
-  [BlockBeats] 新快讯: BSC链上多个中文Meme今日小幅回落，「我踏马来了」较ATH回落约46%
-推送成功: 【BLOCKBEATS - 链上侦探】BSC链上多个中文Meme今日小幅回落，「我踏马来了」较ATH回落约46%
+  [BlockBeats] 新快讯: Binance Alpha项目LISA闪崩76%，由三个地址28秒抛售价值17万美元代币推动
+推送成功: 【BLOCKBEATS - 链上侦探】Binance Alpha项目LISA闪崩76%，由三个地址28秒抛售价值17万美元代币推动
 已保存到 Markdown: ./output/blockbeats/2026-01-12.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -42,10 +27,11 @@ Scraping RootData...
   Market Image...
     Clicked market download icon
     Clicked save button
-    Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-12.png
-    Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-12.png
-推送成功: 📊 RootData | Top Gainers
-Cycle completed. 2026-01-12 03:54:20.928263
+    Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
+=========================== logs ===========================
+waiting for event "download"
+============================================================
+Cycle completed. 2026-01-12 04:53:58.299959
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -55,18 +41,13 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-s...
-2026-01-12 03:53:59,124 - INFO -   Calendar Insight Image...
-2026-01-12 03:53:59,417 - INFO -     Clicked calendar insight icon
-2026-01-12 03:54:00,996 - INFO -     Clicked generate share image button
-2026-01-12 03:54:05,051 - INFO -     Clicked download button
-2026-01-12 03:54:05,093 - INFO -     Saved Calendar Image: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-01-12.png
-2026-01-12 03:54:05,093 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-01-12.png
-2026-01-12 03:54:05,600 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
-2026-01-12 03:54:05,603 - INFO -   Market Image...
-2026-01-12 03:54:10,064 - INFO -     Clicked market download icon
-2026-01-12 03:54:20,467 - INFO -     Clicked save button
-2026-01-12 03:54:20,475 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-12.png
-2026-01-12 03:54:20,476 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-12.png
-2026-01-12 03:54:20,918 - INFO - 推送成功: 📊 RootData | Top Gainers
-2026-01-12 03:54:20,928 - INFO - Cycle completed. 2026-01-12 03:54:20.928263
+加密日历洞察_2026-01-12.png
+2026-01-12 04:53:18,440 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
+2026-01-12 04:53:18,442 - INFO -   Market Image...
+2026-01-12 04:53:23,236 - INFO -     Clicked market download icon
+2026-01-12 04:53:31,429 - INFO -     Clicked save button
+2026-01-12 04:53:58,287 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
+=========================== logs ===========================
+waiting for event "download"
+============================================================
+2026-01-12 04:53:58,299 - INFO - Cycle completed. 2026-01-12 04:53:58.299959

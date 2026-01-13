@@ -8,23 +8,38 @@
   Category: 融资动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1000&is_hot=1
 Scraping RootData...
   List: Top 100 项目
+  [RootData] 新榜单: Top 100 项目
+推送成功: 【RootData - Top 100 项目】
+推送成功: 【RootData - Top 100 项目】 (续)
+已保存到 Markdown: ./output/rootdata/2026-01-13.md
   List: 透明度评分提升榜
+  [RootData] 新榜单: 透明度评分提升榜
+推送成功: 【RootData - 透明度评分提升榜】
+推送成功: 【RootData - 透明度评分提升榜】 (续)
+已保存到 Markdown: ./output/rootdata/2026-01-13.md
   List: 交易所透明度排名
+  [RootData] 新榜单: 交易所透明度排名
+推送成功: 【RootData - 交易所透明度排名】
+推送成功: 【RootData - 交易所透明度排名】 (续)
+已保存到 Markdown: ./output/rootdata/2026-01-13.md
   Calendar Events...
+  [RootData] 日历事件: 10 条
+推送成功: 📅 RootData | 今日日历事件
+已保存到 Markdown: ./output/rootdata/2026-01-13.md
   Calendar Insight Image...
     Clicked calendar insight icon
     Clicked generate share image button
     Clicked download button
-    Saved Calendar Image: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-01-12.png
-    Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-01-12.png
+    Saved Calendar Image: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-01-13.png
+    Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-01-13.png
 推送成功: 📅 RootData | 未来7天加密日历洞察
   Market Image...
     Clicked market download icon
     Clicked save button
-    Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-12.png
-    Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-12.png
+    Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-13.png
+    Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-13.png
 推送成功: 📊 RootData | Top Gainers
-Cycle completed. 2026-01-12 23:19:59.296288
+Cycle completed. 2026-01-13 01:49:24.877099
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -34,9 +49,15 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
--12 23:19:46,467 - INFO -     Clicked market download icon
-2026-01-12 23:19:57,378 - INFO -     Clicked save button
-2026-01-12 23:19:57,402 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-12.png
-2026-01-12 23:19:57,402 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-12.png
-2026-01-12 23:19:59,286 - INFO - 推送成功: 📊 RootData | Top Gainers
-2026-01-12 23:19:59,296 - INFO - Cycle completed. 2026-01-12 23:19:59.296288
+ button
+2026-01-13 01:49:08,451 - INFO -     Clicked download button
+2026-01-13 01:49:08,500 - INFO -     Saved Calendar Image: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-01-13.png
+2026-01-13 01:49:08,501 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-01-13.png
+2026-01-13 01:49:09,123 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
+2026-01-13 01:49:09,127 - INFO -   Market Image...
+2026-01-13 01:49:13,921 - INFO -     Clicked market download icon
+2026-01-13 01:49:24,382 - INFO -     Clicked save button
+2026-01-13 01:49:24,390 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-13.png
+2026-01-13 01:49:24,390 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-13.png
+2026-01-13 01:49:24,862 - INFO - 推送成功: 📊 RootData | Top Gainers
+2026-01-13 01:49:24,877 - INFO - Cycle completed. 2026-01-13 01:49:24.877099

@@ -1,13 +1,13 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 某巨鲸大额开设1300万美元ETH多单，均价3136美元
-推送成功: 【BLOCKBEATS - 链上侦探】某巨鲸大额开设1300万美元ETH多单，均价3136美元
+  [BlockBeats] 新快讯: 《黑白大厨》第二季胜者揭晓，盘口正在结算
+推送成功: 【BLOCKBEATS - 预测市场】《黑白大厨》第二季胜者揭晓，盘口正在结算
 已保存到 Markdown: ./output/blockbeats/2026-01-13.md
-  [BlockBeats] 新快讯: 巨鲸平仓744万美元ETH多单持仓，以亏损约11.44万美元清仓
-推送成功: 【BLOCKBEATS - 链上侦探】巨鲸平仓744万美元ETH多单持仓，以亏损约11.44万美元清仓
+  [BlockBeats] 新快讯: 主流Perp DEX一览：Hyperliquid以70亿美元交易量居首，Aster近期交易量上升
+推送成功: 【BLOCKBEATS - 链上侦探】主流Perp DEX一览：Hyperliquid以70亿美元交易量居首，Aster近期交易量上升
 已保存到 Markdown: ./output/blockbeats/2026-01-13.md
-  [BlockBeats] 新快讯: 「铁杆多头」加仓FARTCOIN多单，单币浮亏9.3万美元
-推送成功: 【BLOCKBEATS - 链上侦探】「铁杆多头」加仓FARTCOIN多单，单币浮亏9.3万美元
+  [BlockBeats] 新快讯: 某鲸鱼地址从Kraken提币5,894枚ETH
+推送成功: 【BLOCKBEATS - 链上侦探】某鲸鱼地址从Kraken提币5,894枚ETH
 已保存到 Markdown: ./output/blockbeats/2026-01-13.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -33,7 +33,7 @@ Scraping RootData...
     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-13.png
     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-13.png
 推送成功: 📊 RootData | Top Gainers
-Cycle completed. 2026-01-13 10:27:55.980026
+Cycle completed. 2026-01-13 11:22:57.342292
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -44,12 +44,12 @@ Scraping BlockBeats...
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
 01-13.png
-2026-01-13 10:27:40,144 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-01-13.png
-2026-01-13 10:27:40,731 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
-2026-01-13 10:27:40,733 - INFO -   Market Image...
-2026-01-13 10:27:45,074 - INFO -     Clicked market download icon
-2026-01-13 10:27:55,439 - INFO -     Clicked save button
-2026-01-13 10:27:55,449 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-13.png
-2026-01-13 10:27:55,449 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-13.png
-2026-01-13 10:27:55,968 - INFO - 推送成功: 📊 RootData | Top Gainers
-2026-01-13 10:27:55,980 - INFO - Cycle completed. 2026-01-13 10:27:55.980026
+2026-01-13 11:22:41,514 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-01-13.png
+2026-01-13 11:22:42,135 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
+2026-01-13 11:22:42,137 - INFO -   Market Image...
+2026-01-13 11:22:46,400 - INFO -     Clicked market download icon
+2026-01-13 11:22:56,750 - INFO -     Clicked save button
+2026-01-13 11:22:56,757 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-13.png
+2026-01-13 11:22:56,758 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-13.png
+2026-01-13 11:22:57,329 - INFO - 推送成功: 📊 RootData | Top Gainers
+2026-01-13 11:22:57,342 - INFO - Cycle completed. 2026-01-13 11:22:57.342292

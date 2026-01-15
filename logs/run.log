@@ -1,13 +1,16 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 日交易量超十亿美元金融机构押注美国本月打击伊朗
-推送成功: 【BLOCKBEATS - 预测市场】日交易量超十亿美元金融机构押注美国本月打击伊朗
+  [BlockBeats] 新快讯: 「James Wynn」清仓PEPE与ETH多单，最终以2万美元盈利离场
+推送成功: 【BLOCKBEATS - 链上侦探】「James Wynn」清仓PEPE与ETH多单，最终以2万美元盈利离场
 已保存到 Markdown: ./output/blockbeats/2026-01-15.md
-  [BlockBeats] 新快讯: 「安」及「BIG DON」均开盘即冲高至千万市值，背后资金以批量钱包集中买入
-推送成功: 【BLOCKBEATS - 链上侦探】「安」及「BIG DON」均开盘即冲高至千万市值，背后资金以批量钱包集中买入
+  [BlockBeats] 新快讯: 「2000万波段猎手」PEPE空单止盈规模约120万美元，获利超36万美元
+推送成功: 【BLOCKBEATS - 链上侦探】「2000万波段猎手」PEPE空单止盈规模约120万美元，获利超36万美元
 已保存到 Markdown: ./output/blockbeats/2026-01-15.md
-  [BlockBeats] 新快讯: 「麻吉」减仓ETH多单，账户浮盈87.6万美元
-推送成功: 【BLOCKBEATS - 链上侦探】「麻吉」减仓ETH多单，账户浮盈87.6万美元
+  [BlockBeats] 新快讯: 某巨鲸平仓持有45天HYPE多单，亏损716.9万美元
+推送成功: 【BLOCKBEATS - 链上侦探】某巨鲸平仓持有45天HYPE多单，亏损716.9万美元
+已保存到 Markdown: ./output/blockbeats/2026-01-15.md
+  [BlockBeats] 新快讯: 某交易员24天前买入220美元「雪球」，现浮盈超310倍
+推送成功: 【BLOCKBEATS - 链上侦探】某交易员24天前买入220美元「雪球」，现浮盈超310倍
 已保存到 Markdown: ./output/blockbeats/2026-01-15.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -33,7 +36,7 @@ Scraping RootData...
     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-15.png
     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-15.png
 推送成功: 📊 RootData | Top Gainers
-Cycle completed. 2026-01-15 08:34:59.412534
+Cycle completed. 2026-01-15 09:31:07.165257
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -43,13 +46,13 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-01-15.png
-2026-01-15 08:34:42,917 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-01-15.png
-2026-01-15 08:34:43,373 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
-2026-01-15 08:34:43,375 - INFO -   Market Image...
-2026-01-15 08:34:48,108 - INFO -     Clicked market download icon
-2026-01-15 08:34:58,994 - INFO -     Clicked save button
-2026-01-15 08:34:59,002 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-15.png
-2026-01-15 08:34:59,002 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-15.png
-2026-01-15 08:34:59,403 - INFO - 推送成功: 📊 RootData | Top Gainers
-2026-01-15 08:34:59,412 - INFO - Cycle completed. 2026-01-15 08:34:59.412534
+ -     Saved Calendar Image: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-01-15.png
+2026-01-15 09:30:51,168 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-01-15.png
+2026-01-15 09:30:51,645 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
+2026-01-15 09:30:51,648 - INFO -   Market Image...
+2026-01-15 09:30:56,156 - INFO -     Clicked market download icon
+2026-01-15 09:31:06,576 - INFO -     Clicked save button
+2026-01-15 09:31:06,584 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-15.png
+2026-01-15 09:31:06,584 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-15.png
+2026-01-15 09:31:07,155 - INFO - 推送成功: 📊 RootData | Top Gainers
+2026-01-15 09:31:07,165 - INFO - Cycle completed. 2026-01-15 09:31:07.165257

@@ -1,5 +1,26 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
+  [BlockBeats] 新快讯: 「BTC OG内幕巨鲸」多单资金费率损失超660万美元，浮盈收窄至5100万美元
+推送成功: 【BLOCKBEATS - 链上侦探】「BTC OG内幕巨鲸」多单资金费率损失超660万美元，浮盈收窄至5100万美元
+已保存到 Markdown: ./output/blockbeats/2026-01-15.md
+  [BlockBeats] 新快讯: 某地址以0.72美元均价抛售257万枚ASTER，亏损近80万美元
+推送成功: 【BLOCKBEATS - 链上侦探】某地址以0.72美元均价抛售257万枚ASTER，亏损近80万美元
+已保存到 Markdown: ./output/blockbeats/2026-01-15.md
+  [BlockBeats] 新快讯: 某循环贷巨鲸再次「割肉」300枚WBTC以偿还借款，亏损超3900万美元
+推送成功: 【BLOCKBEATS - 链上侦探】某循环贷巨鲸再次「割肉」300枚WBTC以偿还借款，亏损超3900万美元
+已保存到 Markdown: ./output/blockbeats/2026-01-15.md
+  [BlockBeats] 新快讯: Ondo多签转出2500万枚ONDO，随后分发至Coinbase、OKX等平台
+推送成功: 【BLOCKBEATS - 链上侦探】Ondo多签转出2500万枚ONDO，随后分发至Coinbase、OKX等平台
+已保存到 Markdown: ./output/blockbeats/2026-01-15.md
+  [BlockBeats] 新快讯: 某巨鲸再次加仓主流币多单，总持仓价值突破4.7亿美元
+推送成功: 【BLOCKBEATS - 链上侦探】某巨鲸再次加仓主流币多单，总持仓价值突破4.7亿美元
+已保存到 Markdown: ./output/blockbeats/2026-01-15.md
+  [BlockBeats] 新快讯: 巨鲸「pension-usdt.eth」再次3倍做多ETH，持仓达2万枚，已浮盈超70万美元
+推送成功: 【BLOCKBEATS - 链上侦探】巨鲸「pension-usdt.eth」再次3倍做多ETH，持仓达2万枚，已浮盈超70万美元
+已保存到 Markdown: ./output/blockbeats/2026-01-15.md
+  [BlockBeats] 新快讯: Bitmine再次质押15.43万枚ETH，总质押量突破168.5万枚
+推送成功: 【BLOCKBEATS - 链上侦探】Bitmine再次质押15.43万枚ETH，总质押量突破168.5万枚
+已保存到 Markdown: ./output/blockbeats/2026-01-15.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
   Category: 项目动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1003&is_hot=1
@@ -8,23 +29,38 @@
   Category: 融资动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1000&is_hot=1
 Scraping RootData...
   List: Top 100 项目
+  [RootData] 新榜单: Top 100 项目
+推送成功: 【RootData - Top 100 项目】
+推送成功: 【RootData - Top 100 项目】 (续)
+已保存到 Markdown: ./output/rootdata/2026-01-15.md
   List: 透明度评分提升榜
+  [RootData] 新榜单: 透明度评分提升榜
+推送成功: 【RootData - 透明度评分提升榜】
+推送成功: 【RootData - 透明度评分提升榜】 (续)
+已保存到 Markdown: ./output/rootdata/2026-01-15.md
   List: 交易所透明度排名
+  [RootData] 新榜单: 交易所透明度排名
+推送成功: 【RootData - 交易所透明度排名】
+推送成功: 【RootData - 交易所透明度排名】 (续)
+已保存到 Markdown: ./output/rootdata/2026-01-15.md
   Calendar Events...
+  [RootData] 日历事件: 10 条
+推送成功: 📅 RootData | 今日日历事件
+已保存到 Markdown: ./output/rootdata/2026-01-15.md
   Calendar Insight Image...
     Clicked calendar insight icon
     Clicked generate share image button
     Clicked download button
-    Saved Calendar Image: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-01-14.png
-    Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-01-14.png
+    Saved Calendar Image: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-01-15.png
+    Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-01-15.png
 推送成功: 📅 RootData | 未来7天加密日历洞察
   Market Image...
     Clicked market download icon
     Clicked save button
-    Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-14.png
-    Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-14.png
+    Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-15.png
+    Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-15.png
 推送成功: 📊 RootData | Top Gainers
-Cycle completed. 2026-01-14 23:20:58.478334
+Cycle completed. 2026-01-15 01:51:49.701885
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -34,9 +70,24 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
--14 23:20:46,676 - INFO -     Clicked market download icon
-2026-01-14 23:20:57,570 - INFO -     Clicked save button
-2026-01-14 23:20:57,579 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-14.png
-2026-01-14 23:20:57,579 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-14.png
-2026-01-14 23:20:58,468 - INFO - 推送成功: 📊 RootData | Top Gainers
-2026-01-14 23:20:58,478 - INFO - Cycle completed. 2026-01-14 23:20:58.478334
+�易所透明度排名】
+2026-01-15 01:51:25,529 - INFO - 推送成功: 【RootData - 交易所透明度排名】 (续)
+2026-01-15 01:51:25,530 - INFO - 已保存到 Markdown: ./output/rootdata/2026-01-15.md
+2026-01-15 01:51:25,530 - INFO -   Calendar Events...
+2026-01-15 01:51:27,500 - INFO -   [RootData] 日历事件: 10 条
+2026-01-15 01:51:27,725 - INFO - 推送成功: 📅 RootData | 今日日历事件
+2026-01-15 01:51:27,726 - INFO - 已保存到 Markdown: ./output/rootdata/2026-01-15.md
+2026-01-15 01:51:27,726 - INFO -   Calendar Insight Image...
+2026-01-15 01:51:27,897 - INFO -     Clicked calendar insight icon
+2026-01-15 01:51:29,468 - INFO -     Clicked generate share image button
+2026-01-15 01:51:32,435 - INFO -     Clicked download button
+2026-01-15 01:51:32,497 - INFO -     Saved Calendar Image: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-01-15.png
+2026-01-15 01:51:32,497 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-01-15.png
+2026-01-15 01:51:33,964 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
+2026-01-15 01:51:33,966 - INFO -   Market Image...
+2026-01-15 01:51:38,767 - INFO -     Clicked market download icon
+2026-01-15 01:51:49,124 - INFO -     Clicked save button
+2026-01-15 01:51:49,134 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-15.png
+2026-01-15 01:51:49,134 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-15.png
+2026-01-15 01:51:49,691 - INFO - 推送成功: 📊 RootData | Top Gainers
+2026-01-15 01:51:49,701 - INFO - Cycle completed. 2026-01-15 01:51:49.701885

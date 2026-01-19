@@ -1,19 +1,10 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 某地址在Polymarket上仅参与「马斯克」主题预测，净盈利超27万美元
-推送成功: 【BLOCKBEATS - 预测市场】某地址在Polymarket上仅参与「马斯克」主题预测，净盈利超27万美元
+  [BlockBeats] 新快讯: Fenbushi Capital疑似地址在质押两年后，将7798枚ETH存入Binance
+推送成功: 【BLOCKBEATS - 链上侦探】Fenbushi Capital疑似地址在质押两年后，将7798枚ETH存入Binance
 已保存到 Markdown: ./output/blockbeats/2026-01-19.md
-  [BlockBeats] 新快讯: 某交易者扭亏为盈，通过5次预测交易获利超1050万美元
-推送成功: 【BLOCKBEATS - 预测市场】某交易者扭亏为盈，通过5次预测交易获利超1050万美元
-已保存到 Markdown: ./output/blockbeats/2026-01-19.md
-  [BlockBeats] 新快讯: 某鲸鱼看多后市，同步做多BTC与HYPE
-推送成功: 【BLOCKBEATS - 链上侦探】某鲸鱼看多后市，同步做多BTC与HYPE
-已保存到 Markdown: ./output/blockbeats/2026-01-19.md
-  [BlockBeats] 新快讯: 某交易员激进滚仓开空，抵押300万美元持有1.52亿美元空单
-推送成功: 【BLOCKBEATS - 链上侦探】某交易员激进滚仓开空，抵押300万美元持有1.52亿美元空单
-已保存到 Markdown: ./output/blockbeats/2026-01-19.md
-  [BlockBeats] 新快讯: 某鲸鱼入场做多黄金代币，建仓均价4628.43美元
-推送成功: 【BLOCKBEATS - 链上侦探】某鲸鱼入场做多黄金代币，建仓均价4628.43美元
+  [BlockBeats] 新快讯: 「百胜战神」止盈平仓BTC多单后旋即做多ETH
+推送成功: 【BLOCKBEATS - 链上侦探】「百胜战神」止盈平仓BTC多单后旋即做多ETH
 已保存到 Markdown: ./output/blockbeats/2026-01-19.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -39,7 +30,7 @@ Scraping RootData...
     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-19.png
     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-19.png
 推送成功: 📊 RootData | Top Gainers
-Cycle completed. 2026-01-19 09:37:53.147084
+Cycle completed. 2026-01-19 10:32:39.448001
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -49,15 +40,12 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
- button
-2026-01-19 09:37:37,227 - INFO -     Clicked download button
-2026-01-19 09:37:37,269 - INFO -     Saved Calendar Image: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-01-19.png
-2026-01-19 09:37:37,269 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-01-19.png
-2026-01-19 09:37:37,865 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
-2026-01-19 09:37:37,867 - INFO -   Market Image...
-2026-01-19 09:37:42,289 - INFO -     Clicked market download icon
-2026-01-19 09:37:52,618 - INFO -     Clicked save button
-2026-01-19 09:37:52,647 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-19.png
-2026-01-19 09:37:52,647 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-19.png
-2026-01-19 09:37:53,136 - INFO - 推送成功: 📊 RootData | Top Gainers
-2026-01-19 09:37:53,147 - INFO - Cycle completed. 2026-01-19 09:37:53.147084
+hts/未来7天加密日历洞察_2026-01-19.png
+2026-01-19 10:32:22,115 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
+2026-01-19 10:32:22,118 - INFO -   Market Image...
+2026-01-19 10:32:26,656 - INFO -     Clicked market download icon
+2026-01-19 10:32:37,050 - INFO -     Clicked save button
+2026-01-19 10:32:37,057 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-19.png
+2026-01-19 10:32:37,057 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-19.png
+2026-01-19 10:32:39,437 - INFO - 推送成功: 📊 RootData | Top Gainers
+2026-01-19 10:32:39,448 - INFO - Cycle completed. 2026-01-19 10:32:39.448001

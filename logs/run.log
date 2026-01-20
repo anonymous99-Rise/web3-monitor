@@ -1,13 +1,13 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 美国第一夫人影片将于1月30日首映，票房大概率不及预期
-推送成功: 【BLOCKBEATS - 预测市场】美国第一夫人影片将于1月30日首映，票房大概率不及预期
+  [BlockBeats] 新快讯: 奥斯卡提名将于后天宣布，多个选项已提前锁定结局
+推送成功: 【BLOCKBEATS - 预测市场】奥斯卡提名将于后天宣布，多个选项已提前锁定结局
 已保存到 Markdown: ./output/blockbeats/2026-01-20.md
-  [BlockBeats] 新快讯: Trend Research再从Aave借出3000万枚USDT并转入Binance，整体杠杆约2倍
-推送成功: 【BLOCKBEATS - 链上侦探】Trend Research再从Aave借出3000万枚USDT并转入Binance，整体杠杆约2倍
+  [BlockBeats] 新快讯: 链上晚间回顾：巨鲸重仓做空与对冲并行，隐私板块空头集结
+推送成功: 【BLOCKBEATS - 链上侦探】链上晚间回顾：巨鲸重仓做空与对冲并行，隐私板块空头集结
 已保存到 Markdown: ./output/blockbeats/2026-01-20.md
-  [BlockBeats] 新快讯: 主流Perp DEX一览：市场行情影响各平台未平仓合约量下滑，Hyperliquid交易量居首
-推送成功: 【BLOCKBEATS - 链上侦探】主流Perp DEX一览：市场行情影响各平台未平仓合约量下滑，Hyperliquid交易量居首
+  [BlockBeats] 新快讯: Trend Research增持9939枚ETH，总持仓量升至63.67万枚，均价3,105.46美元
+推送成功: 【BLOCKBEATS - 链上侦探】Trend Research增持9939枚ETH，总持仓量升至63.67万枚，均价3,105.46美元
 已保存到 Markdown: ./output/blockbeats/2026-01-20.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -30,11 +30,10 @@ Scraping RootData...
   Market Image...
     Clicked market download icon
     Clicked save button
-    Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
-=========================== logs ===========================
-waiting for event "download"
-============================================================
-Cycle completed. 2026-01-20 11:26:32.124622
+    Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-20.png
+    Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-20.png
+推送成功: 📊 RootData | Top Gainers
+Cycle completed. 2026-01-20 12:55:24.390128
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -44,13 +43,13 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
--01-20 11:25:51,408 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-01-20.png
-2026-01-20 11:25:52,044 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
-2026-01-20 11:25:52,046 - INFO -   Market Image...
-2026-01-20 11:25:57,066 - INFO -     Clicked market download icon
-2026-01-20 11:26:05,373 - INFO -     Clicked save button
-2026-01-20 11:26:32,116 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
-=========================== logs ===========================
-waiting for event "download"
-============================================================
-2026-01-20 11:26:32,124 - INFO - Cycle completed. 2026-01-20 11:26:32.124622
+01-20.png
+2026-01-20 12:55:03,287 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-01-20.png
+2026-01-20 12:55:04,272 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
+2026-01-20 12:55:04,275 - INFO -   Market Image...
+2026-01-20 12:55:09,076 - INFO -     Clicked market download icon
+2026-01-20 12:55:23,777 - INFO -     Clicked save button
+2026-01-20 12:55:23,785 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-20.png
+2026-01-20 12:55:23,785 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-20.png
+2026-01-20 12:55:24,374 - INFO - 推送成功: 📊 RootData | Top Gainers
+2026-01-20 12:55:24,390 - INFO - Cycle completed. 2026-01-20 12:55:24.390128

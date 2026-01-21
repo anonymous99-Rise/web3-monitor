@@ -1,28 +1,22 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 名为TheBigBlind的账户在亏损14.57万美元后，仍加注1.3万美元预测哈梅内伊将下台
-推送成功: 【BLOCKBEATS - 预测市场】名为TheBigBlind的账户在亏损14.57万美元后，仍加注1.3万美元预测哈梅内伊将下台
+  [BlockBeats] 新快讯: 现货黄金突破 4890 美元创新高，「链上黄金最大多头」止盈多仓过半获利33万美元
+推送成功: 【BLOCKBEATS - 链上侦探】现货黄金突破 4890 美元创新高，「链上黄金最大多头」止盈多仓过半获利33万美元
 已保存到 Markdown: ./output/blockbeats/2026-01-21.md
-  [BlockBeats] 新快讯: 美联储主席新人选Rick Rieder获提名概率大涨，知名VC继续加仓
-推送成功: 【BLOCKBEATS - 预测市场】美联储主席新人选Rick Rieder获提名概率大涨，知名VC继续加仓
+  [BlockBeats] 新快讯: 热门巨鲸一览：「BTC OG 内幕巨鲸」周资金回撤近1亿美元，「麻吉」黄立成爆仓至不足10万资金再次抄底
+推送成功: 【BLOCKBEATS - 链上侦探】热门巨鲸一览：「BTC OG 内幕巨鲸」周资金回撤近1亿美元，「麻吉」黄立成爆仓至不足10万资金再次抄底
 已保存到 Markdown: ./output/blockbeats/2026-01-21.md
-  [BlockBeats] 新快讯: 黄金代币合约24小时成交量跻身Hyperliquid前十
-推送成功: 【BLOCKBEATS - 链上侦探】黄金代币合约24小时成交量跻身Hyperliquid前十
+  [BlockBeats] 新快讯: 某鲸鱼地址今晨抄底买回5天前卖出的75.7万枚UNI
+推送成功: 【BLOCKBEATS - 链上侦探】某鲸鱼地址今晨抄底买回5天前卖出的75.7万枚UNI
 已保存到 Markdown: ./output/blockbeats/2026-01-21.md
-  [BlockBeats] 新快讯: 「闪电反手」巨鲸平仓ETH空单盈利131.2万美元，加仓做多BTC
-推送成功: 【BLOCKBEATS - 链上侦探】「闪电反手」巨鲸平仓ETH空单盈利131.2万美元，加仓做多BTC
+  [BlockBeats] 新快讯: 「2000万波段猎手」加仓ETH、SOL与HYPE空单，账户浮盈1525万美元
+推送成功: 【BLOCKBEATS - 链上侦探】「2000万波段猎手」加仓ETH、SOL与HYPE空单，账户浮盈1525万美元
 已保存到 Markdown: ./output/blockbeats/2026-01-21.md
-  [BlockBeats] 新快讯: 某新地址20小时前从Coinbase提币4187万枚ONDO
-推送成功: 【BLOCKBEATS - 链上侦探】某新地址20小时前从Coinbase提币4187万枚ONDO
+  [BlockBeats] 新快讯: USD1交易赛24小时交易量榜首Meme币为「北极熊2026」，24小时涨幅约90%
+推送成功: 【BLOCKBEATS - 链上侦探】USD1交易赛24小时交易量榜首Meme币为「北极熊2026」，24小时涨幅约90%
 已保存到 Markdown: ./output/blockbeats/2026-01-21.md
-  [BlockBeats] 新快讯: 某波段巨鲸再度建仓2万枚ETH，累计通过波段交易获利9818万美元
-推送成功: 【BLOCKBEATS - 链上侦探】某波段巨鲸再度建仓2万枚ETH，累计通过波段交易获利9818万美元
-已保存到 Markdown: ./output/blockbeats/2026-01-21.md
-  [BlockBeats] 新快讯: 波段巨鲸「pension-usdt.eth」1000枚BTC多单已浮亏逾650万美元
-推送成功: 【BLOCKBEATS - 链上侦探】波段巨鲸「pension-usdt.eth」1000枚BTC多单已浮亏逾650万美元
-已保存到 Markdown: ./output/blockbeats/2026-01-21.md
-  [BlockBeats] 新快讯: HYPE跌破21美元触发链上主力多头连环清算，若跌至20.3美元预计将清算四位主力巨鲸
-推送成功: 【BLOCKBEATS - 链上侦探】HYPE跌破21美元触发链上主力多头连环清算，若跌至20.3美元预计将清算四位主力巨鲸
+  [BlockBeats] 新快讯: 「100%胜率」交易员首尝败绩，止损平仓持有20天SOL空单
+推送成功: 【BLOCKBEATS - 链上侦探】「100%胜率」交易员首尝败绩，止损平仓持有20天SOL空单
 已保存到 Markdown: ./output/blockbeats/2026-01-21.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -48,7 +42,7 @@ Scraping RootData...
     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-21.png
     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-21.png
 推送成功: 📊 RootData | Top Gainers
-Cycle completed. 2026-01-21 03:47:06.914303
+Cycle completed. 2026-01-21 04:47:47.014913
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -58,19 +52,16 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-:41,880 - INFO -   List: 交易所透明度排名
-2026-01-21 03:46:45,049 - INFO -   Calendar Events...
-2026-01-21 03:46:47,094 - INFO -   Calendar Insight Image...
-2026-01-21 03:46:47,461 - INFO -     Clicked calendar insight icon
-2026-01-21 03:46:48,596 - INFO -     Clicked generate share image button
-2026-01-21 03:46:51,109 - INFO -     Clicked download button
-2026-01-21 03:46:51,161 - INFO -     Saved Calendar Image: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-01-21.png
-2026-01-21 03:46:51,161 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-01-21.png
-2026-01-21 03:46:51,839 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
-2026-01-21 03:46:51,841 - INFO -   Market Image...
-2026-01-21 03:46:56,517 - INFO -     Clicked market download icon
-2026-01-21 03:47:06,364 - INFO -     Clicked save button
-2026-01-21 03:47:06,372 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-21.png
-2026-01-21 03:47:06,373 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-21.png
-2026-01-21 03:47:06,904 - INFO - 推送成功: 📊 RootData | Top Gainers
-2026-01-21 03:47:06,914 - INFO - Cycle completed. 2026-01-21 03:47:06.914303
+    Clicked calendar insight icon
+2026-01-21 04:47:29,003 - INFO -     Clicked generate share image button
+2026-01-21 04:47:31,532 - INFO -     Clicked download button
+2026-01-21 04:47:31,577 - INFO -     Saved Calendar Image: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-01-21.png
+2026-01-21 04:47:31,577 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-01-21.png
+2026-01-21 04:47:32,340 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
+2026-01-21 04:47:32,343 - INFO -   Market Image...
+2026-01-21 04:47:36,466 - INFO -     Clicked market download icon
+2026-01-21 04:47:46,296 - INFO -     Clicked save button
+2026-01-21 04:47:46,302 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-21.png
+2026-01-21 04:47:46,302 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-21.png
+2026-01-21 04:47:47,000 - INFO - 推送成功: 📊 RootData | Top Gainers
+2026-01-21 04:47:47,014 - INFO - Cycle completed. 2026-01-21 04:47:47.014913

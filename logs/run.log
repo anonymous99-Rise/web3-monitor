@@ -1,10 +1,10 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 主流Perp DEX一览：各平台交易量均有所回升，Hyperliquid以89亿美元交易量居首
-推送成功: 【BLOCKBEATS - 链上侦探】主流Perp DEX一览：各平台交易量均有所回升，Hyperliquid以89亿美元交易量居首
+  [BlockBeats] 新快讯: 贝莱德向Coinbase存入635.16枚BTC和30,827.68枚ETH，价值总计1.48亿美元
+推送成功: 【BLOCKBEATS - 链上侦探】贝莱德向Coinbase存入635.16枚BTC和30,827.68枚ETH，价值总计1.48亿美元
 已保存到 Markdown: ./output/blockbeats/2026-01-21.md
-  [BlockBeats] 新快讯: 某巨鲸增持8,000枚ETH并存入Aave V3，总持仓量升至21,220枚
-推送成功: 【BLOCKBEATS - 链上侦探】某巨鲸增持8,000枚ETH并存入Aave V3，总持仓量升至21,220枚
+  [BlockBeats] 新快讯: 荷兰加密货币平台Finst完成800万欧元A轮融资，Endeit Capital领投
+推送成功: 【BLOCKBEATS - 融资】荷兰加密货币平台Finst完成800万欧元A轮融资，Endeit Capital领投
 已保存到 Markdown: ./output/blockbeats/2026-01-21.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -27,10 +27,11 @@ Scraping RootData...
   Market Image...
     Clicked market download icon
     Clicked save button
-    Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-21.png
-    Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-21.png
-推送成功: 📊 RootData | Top Gainers
-Cycle completed. 2026-01-21 11:27:27.182577
+    Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
+=========================== logs ===========================
+waiting for event "download"
+============================================================
+Cycle completed. 2026-01-21 12:55:21.355836
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -40,12 +41,13 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-hts/未来7天加密日历洞察_2026-01-21.png
-2026-01-21 11:27:12,005 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
-2026-01-21 11:27:12,007 - INFO -   Market Image...
-2026-01-21 11:27:16,618 - INFO -     Clicked market download icon
-2026-01-21 11:27:26,448 - INFO -     Clicked save button
-2026-01-21 11:27:26,468 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-21.png
-2026-01-21 11:27:26,468 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-21.png
-2026-01-21 11:27:27,169 - INFO - 推送成功: 📊 RootData | Top Gainers
-2026-01-21 11:27:27,182 - INFO - Cycle completed. 2026-01-21 11:27:27.182577
+加密日历洞察_2026-01-21.png
+2026-01-21 12:54:41,572 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
+2026-01-21 12:54:41,574 - INFO -   Market Image...
+2026-01-21 12:54:46,313 - INFO -     Clicked market download icon
+2026-01-21 12:54:53,955 - INFO -     Clicked save button
+2026-01-21 12:55:21,348 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
+=========================== logs ===========================
+waiting for event "download"
+============================================================
+2026-01-21 12:55:21,355 - INFO - Cycle completed. 2026-01-21 12:55:21.355836

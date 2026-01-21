@@ -1,10 +1,10 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 某三个月前高位建仓BTC鲸鱼将2000枚BTC转入Binance
-推送成功: 【BLOCKBEATS - 链上侦探】某三个月前高位建仓BTC鲸鱼将2000枚BTC转入Binance
+  [BlockBeats] 新快讯: Pudgy Penguins团队关联地址将价值402万美元PENGU存入Binance
+推送成功: 【BLOCKBEATS - 链上侦探】Pudgy Penguins团队关联地址将价值402万美元PENGU存入Binance
 已保存到 Markdown: ./output/blockbeats/2026-01-21.md
-  [BlockBeats] 新快讯: 代币化初创公司Cork完成550万美元种子轮融资，CSX和a16z领投
-推送成功: 【BLOCKBEATS - 融资】代币化初创公司Cork完成550万美元种子轮融资，CSX和a16z领投
+  [BlockBeats] 新快讯: 波段鲸鱼nemorino.eth「高抛低吸」，于2991美元附近买回昨日卖出的3000枚WETH
+推送成功: 【BLOCKBEATS - 链上侦探】波段鲸鱼nemorino.eth「高抛低吸」，于2991美元附近买回昨日卖出的3000枚WETH
 已保存到 Markdown: ./output/blockbeats/2026-01-21.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -30,7 +30,7 @@ Scraping RootData...
     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-21.png
     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-21.png
 推送成功: 📊 RootData | Top Gainers
-Cycle completed. 2026-01-21 15:35:44.961932
+Cycle completed. 2026-01-21 16:54:49.939219
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -41,11 +41,11 @@ Scraping BlockBeats...
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
 hts/未来7天加密日历洞察_2026-01-21.png
-2026-01-21 15:35:30,295 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
-2026-01-21 15:35:30,297 - INFO -   Market Image...
-2026-01-21 15:35:34,795 - INFO -     Clicked market download icon
-2026-01-21 15:35:44,095 - INFO -     Clicked save button
-2026-01-21 15:35:44,105 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-21.png
-2026-01-21 15:35:44,105 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-21.png
-2026-01-21 15:35:44,950 - INFO - 推送成功: 📊 RootData | Top Gainers
-2026-01-21 15:35:44,961 - INFO - Cycle completed. 2026-01-21 15:35:44.961932
+2026-01-21 16:54:35,104 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
+2026-01-21 16:54:35,106 - INFO -   Market Image...
+2026-01-21 16:54:39,445 - INFO -     Clicked market download icon
+2026-01-21 16:54:49,269 - INFO -     Clicked save button
+2026-01-21 16:54:49,276 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-21.png
+2026-01-21 16:54:49,276 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-21.png
+2026-01-21 16:54:49,927 - INFO - 推送成功: 📊 RootData | Top Gainers
+2026-01-21 16:54:49,939 - INFO - Cycle completed. 2026-01-21 16:54:49.939219

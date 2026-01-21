@@ -1,22 +1,19 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 现货黄金突破 4890 美元创新高，「链上黄金最大多头」止盈多仓过半获利33万美元
-推送成功: 【BLOCKBEATS - 链上侦探】现货黄金突破 4890 美元创新高，「链上黄金最大多头」止盈多仓过半获利33万美元
+  [BlockBeats] 新快讯: Polymarket上标普500在Q1单日下跌超2%的概率升至99.7%
+推送成功: 【BLOCKBEATS - 预测市场】Polymarket上标普500在Q1单日下跌超2%的概率升至99.7%
 已保存到 Markdown: ./output/blockbeats/2026-01-21.md
-  [BlockBeats] 新快讯: 热门巨鲸一览：「BTC OG 内幕巨鲸」周资金回撤近1亿美元，「麻吉」黄立成爆仓至不足10万资金再次抄底
-推送成功: 【BLOCKBEATS - 链上侦探】热门巨鲸一览：「BTC OG 内幕巨鲸」周资金回撤近1亿美元，「麻吉」黄立成爆仓至不足10万资金再次抄底
+  [BlockBeats] 新快讯: 「百胜战神」40倍做空40.81枚BTC，建仓均价89,435.4美元
+推送成功: 【BLOCKBEATS - 链上侦探】「百胜战神」40倍做空40.81枚BTC，建仓均价89,435.4美元
 已保存到 Markdown: ./output/blockbeats/2026-01-21.md
-  [BlockBeats] 新快讯: 某鲸鱼地址今晨抄底买回5天前卖出的75.7万枚UNI
-推送成功: 【BLOCKBEATS - 链上侦探】某鲸鱼地址今晨抄底买回5天前卖出的75.7万枚UNI
+  [BlockBeats] 新快讯: 某鲸鱼20倍做多84.37枚BTC，建仓均价89,566.8美元
+推送成功: 【BLOCKBEATS - 链上侦探】某鲸鱼20倍做多84.37枚BTC，建仓均价89,566.8美元
 已保存到 Markdown: ./output/blockbeats/2026-01-21.md
-  [BlockBeats] 新快讯: 「2000万波段猎手」加仓ETH、SOL与HYPE空单，账户浮盈1525万美元
-推送成功: 【BLOCKBEATS - 链上侦探】「2000万波段猎手」加仓ETH、SOL与HYPE空单，账户浮盈1525万美元
+  [BlockBeats] 新快讯: 现货黄金突破4890美元创新高，「链上黄金最大多头」止盈多仓过半获利33万美元
+推送成功: 【BLOCKBEATS - 链上侦探】现货黄金突破4890美元创新高，「链上黄金最大多头」止盈多仓过半获利33万美元
 已保存到 Markdown: ./output/blockbeats/2026-01-21.md
-  [BlockBeats] 新快讯: USD1交易赛24小时交易量榜首Meme币为「北极熊2026」，24小时涨幅约90%
-推送成功: 【BLOCKBEATS - 链上侦探】USD1交易赛24小时交易量榜首Meme币为「北极熊2026」，24小时涨幅约90%
-已保存到 Markdown: ./output/blockbeats/2026-01-21.md
-  [BlockBeats] 新快讯: 「100%胜率」交易员首尝败绩，止损平仓持有20天SOL空单
-推送成功: 【BLOCKBEATS - 链上侦探】「100%胜率」交易员首尝败绩，止损平仓持有20天SOL空单
+  [BlockBeats] 新快讯: Galaxy计划推出1亿美元对冲基金，旨在通过数字资产价格波动获利
+推送成功: 【BLOCKBEATS - 融资】Galaxy计划推出1亿美元对冲基金，旨在通过数字资产价格波动获利
 已保存到 Markdown: ./output/blockbeats/2026-01-21.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -42,7 +39,7 @@ Scraping RootData...
     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-21.png
     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-21.png
 推送成功: 📊 RootData | Top Gainers
-Cycle completed. 2026-01-21 04:47:47.014913
+Cycle completed. 2026-01-21 05:31:34.011500
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -52,16 +49,15 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-    Clicked calendar insight icon
-2026-01-21 04:47:29,003 - INFO -     Clicked generate share image button
-2026-01-21 04:47:31,532 - INFO -     Clicked download button
-2026-01-21 04:47:31,577 - INFO -     Saved Calendar Image: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-01-21.png
-2026-01-21 04:47:31,577 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-01-21.png
-2026-01-21 04:47:32,340 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
-2026-01-21 04:47:32,343 - INFO -   Market Image...
-2026-01-21 04:47:36,466 - INFO -     Clicked market download icon
-2026-01-21 04:47:46,296 - INFO -     Clicked save button
-2026-01-21 04:47:46,302 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-21.png
-2026-01-21 04:47:46,302 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-21.png
-2026-01-21 04:47:47,000 - INFO - 推送成功: 📊 RootData | Top Gainers
-2026-01-21 04:47:47,014 - INFO - Cycle completed. 2026-01-21 04:47:47.014913
+ button
+2026-01-21 05:31:18,274 - INFO -     Clicked download button
+2026-01-21 05:31:18,338 - INFO -     Saved Calendar Image: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-01-21.png
+2026-01-21 05:31:18,338 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-01-21.png
+2026-01-21 05:31:18,945 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
+2026-01-21 05:31:18,947 - INFO -   Market Image...
+2026-01-21 05:31:23,413 - INFO -     Clicked market download icon
+2026-01-21 05:31:33,255 - INFO -     Clicked save button
+2026-01-21 05:31:33,261 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-21.png
+2026-01-21 05:31:33,261 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-21.png
+2026-01-21 05:31:34,001 - INFO - 推送成功: 📊 RootData | Top Gainers
+2026-01-21 05:31:34,011 - INFO - Cycle completed. 2026-01-21 05:31:34.011500

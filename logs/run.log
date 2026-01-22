@@ -1,16 +1,16 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: BSC链上Meme币「我是未来」市值短时突破1000万美元，24小时涨幅达380%
-推送成功: 【BLOCKBEATS - 链上侦探】BSC链上Meme币「我是未来」市值短时突破1000万美元，24小时涨幅达380%
+  [BlockBeats] 新快讯: 5名可疑账户押注2.3万美元，笃定冷门候选人获选巴黎市长
+推送成功: 【BLOCKBEATS - 预测市场】5名可疑账户押注2.3万美元，笃定冷门候选人获选巴黎市长
 已保存到 Markdown: ./output/blockbeats/2026-01-22.md
-  [BlockBeats] 新快讯: Hyperliquid短时出现13笔大额买单，系0x15df开头巨鲸保本平仓3300枚ETH空单
-推送成功: 【BLOCKBEATS - 链上侦探】Hyperliquid短时出现13笔大额买单，系0x15df开头巨鲸保本平仓3300枚ETH空单
+  [BlockBeats] 新快讯: 某巨鲸将其今晨开设的BTC、ETH多单保本平仓，此前持仓规模共约5890万美元
+推送成功: 【BLOCKBEATS - 链上侦探】某巨鲸将其今晨开设的BTC、ETH多单保本平仓，此前持仓规模共约5890万美元
 已保存到 Markdown: ./output/blockbeats/2026-01-22.md
-  [BlockBeats] 新快讯: 某交易员平仓25万枚HYPE多单，盈利1.9万美元
-推送成功: 【BLOCKBEATS - 链上侦探】某交易员平仓25万枚HYPE多单，盈利1.9万美元
+  [BlockBeats] 新快讯: 0x9311开头巨鲸新开20倍杠杆BTC多单，持仓规模达1124万美元
+推送成功: 【BLOCKBEATS - 链上侦探】0x9311开头巨鲸新开20倍杠杆BTC多单，持仓规模达1124万美元
 已保存到 Markdown: ./output/blockbeats/2026-01-22.md
-  [BlockBeats] 新快讯: 「30 次做多屡败屡战」巨鲸清仓止损BTC多单，周亏损达131万美元
-推送成功: 【BLOCKBEATS - 链上侦探】「30 次做多屡败屡战」巨鲸清仓止损BTC多单，周亏损达131万美元
+  [BlockBeats] 新快讯: 「链上黄金最大多头」以4865美元均价完全平仓PAXG多单，此前开仓价约4415美元
+推送成功: 【BLOCKBEATS - 链上侦探】「链上黄金最大多头」以4865美元均价完全平仓PAXG多单，此前开仓价约4415美元
 已保存到 Markdown: ./output/blockbeats/2026-01-22.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -36,7 +36,7 @@ Scraping RootData...
     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-22.png
     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-22.png
 推送成功: 📊 RootData | Top Gainers
-Cycle completed. 2026-01-22 05:31:12.976024
+Cycle completed. 2026-01-22 06:39:17.972188
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -47,12 +47,12 @@ Scraping BlockBeats...
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
  -     Saved Calendar Image: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-01-22.png
-2026-01-22 05:30:57,150 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-01-22.png
-2026-01-22 05:30:57,824 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
-2026-01-22 05:30:57,826 - INFO -   Market Image...
-2026-01-22 05:31:02,644 - INFO -     Clicked market download icon
-2026-01-22 05:31:12,462 - INFO -     Clicked save button
-2026-01-22 05:31:12,470 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-22.png
-2026-01-22 05:31:12,470 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-22.png
-2026-01-22 05:31:12,964 - INFO - 推送成功: 📊 RootData | Top Gainers
-2026-01-22 05:31:12,976 - INFO - Cycle completed. 2026-01-22 05:31:12.976024
+2026-01-22 06:39:01,844 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-01-22.png
+2026-01-22 06:39:02,313 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
+2026-01-22 06:39:02,315 - INFO -   Market Image...
+2026-01-22 06:39:06,874 - INFO -     Clicked market download icon
+2026-01-22 06:39:17,264 - INFO -     Clicked save button
+2026-01-22 06:39:17,280 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-22.png
+2026-01-22 06:39:17,280 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-22.png
+2026-01-22 06:39:17,961 - INFO - 推送成功: 📊 RootData | Top Gainers
+2026-01-22 06:39:17,972 - INFO - Cycle completed. 2026-01-22 06:39:17.972188

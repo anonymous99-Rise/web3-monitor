@@ -1,19 +1,10 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 俄乌停火盘口榜一Valuck继续建仓，2.4万美元押注三月底前停火达成
-推送成功: 【BLOCKBEATS - 预测市场】俄乌停火盘口榜一Valuck继续建仓，2.4万美元押注三月底前停火达成
+  [BlockBeats] 新快讯: Arthur Hayes接收约583万枚ATH，价值约5.23万美元
+推送成功: 【BLOCKBEATS - 链上侦探】Arthur Hayes接收约583万枚ATH，价值约5.23万美元
 已保存到 Markdown: ./output/blockbeats/2026-01-23.md
-  [BlockBeats] 新快讯: 某做空链上黄金交易员今晨遭部分清算，据下轮清算仅约0.89%
-推送成功: 【BLOCKBEATS - 链上侦探】某做空链上黄金交易员今晨遭部分清算，据下轮清算仅约0.89%
-已保存到 Markdown: ./output/blockbeats/2026-01-23.md
-  [BlockBeats] 新快讯: 「DASH最大空头」平仓ETH与SOL多单，合计亏损320.5万美元
-推送成功: 【BLOCKBEATS - 链上侦探】「DASH最大空头」平仓ETH与SOL多单，合计亏损320.5万美元
-已保存到 Markdown: ./output/blockbeats/2026-01-23.md
-  [BlockBeats] 新快讯: 「重仓押多贵金属」巨鲸做多黄金白银周盈利超53万美元，持仓回报率达121%
-推送成功: 【BLOCKBEATS - 链上侦探】「重仓押多贵金属」巨鲸做多黄金白银周盈利超53万美元，持仓回报率达121%
-已保存到 Markdown: ./output/blockbeats/2026-01-23.md
-  [BlockBeats] 新快讯: Meme币「memes」上线两日即产生560万巨额手续费，流动性提供者预计分成近380万美元
-推送成功: 【BLOCKBEATS - 链上侦探】Meme币「memes」上线两日即产生560万巨额手续费，流动性提供者预计分成近380万美元
+  [BlockBeats] 新快讯: River完成1200万美元战略轮融资、TRON DAO、Maelstrom Fund、The Spartan Group等参投
+推送成功: 【BLOCKBEATS - 融资】River完成1200万美元战略轮融资、TRON DAO、Maelstrom Fund、The Spartan Group等参投
 已保存到 Markdown: ./output/blockbeats/2026-01-23.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -39,7 +30,7 @@ Scraping RootData...
     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-23.png
     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-23.png
 推送成功: 📊 RootData | Top Gainers
-Cycle completed. 2026-01-23 07:28:47.250651
+Cycle completed. 2026-01-23 08:34:19.304940
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -49,15 +40,12 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
- button
-2026-01-23 07:28:30,400 - INFO -     Clicked download button
-2026-01-23 07:28:30,462 - INFO -     Saved Calendar Image: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-01-23.png
-2026-01-23 07:28:30,462 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-01-23.png
-2026-01-23 07:28:31,295 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
-2026-01-23 07:28:31,297 - INFO -   Market Image...
-2026-01-23 07:28:36,380 - INFO -     Clicked market download icon
-2026-01-23 07:28:46,711 - INFO -     Clicked save button
-2026-01-23 07:28:46,719 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-23.png
-2026-01-23 07:28:46,720 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-23.png
-2026-01-23 07:28:47,238 - INFO - 推送成功: 📊 RootData | Top Gainers
-2026-01-23 07:28:47,250 - INFO - Cycle completed. 2026-01-23 07:28:47.250651
+hts/未来7天加密日历洞察_2026-01-23.png
+2026-01-23 08:34:03,914 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
+2026-01-23 08:34:03,916 - INFO -   Market Image...
+2026-01-23 08:34:08,318 - INFO -     Clicked market download icon
+2026-01-23 08:34:18,693 - INFO -     Clicked save button
+2026-01-23 08:34:18,701 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-23.png
+2026-01-23 08:34:18,701 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-23.png
+2026-01-23 08:34:19,294 - INFO - 推送成功: 📊 RootData | Top Gainers
+2026-01-23 08:34:19,304 - INFO - Cycle completed. 2026-01-23 08:34:19.304940

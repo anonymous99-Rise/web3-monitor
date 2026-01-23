@@ -1,16 +1,7 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 某地址过去5小时从Renzo赎回6300枚ETH，并转入Coinbase
-推送成功: 【BLOCKBEATS - 链上侦探】某地址过去5小时从Renzo赎回6300枚ETH，并转入Coinbase
-已保存到 Markdown: ./output/blockbeats/2026-01-23.md
-  [BlockBeats] 新快讯: 主流Perp DEX一览：各平台交易量显著下滑，Hyperliquid交易量回落约30%
-推送成功: 【BLOCKBEATS - 链上侦探】主流Perp DEX一览：各平台交易量显著下滑，Hyperliquid交易量回落约30%
-已保存到 Markdown: ./output/blockbeats/2026-01-23.md
-  [BlockBeats] 新快讯: 「ZEC最大空头」止盈ETH空单约313万美元，并将部分资金加仓DASH多单
-推送成功: 【BLOCKBEATS - 链上侦探】「ZEC最大空头」止盈ETH空单约313万美元，并将部分资金加仓DASH多单
-已保存到 Markdown: ./output/blockbeats/2026-01-23.md
-  [BlockBeats] 新快讯: 某巨鲸以极限清算价开设40倍BTC空单，持仓规模达2122万美元
-推送成功: 【BLOCKBEATS - 链上侦探】某巨鲸以极限清算价开设40倍BTC空单，持仓规模达2122万美元
+  [BlockBeats] 新快讯: 某巨鲸过去两日从Bybit买入566.8枚XAUT，价值279万美元
+推送成功: 【BLOCKBEATS - 链上侦探】某巨鲸过去两日从Bybit买入566.8枚XAUT，价值279万美元
 已保存到 Markdown: ./output/blockbeats/2026-01-23.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -36,7 +27,7 @@ Scraping RootData...
     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-23.png
     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-23.png
 推送成功: 📊 RootData | Top Gainers
-Cycle completed. 2026-01-23 11:24:00.431675
+Cycle completed. 2026-01-23 12:52:55.859791
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -46,13 +37,11 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
- -     Saved Calendar Image: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-01-23.png
-2026-01-23 11:23:44,826 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-01-23.png
-2026-01-23 11:23:45,563 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
-2026-01-23 11:23:45,565 - INFO -   Market Image...
-2026-01-23 11:23:49,849 - INFO -     Clicked market download icon
-2026-01-23 11:23:59,666 - INFO -     Clicked save button
-2026-01-23 11:23:59,674 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-23.png
-2026-01-23 11:23:59,674 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-23.png
-2026-01-23 11:24:00,421 - INFO - 推送成功: 📊 RootData | Top Gainers
-2026-01-23 11:24:00,431 - INFO - Cycle completed. 2026-01-23 11:24:00.431675
+ RootData | 未来7天加密日历洞察
+2026-01-23 12:52:40,832 - INFO -   Market Image...
+2026-01-23 12:52:45,182 - INFO -     Clicked market download icon
+2026-01-23 12:52:54,973 - INFO -     Clicked save button
+2026-01-23 12:52:54,983 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-23.png
+2026-01-23 12:52:54,983 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-23.png
+2026-01-23 12:52:55,847 - INFO - 推送成功: 📊 RootData | Top Gainers
+2026-01-23 12:52:55,859 - INFO - Cycle completed. 2026-01-23 12:52:55.859791

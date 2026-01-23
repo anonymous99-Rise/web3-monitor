@@ -1,10 +1,25 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: Arthur Hayes接收约583万枚ATH，价值约5.23万美元
-推送成功: 【BLOCKBEATS - 链上侦探】Arthur Hayes接收约583万枚ATH，价值约5.23万美元
+  [BlockBeats] 新快讯: 某新账户全仓1.85万美元押注奥斯卡最佳男配角为Stellan Skarsgård
+推送成功: 【BLOCKBEATS - 预测市场】某新账户全仓1.85万美元押注奥斯卡最佳男配角为Stellan Skarsgård
 已保存到 Markdown: ./output/blockbeats/2026-01-23.md
-  [BlockBeats] 新快讯: River完成1200万美元战略轮融资、TRON DAO、Maelstrom Fund、The Spartan Group等参投
-推送成功: 【BLOCKBEATS - 融资】River完成1200万美元战略轮融资、TRON DAO、Maelstrom Fund、The Spartan Group等参投
+  [BlockBeats] 新快讯: Wintermute关联地址再次购入PIPPIN，价值约20万美元
+推送成功: 【BLOCKBEATS - 链上侦探】Wintermute关联地址再次购入PIPPIN，价值约20万美元
+已保存到 Markdown: ./output/blockbeats/2026-01-23.md
+  [BlockBeats] 新快讯: USDC Treasury于以太坊链上销毁5000万枚USDC
+推送成功: 【BLOCKBEATS - 链上侦探】USDC Treasury于以太坊链上销毁5000万枚USDC
+已保存到 Markdown: ./output/blockbeats/2026-01-23.md
+  [BlockBeats] 新快讯: 某交易员12倍做空70枚BTC，建仓均价89,508美元
+推送成功: 【BLOCKBEATS - 链上侦探】某交易员12倍做空70枚BTC，建仓均价89,508美元
+已保存到 Markdown: ./output/blockbeats/2026-01-23.md
+  [BlockBeats] 新快讯: 某巨鲸平仓1830万美元BTC空单保本离场，资金已大幅提现
+推送成功: 【BLOCKBEATS - 链上侦探】某巨鲸平仓1830万美元BTC空单保本离场，资金已大幅提现
+已保存到 Markdown: ./output/blockbeats/2026-01-23.md
+  [BlockBeats] 新快讯: 「闪电反手」巨鲸调仓ETH空单并加仓BTC多单，疑似曾做多BTC对ETH汇率
+推送成功: 【BLOCKBEATS - 链上侦探】「闪电反手」巨鲸调仓ETH空单并加仓BTC多单，疑似曾做多BTC对ETH汇率
+已保存到 Markdown: ./output/blockbeats/2026-01-23.md
+  [BlockBeats] 新快讯: 某鲸鱼40倍做空57.01枚BTC，建仓均价89,420.4美元
+推送成功: 【BLOCKBEATS - 链上侦探】某鲸鱼40倍做空57.01枚BTC，建仓均价89,420.4美元
 已保存到 Markdown: ./output/blockbeats/2026-01-23.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -30,7 +45,7 @@ Scraping RootData...
     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-23.png
     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-23.png
 推送成功: 📊 RootData | Top Gainers
-Cycle completed. 2026-01-23 08:34:19.304940
+Cycle completed. 2026-01-23 09:33:55.952155
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -40,12 +55,18 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-hts/未来7天加密日历洞察_2026-01-23.png
-2026-01-23 08:34:03,914 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
-2026-01-23 08:34:03,916 - INFO -   Market Image...
-2026-01-23 08:34:08,318 - INFO -     Clicked market download icon
-2026-01-23 08:34:18,693 - INFO -     Clicked save button
-2026-01-23 08:34:18,701 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-23.png
-2026-01-23 08:34:18,701 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-23.png
-2026-01-23 08:34:19,294 - INFO - 推送成功: 📊 RootData | Top Gainers
-2026-01-23 08:34:19,304 - INFO - Cycle completed. 2026-01-23 08:34:19.304940
+s...
+2026-01-23 09:33:35,072 - INFO -   Calendar Insight Image...
+2026-01-23 09:33:35,281 - INFO -     Clicked calendar insight icon
+2026-01-23 09:33:36,368 - INFO -     Clicked generate share image button
+2026-01-23 09:33:39,346 - INFO -     Clicked download button
+2026-01-23 09:33:39,419 - INFO -     Saved Calendar Image: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-01-23.png
+2026-01-23 09:33:39,419 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-01-23.png
+2026-01-23 09:33:40,233 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
+2026-01-23 09:33:40,236 - INFO -   Market Image...
+2026-01-23 09:33:44,286 - INFO -     Clicked market download icon
+2026-01-23 09:33:55,190 - INFO -     Clicked save button
+2026-01-23 09:33:55,199 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-23.png
+2026-01-23 09:33:55,199 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-23.png
+2026-01-23 09:33:55,884 - INFO - 推送成功: 📊 RootData | Top Gainers
+2026-01-23 09:33:55,952 - INFO - Cycle completed. 2026-01-23 09:33:55.952155

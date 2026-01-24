@@ -1,11 +1,5 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 曾以均价3873美元建仓ETH巨鲸向CEX存入1999枚ETH，总浮亏超520万美元
-推送成功: 【BLOCKBEATS - 链上侦探】曾以均价3873美元建仓ETH巨鲸向CEX存入1999枚ETH，总浮亏超520万美元
-已保存到 Markdown: ./output/blockbeats/2026-01-24.md
-  [BlockBeats] 新快讯: Meme币PENGUIN市值突破5000万美元，24小时涨幅超750%
-推送成功: 【BLOCKBEATS - 链上侦探】Meme币PENGUIN市值突破5000万美元，24小时涨幅超750%
-已保存到 Markdown: ./output/blockbeats/2026-01-24.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
   Category: 项目动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1003&is_hot=1
@@ -30,7 +24,7 @@ Scraping RootData...
     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-24.png
     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-24.png
 推送成功: 📊 RootData | Top Gainers
-Cycle completed. 2026-01-24 04:37:39.426118
+Cycle completed. 2026-01-24 05:24:26.691135
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -40,12 +34,9 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-hts/未来7天加密日历洞察_2026-01-24.png
-2026-01-24 04:37:24,099 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
-2026-01-24 04:37:24,102 - INFO -   Market Image...
-2026-01-24 04:37:28,784 - INFO -     Clicked market download icon
-2026-01-24 04:37:38,596 - INFO -     Clicked save button
-2026-01-24 04:37:38,606 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-24.png
-2026-01-24 04:37:38,606 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-24.png
-2026-01-24 04:37:39,413 - INFO - 推送成功: 📊 RootData | Top Gainers
-2026-01-24 04:37:39,426 - INFO - Cycle completed. 2026-01-24 04:37:39.426118
+-24 05:24:15,511 - INFO -     Clicked market download icon
+2026-01-24 05:24:25,902 - INFO -     Clicked save button
+2026-01-24 05:24:25,928 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-24.png
+2026-01-24 05:24:25,928 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-24.png
+2026-01-24 05:24:26,679 - INFO - 推送成功: 📊 RootData | Top Gainers
+2026-01-24 05:24:26,691 - INFO - Cycle completed. 2026-01-24 05:24:26.691135

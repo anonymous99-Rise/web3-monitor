@@ -1,7 +1,10 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: Polymarket上新盘口显示Binance将于今年上线股票代币交易
-推送成功: 【BLOCKBEATS - 预测市场】Polymarket上新盘口显示Binance将于今年上线股票代币交易
+  [BlockBeats] 新快讯: 「BTC OG内幕巨鲸」正平仓其BTC多单，短期目标为减半仓
+推送成功: 【BLOCKBEATS - 链上侦探】「BTC OG内幕巨鲸」正平仓其BTC多单，短期目标为减半仓
+已保存到 Markdown: ./output/blockbeats/2026-01-26.md
+  [BlockBeats] 新快讯: 某休眠9年巨鲸地址将85,283枚ETH清仓转入Gemini
+推送成功: 【BLOCKBEATS - 链上侦探】某休眠9年巨鲸地址将85,283枚ETH清仓转入Gemini
 已保存到 Markdown: ./output/blockbeats/2026-01-26.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -27,7 +30,7 @@ Scraping RootData...
     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-26.png
     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-26.png
 推送成功: 📊 RootData | Top Gainers
-Cycle completed. 2026-01-26 16:37:57.280960
+Cycle completed. 2026-01-26 17:32:21.810411
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -37,11 +40,12 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
- RootData | 未来7天加密日历洞察
-2026-01-26 16:37:41,943 - INFO -   Market Image...
-2026-01-26 16:37:46,550 - INFO -     Clicked market download icon
-2026-01-26 16:37:56,383 - INFO -     Clicked save button
-2026-01-26 16:37:56,391 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-26.png
-2026-01-26 16:37:56,391 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-26.png
-2026-01-26 16:37:57,269 - INFO - 推送成功: 📊 RootData | Top Gainers
-2026-01-26 16:37:57,280 - INFO - Cycle completed. 2026-01-26 16:37:57.280960
+hts/未来7天加密日历洞察_2026-01-26.png
+2026-01-26 17:32:06,035 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
+2026-01-26 17:32:06,038 - INFO -   Market Image...
+2026-01-26 17:32:10,535 - INFO -     Clicked market download icon
+2026-01-26 17:32:20,408 - INFO -     Clicked save button
+2026-01-26 17:32:20,416 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-26.png
+2026-01-26 17:32:20,416 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-26.png
+2026-01-26 17:32:21,798 - INFO - 推送成功: 📊 RootData | Top Gainers
+2026-01-26 17:32:21,810 - INFO - Cycle completed. 2026-01-26 17:32:21.810411

@@ -1,23 +1,5 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 新地址下注1.1万美元押注美国会在1月31日前袭击伊朗
-推送成功: 【BLOCKBEATS - 预测市场】新地址下注1.1万美元押注美国会在1月31日前袭击伊朗
-已保存到 Markdown: ./output/blockbeats/2026-01-26.md
-  [BlockBeats] 新快讯: 「BTC OG内幕巨鲸」新地址再次从Binance提币1.1万枚ETH存入Aave
-推送成功: 【BLOCKBEATS - 链上侦探】「BTC OG内幕巨鲸」新地址再次从Binance提币1.1万枚ETH存入Aave
-已保存到 Markdown: ./output/blockbeats/2026-01-26.md
-  [BlockBeats] 新快讯: 链上晚间回顾：多头高位筹码承压略显疲态，巨鲸操作趋向防御
-推送成功: 【BLOCKBEATS - 链上侦探】链上晚间回顾：多头高位筹码承压略显疲态，巨鲸操作趋向防御
-已保存到 Markdown: ./output/blockbeats/2026-01-26.md
-  [BlockBeats] 新快讯: 两质押大户地址共计从Binance提现1.3万枚ETH
-推送成功: 【BLOCKBEATS - 链上侦探】两质押大户地址共计从Binance提现1.3万枚ETH
-已保存到 Markdown: ./output/blockbeats/2026-01-26.md
-  [BlockBeats] 新快讯: 贝莱德向Coinbase存入1814枚BTC和1.51万枚ETH
-推送成功: 【BLOCKBEATS - 链上侦探】贝莱德向Coinbase存入1814枚BTC和1.51万枚ETH
-已保存到 Markdown: ./output/blockbeats/2026-01-26.md
-  [BlockBeats] 新快讯: 「BTC OG内幕巨鲸」新地址再次从Binance提币1.1万枚ETH存入Aave借入3000万U
-推送成功: 【BLOCKBEATS - 链上侦探】「BTC OG内幕巨鲸」新地址再次从Binance提币1.1万枚ETH存入Aave借入3000万U
-已保存到 Markdown: ./output/blockbeats/2026-01-26.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
   Category: 项目动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1003&is_hot=1
@@ -42,7 +24,7 @@ Scraping RootData...
     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-26.png
     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-26.png
 推送成功: 📊 RootData | Top Gainers
-Cycle completed. 2026-01-26 12:54:06.645446
+Cycle completed. 2026-01-26 13:47:26.325597
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -52,16 +34,9 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-    Clicked calendar insight icon
-2026-01-26 12:53:47,698 - INFO -     Clicked generate share image button
-2026-01-26 12:53:50,157 - INFO -     Clicked download button
-2026-01-26 12:53:50,196 - INFO -     Saved Calendar Image: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-01-26.png
-2026-01-26 12:53:50,196 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-01-26.png
-2026-01-26 12:53:51,001 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
-2026-01-26 12:53:51,003 - INFO -   Market Image...
-2026-01-26 12:53:56,003 - INFO -     Clicked market download icon
-2026-01-26 12:54:05,833 - INFO -     Clicked save button
-2026-01-26 12:54:05,840 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-26.png
-2026-01-26 12:54:05,840 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-26.png
-2026-01-26 12:54:06,633 - INFO - 推送成功: 📊 RootData | Top Gainers
-2026-01-26 12:54:06,645 - INFO - Cycle completed. 2026-01-26 12:54:06.645446
+-26 13:47:16,539 - INFO -     Clicked market download icon
+2026-01-26 13:47:25,796 - INFO -     Clicked save button
+2026-01-26 13:47:25,804 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-26.png
+2026-01-26 13:47:25,804 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-26.png
+2026-01-26 13:47:26,315 - INFO - 推送成功: 📊 RootData | Top Gainers
+2026-01-26 13:47:26,325 - INFO - Cycle completed. 2026-01-26 13:47:26.325597

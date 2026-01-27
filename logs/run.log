@@ -1,25 +1,10 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 美联储1月维持利率概率达99%，7个新账户押注10万美元赌利率改变
-推送成功: 【BLOCKBEATS - 预测市场】美联储1月维持利率概率达99%，7个新账户押注10万美元赌利率改变
+  [BlockBeats] 新快讯: 某新地址2.3万美元「买彩票」押注美联储不会按兵不动，寻求获得超额回报
+推送成功: 【BLOCKBEATS - 预测市场】某新地址2.3万美元「买彩票」押注美联储不会按兵不动，寻求获得超额回报
 已保存到 Markdown: ./output/blockbeats/2026-01-27.md
-  [BlockBeats] 新快讯: 某4个月前高位买入ETH的鲸鱼地址增持5000枚ETH进行补仓，浮亏1582万美元
-推送成功: 【BLOCKBEATS - 链上侦探】某4个月前高位买入ETH的鲸鱼地址增持5000枚ETH进行补仓，浮亏1582万美元
-已保存到 Markdown: ./output/blockbeats/2026-01-27.md
-  [BlockBeats] 新快讯: 「闪电反手」巨鲸同步做空BTC与ETH浮亏逾100万美元
-推送成功: 【BLOCKBEATS - 链上侦探】「闪电反手」巨鲸同步做空BTC与ETH浮亏逾100万美元
-已保存到 Markdown: ./output/blockbeats/2026-01-27.md
-  [BlockBeats] 新快讯: BitMine过去12小时再次质押10万枚ETH
-推送成功: 【BLOCKBEATS - 链上侦探】BitMine过去12小时再次质押10万枚ETH
-已保存到 Markdown: ./output/blockbeats/2026-01-27.md
-  [BlockBeats] 新快讯: 波段巨鲸「pension-usdt.eth」2.5万枚ETH空单由盈转亏
-推送成功: 【BLOCKBEATS - 链上侦探】波段巨鲸「pension-usdt.eth」2.5万枚ETH空单由盈转亏
-已保存到 Markdown: ./output/blockbeats/2026-01-27.md
-  [BlockBeats] 新快讯: 某鲸鱼20倍做多2.5万枚SOL，建仓均价124.27美元
-推送成功: 【BLOCKBEATS - 链上侦探】某鲸鱼20倍做多2.5万枚SOL，建仓均价124.27美元
-已保存到 Markdown: ./output/blockbeats/2026-01-27.md
-  [BlockBeats] 新快讯: WLFI顾问ogle ZRO多单浮亏逾12万美元
-推送成功: 【BLOCKBEATS - 链上侦探】WLFI顾问ogle ZRO多单浮亏逾12万美元
+  [BlockBeats] 新快讯: 某鲸鱼平仓10万枚SOL空单，盈利20.5万美元
+推送成功: 【BLOCKBEATS - 链上侦探】某鲸鱼平仓10万枚SOL空单，盈利20.5万美元
 已保存到 Markdown: ./output/blockbeats/2026-01-27.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -45,7 +30,7 @@ Scraping RootData...
     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-27.png
     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-27.png
 推送成功: 📊 RootData | Top Gainers
-Cycle completed. 2026-01-27 07:30:35.770895
+Cycle completed. 2026-01-27 08:37:03.070973
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -55,18 +40,12 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-s...
-2026-01-27 07:30:15,288 - INFO -   Calendar Insight Image...
-2026-01-27 07:30:15,458 - INFO -     Clicked calendar insight icon
-2026-01-27 07:30:16,957 - INFO -     Clicked generate share image button
-2026-01-27 07:30:19,568 - INFO -     Clicked download button
-2026-01-27 07:30:19,629 - INFO -     Saved Calendar Image: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-01-27.png
-2026-01-27 07:30:19,629 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-01-27.png
-2026-01-27 07:30:20,110 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
-2026-01-27 07:30:20,113 - INFO -   Market Image...
-2026-01-27 07:30:25,356 - INFO -     Clicked market download icon
-2026-01-27 07:30:35,168 - INFO -     Clicked save button
-2026-01-27 07:30:35,176 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-27.png
-2026-01-27 07:30:35,176 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-27.png
-2026-01-27 07:30:35,761 - INFO - 推送成功: 📊 RootData | Top Gainers
-2026-01-27 07:30:35,770 - INFO - Cycle completed. 2026-01-27 07:30:35.770895
+hts/未来7天加密日历洞察_2026-01-27.png
+2026-01-27 08:36:43,335 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
+2026-01-27 08:36:43,338 - INFO -   Market Image...
+2026-01-27 08:36:47,714 - INFO -     Clicked market download icon
+2026-01-27 08:37:02,403 - INFO -     Clicked save button
+2026-01-27 08:37:02,414 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-27.png
+2026-01-27 08:37:02,414 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-27.png
+2026-01-27 08:37:03,060 - INFO - 推送成功: 📊 RootData | Top Gainers
+2026-01-27 08:37:03,071 - INFO - Cycle completed. 2026-01-27 08:37:03.070973

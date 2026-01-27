@@ -1,5 +1,8 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
+  [BlockBeats] 新快讯: 链上晚间回顾：隐私板块空军车头出现分歧，巨鲸开始控制风险敞口
+推送成功: 【BLOCKBEATS - 链上侦探】链上晚间回顾：隐私板块空军车头出现分歧，巨鲸开始控制风险敞口
+已保存到 Markdown: ./output/blockbeats/2026-01-27.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
   Category: 项目动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1003&is_hot=1
@@ -24,7 +27,7 @@ Scraping RootData...
     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-27.png
     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-27.png
 推送成功: 📊 RootData | Top Gainers
-Cycle completed. 2026-01-27 12:56:00.923517
+Cycle completed. 2026-01-27 13:51:27.373761
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -34,9 +37,11 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
--27 12:55:50,043 - INFO -     Clicked market download icon
-2026-01-27 12:56:00,386 - INFO -     Clicked save button
-2026-01-27 12:56:00,394 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-27.png
-2026-01-27 12:56:00,394 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-27.png
-2026-01-27 12:56:00,916 - INFO - 推送成功: 📊 RootData | Top Gainers
-2026-01-27 12:56:00,923 - INFO - Cycle completed. 2026-01-27 12:56:00.923517
+ RootData | 未来7天加密日历洞察
+2026-01-27 13:51:12,347 - INFO -   Market Image...
+2026-01-27 13:51:16,888 - INFO -     Clicked market download icon
+2026-01-27 13:51:26,704 - INFO -     Clicked save button
+2026-01-27 13:51:26,713 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-27.png
+2026-01-27 13:51:26,713 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-27.png
+2026-01-27 13:51:27,351 - INFO - 推送成功: 📊 RootData | Top Gainers
+2026-01-27 13:51:27,373 - INFO - Cycle completed. 2026-01-27 13:51:27.373761

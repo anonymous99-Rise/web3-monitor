@@ -1,16 +1,7 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 某鲸鱼以5,261美元均价增持1,066枚XAUT，做多白银和黄金并做空英伟达
-推送成功: 【BLOCKBEATS - 链上侦探】某鲸鱼以5,261美元均价增持1,066枚XAUT，做多白银和黄金并做空英伟达
-已保存到 Markdown: ./output/blockbeats/2026-01-29.md
-  [BlockBeats] 新快讯: 某新地址追高黄金，以5365美元增持超1454枚XAUT，浮盈23万美元
-推送成功: 【BLOCKBEATS - 链上侦探】某新地址追高黄金，以5365美元增持超1454枚XAUT，浮盈23万美元
-已保存到 Markdown: ./output/blockbeats/2026-01-29.md
-  [BlockBeats] 新快讯: 某以太坊远古巨鲸疑似抛售5000枚ETH，成本低至9.35美元
-推送成功: 【BLOCKBEATS - 链上侦探】某以太坊远古巨鲸疑似抛售5000枚ETH，成本低至9.35美元
-已保存到 Markdown: ./output/blockbeats/2026-01-29.md
-  [BlockBeats] 新快讯: 链上晚间回顾：白银空头再度加码，巨鲸操作趋于谨慎
-推送成功: 【BLOCKBEATS - 链上侦探】链上晚间回顾：白银空头再度加码，巨鲸操作趋于谨慎
+  [BlockBeats] 新快讯: 某以太坊超级空头已累计获利超8,090万美元，现持有3万枚ETH空单
+推送成功: 【BLOCKBEATS - 链上侦探】某以太坊超级空头已累计获利超8,090万美元，现持有3万枚ETH空单
 已保存到 Markdown: ./output/blockbeats/2026-01-29.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -33,10 +24,11 @@ Scraping RootData...
   Market Image...
     Clicked market download icon
     Clicked save button
-    Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-29.png
-    Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-29.png
-推送成功: 📊 RootData | Top Gainers
-Cycle completed. 2026-01-29 14:39:45.686182
+    Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
+=========================== logs ===========================
+waiting for event "download"
+============================================================
+Cycle completed. 2026-01-29 15:39:18.909370
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -46,13 +38,12 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
- -     Saved Calendar Image: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-01-29.png
-2026-01-29 14:39:30,403 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-01-29.png
-2026-01-29 14:39:30,932 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
-2026-01-29 14:39:30,934 - INFO -   Market Image...
-2026-01-29 14:39:35,504 - INFO -     Clicked market download icon
-2026-01-29 14:39:44,801 - INFO -     Clicked save button
-2026-01-29 14:39:44,825 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-29.png
-2026-01-29 14:39:44,825 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-29.png
-2026-01-29 14:39:45,673 - INFO - 推送成功: 📊 RootData | Top Gainers
-2026-01-29 14:39:45,686 - INFO - Cycle completed. 2026-01-29 14:39:45.686182
+�来7天加密日历洞察
+2026-01-29 15:38:39,085 - INFO -   Market Image...
+2026-01-29 15:38:43,856 - INFO -     Clicked market download icon
+2026-01-29 15:38:52,071 - INFO -     Clicked save button
+2026-01-29 15:39:18,900 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
+=========================== logs ===========================
+waiting for event "download"
+============================================================
+2026-01-29 15:39:18,909 - INFO - Cycle completed. 2026-01-29 15:39:18.909370

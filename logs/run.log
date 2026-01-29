@@ -1,13 +1,13 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 新账户3600美元押注美国将在一周内打击伊朗，该地址与QCP Capital相关联
-推送成功: 【BLOCKBEATS - 预测市场】新账户3600美元押注美国将在一周内打击伊朗，该地址与QCP Capital相关联
+  [BlockBeats] 新快讯: QCP Capital关联新账户以3600美元押注美国将在一周内打击伊朗
+推送成功: 【BLOCKBEATS - 预测市场】QCP Capital关联新账户以3600美元押注美国将在一周内打击伊朗
 已保存到 Markdown: ./output/blockbeats/2026-01-29.md
-  [BlockBeats] 新快讯: 主流Perp DEX一览：Hyperliquid交易量与持仓量同步抬升，Aster交易量大幅上涨
-推送成功: 【BLOCKBEATS - 链上侦探】主流Perp DEX一览：Hyperliquid交易量与持仓量同步抬升，Aster交易量大幅上涨
+  [BlockBeats] 新快讯: 某鲸鱼4倍做多价值447万美元COPPER，爆仓价4.3512美元
+推送成功: 【BLOCKBEATS - 链上侦探】某鲸鱼4倍做多价值447万美元COPPER，爆仓价4.3512美元
 已保存到 Markdown: ./output/blockbeats/2026-01-29.md
-  [BlockBeats] 新快讯: 「Strategy对手盘」开仓做多白银，仓位价值520万美元
-推送成功: 【BLOCKBEATS - 链上侦探】「Strategy对手盘」开仓做多白银，仓位价值520万美元
+  [BlockBeats] 新快讯: 某新地址向HyperLiquid存入200万枚USDC并大举做空山寨币
+推送成功: 【BLOCKBEATS - 链上侦探】某新地址向HyperLiquid存入200万枚USDC并大举做空山寨币
 已保存到 Markdown: ./output/blockbeats/2026-01-29.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -33,7 +33,7 @@ Scraping RootData...
     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-29.png
     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-29.png
 推送成功: 📊 RootData | Top Gainers
-Cycle completed. 2026-01-29 11:34:21.480355
+Cycle completed. 2026-01-29 13:02:30.887267
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -44,12 +44,12 @@ Scraping BlockBeats...
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
 01-29.png
-2026-01-29 11:34:06,226 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-01-29.png
-2026-01-29 11:34:06,953 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
-2026-01-29 11:34:06,956 - INFO -   Market Image...
-2026-01-29 11:34:11,167 - INFO -     Clicked market download icon
-2026-01-29 11:34:20,974 - INFO -     Clicked save button
-2026-01-29 11:34:20,986 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-29.png
-2026-01-29 11:34:20,986 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-29.png
-2026-01-29 11:34:21,468 - INFO - 推送成功: 📊 RootData | Top Gainers
-2026-01-29 11:34:21,480 - INFO - Cycle completed. 2026-01-29 11:34:21.480355
+2026-01-29 13:02:13,570 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-01-29.png
+2026-01-29 13:02:15,869 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
+2026-01-29 13:02:15,872 - INFO -   Market Image...
+2026-01-29 13:02:20,485 - INFO -     Clicked market download icon
+2026-01-29 13:02:30,290 - INFO -     Clicked save button
+2026-01-29 13:02:30,317 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-29.png
+2026-01-29 13:02:30,318 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-29.png
+2026-01-29 13:02:30,876 - INFO - 推送成功: 📊 RootData | Top Gainers
+2026-01-29 13:02:30,887 - INFO - Cycle completed. 2026-01-29 13:02:30.887267

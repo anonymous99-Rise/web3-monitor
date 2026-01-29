@@ -1,13 +1,16 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 某账户持续押注美国必将袭击伊朗，仓位已达七万美元
-推送成功: 【BLOCKBEATS - 预测市场】某账户持续押注美国必将袭击伊朗，仓位已达七万美元
+  [BlockBeats] 新快讯: 「尊贵的大宗交易员」巨鲸做多大宗商品浮盈已达220万美元，其中纳指与铜持仓达4000万美元
+推送成功: 【BLOCKBEATS - 链上侦探】「尊贵的大宗交易员」巨鲸做多大宗商品浮盈已达220万美元，其中纳指与铜持仓达4000万美元
 已保存到 Markdown: ./output/blockbeats/2026-01-29.md
-  [BlockBeats] 新快讯: 受Keith Gill兄弟于IG回复相关消息影响，Meme币BP市值突破1400万美元
-推送成功: 【BLOCKBEATS - 链上侦探】受Keith Gill兄弟于IG回复相关消息影响，Meme币BP市值突破1400万美元
+  [BlockBeats] 新快讯: 某鲸鱼平仓450万美元BTC空单，盈利8.49万美元
+推送成功: 【BLOCKBEATS - 链上侦探】某鲸鱼平仓450万美元BTC空单，盈利8.49万美元
 已保存到 Markdown: ./output/blockbeats/2026-01-29.md
-  [BlockBeats] 新快讯: 某鲸鱼25倍做空2200枚ETH，建仓均价2950.69美元
-推送成功: 【BLOCKBEATS - 链上侦探】某鲸鱼25倍做空2200枚ETH，建仓均价2950.69美元
+  [BlockBeats] 新快讯: 某交易员平仓WLD多单，亏损18.9万美元
+推送成功: 【BLOCKBEATS - 链上侦探】某交易员平仓WLD多单，亏损18.9万美元
+已保存到 Markdown: ./output/blockbeats/2026-01-29.md
+  [BlockBeats] 新快讯: 某巨鲸在XVS闪崩中被清算28.7万枚代币，价值93万美元
+推送成功: 【BLOCKBEATS - 链上侦探】某巨鲸在XVS闪崩中被清算28.7万枚代币，价值93万美元
 已保存到 Markdown: ./output/blockbeats/2026-01-29.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -33,7 +36,7 @@ Scraping RootData...
     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-29.png
     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-29.png
 推送成功: 📊 RootData | Top Gainers
-Cycle completed. 2026-01-29 09:46:14.148671
+Cycle completed. 2026-01-29 10:40:03.705448
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -43,13 +46,13 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-01-29.png
-2026-01-29 09:45:58,356 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-01-29.png
-2026-01-29 09:45:58,873 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
-2026-01-29 09:45:58,875 - INFO -   Market Image...
-2026-01-29 09:46:03,321 - INFO -     Clicked market download icon
-2026-01-29 09:46:13,689 - INFO -     Clicked save button
-2026-01-29 09:46:13,715 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-29.png
-2026-01-29 09:46:13,715 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-29.png
-2026-01-29 09:46:14,137 - INFO - 推送成功: 📊 RootData | Top Gainers
-2026-01-29 09:46:14,148 - INFO - Cycle completed. 2026-01-29 09:46:14.148671
+ -     Saved Calendar Image: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-01-29.png
+2026-01-29 10:39:48,381 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-01-29.png
+2026-01-29 10:39:48,974 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
+2026-01-29 10:39:48,977 - INFO -   Market Image...
+2026-01-29 10:39:53,441 - INFO -     Clicked market download icon
+2026-01-29 10:40:03,270 - INFO -     Clicked save button
+2026-01-29 10:40:03,279 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-29.png
+2026-01-29 10:40:03,279 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-29.png
+2026-01-29 10:40:03,695 - INFO - 推送成功: 📊 RootData | Top Gainers
+2026-01-29 10:40:03,705 - INFO - Cycle completed. 2026-01-29 10:40:03.705448

@@ -1,13 +1,13 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: Pacifica上金银合约交易活跃，合计达该平台近10%交易量
-推送成功: 【BLOCKBEATS - 链上侦探】Pacifica上金银合约交易活跃，合计达该平台近10%交易量
+  [BlockBeats] 新快讯: 「黄金代币最大空头」做空黄金浮盈逾45万美元
+推送成功: 【BLOCKBEATS - 链上侦探】「黄金代币最大空头」做空黄金浮盈逾45万美元
 已保存到 Markdown: ./output/blockbeats/2026-01-30.md
-  [BlockBeats] 新快讯: 某鲸鱼40倍做多96.31枚BTC，建仓均价82,564.1美元
-推送成功: 【BLOCKBEATS - 链上侦探】某鲸鱼40倍做多96.31枚BTC，建仓均价82,564.1美元
+  [BlockBeats] 新快讯: 「链上股民」以8000万规模做空贵金属、纳指等大宗商品，今日扭亏为盈
+推送成功: 【BLOCKBEATS - 链上侦探】「链上股民」以8000万规模做空贵金属、纳指等大宗商品，今日扭亏为盈
 已保存到 Markdown: ./output/blockbeats/2026-01-30.md
-  [BlockBeats] 新快讯: 「DASH最大空头」加仓白银多单，浮亏110万美元
-推送成功: 【BLOCKBEATS - 链上侦探】「DASH最大空头」加仓白银多单，浮亏110万美元
+  [BlockBeats] 新快讯: 某交易员20倍做多32.88枚BTC，建仓均价82,519.6美元
+推送成功: 【BLOCKBEATS - 链上侦探】某交易员20倍做多32.88枚BTC，建仓均价82,519.6美元
 已保存到 Markdown: ./output/blockbeats/2026-01-30.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -30,11 +30,10 @@ Scraping RootData...
   Market Image...
     Clicked market download icon
     Clicked save button
-    Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
-=========================== logs ===========================
-waiting for event "download"
-============================================================
-Cycle completed. 2026-01-30 08:43:12.687017
+    Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-30.png
+    Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-30.png
+推送成功: 📊 RootData | Top Gainers
+Cycle completed. 2026-01-30 09:42:09.201978
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -44,13 +43,13 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
--01-30 08:42:32,550 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-01-30.png
-2026-01-30 08:42:33,053 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
-2026-01-30 08:42:33,056 - INFO -   Market Image...
-2026-01-30 08:42:37,642 - INFO -     Clicked market download icon
-2026-01-30 08:42:44,765 - INFO -     Clicked save button
-2026-01-30 08:43:12,678 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
-=========================== logs ===========================
-waiting for event "download"
-============================================================
-2026-01-30 08:43:12,687 - INFO - Cycle completed. 2026-01-30 08:43:12.687017
+01-30.png
+2026-01-30 09:41:43,478 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-01-30.png
+2026-01-30 09:41:44,889 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
+2026-01-30 09:41:44,892 - INFO -   Market Image...
+2026-01-30 09:41:49,907 - INFO -     Clicked market download icon
+2026-01-30 09:42:08,301 - INFO -     Clicked save button
+2026-01-30 09:42:08,310 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-30.png
+2026-01-30 09:42:08,310 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-30.png
+2026-01-30 09:42:09,192 - INFO - 推送成功: 📊 RootData | Top Gainers
+2026-01-30 09:42:09,202 - INFO - Cycle completed. 2026-01-30 09:42:09.201978

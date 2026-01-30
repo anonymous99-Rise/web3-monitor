@@ -1,8 +1,5 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: Kraken支持的SPAC公司KRAKacquisition Corp完成3.45亿美元IPO并在纳斯达克上市
-推送成功: 【BLOCKBEATS - 融资】Kraken支持的SPAC公司KRAKacquisition Corp完成3.45亿美元IPO并在纳斯达克上市
-已保存到 Markdown: ./output/blockbeats/2026-01-30.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
   Category: 项目动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1003&is_hot=1
@@ -27,7 +24,7 @@ Scraping RootData...
     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-30.png
     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-30.png
 推送成功: 📊 RootData | Top Gainers
-Cycle completed. 2026-01-30 14:49:20.798501
+Cycle completed. 2026-01-30 15:37:48.900415
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -37,11 +34,9 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
- RootData | 未来7天加密日历洞察
-2026-01-30 14:48:55,569 - INFO -   Market Image...
-2026-01-30 14:49:00,169 - INFO -     Clicked market download icon
-2026-01-30 14:49:20,270 - INFO -     Clicked save button
-2026-01-30 14:49:20,281 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-30.png
-2026-01-30 14:49:20,282 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-30.png
-2026-01-30 14:49:20,788 - INFO - 推送成功: 📊 RootData | Top Gainers
-2026-01-30 14:49:20,798 - INFO - Cycle completed. 2026-01-30 14:49:20.798501
+-30 15:37:37,907 - INFO -     Clicked market download icon
+2026-01-30 15:37:48,240 - INFO -     Clicked save button
+2026-01-30 15:37:48,248 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-30.png
+2026-01-30 15:37:48,248 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-30.png
+2026-01-30 15:37:48,889 - INFO - 推送成功: 📊 RootData | Top Gainers
+2026-01-30 15:37:48,900 - INFO - Cycle completed. 2026-01-30 15:37:48.900415

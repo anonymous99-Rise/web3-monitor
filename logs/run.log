@@ -1,17 +1,5 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 某巨鲸在6万美元上方挂出买单准备抄底，挂单规模500万美元
-推送成功: 【BLOCKBEATS - 链上侦探】某巨鲸在6万美元上方挂出买单准备抄底，挂单规模500万美元
-已保存到 Markdown: ./output/blockbeats/2026-01-31.md
-  [BlockBeats] 新快讯: 「麻吉」遭完全清算后屡败屡战，于约2533美元再开ETH多单
-推送成功: 【BLOCKBEATS - 链上侦探】「麻吉」遭完全清算后屡败屡战，于约2533美元再开ETH多单
-已保存到 Markdown: ./output/blockbeats/2026-01-31.md
-  [BlockBeats] 新快讯: 易理华ETH仓位极端清算价1558美元，当前健康度1.34
-推送成功: 【BLOCKBEATS - 链上侦探】易理华ETH仓位极端清算价1558美元，当前健康度1.34
-已保存到 Markdown: ./output/blockbeats/2026-01-31.md
-  [BlockBeats] 新快讯: 「BTC OG内幕巨鲸」ETH多单浮亏扩大至1.17亿美元
-推送成功: 【BLOCKBEATS - 链上侦探】「BTC OG内幕巨鲸」ETH多单浮亏扩大至1.17亿美元
-已保存到 Markdown: ./output/blockbeats/2026-01-31.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
   Category: 项目动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1003&is_hot=1
@@ -36,7 +24,7 @@ Scraping RootData...
     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-31.png
     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-31.png
 推送成功: 📊 RootData | Top Gainers
-Cycle completed. 2026-01-31 15:27:29.998720
+Cycle completed. 2026-01-31 16:32:23.639039
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -46,13 +34,9 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
- -     Saved Calendar Image: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-01-31.png
-2026-01-31 15:27:13,246 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-01-31.png
-2026-01-31 15:27:13,973 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
-2026-01-31 15:27:13,976 - INFO -   Market Image...
-2026-01-31 15:27:19,467 - INFO -     Clicked market download icon
-2026-01-31 15:27:29,386 - INFO -     Clicked save button
-2026-01-31 15:27:29,405 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-31.png
-2026-01-31 15:27:29,405 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-31.png
-2026-01-31 15:27:29,984 - INFO - 推送成功: 📊 RootData | Top Gainers
-2026-01-31 15:27:29,998 - INFO - Cycle completed. 2026-01-31 15:27:29.998720
+-31 16:32:12,901 - INFO -     Clicked market download icon
+2026-01-31 16:32:22,799 - INFO -     Clicked save button
+2026-01-31 16:32:22,808 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-31.png
+2026-01-31 16:32:22,808 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-31.png
+2026-01-31 16:32:23,628 - INFO - 推送成功: 📊 RootData | Top Gainers
+2026-01-31 16:32:23,639 - INFO - Cycle completed. 2026-01-31 16:32:23.639039

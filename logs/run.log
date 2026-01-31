@@ -1,5 +1,17 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
+  [BlockBeats] 新快讯: Moltbook进驻AI数量4小时暴增百万，3月前起诉人类概率增至44%
+推送成功: 【BLOCKBEATS - 预测市场】Moltbook进驻AI数量4小时暴增百万，3月前起诉人类概率增至44%
+已保存到 Markdown: ./output/blockbeats/2026-01-31.md
+  [BlockBeats] 新快讯: 加密KOL 0xSun以86.4美元均价入场看涨白银，当前持仓规模约430万美元
+推送成功: 【BLOCKBEATS - 链上侦探】加密KOL 0xSun以86.4美元均价入场看涨白银，当前持仓规模约430万美元
+已保存到 Markdown: ./output/blockbeats/2026-01-31.md
+  [BlockBeats] 新快讯: 「CZ对手盘」巨鲸多单遭完全清算亏损6138万美元
+推送成功: 【BLOCKBEATS - 链上侦探】「CZ对手盘」巨鲸多单遭完全清算亏损6138万美元
+已保存到 Markdown: ./output/blockbeats/2026-01-31.md
+  [BlockBeats] 新快讯: 某鲸鱼将5473.1万枚W转入Coinbase，若出售将亏损65.38万美元
+推送成功: 【BLOCKBEATS - 链上侦探】某鲸鱼将5473.1万枚W转入Coinbase，若出售将亏损65.38万美元
+已保存到 Markdown: ./output/blockbeats/2026-01-31.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
   Category: 项目动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1003&is_hot=1
@@ -24,7 +36,7 @@ Scraping RootData...
     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-31.png
     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-31.png
 推送成功: 📊 RootData | Top Gainers
-Cycle completed. 2026-01-31 13:43:03.760272
+Cycle completed. 2026-01-31 14:27:03.355792
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -34,9 +46,13 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
--31 13:42:53,373 - INFO -     Clicked market download icon
-2026-01-31 13:43:03,220 - INFO -     Clicked save button
-2026-01-31 13:43:03,228 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-31.png
-2026-01-31 13:43:03,228 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-31.png
-2026-01-31 13:43:03,747 - INFO - 推送成功: 📊 RootData | Top Gainers
-2026-01-31 13:43:03,760 - INFO - Cycle completed. 2026-01-31 13:43:03.760272
+ -     Saved Calendar Image: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-01-31.png
+2026-01-31 14:26:47,602 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-01-31.png
+2026-01-31 14:26:48,383 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
+2026-01-31 14:26:48,385 - INFO -   Market Image...
+2026-01-31 14:26:52,996 - INFO -     Clicked market download icon
+2026-01-31 14:27:02,767 - INFO -     Clicked save button
+2026-01-31 14:27:02,776 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-31.png
+2026-01-31 14:27:02,776 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-01-31.png
+2026-01-31 14:27:03,345 - INFO - 推送成功: 📊 RootData | Top Gainers
+2026-01-31 14:27:03,355 - INFO - Cycle completed. 2026-01-31 14:27:03.355792

@@ -1,8 +1,5 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: Trend Research向Binance存入一万枚ETH，或将抛售以偿还贷款
-推送成功: 【BLOCKBEATS - 链上侦探】Trend Research向Binance存入一万枚ETH，或将抛售以偿还贷款
-已保存到 Markdown: ./output/blockbeats/2026-02-01.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
   Category: 项目动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1003&is_hot=1
@@ -27,7 +24,7 @@ Scraping RootData...
     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-01.png
     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-01.png
 推送成功: 📊 RootData | Top Gainers
-Cycle completed. 2026-02-01 06:53:14.111292
+Cycle completed. 2026-02-01 07:39:39.557858
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -37,11 +34,9 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
- RootData | 未来7天加密日历洞察
-2026-02-01 06:52:59,392 - INFO -   Market Image...
-2026-02-01 06:53:04,377 - INFO -     Clicked market download icon
-2026-02-01 06:53:13,588 - INFO -     Clicked save button
-2026-02-01 06:53:13,595 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-01.png
-2026-02-01 06:53:13,595 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-01.png
-2026-02-01 06:53:14,080 - INFO - 推送成功: 📊 RootData | Top Gainers
-2026-02-01 06:53:14,111 - INFO - Cycle completed. 2026-02-01 06:53:14.111292
+-01 07:39:29,584 - INFO -     Clicked market download icon
+2026-02-01 07:39:38,967 - INFO -     Clicked save button
+2026-02-01 07:39:38,973 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-01.png
+2026-02-01 07:39:38,973 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-01.png
+2026-02-01 07:39:39,547 - INFO - 推送成功: 📊 RootData | Top Gainers
+2026-02-01 07:39:39,557 - INFO - Cycle completed. 2026-02-01 07:39:39.557858

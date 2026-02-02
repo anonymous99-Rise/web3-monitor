@@ -1,16 +1,19 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 「7 Siblings」再度增持6820枚ETH，总持仓升至30,959枚
-推送成功: 【BLOCKBEATS - 链上侦探】「7 Siblings」再度增持6820枚ETH，总持仓升至30,959枚
+  [BlockBeats] 新快讯: Binance SAFU基金地址已买入1315枚BTC
+推送成功: 【BLOCKBEATS - 链上侦探】Binance SAFU基金地址已买入1315枚BTC
 已保存到 Markdown: ./output/blockbeats/2026-02-02.md
-  [BlockBeats] 新快讯: 「重仓押多贵金属」交易员再度建仓抄底黄金，相关多单曾于两日前完全平仓止盈
-推送成功: 【BLOCKBEATS - 链上侦探】「重仓押多贵金属」交易员再度建仓抄底黄金，相关多单曾于两日前完全平仓止盈
+  [BlockBeats] 新快讯: 某新建地址从Binance提取252枚BTC
+推送成功: 【BLOCKBEATS - 链上侦探】某新建地址从Binance提取252枚BTC
 已保存到 Markdown: ./output/blockbeats/2026-02-02.md
-  [BlockBeats] 新快讯: 某巨鲸持有LINK 7年解压抛售，实现利润102万美元
-推送成功: 【BLOCKBEATS - 链上侦探】某巨鲸持有LINK 7年解压抛售，实现利润102万美元
+  [BlockBeats] 新快讯: 「ZEC最大空头」止盈近八成ETH空头头寸，周盈利已达1550万美元
+推送成功: 【BLOCKBEATS - 链上侦探】「ZEC最大空头」止盈近八成ETH空头头寸，周盈利已达1550万美元
 已保存到 Markdown: ./output/blockbeats/2026-02-02.md
-  [BlockBeats] 新快讯: 易理华旗下Trend Research持续止损减仓，24小时累计向CEX充值53,589枚ETH
-推送成功: 【BLOCKBEATS - 链上侦探】易理华旗下Trend Research持续止损减仓，24小时累计向CEX充值53,589枚ETH
+  [BlockBeats] 新快讯: 「2000万波段猎手」止盈BTC空单，减持价值302万美元仓位
+推送成功: 【BLOCKBEATS - 链上侦探】「2000万波段猎手」止盈BTC空单，减持价值302万美元仓位
+已保存到 Markdown: ./output/blockbeats/2026-02-02.md
+  [BlockBeats] 新快讯: 受Circle CEO提及影响，Solana链上代币PURCH市值短线冲高至1900万美元后回落
+推送成功: 【BLOCKBEATS - 链上侦探】受Circle CEO提及影响，Solana链上代币PURCH市值短线冲高至1900万美元后回落
 已保存到 Markdown: ./output/blockbeats/2026-02-02.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -33,10 +36,11 @@ Scraping RootData...
   Market Image...
     Clicked market download icon
     Clicked save button
-    Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-02.png
-    Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-02.png
-推送成功: 📊 RootData | Top Gainers
-Cycle completed. 2026-02-02 07:52:53.199274
+    Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
+=========================== logs ===========================
+waiting for event "download"
+============================================================
+Cycle completed. 2026-02-02 08:47:56.841531
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -46,13 +50,15 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
- -     Saved Calendar Image: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-02-02.png
-2026-02-02 07:52:36,311 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-02-02.png
-2026-02-02 07:52:38,349 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
-2026-02-02 07:52:38,352 - INFO -   Market Image...
-2026-02-02 07:52:42,667 - INFO -     Clicked market download icon
-2026-02-02 07:52:52,512 - INFO -     Clicked save button
-2026-02-02 07:52:52,521 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-02.png
-2026-02-02 07:52:52,521 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-02.png
-2026-02-02 07:52:53,189 - INFO - 推送成功: 📊 RootData | Top Gainers
-2026-02-02 07:52:53,199 - INFO - Cycle completed. 2026-02-02 07:52:53.199274
+2-02 08:47:16,507 - INFO -     Clicked download button
+2026-02-02 08:47:16,563 - INFO -     Saved Calendar Image: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-02-02.png
+2026-02-02 08:47:16,564 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-02-02.png
+2026-02-02 08:47:17,228 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
+2026-02-02 08:47:17,231 - INFO -   Market Image...
+2026-02-02 08:47:21,761 - INFO -     Clicked market download icon
+2026-02-02 08:47:29,460 - INFO -     Clicked save button
+2026-02-02 08:47:56,829 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
+=========================== logs ===========================
+waiting for event "download"
+============================================================
+2026-02-02 08:47:56,841 - INFO - Cycle completed. 2026-02-02 08:47:56.841531

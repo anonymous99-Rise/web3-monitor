@@ -1,14 +1,5 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: Arthur Hayes抛售DeFi代币买入HYPE，近24小时增持57,881枚HYPE
-推送成功: 【BLOCKBEATS - 链上侦探】Arthur Hayes抛售DeFi代币买入HYPE，近24小时增持57,881枚HYPE
-已保存到 Markdown: ./output/blockbeats/2026-02-04.md
-  [BlockBeats] 新快讯: 某巨鲸以2271美元均价杠杆增持8806枚ETH，总持仓量突破2.1万枚
-推送成功: 【BLOCKBEATS - 链上侦探】某巨鲸以2271美元均价杠杆增持8806枚ETH，总持仓量突破2.1万枚
-已保存到 Markdown: ./output/blockbeats/2026-02-04.md
-  [BlockBeats] 新快讯: 预测市场Opinion完成2000万美元A轮融资，Jump Crypto等参投
-推送成功: 【BLOCKBEATS - 融资】预测市场Opinion完成2000万美元A轮融资，Jump Crypto等参投
-已保存到 Markdown: ./output/blockbeats/2026-02-04.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
   Category: 项目动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1003&is_hot=1
@@ -33,7 +24,7 @@ Scraping RootData...
     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-04.png
     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-04.png
 推送成功: 📊 RootData | Top Gainers
-Cycle completed. 2026-02-04 14:43:06.707291
+Cycle completed. 2026-02-04 15:45:59.685086
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -43,13 +34,9 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-02-04.png
-2026-02-04 14:42:49,957 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-02-04.png
-2026-02-04 14:42:50,642 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
-2026-02-04 14:42:50,645 - INFO -   Market Image...
-2026-02-04 14:42:55,743 - INFO -     Clicked market download icon
-2026-02-04 14:43:06,108 - INFO -     Clicked save button
-2026-02-04 14:43:06,118 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-04.png
-2026-02-04 14:43:06,118 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-04.png
-2026-02-04 14:43:06,693 - INFO - 推送成功: 📊 RootData | Top Gainers
-2026-02-04 14:43:06,707 - INFO - Cycle completed. 2026-02-04 14:43:06.707291
+-04 15:45:48,692 - INFO -     Clicked market download icon
+2026-02-04 15:45:59,037 - INFO -     Clicked save button
+2026-02-04 15:45:59,049 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-04.png
+2026-02-04 15:45:59,049 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-04.png
+2026-02-04 15:45:59,669 - INFO - 推送成功: 📊 RootData | Top Gainers
+2026-02-04 15:45:59,685 - INFO - Cycle completed. 2026-02-04 15:45:59.685086

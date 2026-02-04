@@ -1,8 +1,5 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 主流Perp DEX一览：各平台近期持仓量均持续下滑，Hyperliquid环比回落36.2%
-推送成功: 【BLOCKBEATS - 链上侦探】主流Perp DEX一览：各平台近期持仓量均持续下滑，Hyperliquid环比回落36.2%
-已保存到 Markdown: ./output/blockbeats/2026-02-04.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
   Category: 项目动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1003&is_hot=1
@@ -27,7 +24,7 @@ Scraping RootData...
     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-04.png
     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-04.png
 推送成功: 📊 RootData | Top Gainers
-Cycle completed. 2026-02-04 11:35:58.678597
+Cycle completed. 2026-02-04 13:05:23.004919
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -35,13 +32,15 @@ Cycle completed. 2026-02-04 11:35:58.678597
 Scraping BlockBeats...
   Category: 预测市场 - https://www.theblockbeats.info/newsflash?type=1
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
+    Failed to load items: Page.wait_for_selector: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(".news-flash-item, .news-flash-wrapper, [class*='flash']") to be visible
+
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
+    Failed to load items: Page.wait_for_selector: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(".news-flash-item, .news-flash-wrapper, [class*='flash']") to be visible
+
 Scraping TechFlow...
- RootData | 未来7天加密日历洞察
-2026-02-04 11:35:42,678 - INFO -   Market Image...
-2026-02-04 11:35:47,559 - INFO -     Clicked market download icon
-2026-02-04 11:35:58,043 - INFO -     Clicked save button
-2026-02-04 11:35:58,068 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-04.png
-2026-02-04 11:35:58,068 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-04.png
-2026-02-04 11:35:58,668 - INFO - 推送成功: 📊 RootData | Top Gainers
-2026-02-04 11:35:58,678 - INFO - Cycle completed. 2026-02-04 11:35:58.678597
+-02-04 13:05:22,991 - INFO - 推送成功: 📊 RootData | Top Gainers
+2026-02-04 13:05:23,004 - INFO - Cycle completed. 2026-02-04 13:05:23.004919

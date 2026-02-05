@@ -1,16 +1,22 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 比特币财库公司Nakamoto转移933枚BTC至新钱包
-推送成功: 【BLOCKBEATS - 链上侦探】比特币财库公司Nakamoto转移933枚BTC至新钱包
+  [BlockBeats] 新快讯: 某新建钱包过去2天囤积55,483枚ETH，价值1.1516亿美元
+推送成功: 【BLOCKBEATS - 链上侦探】某新建钱包过去2天囤积55,483枚ETH，价值1.1516亿美元
 已保存到 Markdown: ./output/blockbeats/2026-02-05.md
-  [BlockBeats] 新快讯: 某巨鲸700万美元开多HYPE、BTC、LIT以及做空XPL
-推送成功: 【BLOCKBEATS - 链上侦探】某巨鲸700万美元开多HYPE、BTC、LIT以及做空XPL
+  [BlockBeats] 新快讯: Longling Capital关联钱包从Binance提取8,500枚ETH，价值1,751万美元
+推送成功: 【BLOCKBEATS - 链上侦探】Longling Capital关联钱包从Binance提取8,500枚ETH，价值1,751万美元
 已保存到 Markdown: ./output/blockbeats/2026-02-05.md
-  [BlockBeats] 新快讯: 贝莱德向Coinbase存入3900枚BTC与17197枚ETH，总价值超2亿美元
-推送成功: 【BLOCKBEATS - 链上侦探】贝莱德向Coinbase存入3900枚BTC与17197枚ETH，总价值超2亿美元
+  [BlockBeats] 新快讯: 灰度向Coinbase Prime转入603.804枚比特币，约合4203万美元
+推送成功: 【BLOCKBEATS - 链上侦探】灰度向Coinbase Prime转入603.804枚比特币，约合4203万美元
 已保存到 Markdown: ./output/blockbeats/2026-02-05.md
-  [BlockBeats] 新快讯: 新加坡加密货币公司企鹅证券完成28亿日元融资，进军日本市场
-推送成功: 【BLOCKBEATS - 融资】新加坡加密货币公司企鹅证券完成28亿日元融资，进军日本市场
+  [BlockBeats] 新快讯: Vitalik用于捐赠的16,384枚ETH已出售27.6%，约904万美元
+推送成功: 【BLOCKBEATS - 链上侦探】Vitalik用于捐赠的16,384枚ETH已出售27.6%，约904万美元
+已保存到 Markdown: ./output/blockbeats/2026-02-05.md
+  [BlockBeats] 新快讯: 某ETH巨鲸被迫止损减仓，卖出238枚ETH换取48.8万DAI进行还款
+推送成功: 【BLOCKBEATS - 链上侦探】某ETH巨鲸被迫止损减仓，卖出238枚ETH换取48.8万DAI进行还款
+已保存到 Markdown: ./output/blockbeats/2026-02-05.md
+  [BlockBeats] 新快讯: 特朗普家族项目WLFI出售73枚WBTC，套现约503.7万美元
+推送成功: 【BLOCKBEATS - 链上侦探】特朗普家族项目WLFI出售73枚WBTC，套现约503.7万美元
 已保存到 Markdown: ./output/blockbeats/2026-02-05.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -36,7 +42,7 @@ Scraping RootData...
     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-05.png
     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-05.png
 推送成功: 📊 RootData | Top Gainers
-Cycle completed. 2026-02-05 13:07:16.017365
+Cycle completed. 2026-02-05 14:45:23.297345
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -46,13 +52,16 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
- -     Saved Calendar Image: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-02-05.png
-2026-02-05 13:06:58,589 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-02-05.png
-2026-02-05 13:06:59,110 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
-2026-02-05 13:06:59,112 - INFO -   Market Image...
-2026-02-05 13:07:03,985 - INFO -     Clicked market download icon
-2026-02-05 13:07:15,410 - INFO -     Clicked save button
-2026-02-05 13:07:15,416 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-05.png
-2026-02-05 13:07:15,416 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-05.png
-2026-02-05 13:07:16,006 - INFO - 推送成功: 📊 RootData | Top Gainers
-2026-02-05 13:07:16,017 - INFO - Cycle completed. 2026-02-05 13:07:16.017365
+    Clicked calendar insight icon
+2026-02-05 14:45:02,257 - INFO -     Clicked generate share image button
+2026-02-05 14:45:06,722 - INFO -     Clicked download button
+2026-02-05 14:45:06,804 - INFO -     Saved Calendar Image: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-02-05.png
+2026-02-05 14:45:06,804 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-02-05.png
+2026-02-05 14:45:07,567 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
+2026-02-05 14:45:07,569 - INFO -   Market Image...
+2026-02-05 14:45:13,441 - INFO -     Clicked market download icon
+2026-02-05 14:45:22,752 - INFO -     Clicked save button
+2026-02-05 14:45:22,783 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-05.png
+2026-02-05 14:45:22,784 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-05.png
+2026-02-05 14:45:23,284 - INFO - 推送成功: 📊 RootData | Top Gainers
+2026-02-05 14:45:23,297 - INFO - Cycle completed. 2026-02-05 14:45:23.297345

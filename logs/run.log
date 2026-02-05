@@ -1,22 +1,7 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: Polymarket上比特币于2月跌破7万美元的概率飙升至91%
-推送成功: 【BLOCKBEATS - 预测市场】Polymarket上比特币于2月跌破7万美元的概率飙升至91%
-已保存到 Markdown: ./output/blockbeats/2026-02-05.md
-  [BlockBeats] 新快讯: 巨鲸止损清仓2000万规模「纳指100」多单，周亏损达290万美元
-推送成功: 【BLOCKBEATS - 链上侦探】巨鲸止损清仓2000万规模「纳指100」多单，周亏损达290万美元
-已保存到 Markdown: ./output/blockbeats/2026-02-05.md
-  [BlockBeats] 新快讯: 「BTC OG内幕巨鲸」从Binance提出8万枚ETH
-推送成功: 【BLOCKBEATS - 链上侦探】「BTC OG内幕巨鲸」从Binance提出8万枚ETH
-已保存到 Markdown: ./output/blockbeats/2026-02-05.md
-  [BlockBeats] 新快讯: 「DASH最大空头」昨日平空转多已浮亏1580万美元
-推送成功: 【BLOCKBEATS - 链上侦探】「DASH最大空头」昨日平空转多已浮亏1580万美元
-已保存到 Markdown: ./output/blockbeats/2026-02-05.md
-  [BlockBeats] 新快讯: 「麻吉」加仓ETH多单，账户浮亏7.6万美元
-推送成功: 【BLOCKBEATS - 链上侦探】「麻吉」加仓ETH多单，账户浮亏7.6万美元
-已保存到 Markdown: ./output/blockbeats/2026-02-05.md
-  [BlockBeats] 新快讯: 波段巨鲸「pension-usdt.eth」平仓BTC多单，107分钟盈利42.9万美元
-推送成功: 【BLOCKBEATS - 链上侦探】波段巨鲸「pension-usdt.eth」平仓BTC多单，107分钟盈利42.9万美元
+  [BlockBeats] 新快讯: 「Abraxas Capital 」持续加仓黄金空单，两地址持仓规模已达1880万美元
+推送成功: 【BLOCKBEATS - 链上侦探】「Abraxas Capital 」持续加仓黄金空单，两地址持仓规模已达1880万美元
 已保存到 Markdown: ./output/blockbeats/2026-02-05.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -42,7 +27,7 @@ Scraping RootData...
     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-05.png
     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-05.png
 推送成功: 📊 RootData | Top Gainers
-Cycle completed. 2026-02-05 08:46:27.825154
+Cycle completed. 2026-02-05 09:49:31.140329
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -52,16 +37,11 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-    Clicked calendar insight icon
-2026-02-05 08:46:06,212 - INFO -     Clicked generate share image button
-2026-02-05 08:46:10,843 - INFO -     Clicked download button
-2026-02-05 08:46:10,925 - INFO -     Saved Calendar Image: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-02-05.png
-2026-02-05 08:46:10,925 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-02-05.png
-2026-02-05 08:46:11,388 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
-2026-02-05 08:46:11,390 - INFO -   Market Image...
-2026-02-05 08:46:16,753 - INFO -     Clicked market download icon
-2026-02-05 08:46:27,242 - INFO -     Clicked save button
-2026-02-05 08:46:27,277 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-05.png
-2026-02-05 08:46:27,278 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-05.png
-2026-02-05 08:46:27,813 - INFO - 推送成功: 📊 RootData | Top Gainers
-2026-02-05 08:46:27,825 - INFO - Cycle completed. 2026-02-05 08:46:27.825154
+ RootData | 未来7天加密日历洞察
+2026-02-05 09:49:14,485 - INFO -   Market Image...
+2026-02-05 09:49:19,208 - INFO -     Clicked market download icon
+2026-02-05 09:49:30,077 - INFO -     Clicked save button
+2026-02-05 09:49:30,087 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-05.png
+2026-02-05 09:49:30,087 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-05.png
+2026-02-05 09:49:31,128 - INFO - 推送成功: 📊 RootData | Top Gainers
+2026-02-05 09:49:31,140 - INFO - Cycle completed. 2026-02-05 09:49:31.140329

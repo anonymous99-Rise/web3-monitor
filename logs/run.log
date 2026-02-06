@@ -1,7 +1,10 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: Trend Research再向Binance转入3万枚ETH，完全卸掉杠杆仍需卖出14.6万枚
-推送成功: 【BLOCKBEATS - 链上侦探】Trend Research再向Binance转入3万枚ETH，完全卸掉杠杆仍需卖出14.6万枚
+  [BlockBeats] 新快讯: Multicoin关联地址昨日将44万枚JITOSOL转入做市商，价值约合4700万美元
+推送成功: 【BLOCKBEATS - 链上侦探】Multicoin关联地址昨日将44万枚JITOSOL转入做市商，价值约合4700万美元
+已保存到 Markdown: ./output/blockbeats/2026-02-06.md
+  [BlockBeats] 新快讯: Trend Research再向Binance转入2万枚ETH
+推送成功: 【BLOCKBEATS - 链上侦探】Trend Research再向Binance转入2万枚ETH
 已保存到 Markdown: ./output/blockbeats/2026-02-06.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -27,7 +30,7 @@ Scraping RootData...
     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-06.png
     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-06.png
 推送成功: 📊 RootData | Top Gainers
-Cycle completed. 2026-02-06 14:41:24.957465
+Cycle completed. 2026-02-06 15:43:39.584452
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -37,11 +40,12 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
- RootData | 未来7天加密日历洞察
-2026-02-06 14:41:09,624 - INFO -   Market Image...
-2026-02-06 14:41:14,456 - INFO -     Clicked market download icon
-2026-02-06 14:41:24,288 - INFO -     Clicked save button
-2026-02-06 14:41:24,294 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-06.png
-2026-02-06 14:41:24,295 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-06.png
-2026-02-06 14:41:24,942 - INFO - 推送成功: 📊 RootData | Top Gainers
-2026-02-06 14:41:24,957 - INFO - Cycle completed. 2026-02-06 14:41:24.957465
+hts/未来7天加密日历洞察_2026-02-06.png
+2026-02-06 15:43:25,169 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
+2026-02-06 15:43:25,171 - INFO -   Market Image...
+2026-02-06 15:43:29,648 - INFO -     Clicked market download icon
+2026-02-06 15:43:38,957 - INFO -     Clicked save button
+2026-02-06 15:43:38,964 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-06.png
+2026-02-06 15:43:38,964 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-06.png
+2026-02-06 15:43:39,573 - INFO - 推送成功: 📊 RootData | Top Gainers
+2026-02-06 15:43:39,584 - INFO - Cycle completed. 2026-02-06 15:43:39.584452

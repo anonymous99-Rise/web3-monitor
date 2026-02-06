@@ -1,7 +1,13 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: Trend Research本次做多已亏损7.63亿美元，不仅回吐上次全部利润还亏损4.48亿美元本金
-推送成功: 【BLOCKBEATS - 链上侦探】Trend Research本次做多已亏损7.63亿美元，不仅回吐上次全部利润还亏损4.48亿美元本金
+  [BlockBeats] 新快讯: Claude5「跳票」引发本月发布概率骤降，新账户押注1万美元新模型将于4月前发布
+推送成功: 【BLOCKBEATS - 预测市场】Claude5「跳票」引发本月发布概率骤降，新账户押注1万美元新模型将于4月前发布
+已保存到 Markdown: ./output/blockbeats/2026-02-06.md
+  [BlockBeats] 新快讯: BitMine未来三日内宣布购买以太坊概率为73%
+推送成功: 【BLOCKBEATS - 预测市场】BitMine未来三日内宣布购买以太坊概率为73%
+已保存到 Markdown: ./output/blockbeats/2026-02-06.md
+  [BlockBeats] 新快讯: 「麻吉」ETH与HYPE多单同时遭清算，昨日补足资金后再次缩水至不足5万
+推送成功: 【BLOCKBEATS - 链上侦探】「麻吉」ETH与HYPE多单同时遭清算，昨日补足资金后再次缩水至不足5万
 已保存到 Markdown: ./output/blockbeats/2026-02-06.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -27,7 +33,7 @@ Scraping RootData...
     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-06.png
     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-06.png
 推送成功: 📊 RootData | Top Gainers
-Cycle completed. 2026-02-06 08:45:03.947914
+Cycle completed. 2026-02-06 09:46:15.315391
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -37,11 +43,13 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
- RootData | 未来7天加密日历洞察
-2026-02-06 08:44:49,055 - INFO -   Market Image...
-2026-02-06 08:44:53,473 - INFO -     Clicked market download icon
-2026-02-06 08:45:03,313 - INFO -     Clicked save button
-2026-02-06 08:45:03,320 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-06.png
-2026-02-06 08:45:03,320 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-06.png
-2026-02-06 08:45:03,933 - INFO - 推送成功: 📊 RootData | Top Gainers
-2026-02-06 08:45:03,947 - INFO - Cycle completed. 2026-02-06 08:45:03.947914
+02-06.png
+2026-02-06 09:45:58,641 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-02-06.png
+2026-02-06 09:45:59,252 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
+2026-02-06 09:45:59,254 - INFO -   Market Image...
+2026-02-06 09:46:04,702 - INFO -     Clicked market download icon
+2026-02-06 09:46:14,606 - INFO -     Clicked save button
+2026-02-06 09:46:14,612 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-06.png
+2026-02-06 09:46:14,612 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-06.png
+2026-02-06 09:46:15,304 - INFO - 推送成功: 📊 RootData | Top Gainers
+2026-02-06 09:46:15,315 - INFO - Cycle completed. 2026-02-06 09:46:15.315391

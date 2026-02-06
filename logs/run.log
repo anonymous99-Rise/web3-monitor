@@ -1,19 +1,10 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 特朗普企图插手地方选举，中期大选若失守众议院或将面临弹劾
-推送成功: 【BLOCKBEATS - 预测市场】特朗普企图插手地方选举，中期大选若失守众议院或将面临弹劾
+  [BlockBeats] 新快讯: Trend Research再向Binance转入2万枚ETH
+推送成功: 【BLOCKBEATS - 链上侦探】Trend Research再向Binance转入2万枚ETH
 已保存到 Markdown: ./output/blockbeats/2026-02-06.md
-  [BlockBeats] 新快讯: AI模型竞争白热化，Gemini3.5大概率于上半年发布
-推送成功: 【BLOCKBEATS - 预测市场】AI模型竞争白热化，Gemini3.5大概率于上半年发布
-已保存到 Markdown: ./output/blockbeats/2026-02-06.md
-  [BlockBeats] 新快讯: Trend Research正加速抛售ETH以偿还贷款，过去10小时已卖出170,033枚ETH
-推送成功: 【BLOCKBEATS - 链上侦探】Trend Research正加速抛售ETH以偿还贷款，过去10小时已卖出170,033枚ETH
-已保存到 Markdown: ./output/blockbeats/2026-02-06.md
-  [BlockBeats] 新快讯: 某巨鲸沉寂3个月后提取769.89枚BTC，约合5062万美元
-推送成功: 【BLOCKBEATS - 链上侦探】某巨鲸沉寂3个月后提取769.89枚BTC，约合5062万美元
-已保存到 Markdown: ./output/blockbeats/2026-02-06.md
-  [BlockBeats] 新快讯: 「Strategy对手盘」单日录得亏损超3100万美元，再次转入800万资金补足「弹药」
-推送成功: 【BLOCKBEATS - 链上侦探】「Strategy对手盘」单日录得亏损超3100万美元，再次转入800万资金补足「弹药」
+  [BlockBeats] 新快讯: 某巨鲸沉寂2年后从Binance提取1万枚ETH，价值1927万美元
+推送成功: 【BLOCKBEATS - 链上侦探】某巨鲸沉寂2年后从Binance提取1万枚ETH，价值1927万美元
 已保存到 Markdown: ./output/blockbeats/2026-02-06.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -36,11 +27,10 @@ Scraping RootData...
   Market Image...
     Clicked market download icon
     Clicked save button
-    Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
-=========================== logs ===========================
-waiting for event "download"
-============================================================
-Cycle completed. 2026-02-06 10:42:59.670829
+    Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-06.png
+    Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-06.png
+推送成功: 📊 RootData | Top Gainers
+Cycle completed. 2026-02-06 11:36:36.137532
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -50,15 +40,12 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-2-06 10:42:18,888 - INFO -     Clicked download button
-2026-02-06 10:42:18,956 - INFO -     Saved Calendar Image: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-02-06.png
-2026-02-06 10:42:18,956 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-02-06.png
-2026-02-06 10:42:19,551 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
-2026-02-06 10:42:19,553 - INFO -   Market Image...
-2026-02-06 10:42:24,610 - INFO -     Clicked market download icon
-2026-02-06 10:42:32,289 - INFO -     Clicked save button
-2026-02-06 10:42:59,658 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
-=========================== logs ===========================
-waiting for event "download"
-============================================================
-2026-02-06 10:42:59,670 - INFO - Cycle completed. 2026-02-06 10:42:59.670829
+hts/未来7天加密日历洞察_2026-02-06.png
+2026-02-06 11:36:15,806 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
+2026-02-06 11:36:15,808 - INFO -   Market Image...
+2026-02-06 11:36:20,648 - INFO -     Clicked market download icon
+2026-02-06 11:36:35,423 - INFO -     Clicked save button
+2026-02-06 11:36:35,432 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-06.png
+2026-02-06 11:36:35,432 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-06.png
+2026-02-06 11:36:36,127 - INFO - 推送成功: 📊 RootData | Top Gainers
+2026-02-06 11:36:36,137 - INFO - Cycle completed. 2026-02-06 11:36:36.137532

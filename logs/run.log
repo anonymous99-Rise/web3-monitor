@@ -1,37 +1,13 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 可疑地址押注12万美元笃定新兴FinTech项目ICO公售额在100万至2000万美元区间
-推送成功: 【BLOCKBEATS - 预测市场】可疑地址押注12万美元笃定新兴FinTech项目ICO公售额在100万至2000万美元区间
+  [BlockBeats] 新快讯: 波段巨鲸「pension-usdt.eth」平仓ETH空单，11小时盈利221万美元
+推送成功: 【BLOCKBEATS - 链上侦探】波段巨鲸「pension-usdt.eth」平仓ETH空单，11小时盈利221万美元
 已保存到 Markdown: ./output/blockbeats/2026-02-06.md
-  [BlockBeats] 新快讯: Binance SAFU基金BTC持仓缩水15%，仍剩余8亿USDC待买入
-推送成功: 【BLOCKBEATS - 链上侦探】Binance SAFU基金BTC持仓缩水15%，仍剩余8亿USDC待买入
+  [BlockBeats] 新快讯: 某鲸鱼将3947枚ETH存入Binance，约753万美元
+推送成功: 【BLOCKBEATS - 链上侦探】某鲸鱼将3947枚ETH存入Binance，约753万美元
 已保存到 Markdown: ./output/blockbeats/2026-02-06.md
-  [BlockBeats] 新快讯: 「长期做空BTC」巨鲸撤销59,138美元「抄底」BTC限价买单
-推送成功: 【BLOCKBEATS - 链上侦探】「长期做空BTC」巨鲸撤销59,138美元「抄底」BTC限价买单
-已保存到 Markdown: ./output/blockbeats/2026-02-06.md
-  [BlockBeats] 新快讯: 「坚定做多」巨鲸今日遭清算21次，亏损超1970万美元
-推送成功: 【BLOCKBEATS - 链上侦探】「坚定做多」巨鲸今日遭清算21次，亏损超1970万美元
-已保存到 Markdown: ./output/blockbeats/2026-02-06.md
-  [BlockBeats] 新快讯: 现货白银日内跌幅达15%，加密KOL CBB建立1660万规模多单抄底白银
-推送成功: 【BLOCKBEATS - 链上侦探】现货白银日内跌幅达15%，加密KOL CBB建立1660万规模多单抄底白银
-已保存到 Markdown: ./output/blockbeats/2026-02-06.md
-  [BlockBeats] 新快讯: 某巨鲸卖出2.78万枚ETH偿还借款，剩余仓位清算价降至1560美元
-推送成功: 【BLOCKBEATS - 链上侦探】某巨鲸卖出2.78万枚ETH偿还借款，剩余仓位清算价降至1560美元
-已保存到 Markdown: ./output/blockbeats/2026-02-06.md
-  [BlockBeats] 新快讯: 「麻吉」同步加仓ETH与HYPE多单，账户浮盈1.6万美元
-推送成功: 【BLOCKBEATS - 链上侦探】「麻吉」同步加仓ETH与HYPE多单，账户浮盈1.6万美元
-已保存到 Markdown: ./output/blockbeats/2026-02-06.md
-  [BlockBeats] 新快讯: 某4天前做多ETH新鲸鱼地址爆仓，损失超400万美元
-推送成功: 【BLOCKBEATS - 链上侦探】某4天前做多ETH新鲸鱼地址爆仓，损失超400万美元
-已保存到 Markdown: ./output/blockbeats/2026-02-06.md
-  [BlockBeats] 新快讯: Meme币KellyClaude市值回涨至580万美元，24小时涨幅达72%
-推送成功: 【BLOCKBEATS - 链上侦探】Meme币KellyClaude市值回涨至580万美元，24小时涨幅达72%
-已保存到 Markdown: ./output/blockbeats/2026-02-06.md
-  [BlockBeats] 新快讯: Pump.fun宣布已收购Vyper拓展跨链交易终端业务
-推送成功: 【BLOCKBEATS - 融资】Pump.fun宣布已收购Vyper拓展跨链交易终端业务
-已保存到 Markdown: ./output/blockbeats/2026-02-06.md
-  [BlockBeats] 新快讯: Relay Protocol完成1700万美元B轮融资，Archetype和USV共同领投
-推送成功: 【BLOCKBEATS - 融资】Relay Protocol完成1700万美元B轮融资，Archetype和USV共同领投
+  [BlockBeats] 新快讯: Tether向Gold.com投资1.5亿美元，拓展全球代币化与实物黄金的获取渠道
+推送成功: 【BLOCKBEATS - 融资】Tether向Gold.com投资1.5亿美元，拓展全球代币化与实物黄金的获取渠道
 已保存到 Markdown: ./output/blockbeats/2026-02-06.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -57,7 +33,7 @@ Scraping RootData...
     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-06.png
     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-06.png
 推送成功: 📊 RootData | Top Gainers
-Cycle completed. 2026-02-06 04:49:16.029084
+Cycle completed. 2026-02-06 05:55:52.135006
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -67,23 +43,13 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-NFO -   Category: 融资动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1000&is_hot=1
-2026-02-06 04:48:43,377 - INFO - Scraping RootData...
-2026-02-06 04:48:43,405 - INFO -   List: Top 100 项目
-2026-02-06 04:48:47,571 - INFO -   List: 透明度评分提升榜
-2026-02-06 04:48:50,210 - INFO -   List: 交易所透明度排名
-2026-02-06 04:48:53,147 - INFO -   Calendar Events...
-2026-02-06 04:48:55,884 - INFO -   Calendar Insight Image...
-2026-02-06 04:48:56,169 - INFO -     Clicked calendar insight icon
-2026-02-06 04:48:57,244 - INFO -     Clicked generate share image button
-2026-02-06 04:49:00,329 - INFO -     Clicked download button
-2026-02-06 04:49:00,395 - INFO -     Saved Calendar Image: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-02-06.png
-2026-02-06 04:49:00,396 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-02-06.png
-2026-02-06 04:49:00,892 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
-2026-02-06 04:49:00,895 - INFO -   Market Image...
-2026-02-06 04:49:05,616 - INFO -     Clicked market download icon
-2026-02-06 04:49:15,509 - INFO -     Clicked save button
-2026-02-06 04:49:15,517 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-06.png
-2026-02-06 04:49:15,518 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-06.png
-2026-02-06 04:49:16,018 - INFO - 推送成功: 📊 RootData | Top Gainers
-2026-02-06 04:49:16,029 - INFO - Cycle completed. 2026-02-06 04:49:16.029084
+02-06.png
+2026-02-06 05:55:35,885 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-02-06.png
+2026-02-06 05:55:36,414 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
+2026-02-06 05:55:36,418 - INFO -   Market Image...
+2026-02-06 05:55:41,476 - INFO -     Clicked market download icon
+2026-02-06 05:55:51,484 - INFO -     Clicked save button
+2026-02-06 05:55:51,492 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-06.png
+2026-02-06 05:55:51,493 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-06.png
+2026-02-06 05:55:52,121 - INFO - 推送成功: 📊 RootData | Top Gainers
+2026-02-06 05:55:52,135 - INFO - Cycle completed. 2026-02-06 05:55:52.135006

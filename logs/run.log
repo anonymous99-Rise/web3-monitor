@@ -1,5 +1,17 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
+  [BlockBeats] 新快讯: 某合约鲸鱼向HyperLiquid存入250万U以10倍做多ETH
+推送成功: 【BLOCKBEATS - 链上侦探】某合约鲸鱼向HyperLiquid存入250万U以10倍做多ETH
+已保存到 Markdown: ./output/blockbeats/2026-02-07.md
+  [BlockBeats] 新快讯: Circle过去9小时在Solana网络上增发15亿USDC
+推送成功: 【BLOCKBEATS - 链上侦探】Circle过去9小时在Solana网络上增发15亿USDC
+已保存到 Markdown: ./output/blockbeats/2026-02-07.md
+  [BlockBeats] 新快讯: 「BTC OG内幕巨鲸」再次向Binance转移1万枚ETH
+推送成功: 【BLOCKBEATS - 链上侦探】「BTC OG内幕巨鲸」再次向Binance转移1万枚ETH
+已保存到 Markdown: ./output/blockbeats/2026-02-07.md
+  [BlockBeats] 新快讯: 易理华卸掉杠杆后即将完成清仓，已将98%的ETH仓位转入CEX
+推送成功: 【BLOCKBEATS - 链上侦探】易理华卸掉杠杆后即将完成清仓，已将98%的ETH仓位转入CEX
+已保存到 Markdown: ./output/blockbeats/2026-02-07.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
   Category: 项目动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1003&is_hot=1
@@ -8,9 +20,24 @@
   Category: 融资动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1000&is_hot=1
 Scraping RootData...
   List: Top 100 项目
+  [RootData] 新榜单: Top 100 项目
+推送成功: 【RootData - Top 100 项目】
+推送成功: 【RootData - Top 100 项目】 (续)
+已保存到 Markdown: ./output/rootdata/2026-02-07.md
   List: 透明度评分提升榜
+  [RootData] 新榜单: 透明度评分提升榜
+推送成功: 【RootData - 透明度评分提升榜】
+推送成功: 【RootData - 透明度评分提升榜】 (续)
+已保存到 Markdown: ./output/rootdata/2026-02-07.md
   List: 交易所透明度排名
+  [RootData] 新榜单: 交易所透明度排名
+推送成功: 【RootData - 交易所透明度排名】
+推送成功: 【RootData - 交易所透明度排名】 (续)
+已保存到 Markdown: ./output/rootdata/2026-02-07.md
   Calendar Events...
+  [RootData] 日历事件: 10 条
+推送成功: 📅 RootData | 今日日历事件
+已保存到 Markdown: ./output/rootdata/2026-02-07.md
   Calendar Insight Image...
     Clicked calendar insight icon
     Insight capture failed: ElementHandle.click: Timeout 30000ms exceeded.
@@ -36,10 +63,10 @@ Call log:
   Market Image...
     Clicked market download icon
     Clicked save button
-    Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-06.png
-    Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-06.png
+    Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-07.png
+    Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-07.png
 推送成功: 📊 RootData | Top Gainers
-Cycle completed. 2026-02-06 23:30:03.051841
+Cycle completed. 2026-02-07 02:09:05.400976
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -49,7 +76,30 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-:30:00,810 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-06.png
-2026-02-06 23:30:00,810 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-06.png
-2026-02-06 23:30:03,041 - INFO - 推送成功: 📊 RootData | Top Gainers
-2026-02-06 23:30:03,051 - INFO - Cycle completed. 2026-02-06 23:30:03.051841
+2:08:50,222 - WARNING -     Insight capture failed: ElementHandle.click: Timeout 30000ms exceeded.
+Call log:
+  - attempting click action
+    2 × waiting for element to be visible, enabled and stable
+      - element is not stable
+    - retrying click action
+    - waiting 20ms
+    - waiting for element to be visible, enabled and stable
+    - element is not stable
+  2 × retrying click action
+      - waiting 100ms
+      - waiting for element to be visible, enabled and stable
+      - element is not enabled
+  55 × retrying click action
+       - waiting 500ms
+       - waiting for element to be visible, enabled and stable
+       - element is not enabled
+  - retrying click action
+    - waiting 500ms
+
+2026-02-07 02:08:50,222 - INFO -   Market Image...
+2026-02-07 02:08:54,865 - INFO -     Clicked market download icon
+2026-02-07 02:09:04,583 - INFO -     Clicked save button
+2026-02-07 02:09:04,609 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-07.png
+2026-02-07 02:09:04,609 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-07.png
+2026-02-07 02:09:05,389 - INFO - 推送成功: 📊 RootData | Top Gainers
+2026-02-07 02:09:05,401 - INFO - Cycle completed. 2026-02-07 02:09:05.400976

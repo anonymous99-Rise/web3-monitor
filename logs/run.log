@@ -1,5 +1,8 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
+  [BlockBeats] 新快讯: 「麻吉」加仓ETH多单至630万美元，开仓价约2018美元
+推送成功: 【BLOCKBEATS - 链上侦探】「麻吉」加仓ETH多单至630万美元，开仓价约2018美元
+已保存到 Markdown: ./output/blockbeats/2026-02-08.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
   Category: 项目动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1003&is_hot=1
@@ -24,7 +27,7 @@ Scraping RootData...
     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-08.png
     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-08.png
 推送成功: 📊 RootData | Top Gainers
-Cycle completed. 2026-02-08 06:54:23.712645
+Cycle completed. 2026-02-08 07:40:45.721951
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -34,9 +37,11 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
--08 06:54:12,986 - INFO -     Clicked market download icon
-2026-02-08 06:54:22,817 - INFO -     Clicked save button
-2026-02-08 06:54:22,826 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-08.png
-2026-02-08 06:54:22,827 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-08.png
-2026-02-08 06:54:23,700 - INFO - 推送成功: 📊 RootData | Top Gainers
-2026-02-08 06:54:23,712 - INFO - Cycle completed. 2026-02-08 06:54:23.712645
+ RootData | 未来7天加密日历洞察
+2026-02-08 07:40:30,982 - INFO -   Market Image...
+2026-02-08 07:40:35,170 - INFO -     Clicked market download icon
+2026-02-08 07:40:45,047 - INFO -     Clicked save button
+2026-02-08 07:40:45,055 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-08.png
+2026-02-08 07:40:45,055 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-08.png
+2026-02-08 07:40:45,711 - INFO - 推送成功: 📊 RootData | Top Gainers
+2026-02-08 07:40:45,721 - INFO - Cycle completed. 2026-02-08 07:40:45.721951

@@ -1,7 +1,7 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 交易员SMXKX做空金银获利超1228万美元
-推送成功: 【BLOCKBEATS - 链上侦探】交易员SMXKX做空金银获利超1228万美元
+  [BlockBeats] 新快讯: 某新建钱包从Binance提取3万枚ETH
+推送成功: 【BLOCKBEATS - 链上侦探】某新建钱包从Binance提取3万枚ETH
 已保存到 Markdown: ./output/blockbeats/2026-02-08.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -27,7 +27,7 @@ Scraping RootData...
     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-08.png
     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-08.png
 推送成功: 📊 RootData | Top Gainers
-Cycle completed. 2026-02-08 11:25:54.846869
+Cycle completed. 2026-02-08 12:54:57.494127
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -38,10 +38,10 @@ Scraping BlockBeats...
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
  RootData | 未来7天加密日历洞察
-2026-02-08 11:25:39,940 - INFO -   Market Image...
-2026-02-08 11:25:44,232 - INFO -     Clicked market download icon
-2026-02-08 11:25:54,045 - INFO -     Clicked save button
-2026-02-08 11:25:54,054 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-08.png
-2026-02-08 11:25:54,055 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-08.png
-2026-02-08 11:25:54,836 - INFO - 推送成功: 📊 RootData | Top Gainers
-2026-02-08 11:25:54,846 - INFO - Cycle completed. 2026-02-08 11:25:54.846869
+2026-02-08 12:54:42,093 - INFO -   Market Image...
+2026-02-08 12:54:46,825 - INFO -     Clicked market download icon
+2026-02-08 12:54:56,645 - INFO -     Clicked save button
+2026-02-08 12:54:56,654 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-08.png
+2026-02-08 12:54:56,654 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-08.png
+2026-02-08 12:54:57,483 - INFO - 推送成功: 📊 RootData | Top Gainers
+2026-02-08 12:54:57,494 - INFO - Cycle completed. 2026-02-08 12:54:57.494127

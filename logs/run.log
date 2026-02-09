@@ -1,10 +1,10 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 「木头姐」旗下太空ETF首度买入特斯拉，或押注特斯拉与SpaceX合并
-推送成功: 【BLOCKBEATS - 预测市场】「木头姐」旗下太空ETF首度买入特斯拉，或押注特斯拉与SpaceX合并
+  [BlockBeats] 新快讯: 某聪明钱在「超级碗」比赛日5次预测全胜，盈利180万美元
+推送成功: 【BLOCKBEATS - 预测市场】某聪明钱在「超级碗」比赛日5次预测全胜，盈利180万美元
 已保存到 Markdown: ./output/blockbeats/2026-02-09.md
-  [BlockBeats] 新快讯: Solana生态Meme币PIPPIN持续上涨达54%，市值暂报2.9亿美元
-推送成功: 【BLOCKBEATS - 链上侦探】Solana生态Meme币PIPPIN持续上涨达54%，市值暂报2.9亿美元
+  [BlockBeats] 新快讯: 「100%胜率低回撤」交易员金字塔多单部分成交，计划BTC涨至8.4万美元后平仓
+推送成功: 【BLOCKBEATS - 链上侦探】「100%胜率低回撤」交易员金字塔多单部分成交，计划BTC涨至8.4万美元后平仓
 已保存到 Markdown: ./output/blockbeats/2026-02-09.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -31,7 +31,7 @@ Scraping RootData...
 =========================== logs ===========================
 waiting for event "download"
 ============================================================
-Cycle completed. 2026-02-09 08:57:44.175099
+Cycle completed. 2026-02-09 10:07:26.631177
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -42,12 +42,12 @@ Scraping BlockBeats...
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
 加密日历洞察_2026-02-09.png
-2026-02-09 08:57:04,294 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
-2026-02-09 08:57:04,297 - INFO -   Market Image...
-2026-02-09 08:57:09,120 - INFO -     Clicked market download icon
-2026-02-09 08:57:16,211 - INFO -     Clicked save button
-2026-02-09 08:57:44,166 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
+2026-02-09 10:06:46,638 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
+2026-02-09 10:06:46,641 - INFO -   Market Image...
+2026-02-09 10:06:51,550 - INFO -     Clicked market download icon
+2026-02-09 10:06:57,783 - INFO -     Clicked save button
+2026-02-09 10:07:26,617 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
 =========================== logs ===========================
 waiting for event "download"
 ============================================================
-2026-02-09 08:57:44,175 - INFO - Cycle completed. 2026-02-09 08:57:44.175099
+2026-02-09 10:07:26,631 - INFO - Cycle completed. 2026-02-09 10:07:26.631177

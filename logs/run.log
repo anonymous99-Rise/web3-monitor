@@ -1,5 +1,23 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
+  [BlockBeats] 新快讯: Base生态Meme币CLAWNCH市值短时回升至近1000万美元，24小时涨幅达62%
+推送成功: 【BLOCKBEATS - 链上侦探】Base生态Meme币CLAWNCH市值短时回升至近1000万美元，24小时涨幅达62%
+已保存到 Markdown: ./output/blockbeats/2026-02-09.md
+  [BlockBeats] 新快讯: BTC近4小时全网爆仓居首，Hyperliquid某巨鲸单笔遭1160万美元清算
+推送成功: 【BLOCKBEATS - 链上侦探】BTC近4小时全网爆仓居首，Hyperliquid某巨鲸单笔遭1160万美元清算
+已保存到 Markdown: ./output/blockbeats/2026-02-09.md
+  [BlockBeats] 新快讯: 「麻吉」清仓HYPE多单，并加仓ETH多单至946万美元
+推送成功: 【BLOCKBEATS - 链上侦探】「麻吉」清仓HYPE多单，并加仓ETH多单至946万美元
+已保存到 Markdown: ./output/blockbeats/2026-02-09.md
+  [BlockBeats] 新快讯: 某新建钱包以均价0.109美元买入4760万枚WLFI
+推送成功: 【BLOCKBEATS - 链上侦探】某新建钱包以均价0.109美元买入4760万枚WLFI
+已保存到 Markdown: ./output/blockbeats/2026-02-09.md
+  [BlockBeats] 新快讯: Meme币PENGUIN市值回涨至3000万美元，24小时涨幅达66%
+推送成功: 【BLOCKBEATS - 链上侦探】Meme币PENGUIN市值回涨至3000万美元，24小时涨幅达66%
+已保存到 Markdown: ./output/blockbeats/2026-02-09.md
+  [BlockBeats] 新快讯: Infini攻击者通过Tornado Cash转移9154枚ETH
+推送成功: 【BLOCKBEATS - 链上侦探】Infini攻击者通过Tornado Cash转移9154枚ETH
+已保存到 Markdown: ./output/blockbeats/2026-02-09.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
   Category: 项目动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1003&is_hot=1
@@ -8,23 +26,38 @@
   Category: 融资动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1000&is_hot=1
 Scraping RootData...
   List: Top 100 项目
+  [RootData] 新榜单: Top 100 项目
+推送成功: 【RootData - Top 100 项目】
+推送成功: 【RootData - Top 100 项目】 (续)
+已保存到 Markdown: ./output/rootdata/2026-02-09.md
   List: 透明度评分提升榜
+  [RootData] 新榜单: 透明度评分提升榜
+推送成功: 【RootData - 透明度评分提升榜】
+推送成功: 【RootData - 透明度评分提升榜】 (续)
+已保存到 Markdown: ./output/rootdata/2026-02-09.md
   List: 交易所透明度排名
+  [RootData] 新榜单: 交易所透明度排名
+推送成功: 【RootData - 交易所透明度排名】
+推送成功: 【RootData - 交易所透明度排名】 (续)
+已保存到 Markdown: ./output/rootdata/2026-02-09.md
   Calendar Events...
+  [RootData] 日历事件: 10 条
+推送成功: 📅 RootData | 今日日历事件
+已保存到 Markdown: ./output/rootdata/2026-02-09.md
   Calendar Insight Image...
     Clicked calendar insight icon
     Clicked generate share image button
     Clicked download button
-    Saved Calendar Image: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-02-08.png
-    Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-02-08.png
+    Saved Calendar Image: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-02-09.png
+    Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-02-09.png
 推送成功: 📅 RootData | 未来7天加密日历洞察
   Market Image...
     Clicked market download icon
     Clicked save button
-    Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-08.png
-    Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-08.png
+    Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-09.png
+    Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-09.png
 推送成功: 📊 RootData | Top Gainers
-Cycle completed. 2026-02-08 23:34:31.832402
+Cycle completed. 2026-02-09 02:27:43.338088
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -34,9 +67,23 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
--08 23:34:21,484 - INFO -     Clicked market download icon
-2026-02-08 23:34:31,324 - INFO -     Clicked save button
-2026-02-08 23:34:31,331 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-08.png
-2026-02-08 23:34:31,331 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-08.png
-2026-02-08 23:34:31,821 - INFO - 推送成功: 📊 RootData | Top Gainers
-2026-02-08 23:34:31,832 - INFO - Cycle completed. 2026-02-08 23:34:31.832402
+明度排名】 (续)
+2026-02-09 02:27:17,901 - INFO - 已保存到 Markdown: ./output/rootdata/2026-02-09.md
+2026-02-09 02:27:17,901 - INFO -   Calendar Events...
+2026-02-09 02:27:20,089 - INFO -   [RootData] 日历事件: 10 条
+2026-02-09 02:27:20,379 - INFO - 推送成功: 📅 RootData | 今日日历事件
+2026-02-09 02:27:20,380 - INFO - 已保存到 Markdown: ./output/rootdata/2026-02-09.md
+2026-02-09 02:27:20,380 - INFO -   Calendar Insight Image...
+2026-02-09 02:27:20,481 - INFO -     Clicked calendar insight icon
+2026-02-09 02:27:22,032 - INFO -     Clicked generate share image button
+2026-02-09 02:27:27,634 - INFO -     Clicked download button
+2026-02-09 02:27:27,693 - INFO -     Saved Calendar Image: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-02-09.png
+2026-02-09 02:27:27,693 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-02-09.png
+2026-02-09 02:27:28,179 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
+2026-02-09 02:27:28,181 - INFO -   Market Image...
+2026-02-09 02:27:32,856 - INFO -     Clicked market download icon
+2026-02-09 02:27:42,776 - INFO -     Clicked save button
+2026-02-09 02:27:42,785 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-09.png
+2026-02-09 02:27:42,785 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-09.png
+2026-02-09 02:27:43,327 - INFO - 推送成功: 📊 RootData | Top Gainers
+2026-02-09 02:27:43,338 - INFO - Cycle completed. 2026-02-09 02:27:43.338088

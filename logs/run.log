@@ -9,10 +9,6 @@
 Scraping RootData...
   List: Top 100 项目
   List: 透明度评分提升榜
-  Failed to scrape list 透明度评分提升榜: Page.wait_for_selector: Timeout 15000ms exceeded.
-Call log:
-  - waiting for locator("table tr, .list-item") to be visible
-
   List: 交易所透明度排名
   Calendar Events...
   Calendar Insight Image...
@@ -29,7 +25,7 @@ Call log:
 =========================== logs ===========================
 waiting for event "download"
 ============================================================
-Cycle completed. 2026-02-09 22:39:34.910675
+Cycle completed. 2026-02-09 23:40:10.785289
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -39,11 +35,10 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-ket Image...
-2026-02-09 22:38:59,860 - INFO -     Clicked market download icon
-2026-02-09 22:39:04,962 - INFO -     Clicked save button
-2026-02-09 22:39:34,899 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
+37 - INFO -     Clicked market download icon
+2026-02-09 23:39:40,826 - INFO -     Clicked save button
+2026-02-09 23:40:10,776 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
 =========================== logs ===========================
 waiting for event "download"
 ============================================================
-2026-02-09 22:39:34,910 - INFO - Cycle completed. 2026-02-09 22:39:34.910675
+2026-02-09 23:40:10,785 - INFO - Cycle completed. 2026-02-09 23:40:10.785289

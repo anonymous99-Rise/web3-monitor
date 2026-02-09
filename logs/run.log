@@ -1,8 +1,5 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: SBF再发文「伸冤」：FTX一直有偿付能力，但因资助共和党而遭到针对
-推送成功: 【BLOCKBEATS - 链上侦探】SBF再发文「伸冤」：FTX一直有偿付能力，但因资助共和党而遭到针对
-已保存到 Markdown: ./output/blockbeats/2026-02-09.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
   Category: 项目动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1003&is_hot=1
@@ -28,7 +25,7 @@ Scraping RootData...
 =========================== logs ===========================
 waiting for event "download"
 ============================================================
-Cycle completed. 2026-02-09 20:42:24.205785
+Cycle completed. 2026-02-09 21:42:08.056773
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -38,12 +35,10 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-�来7天加密日历洞察
-2026-02-09 20:41:44,353 - INFO -   Market Image...
-2026-02-09 20:41:49,156 - INFO -     Clicked market download icon
-2026-02-09 20:41:54,255 - INFO -     Clicked save button
-2026-02-09 20:42:24,194 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
+18 - INFO -     Clicked market download icon
+2026-02-09 21:41:38,107 - INFO -     Clicked save button
+2026-02-09 21:42:08,046 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
 =========================== logs ===========================
 waiting for event "download"
 ============================================================
-2026-02-09 20:42:24,205 - INFO - Cycle completed. 2026-02-09 20:42:24.205785
+2026-02-09 21:42:08,056 - INFO - Cycle completed. 2026-02-09 21:42:08.056773

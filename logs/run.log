@@ -1,10 +1,19 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 某聪明钱在「超级碗」比赛日5次预测全胜，盈利180万美元
-推送成功: 【BLOCKBEATS - 预测市场】某聪明钱在「超级碗」比赛日5次预测全胜，盈利180万美元
+  [BlockBeats] 新快讯: 仅1笔历史交易的账户投入5.6万美元预测「美国今天打击伊朗」
+推送成功: 【BLOCKBEATS - 预测市场】仅1笔历史交易的账户投入5.6万美元预测「美国今天打击伊朗」
 已保存到 Markdown: ./output/blockbeats/2026-02-09.md
-  [BlockBeats] 新快讯: 「100%胜率低回撤」交易员金字塔多单部分成交，计划BTC涨至8.4万美元后平仓
-推送成功: 【BLOCKBEATS - 链上侦探】「100%胜率低回撤」交易员金字塔多单部分成交，计划BTC涨至8.4万美元后平仓
+  [BlockBeats] 新快讯: 贝莱德向Coinbase存入2268枚BTC和4.53万枚ETH
+推送成功: 【BLOCKBEATS - 链上侦探】贝莱德向Coinbase存入2268枚BTC和4.53万枚ETH
+已保存到 Markdown: ./output/blockbeats/2026-02-09.md
+  [BlockBeats] 新快讯: 某新地址向HyperLiquid存入500万U，以开设20倍ETH空单
+推送成功: 【BLOCKBEATS - 链上侦探】某新地址向HyperLiquid存入500万U，以开设20倍ETH空单
+已保存到 Markdown: ./output/blockbeats/2026-02-09.md
+  [BlockBeats] 新快讯: Circle在Solana上增发2.5亿USDC
+推送成功: 【BLOCKBEATS - 链上侦探】Circle在Solana上增发2.5亿USDC
+已保存到 Markdown: ./output/blockbeats/2026-02-09.md
+  [BlockBeats] 新快讯: 链上bot狙击何一推文关键词，创建、垄断meme币1分半钟获利2.7万美元
+推送成功: 【BLOCKBEATS - 链上侦探】链上bot狙击何一推文关键词，创建、垄断meme币1分半钟获利2.7万美元
 已保存到 Markdown: ./output/blockbeats/2026-02-09.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -31,7 +40,7 @@ Scraping RootData...
 =========================== logs ===========================
 waiting for event "download"
 ============================================================
-Cycle completed. 2026-02-09 10:07:26.631177
+Cycle completed. 2026-02-09 11:47:54.672773
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -41,13 +50,15 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-加密日历洞察_2026-02-09.png
-2026-02-09 10:06:46,638 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
-2026-02-09 10:06:46,641 - INFO -   Market Image...
-2026-02-09 10:06:51,550 - INFO -     Clicked market download icon
-2026-02-09 10:06:57,783 - INFO -     Clicked save button
-2026-02-09 10:07:26,617 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
+2-09 11:47:14,342 - INFO -     Clicked download button
+2026-02-09 11:47:14,386 - INFO -     Saved Calendar Image: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-02-09.png
+2026-02-09 11:47:14,387 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-02-09.png
+2026-02-09 11:47:15,081 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
+2026-02-09 11:47:15,083 - INFO -   Market Image...
+2026-02-09 11:47:19,619 - INFO -     Clicked market download icon
+2026-02-09 11:47:24,724 - INFO -     Clicked save button
+2026-02-09 11:47:54,662 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
 =========================== logs ===========================
 waiting for event "download"
 ============================================================
-2026-02-09 10:07:26,631 - INFO - Cycle completed. 2026-02-09 10:07:26.631177
+2026-02-09 11:47:54,672 - INFO - Cycle completed. 2026-02-09 11:47:54.672773

@@ -1,7 +1,16 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: Base生态代币BNKR市值突破1.2亿美元新高，24小时涨幅约30%
-推送成功: 【BLOCKBEATS - 链上侦探】Base生态代币BNKR市值突破1.2亿美元新高，24小时涨幅约30%
+  [BlockBeats] 新快讯: 贝莱德向Coinbase存入3401.98枚BTC与30,215.6枚ETH
+推送成功: 【BLOCKBEATS - 链上侦探】贝莱德向Coinbase存入3401.98枚BTC与30,215.6枚ETH
+已保存到 Markdown: ./output/blockbeats/2026-02-10.md
+  [BlockBeats] 新快讯: 主流Perp DEX一览：Hyperliquid持仓量创近9个月低点，较上月环比回落40%
+推送成功: 【BLOCKBEATS - 链上侦探】主流Perp DEX一览：Hyperliquid持仓量创近9个月低点，较上月环比回落40%
+已保存到 Markdown: ./output/blockbeats/2026-02-10.md
+  [BlockBeats] 新快讯: Garrett Jin从Binance提出7748万枚USDT并偿还Aave上借款
+推送成功: 【BLOCKBEATS - 链上侦探】Garrett Jin从Binance提出7748万枚USDT并偿还Aave上借款
+已保存到 Markdown: ./output/blockbeats/2026-02-10.md
+  [BlockBeats] 新快讯: 「麻吉」减仓部分ETH多单，清算价为1991.01美元
+推送成功: 【BLOCKBEATS - 链上侦探】「麻吉」减仓部分ETH多单，清算价为1991.01美元
 已保存到 Markdown: ./output/blockbeats/2026-02-10.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -28,7 +37,7 @@ Scraping RootData...
 =========================== logs ===========================
 waiting for event "download"
 ============================================================
-Cycle completed. 2026-02-10 10:08:03.946538
+Cycle completed. 2026-02-10 11:53:36.677777
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -38,12 +47,14 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-�来7天加密日历洞察
-2026-02-10 10:07:16,653 - INFO -   Market Image...
-2026-02-10 10:07:28,892 - INFO -     Clicked market download icon
-2026-02-10 10:07:33,996 - INFO -     Clicked save button
-2026-02-10 10:08:03,933 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
+alendar Image: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-02-10.png
+2026-02-10 11:52:56,164 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-02-10.png
+2026-02-10 11:52:56,817 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
+2026-02-10 11:52:56,820 - INFO -   Market Image...
+2026-02-10 11:53:01,616 - INFO -     Clicked market download icon
+2026-02-10 11:53:06,716 - INFO -     Clicked save button
+2026-02-10 11:53:36,663 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
 =========================== logs ===========================
 waiting for event "download"
 ============================================================
-2026-02-10 10:08:03,946 - INFO - Cycle completed. 2026-02-10 10:08:03.946538
+2026-02-10 11:53:36,677 - INFO - Cycle completed. 2026-02-10 11:53:36.677777

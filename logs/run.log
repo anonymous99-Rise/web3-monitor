@@ -1,22 +1,7 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 美国大选押注特朗普获胜盈利450万美元地址下注12.5万美元斯塔默会在2月28日前下台
-推送成功: 【BLOCKBEATS - 预测市场】美国大选押注特朗普获胜盈利450万美元地址下注12.5万美元斯塔默会在2月28日前下台
-已保存到 Markdown: ./output/blockbeats/2026-02-10.md
-  [BlockBeats] 新快讯: 新地址下注3200美元美国会在2月28日前打伊朗
-推送成功: 【BLOCKBEATS - 预测市场】新地址下注3200美元美国会在2月28日前打伊朗
-已保存到 Markdown: ./output/blockbeats/2026-02-10.md
-  [BlockBeats] 新快讯: 政治盘口82%胜率的地址下注7500美元美联储会在三月降息
-推送成功: 【BLOCKBEATS - 预测市场】政治盘口82%胜率的地址下注7500美元美联储会在三月降息
-已保存到 Markdown: ./output/blockbeats/2026-02-10.md
-  [BlockBeats] 新快讯: YZI Labs向Binance转入1.34亿枚ID，约合663万美元
-推送成功: 【BLOCKBEATS - 链上侦探】YZI Labs向Binance转入1.34亿枚ID，约合663万美元
-已保存到 Markdown: ./output/blockbeats/2026-02-10.md
-  [BlockBeats] 新快讯: 或属同一实体的两地址已累计做多超9.5万枚ETH，总价值高达1.9亿美元
-推送成功: 【BLOCKBEATS - 链上侦探】或属同一实体的两地址已累计做多超9.5万枚ETH，总价值高达1.9亿美元
-已保存到 Markdown: ./output/blockbeats/2026-02-10.md
-  [BlockBeats] 新快讯: Xross Road完成150万美元种子轮融资，Arbitrum Gaming Ventures等参投
-推送成功: 【BLOCKBEATS - 融资】Xross Road完成150万美元种子轮融资，Arbitrum Gaming Ventures等参投
+  [BlockBeats] 新快讯: Base生态代币BNKR市值突破1.2亿美元新高，24小时涨幅约30%
+推送成功: 【BLOCKBEATS - 链上侦探】Base生态代币BNKR市值突破1.2亿美元新高，24小时涨幅约30%
 已保存到 Markdown: ./output/blockbeats/2026-02-10.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -43,7 +28,7 @@ Scraping RootData...
 =========================== logs ===========================
 waiting for event "download"
 ============================================================
-Cycle completed. 2026-02-10 08:59:57.920654
+Cycle completed. 2026-02-10 10:08:03.946538
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -53,17 +38,12 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-lendar insight icon
-2026-02-10 08:59:12,550 - INFO -     Clicked generate share image button
-2026-02-10 08:59:17,379 - INFO -     Clicked download button
-2026-02-10 08:59:17,448 - INFO -     Saved Calendar Image: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-02-10.png
-2026-02-10 08:59:17,448 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-02-10.png
-2026-02-10 08:59:18,386 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
-2026-02-10 08:59:18,389 - INFO -   Market Image...
-2026-02-10 08:59:22,863 - INFO -     Clicked market download icon
-2026-02-10 08:59:33,760 - INFO -     Clicked save button
-2026-02-10 08:59:57,912 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
+�来7天加密日历洞察
+2026-02-10 10:07:16,653 - INFO -   Market Image...
+2026-02-10 10:07:28,892 - INFO -     Clicked market download icon
+2026-02-10 10:07:33,996 - INFO -     Clicked save button
+2026-02-10 10:08:03,933 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
 =========================== logs ===========================
 waiting for event "download"
 ============================================================
-2026-02-10 08:59:57,920 - INFO - Cycle completed. 2026-02-10 08:59:57.920654
+2026-02-10 10:08:03,946 - INFO - Cycle completed. 2026-02-10 10:08:03.946538

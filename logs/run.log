@@ -1,25 +1,16 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 某鲸鱼向Hyperliquid存入122万USDC，杠杆做多BTC、INTC及AMD
-推送成功: 【BLOCKBEATS - 链上侦探】某鲸鱼向Hyperliquid存入122万USDC，杠杆做多BTC、INTC及AMD
+  [BlockBeats] 新快讯: 政治盘口81%胜率的地址投入1.11万美元预测「美国政府会在2.14前再次关门」
+推送成功: 【BLOCKBEATS - 预测市场】政治盘口81%胜率的地址投入1.11万美元预测「美国政府会在2.14前再次关门」
 已保存到 Markdown: ./output/blockbeats/2026-02-10.md
-  [BlockBeats] 新快讯: 某新建地址向HyperLiquid存入198万美元，20倍做多ETH
-推送成功: 【BLOCKBEATS - 链上侦探】某新建地址向HyperLiquid存入198万美元，20倍做多ETH
+  [BlockBeats] 新快讯: 「neoyokio.eth」底仓埋伏ASTER后再次加码，持仓达1100万成链上ASTER最大多头
+推送成功: 【BLOCKBEATS - 链上侦探】「neoyokio.eth」底仓埋伏ASTER后再次加码，持仓达1100万成链上ASTER最大多头
 已保存到 Markdown: ./output/blockbeats/2026-02-10.md
-  [BlockBeats] 新快讯: 昨日割肉亏损963万的巨鲸连夜重建ETH多头仓位，持仓规模已达1.23亿美元
-推送成功: 【BLOCKBEATS - 链上侦探】昨日割肉亏损963万的巨鲸连夜重建ETH多头仓位，持仓规模已达1.23亿美元
+  [BlockBeats] 新快讯: 某新建地址向Hyperliquid存入1288万USDC，20倍做多ETH
+推送成功: 【BLOCKBEATS - 链上侦探】某新建地址向Hyperliquid存入1288万USDC，20倍做多ETH
 已保存到 Markdown: ./output/blockbeats/2026-02-10.md
-  [BlockBeats] 新快讯: 「麻吉」今晨短暂建仓HYPE多单后割肉，ETH多单增持至5000枚
-推送成功: 【BLOCKBEATS - 链上侦探】「麻吉」今晨短暂建仓HYPE多单后割肉，ETH多单增持至5000枚
-已保存到 Markdown: ./output/blockbeats/2026-02-10.md
-  [BlockBeats] 新快讯: 鲸鱼「degen-retard.sol」抄底SOL失败，认亏出局亏损360万美元
-推送成功: 【BLOCKBEATS - 链上侦探】鲸鱼「degen-retard.sol」抄底SOL失败，认亏出局亏损360万美元
-已保存到 Markdown: ./output/blockbeats/2026-02-10.md
-  [BlockBeats] 新快讯: 彭博社：Stripe估值将在新要约中达到1400亿美元
-推送成功: 【BLOCKBEATS - 融资】彭博社：Stripe估值将在新要约中达到1400亿美元
-已保存到 Markdown: ./output/blockbeats/2026-02-10.md
-  [BlockBeats] 新快讯: a16z宣布领投AI实验室Shizuku AI种子轮融资
-推送成功: 【BLOCKBEATS - 融资】a16z宣布领投AI实验室Shizuku AI种子轮融资
+  [BlockBeats] 新快讯: 「加密交易员CBB」持续建仓纳指100多单，持仓规模逾206万美元
+推送成功: 【BLOCKBEATS - 链上侦探】「加密交易员CBB」持续建仓纳指100多单，持仓规模逾206万美元
 已保存到 Markdown: ./output/blockbeats/2026-02-10.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -46,7 +37,7 @@ Scraping RootData...
 =========================== logs ===========================
 waiting for event "download"
 ============================================================
-Cycle completed. 2026-02-10 05:07:14.189046
+Cycle completed. 2026-02-10 07:08:22.684623
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -56,18 +47,14 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-0 05:06:25,664 - INFO -   Calendar Insight Image...
-2026-02-10 05:06:25,979 - INFO -     Clicked calendar insight icon
-2026-02-10 05:06:27,070 - INFO -     Clicked generate share image button
-2026-02-10 05:06:33,691 - INFO -     Clicked download button
-2026-02-10 05:06:33,747 - INFO -     Saved Calendar Image: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-02-10.png
-2026-02-10 05:06:33,747 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-02-10.png
-2026-02-10 05:06:34,304 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
-2026-02-10 05:06:34,307 - INFO -   Market Image...
-2026-02-10 05:06:39,131 - INFO -     Clicked market download icon
-2026-02-10 05:06:44,243 - INFO -     Clicked save button
-2026-02-10 05:07:14,178 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
+alendar Image: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-02-10.png
+2026-02-10 07:07:41,855 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-02-10.png
+2026-02-10 07:07:42,774 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
+2026-02-10 07:07:42,777 - INFO -   Market Image...
+2026-02-10 07:07:47,633 - INFO -     Clicked market download icon
+2026-02-10 07:07:52,735 - INFO -     Clicked save button
+2026-02-10 07:08:22,671 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
 =========================== logs ===========================
 waiting for event "download"
 ============================================================
-2026-02-10 05:07:14,189 - INFO - Cycle completed. 2026-02-10 05:07:14.189046
+2026-02-10 07:08:22,684 - INFO - Cycle completed. 2026-02-10 07:08:22.684623

@@ -1,11 +1,5 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 「麻吉」近1小时减仓1800枚ETH多单，目前清算价降至1,886.59美元
-推送成功: 【BLOCKBEATS - 链上侦探】「麻吉」近1小时减仓1800枚ETH多单，目前清算价降至1,886.59美元
-已保存到 Markdown: ./output/blockbeats/2026-02-11.md
-  [BlockBeats] 新快讯: 某巨鲸再次向Binance转入2,500枚BTC
-推送成功: 【BLOCKBEATS - 链上侦探】某巨鲸再次向Binance转入2,500枚BTC
-已保存到 Markdown: ./output/blockbeats/2026-02-11.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
   Category: 项目动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1003&is_hot=1
@@ -40,7 +34,7 @@ Call log:
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-Cycle completed. 2026-02-11 16:05:46.413289
+Cycle completed. 2026-02-11 17:59:16.006114
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -50,15 +44,10 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-imeout 15000ms exceeded.
-Call log:
-  - waiting for locator(".list-table, .list-row") to be visible
-
-2026-02-11 16:05:34,900 - INFO -   Calendar Insight Image...
-2026-02-11 16:05:34,903 - WARNING -     Calendar insight icon not found
-2026-02-11 16:05:34,903 - INFO -   Market Image...
-2026-02-11 16:05:46,408 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+   Calendar insight icon not found
+2026-02-11 17:59:05,571 - INFO -   Market Image...
+2026-02-11 17:59:16,001 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-2026-02-11 16:05:46,413 - INFO - Cycle completed. 2026-02-11 16:05:46.413289
+2026-02-11 17:59:16,006 - INFO - Cycle completed. 2026-02-11 17:59:16.006114

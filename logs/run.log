@@ -1,10 +1,10 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 主流Perp DEX一览：各平台交易量均小幅回落，持仓量整体波动较小
-推送成功: 【BLOCKBEATS - 链上侦探】主流Perp DEX一览：各平台交易量均小幅回落，持仓量整体波动较小
+  [BlockBeats] 新快讯: 某巨鲸加仓ETH多单至4.5万枚，目前浮亏350万美元
+推送成功: 【BLOCKBEATS - 链上侦探】某巨鲸加仓ETH多单至4.5万枚，目前浮亏350万美元
 已保存到 Markdown: ./output/blockbeats/2026-02-11.md
-  [BlockBeats] 新快讯: 「ETH空军」停止滚仓转向止盈，月内盈利达1270万美元
-推送成功: 【BLOCKBEATS - 链上侦探】「ETH空军」停止滚仓转向止盈，月内盈利达1270万美元
+  [BlockBeats] 新快讯: Aztec代币拍卖结束后将4,234.6枚ETH和2.73亿枚AZTEC在Uniswap上组建V4流动性池
+推送成功: 【BLOCKBEATS - 链上侦探】Aztec代币拍卖结束后将4,234.6枚ETH和2.73亿枚AZTEC在Uniswap上组建V4流动性池
 已保存到 Markdown: ./output/blockbeats/2026-02-11.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -40,7 +40,7 @@ Call log:
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-Cycle completed. 2026-02-11 10:55:15.106731
+Cycle completed. 2026-02-11 11:48:15.930533
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -54,11 +54,11 @@ imeout 15000ms exceeded.
 Call log:
   - waiting for locator(".list-table, .list-row") to be visible
 
-2026-02-11 10:55:04,617 - INFO -   Calendar Insight Image...
-2026-02-11 10:55:04,619 - WARNING -     Calendar insight icon not found
-2026-02-11 10:55:04,619 - INFO -   Market Image...
-2026-02-11 10:55:15,102 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+2026-02-11 11:48:05,472 - INFO -   Calendar Insight Image...
+2026-02-11 11:48:05,474 - WARNING -     Calendar insight icon not found
+2026-02-11 11:48:05,475 - INFO -   Market Image...
+2026-02-11 11:48:15,926 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-2026-02-11 10:55:15,106 - INFO - Cycle completed. 2026-02-11 10:55:15.106731
+2026-02-11 11:48:15,930 - INFO - Cycle completed. 2026-02-11 11:48:15.930533

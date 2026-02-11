@@ -1,13 +1,25 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 今夜非农或大幅爆冷，1月新增就业人数低于5万概率高达75%
-推送成功: 【BLOCKBEATS - 预测市场】今夜非农或大幅爆冷，1月新增就业人数低于5万概率高达75%
+  [BlockBeats] 新快讯: 预测市场显示iPhone 17e一半概率月底前发布，苹果尚未有相关公告
+推送成功: 【BLOCKBEATS - 预测市场】预测市场显示iPhone 17e一半概率月底前发布，苹果尚未有相关公告
 已保存到 Markdown: ./output/blockbeats/2026-02-11.md
-  [BlockBeats] 新快讯: 美联储主席人选现异动，多个行为异常地址押注朱迪·谢尔顿最终获提名
-推送成功: 【BLOCKBEATS - 预测市场】美联储主席人选现异动，多个行为异常地址押注朱迪·谢尔顿最终获提名
+  [BlockBeats] 新快讯: 「百万美元解谜」野兽先生超级碗广告彩蛋，2月15日前解谜概率30%
+推送成功: 【BLOCKBEATS - 预测市场】「百万美元解谜」野兽先生超级碗广告彩蛋，2月15日前解谜概率30%
 已保存到 Markdown: ./output/blockbeats/2026-02-11.md
-  [BlockBeats] 新快讯: ShapeShift创始人以4,926美元均价增持1,382枚PAXG
-推送成功: 【BLOCKBEATS - 链上侦探】ShapeShift创始人以4,926美元均价增持1,382枚PAXG
+  [BlockBeats] 新快讯: 「Strategy对手盘」止损5400万美元BTC与ETH多仓，录得亏损约186万美元
+推送成功: 【BLOCKBEATS - 链上侦探】「Strategy对手盘」止损5400万美元BTC与ETH多仓，录得亏损约186万美元
+已保存到 Markdown: ./output/blockbeats/2026-02-11.md
+  [BlockBeats] 新快讯: Meme币WhiteWhale市值腰斩：「TheWhiteWhale」明牌吸筹持仓占比达58%，周买入超210万美元代币
+推送成功: 【BLOCKBEATS - 链上侦探】Meme币WhiteWhale市值腰斩：「TheWhiteWhale」明牌吸筹持仓占比达58%，周买入超210万美元代币
+已保存到 Markdown: ./output/blockbeats/2026-02-11.md
+  [BlockBeats] 新快讯: 某ETH波段巨鲸出手建仓3700枚ETH，价值731万美元
+推送成功: 【BLOCKBEATS - 链上侦探】某ETH波段巨鲸出手建仓3700枚ETH，价值731万美元
+已保存到 Markdown: ./output/blockbeats/2026-02-11.md
+  [BlockBeats] 新快讯: 自2940美元起做空ETH的超级空头陆续平仓，当前仓位剩余1645万美元
+推送成功: 【BLOCKBEATS - 链上侦探】自2940美元起做空ETH的超级空头陆续平仓，当前仓位剩余1645万美元
+已保存到 Markdown: ./output/blockbeats/2026-02-11.md
+  [BlockBeats] 新快讯: Hyperliquid最大ETH多头继续加仓，多头仓位增至2.05亿美元
+推送成功: 【BLOCKBEATS - 链上侦探】Hyperliquid最大ETH多头继续加仓，多头仓位增至2.05亿美元
 已保存到 Markdown: ./output/blockbeats/2026-02-11.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -17,24 +29,33 @@
   Category: 融资动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1000&is_hot=1
 Scraping RootData...
   List: Top 100 项目
+  Failed to scrape list Top 100 项目: Page.wait_for_selector: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator("table tr, .list-item") to be visible
+
   List: 透明度评分提升榜
+  Failed to scrape list 透明度评分提升榜: Page.wait_for_selector: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator("table tr, .list-item") to be visible
+
   List: 交易所透明度排名
+  Failed to scrape list 交易所透明度排名: Page.wait_for_selector: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator("table tr, .list-item") to be visible
+
   Calendar Events...
+  Calendar events fetch failed: Page.wait_for_selector: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator(".list-table, .list-row") to be visible
+
   Calendar Insight Image...
-    Clicked calendar insight icon
-    Clicked generate share image button
-    Clicked download button
-    Saved Calendar Image: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-02-11.png
-    Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-02-11.png
-推送成功: 📅 RootData | 未来7天加密日历洞察
+    Calendar insight icon not found
   Market Image...
-    Clicked market download icon
-    Clicked save button
-    Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
-=========================== logs ===========================
-waiting for event "download"
-============================================================
-Cycle completed. 2026-02-11 07:05:20.343302
+    Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(".v-data-table, table, .top-gainers") to be visible
+
+Cycle completed. 2026-02-11 08:54:15.211288
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -44,13 +65,25 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
--02-11 07:04:34,831 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-02-11.png
-2026-02-11 07:04:35,311 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
-2026-02-11 07:04:35,313 - INFO -   Market Image...
-2026-02-11 07:04:45,296 - INFO -     Clicked market download icon
-2026-02-11 07:04:50,398 - INFO -     Clicked save button
-2026-02-11 07:05:20,334 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
-=========================== logs ===========================
-waiting for event "download"
-============================================================
-2026-02-11 07:05:20,343 - INFO - Cycle completed. 2026-02-11 07:05:20.343302
+.
+Call log:
+  - waiting for locator("table tr, .list-item") to be visible
+
+2026-02-11 08:53:31,390 - INFO -   List: 交易所透明度排名
+2026-02-11 08:53:47,943 - ERROR -   Failed to scrape list 交易所透明度排名: Page.wait_for_selector: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator("table tr, .list-item") to be visible
+
+2026-02-11 08:53:47,943 - INFO -   Calendar Events...
+2026-02-11 08:54:03,634 - WARNING -   Calendar events fetch failed: Page.wait_for_selector: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator(".list-table, .list-row") to be visible
+
+2026-02-11 08:54:03,634 - INFO -   Calendar Insight Image...
+2026-02-11 08:54:03,636 - WARNING -     Calendar insight icon not found
+2026-02-11 08:54:03,636 - INFO -   Market Image...
+2026-02-11 08:54:15,206 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(".v-data-table, table, .top-gainers") to be visible
+
+2026-02-11 08:54:15,211 - INFO - Cycle completed. 2026-02-11 08:54:15.211288

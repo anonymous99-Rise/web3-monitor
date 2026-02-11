@@ -1,13 +1,16 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: Base生态活跃度复燃，Meme币CLAWNCH短时拉涨30%
-推送成功: 【BLOCKBEATS - 链上侦探】Base生态活跃度复燃，Meme币CLAWNCH短时拉涨30%
+  [BlockBeats] 新快讯: 五高胜率账户押注4.8万美元美国政府14号前再次关门
+推送成功: 【BLOCKBEATS - 预测市场】五高胜率账户押注4.8万美元美国政府14号前再次关门
 已保存到 Markdown: ./output/blockbeats/2026-02-11.md
-  [BlockBeats] 新快讯: 某巨鲸地址1小时前向Binance转移2500枚BTC
-推送成功: 【BLOCKBEATS - 链上侦探】某巨鲸地址1小时前向Binance转移2500枚BTC
+  [BlockBeats] 新快讯: 「链上股民」黄金相关空单规模已达4000万美元，另做空ETH相对SOL汇率持续盈利
+推送成功: 【BLOCKBEATS - 链上侦探】「链上股民」黄金相关空单规模已达4000万美元，另做空ETH相对SOL汇率持续盈利
 已保存到 Markdown: ./output/blockbeats/2026-02-11.md
-  [BlockBeats] 新快讯: Base生态Meme币KellyClaude市值突破1400万美元新高，24小时涨幅约78%
-推送成功: 【BLOCKBEATS - 链上侦探】Base生态Meme币KellyClaude市值突破1400万美元新高，24小时涨幅约78%
+  [BlockBeats] 新快讯: 「疑似HYPE上币内幕」巨鲸HYPE多单浮亏扩大至1370万美元，清算线26.15美元
+推送成功: 【BLOCKBEATS - 链上侦探】「疑似HYPE上币内幕」巨鲸HYPE多单浮亏扩大至1370万美元，清算线26.15美元
+已保存到 Markdown: ./output/blockbeats/2026-02-11.md
+  [BlockBeats] 新快讯: 稳定币基础设施Levl完成700万美元种子轮融资，Galaxy Ventures领投
+推送成功: 【BLOCKBEATS - 融资】稳定币基础设施Levl完成700万美元种子轮融资，Galaxy Ventures领投
 已保存到 Markdown: ./output/blockbeats/2026-02-11.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -17,24 +20,9 @@
   Category: 融资动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1000&is_hot=1
 Scraping RootData...
   List: Top 100 项目
-  [RootData] 新榜单: Top 100 项目
-推送成功: 【RootData - Top 100 项目】
-推送成功: 【RootData - Top 100 项目】 (续)
-已保存到 Markdown: ./output/rootdata/2026-02-11.md
   List: 透明度评分提升榜
-  [RootData] 新榜单: 透明度评分提升榜
-推送成功: 【RootData - 透明度评分提升榜】
-推送成功: 【RootData - 透明度评分提升榜】 (续)
-已保存到 Markdown: ./output/rootdata/2026-02-11.md
   List: 交易所透明度排名
-  [RootData] 新榜单: 交易所透明度排名
-推送成功: 【RootData - 交易所透明度排名】
-推送成功: 【RootData - 交易所透明度排名】 (续)
-已保存到 Markdown: ./output/rootdata/2026-02-11.md
   Calendar Events...
-  [RootData] 日历事件: 10 条
-推送成功: 📅 RootData | 今日日历事件
-已保存到 Markdown: ./output/rootdata/2026-02-11.md
   Calendar Insight Image...
     Clicked calendar insight icon
     Clicked generate share image button
@@ -49,7 +37,7 @@ Scraping RootData...
 =========================== logs ===========================
 waiting for event "download"
 ============================================================
-Cycle completed. 2026-02-11 02:33:09.377078
+Cycle completed. 2026-02-11 05:05:36.459826
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -59,20 +47,14 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-�
-2026-02-11 02:32:22,895 - INFO - 已保存到 Markdown: ./output/rootdata/2026-02-11.md
-2026-02-11 02:32:22,895 - INFO -   Calendar Insight Image...
-2026-02-11 02:32:23,015 - INFO -     Clicked calendar insight icon
-2026-02-11 02:32:24,064 - INFO -     Clicked generate share image button
-2026-02-11 02:32:29,187 - INFO -     Clicked download button
-2026-02-11 02:32:29,240 - INFO -     Saved Calendar Image: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-02-11.png
-2026-02-11 02:32:29,240 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-02-11.png
-2026-02-11 02:32:29,908 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
-2026-02-11 02:32:29,916 - INFO -   Market Image...
-2026-02-11 02:32:34,329 - INFO -     Clicked market download icon
-2026-02-11 02:32:39,416 - INFO -     Clicked save button
-2026-02-11 02:33:09,368 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
+alendar Image: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-02-11.png
+2026-02-11 05:04:55,062 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-02-11.png
+2026-02-11 05:04:57,620 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
+2026-02-11 05:04:57,622 - INFO -   Market Image...
+2026-02-11 05:05:01,412 - INFO -     Clicked market download icon
+2026-02-11 05:05:06,482 - INFO -     Clicked save button
+2026-02-11 05:05:36,449 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
 =========================== logs ===========================
 waiting for event "download"
 ============================================================
-2026-02-11 02:33:09,377 - INFO - Cycle completed. 2026-02-11 02:33:09.377078
+2026-02-11 05:05:36,459 - INFO - Cycle completed. 2026-02-11 05:05:36.459826

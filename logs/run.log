@@ -1,25 +1,13 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 预测市场显示iPhone 17e一半概率月底前发布，苹果尚未有相关公告
-推送成功: 【BLOCKBEATS - 预测市场】预测市场显示iPhone 17e一半概率月底前发布，苹果尚未有相关公告
+  [BlockBeats] 新快讯: 四个新地址押注1.7万美元EdgeX FDV在上线一日内超20亿美元
+推送成功: 【BLOCKBEATS - 预测市场】四个新地址押注1.7万美元EdgeX FDV在上线一日内超20亿美元
 已保存到 Markdown: ./output/blockbeats/2026-02-11.md
-  [BlockBeats] 新快讯: 「百万美元解谜」野兽先生超级碗广告彩蛋，2月15日前解谜概率30%
-推送成功: 【BLOCKBEATS - 预测市场】「百万美元解谜」野兽先生超级碗广告彩蛋，2月15日前解谜概率30%
+  [BlockBeats] 新快讯: FTX/Alameda地址解除质押196,611枚SOL，价值约1597万美元
+推送成功: 【BLOCKBEATS - 链上侦探】FTX/Alameda地址解除质押196,611枚SOL，价值约1597万美元
 已保存到 Markdown: ./output/blockbeats/2026-02-11.md
-  [BlockBeats] 新快讯: 「Strategy对手盘」止损5400万美元BTC与ETH多仓，录得亏损约186万美元
-推送成功: 【BLOCKBEATS - 链上侦探】「Strategy对手盘」止损5400万美元BTC与ETH多仓，录得亏损约186万美元
-已保存到 Markdown: ./output/blockbeats/2026-02-11.md
-  [BlockBeats] 新快讯: Meme币WhiteWhale市值腰斩：「TheWhiteWhale」明牌吸筹持仓占比达58%，周买入超210万美元代币
-推送成功: 【BLOCKBEATS - 链上侦探】Meme币WhiteWhale市值腰斩：「TheWhiteWhale」明牌吸筹持仓占比达58%，周买入超210万美元代币
-已保存到 Markdown: ./output/blockbeats/2026-02-11.md
-  [BlockBeats] 新快讯: 某ETH波段巨鲸出手建仓3700枚ETH，价值731万美元
-推送成功: 【BLOCKBEATS - 链上侦探】某ETH波段巨鲸出手建仓3700枚ETH，价值731万美元
-已保存到 Markdown: ./output/blockbeats/2026-02-11.md
-  [BlockBeats] 新快讯: 自2940美元起做空ETH的超级空头陆续平仓，当前仓位剩余1645万美元
-推送成功: 【BLOCKBEATS - 链上侦探】自2940美元起做空ETH的超级空头陆续平仓，当前仓位剩余1645万美元
-已保存到 Markdown: ./output/blockbeats/2026-02-11.md
-  [BlockBeats] 新快讯: Hyperliquid最大ETH多头继续加仓，多头仓位增至2.05亿美元
-推送成功: 【BLOCKBEATS - 链上侦探】Hyperliquid最大ETH多头继续加仓，多头仓位增至2.05亿美元
+  [BlockBeats] 新快讯: 某巨鲸质押60073枚ETH，价值1.17亿美元
+推送成功: 【BLOCKBEATS - 链上侦探】某巨鲸质押60073枚ETH，价值1.17亿美元
 已保存到 Markdown: ./output/blockbeats/2026-02-11.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -55,7 +43,7 @@ Call log:
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-Cycle completed. 2026-02-11 08:54:15.211288
+Cycle completed. 2026-02-11 09:57:05.893968
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -65,25 +53,16 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-.
-Call log:
-  - waiting for locator("table tr, .list-item") to be visible
-
-2026-02-11 08:53:31,390 - INFO -   List: 交易所透明度排名
-2026-02-11 08:53:47,943 - ERROR -   Failed to scrape list 交易所透明度排名: Page.wait_for_selector: Timeout 15000ms exceeded.
-Call log:
-  - waiting for locator("table tr, .list-item") to be visible
-
-2026-02-11 08:53:47,943 - INFO -   Calendar Events...
-2026-02-11 08:54:03,634 - WARNING -   Calendar events fetch failed: Page.wait_for_selector: Timeout 15000ms exceeded.
+ts...
+2026-02-11 09:56:55,181 - WARNING -   Calendar events fetch failed: Page.wait_for_selector: Timeout 15000ms exceeded.
 Call log:
   - waiting for locator(".list-table, .list-row") to be visible
 
-2026-02-11 08:54:03,634 - INFO -   Calendar Insight Image...
-2026-02-11 08:54:03,636 - WARNING -     Calendar insight icon not found
-2026-02-11 08:54:03,636 - INFO -   Market Image...
-2026-02-11 08:54:15,206 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+2026-02-11 09:56:55,181 - INFO -   Calendar Insight Image...
+2026-02-11 09:56:55,183 - WARNING -     Calendar insight icon not found
+2026-02-11 09:56:55,183 - INFO -   Market Image...
+2026-02-11 09:57:05,889 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-2026-02-11 08:54:15,211 - INFO - Cycle completed. 2026-02-11 08:54:15.211288
+2026-02-11 09:57:05,893 - INFO - Cycle completed. 2026-02-11 09:57:05.893968

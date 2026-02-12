@@ -1,19 +1,25 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 疑似归属同一实控人的两个新地址建仓985.92枚PAXG，约501.4万美元
-推送成功: 【BLOCKBEATS - 链上侦探】疑似归属同一实控人的两个新地址建仓985.92枚PAXG，约501.4万美元
+  [BlockBeats] 新快讯: 七新建地址下注1.67万美元特朗普会任命Judy Shelton为下届美联储主席
+推送成功: 【BLOCKBEATS - 预测市场】七新建地址下注1.67万美元特朗普会任命Judy Shelton为下届美联储主席
 已保存到 Markdown: ./output/blockbeats/2026-02-12.md
-  [BlockBeats] 新快讯: Alameda Research破产清算地址将1.29亿枚STG兑换为1114.2万枚ZRO
-推送成功: 【BLOCKBEATS - 链上侦探】Alameda Research破产清算地址将1.29亿枚STG兑换为1114.2万枚ZRO
+  [BlockBeats] 新快讯: 某交易员做空BERA，1小时获利达63.8万美元
+推送成功: 【BLOCKBEATS - 链上侦探】某交易员做空BERA，1小时获利达63.8万美元
 已保存到 Markdown: ./output/blockbeats/2026-02-12.md
-  [BlockBeats] 新快讯: 「麻吉」不再看空，已撤销全部限价ETH空单
-推送成功: 【BLOCKBEATS - 链上侦探】「麻吉」不再看空，已撤销全部限价ETH空单
+  [BlockBeats] 新快讯: Meme币CLAWNCH短时拉涨超30%，市值暂报1720万美元
+推送成功: 【BLOCKBEATS - 链上侦探】Meme币CLAWNCH短时拉涨超30%，市值暂报1720万美元
 已保存到 Markdown: ./output/blockbeats/2026-02-12.md
-  [BlockBeats] 新快讯: 某鲸鱼向Hyperliquid存入510万枚USDC后以1倍杠杆做空黄金
-推送成功: 【BLOCKBEATS - 链上侦探】某鲸鱼向Hyperliquid存入510万枚USDC后以1倍杠杆做空黄金
+  [BlockBeats] 新快讯: BERA价格冲高后回落30%，交易员「Loracle」于高点精准做空后现已落袋止盈
+推送成功: 【BLOCKBEATS - 链上侦探】BERA价格冲高后回落30%，交易员「Loracle」于高点精准做空后现已落袋止盈
 已保存到 Markdown: ./output/blockbeats/2026-02-12.md
-  [BlockBeats] 新快讯: 某鲸鱼于贝莱德宣布计划购买UNI后向Coinbase Prime转入365万枚UNI
-推送成功: 【BLOCKBEATS - 链上侦探】某鲸鱼于贝莱德宣布计划购买UNI后向Coinbase Prime转入365万枚UNI
+  [BlockBeats] 新快讯: 全网最大单笔爆仓地址共遭1380万美元清算，系此前爆仓离场的某空头巨鲸
+推送成功: 【BLOCKBEATS - 链上侦探】全网最大单笔爆仓地址共遭1380万美元清算，系此前爆仓离场的某空头巨鲸
+已保存到 Markdown: ./output/blockbeats/2026-02-12.md
+  [BlockBeats] 新快讯: 「做空BTC亏损320万美元」交易员再次10倍做空价值670万美元BTC
+推送成功: 【BLOCKBEATS - 链上侦探】「做空BTC亏损320万美元」交易员再次10倍做空价值670万美元BTC
+已保存到 Markdown: ./output/blockbeats/2026-02-12.md
+  [BlockBeats] 新快讯: 三钱包增持价值1559万美元黄金代币XAUT和PAXG
+推送成功: 【BLOCKBEATS - 链上侦探】三钱包增持价值1559万美元黄金代币XAUT和PAXG
 已保存到 Markdown: ./output/blockbeats/2026-02-12.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -49,7 +55,7 @@ Call log:
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-Cycle completed. 2026-02-12 02:28:03.887566
+Cycle completed. 2026-02-12 05:00:45.813688
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -59,20 +65,25 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
- 交易所透明度排名: Page.wait_for_selector: Timeout 15000ms exceeded.
+.
 Call log:
   - waiting for locator("table tr, .list-item") to be visible
 
-2026-02-12 02:27:37,042 - INFO -   Calendar Events...
-2026-02-12 02:27:52,611 - WARNING -   Calendar events fetch failed: Page.wait_for_selector: Timeout 15000ms exceeded.
+2026-02-12 05:00:01,384 - INFO -   List: 交易所透明度排名
+2026-02-12 05:00:18,216 - ERROR -   Failed to scrape list 交易所透明度排名: Page.wait_for_selector: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator("table tr, .list-item") to be visible
+
+2026-02-12 05:00:18,216 - INFO -   Calendar Events...
+2026-02-12 05:00:34,136 - WARNING -   Calendar events fetch failed: Page.wait_for_selector: Timeout 15000ms exceeded.
 Call log:
   - waiting for locator(".list-table, .list-row") to be visible
 
-2026-02-12 02:27:52,611 - INFO -   Calendar Insight Image...
-2026-02-12 02:27:52,613 - WARNING -     Calendar insight icon not found
-2026-02-12 02:27:52,613 - INFO -   Market Image...
-2026-02-12 02:28:03,883 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+2026-02-12 05:00:34,136 - INFO -   Calendar Insight Image...
+2026-02-12 05:00:34,138 - WARNING -     Calendar insight icon not found
+2026-02-12 05:00:34,138 - INFO -   Market Image...
+2026-02-12 05:00:45,809 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-2026-02-12 02:28:03,887 - INFO - Cycle completed. 2026-02-12 02:28:03.887566
+2026-02-12 05:00:45,813 - INFO - Cycle completed. 2026-02-12 05:00:45.813688

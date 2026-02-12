@@ -1,7 +1,7 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 某巨鲸再向Binance转入1,800枚比特币，价值约1.22亿美元
-推送成功: 【BLOCKBEATS - 链上侦探】某巨鲸再向Binance转入1,800枚比特币，价值约1.22亿美元
+  [BlockBeats] 新快讯: 某巨鲸500万美元开多HYPE、ETH和BTC
+推送成功: 【BLOCKBEATS - 链上侦探】某巨鲸500万美元开多HYPE、ETH和BTC
 已保存到 Markdown: ./output/blockbeats/2026-02-12.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -37,7 +37,7 @@ Call log:
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-Cycle completed. 2026-02-12 15:56:49.929459
+Cycle completed. 2026-02-12 17:02:47.705595
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -48,11 +48,11 @@ Scraping BlockBeats...
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
 
-2026-02-12 15:56:39,373 - INFO -   Calendar Insight Image...
-2026-02-12 15:56:39,376 - WARNING -     Calendar insight icon not found
-2026-02-12 15:56:39,376 - INFO -   Market Image...
-2026-02-12 15:56:49,924 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+2026-02-12 17:02:36,163 - INFO -   Calendar Insight Image...
+2026-02-12 17:02:36,166 - WARNING -     Calendar insight icon not found
+2026-02-12 17:02:36,166 - INFO -   Market Image...
+2026-02-12 17:02:47,701 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-2026-02-12 15:56:49,929 - INFO - Cycle completed. 2026-02-12 15:56:49.929459
+2026-02-12 17:02:47,705 - INFO - Cycle completed. 2026-02-12 17:02:47.705595

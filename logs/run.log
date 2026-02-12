@@ -1,7 +1,19 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 新地址下注9200美元亿万富翁一次性财富税提案能在加州选举中通过
-推送成功: 【BLOCKBEATS - 预测市场】新地址下注9200美元亿万富翁一次性财富税提案能在加州选举中通过
+  [BlockBeats] 新快讯: 「链上股民」平仓7000万加密货币及贵金属头寸，以1700万规模做空美股存储板块
+推送成功: 【BLOCKBEATS - 链上侦探】「链上股民」平仓7000万加密货币及贵金属头寸，以1700万规模做空美股存储板块
+已保存到 Markdown: ./output/blockbeats/2026-02-12.md
+  [BlockBeats] 新快讯: 某合约交易地址9小时前平多ETH割肉，2小时前再次25倍做多9,366枚ETH
+推送成功: 【BLOCKBEATS - 链上侦探】某合约交易地址9小时前平多ETH割肉，2小时前再次25倍做多9,366枚ETH
+已保存到 Markdown: ./output/blockbeats/2026-02-12.md
+  [BlockBeats] 新快讯: Alameda破产管理方再次向债权人分配价值约1560万美元的SOL
+推送成功: 【BLOCKBEATS - 链上侦探】Alameda破产管理方再次向债权人分配价值约1560万美元的SOL
+已保存到 Markdown: ./output/blockbeats/2026-02-12.md
+  [BlockBeats] 新快讯: Meme币WhiteWhale市值反弹至8800万美元，24小时涨幅达42%
+推送成功: 【BLOCKBEATS - 链上侦探】Meme币WhiteWhale市值反弹至8800万美元，24小时涨幅达42%
+已保存到 Markdown: ./output/blockbeats/2026-02-12.md
+  [BlockBeats] 新快讯: AI量化交易机构Inference Research完成2000万美元种子轮融资，李林家办Avenir Group领投
+推送成功: 【BLOCKBEATS - 融资】AI量化交易机构Inference Research完成2000万美元种子轮融资，李林家办Avenir Group领投
 已保存到 Markdown: ./output/blockbeats/2026-02-12.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -37,7 +49,7 @@ Call log:
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-Cycle completed. 2026-02-12 06:11:59.308295
+Cycle completed. 2026-02-12 07:55:33.300968
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -47,12 +59,20 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
+ 交易所透明度排名: Page.wait_for_selector: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator("table tr, .list-item") to be visible
 
-2026-02-12 06:11:48,431 - INFO -   Calendar Insight Image...
-2026-02-12 06:11:48,434 - WARNING -     Calendar insight icon not found
-2026-02-12 06:11:48,434 - INFO -   Market Image...
-2026-02-12 06:11:59,303 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+2026-02-12 07:55:06,457 - INFO -   Calendar Events...
+2026-02-12 07:55:22,813 - WARNING -   Calendar events fetch failed: Page.wait_for_selector: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator(".list-table, .list-row") to be visible
+
+2026-02-12 07:55:22,813 - INFO -   Calendar Insight Image...
+2026-02-12 07:55:22,816 - WARNING -     Calendar insight icon not found
+2026-02-12 07:55:22,816 - INFO -   Market Image...
+2026-02-12 07:55:33,296 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-2026-02-12 06:11:59,308 - INFO - Cycle completed. 2026-02-12 06:11:59.308295
+2026-02-12 07:55:33,301 - INFO - Cycle completed. 2026-02-12 07:55:33.300968

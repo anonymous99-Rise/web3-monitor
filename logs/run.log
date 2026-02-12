@@ -1,10 +1,7 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 相关预测胜率达72%的地址下注1.84万美元，押注以色列将在6月30日前打击伊朗
-推送成功: 【BLOCKBEATS - 预测市场】相关预测胜率达72%的地址下注1.84万美元，押注以色列将在6月30日前打击伊朗
-已保存到 Markdown: ./output/blockbeats/2026-02-12.md
-  [BlockBeats] 新快讯: OKX Ventures战略投资STBL，STBL将在X Layer上开发RWA支持的稳定币
-推送成功: 【BLOCKBEATS - 融资】OKX Ventures战略投资STBL，STBL将在X Layer上开发RWA支持的稳定币
+  [BlockBeats] 新快讯: Pacifica上线美股、贵金属及外汇永续合约，最高支持10倍杠杆
+推送成功: 【BLOCKBEATS - 链上侦探】Pacifica上线美股、贵金属及外汇永续合约，最高支持10倍杠杆
 已保存到 Markdown: ./output/blockbeats/2026-02-12.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -40,7 +37,7 @@ Call log:
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-Cycle completed. 2026-02-12 08:53:38.259241
+Cycle completed. 2026-02-12 09:54:54.836530
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -50,15 +47,12 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-imeout 15000ms exceeded.
-Call log:
-  - waiting for locator(".list-table, .list-row") to be visible
 
-2026-02-12 08:53:26,532 - INFO -   Calendar Insight Image...
-2026-02-12 08:53:26,535 - WARNING -     Calendar insight icon not found
-2026-02-12 08:53:26,535 - INFO -   Market Image...
-2026-02-12 08:53:38,254 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+2026-02-12 09:54:43,560 - INFO -   Calendar Insight Image...
+2026-02-12 09:54:43,562 - WARNING -     Calendar insight icon not found
+2026-02-12 09:54:43,562 - INFO -   Market Image...
+2026-02-12 09:54:54,832 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-2026-02-12 08:53:38,259 - INFO - Cycle completed. 2026-02-12 08:53:38.259241
+2026-02-12 09:54:54,836 - INFO - Cycle completed. 2026-02-12 09:54:54.836530

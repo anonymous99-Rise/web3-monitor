@@ -1,5 +1,20 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
+  [BlockBeats] 新快讯: 疑似归属同一实控人的两个新地址建仓985.92枚PAXG，约501.4万美元
+推送成功: 【BLOCKBEATS - 链上侦探】疑似归属同一实控人的两个新地址建仓985.92枚PAXG，约501.4万美元
+已保存到 Markdown: ./output/blockbeats/2026-02-12.md
+  [BlockBeats] 新快讯: Alameda Research破产清算地址将1.29亿枚STG兑换为1114.2万枚ZRO
+推送成功: 【BLOCKBEATS - 链上侦探】Alameda Research破产清算地址将1.29亿枚STG兑换为1114.2万枚ZRO
+已保存到 Markdown: ./output/blockbeats/2026-02-12.md
+  [BlockBeats] 新快讯: 「麻吉」不再看空，已撤销全部限价ETH空单
+推送成功: 【BLOCKBEATS - 链上侦探】「麻吉」不再看空，已撤销全部限价ETH空单
+已保存到 Markdown: ./output/blockbeats/2026-02-12.md
+  [BlockBeats] 新快讯: 某鲸鱼向Hyperliquid存入510万枚USDC后以1倍杠杆做空黄金
+推送成功: 【BLOCKBEATS - 链上侦探】某鲸鱼向Hyperliquid存入510万枚USDC后以1倍杠杆做空黄金
+已保存到 Markdown: ./output/blockbeats/2026-02-12.md
+  [BlockBeats] 新快讯: 某鲸鱼于贝莱德宣布计划购买UNI后向Coinbase Prime转入365万枚UNI
+推送成功: 【BLOCKBEATS - 链上侦探】某鲸鱼于贝莱德宣布计划购买UNI后向Coinbase Prime转入365万枚UNI
+已保存到 Markdown: ./output/blockbeats/2026-02-12.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
   Category: 项目动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1003&is_hot=1
@@ -34,7 +49,7 @@ Call log:
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-Cycle completed. 2026-02-11 23:36:25.095976
+Cycle completed. 2026-02-12 02:28:03.887566
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -44,10 +59,20 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-   Calendar insight icon not found
-2026-02-11 23:36:13,642 - INFO -   Market Image...
-2026-02-11 23:36:25,091 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+ 交易所透明度排名: Page.wait_for_selector: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator("table tr, .list-item") to be visible
+
+2026-02-12 02:27:37,042 - INFO -   Calendar Events...
+2026-02-12 02:27:52,611 - WARNING -   Calendar events fetch failed: Page.wait_for_selector: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator(".list-table, .list-row") to be visible
+
+2026-02-12 02:27:52,611 - INFO -   Calendar Insight Image...
+2026-02-12 02:27:52,613 - WARNING -     Calendar insight icon not found
+2026-02-12 02:27:52,613 - INFO -   Market Image...
+2026-02-12 02:28:03,883 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-2026-02-11 23:36:25,095 - INFO - Cycle completed. 2026-02-11 23:36:25.095976
+2026-02-12 02:28:03,887 - INFO - Cycle completed. 2026-02-12 02:28:03.887566

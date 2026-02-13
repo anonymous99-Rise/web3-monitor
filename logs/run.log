@@ -1,10 +1,22 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 两个新地址以24.46万美元押注亿万富翁一次性财富税提案能在加州选举中通过
-推送成功: 【BLOCKBEATS - 预测市场】两个新地址以24.46万美元押注亿万富翁一次性财富税提案能在加州选举中通过
+  [BlockBeats] 新快讯: 美国人事管理办公室主任发帖导致政府关门概率从96%暴跌至19%
+推送成功: 【BLOCKBEATS - 预测市场】美国人事管理办公室主任发帖导致政府关门概率从96%暴跌至19%
 已保存到 Markdown: ./output/blockbeats/2026-02-13.md
-  [BlockBeats] 新快讯: 「DASH最大空头」单币浮盈逾510万美元
-推送成功: 【BLOCKBEATS - 链上侦探】「DASH最大空头」单币浮盈逾510万美元
+  [BlockBeats] 新快讯: 新盘口Judy Shelton获得任命的概率在2月20日前高于5%的概率为22%
+推送成功: 【BLOCKBEATS - 预测市场】新盘口Judy Shelton获得任命的概率在2月20日前高于5%的概率为22%
+已保存到 Markdown: ./output/blockbeats/2026-02-13.md
+  [BlockBeats] 新快讯: Hyperliquid上BTC空头持仓规模T3地址现已浮盈243.4万美元
+推送成功: 【BLOCKBEATS - 链上侦探】Hyperliquid上BTC空头持仓规模T3地址现已浮盈243.4万美元
+已保存到 Markdown: ./output/blockbeats/2026-02-13.md
+  [BlockBeats] 新快讯: 做空20余种代币的「山寨空军车头」月盈利达670万，今日持续止盈PUMP及UNI空单
+推送成功: 【BLOCKBEATS - 链上侦探】做空20余种代币的「山寨空军车头」月盈利达670万，今日持续止盈PUMP及UNI空单
+已保存到 Markdown: ./output/blockbeats/2026-02-13.md
+  [BlockBeats] 新快讯: 加密KOL「CBB」与「大宗交易员」链上美股对垒，以2000万规模持仓相同标的
+推送成功: 【BLOCKBEATS - 链上侦探】加密KOL「CBB」与「大宗交易员」链上美股对垒，以2000万规模持仓相同标的
+已保存到 Markdown: ./output/blockbeats/2026-02-13.md
+  [BlockBeats] 新快讯: 某鲸鱼向HyperLiquid存入480万美元并20倍做空ETH
+推送成功: 【BLOCKBEATS - 链上侦探】某鲸鱼向HyperLiquid存入480万美元并20倍做空ETH
 已保存到 Markdown: ./output/blockbeats/2026-02-13.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -40,7 +52,7 @@ Call log:
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-Cycle completed. 2026-02-13 06:02:40.285338
+Cycle completed. 2026-02-13 07:52:15.468212
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -50,15 +62,21 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-imeout 15000ms exceeded.
+- INFO -   List: 交易所透明度排名
+2026-02-13 07:51:48,722 - ERROR -   Failed to scrape list 交易所透明度排名: Page.wait_for_selector: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator("table tr, .list-item") to be visible
+
+2026-02-13 07:51:48,722 - INFO -   Calendar Events...
+2026-02-13 07:52:05,031 - WARNING -   Calendar events fetch failed: Page.wait_for_selector: Timeout 15000ms exceeded.
 Call log:
   - waiting for locator(".list-table, .list-row") to be visible
 
-2026-02-13 06:02:28,604 - INFO -   Calendar Insight Image...
-2026-02-13 06:02:28,607 - WARNING -     Calendar insight icon not found
-2026-02-13 06:02:28,607 - INFO -   Market Image...
-2026-02-13 06:02:40,280 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+2026-02-13 07:52:05,031 - INFO -   Calendar Insight Image...
+2026-02-13 07:52:05,034 - WARNING -     Calendar insight icon not found
+2026-02-13 07:52:05,034 - INFO -   Market Image...
+2026-02-13 07:52:15,463 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-2026-02-13 06:02:40,285 - INFO - Cycle completed. 2026-02-13 06:02:40.285338
+2026-02-13 07:52:15,468 - INFO - Cycle completed. 2026-02-13 07:52:15.468212

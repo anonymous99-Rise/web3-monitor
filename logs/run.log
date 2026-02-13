@@ -1,5 +1,11 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
+  [BlockBeats] 新快讯: 「累计做多10.5万枚ETH」巨鲸再度加仓，多单仓位价值2.04亿美元
+推送成功: 【BLOCKBEATS - 链上侦探】「累计做多10.5万枚ETH」巨鲸再度加仓，多单仓位价值2.04亿美元
+已保存到 Markdown: ./output/blockbeats/2026-02-13.md
+  [BlockBeats] 新快讯: 某巨鲸长期持有SOL录得738万美元巨额亏损
+推送成功: 【BLOCKBEATS - 链上侦探】某巨鲸长期持有SOL录得738万美元巨额亏损
+已保存到 Markdown: ./output/blockbeats/2026-02-13.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
   Category: 项目动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1003&is_hot=1
@@ -34,7 +40,7 @@ Call log:
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-Cycle completed. 2026-02-12 23:33:05.254775
+Cycle completed. 2026-02-13 02:29:21.587030
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -44,10 +50,15 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-   Calendar insight icon not found
-2026-02-12 23:32:54,781 - INFO -   Market Image...
-2026-02-12 23:33:05,250 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+imeout 15000ms exceeded.
+Call log:
+  - waiting for locator(".list-table, .list-row") to be visible
+
+2026-02-13 02:29:11,023 - INFO -   Calendar Insight Image...
+2026-02-13 02:29:11,025 - WARNING -     Calendar insight icon not found
+2026-02-13 02:29:11,026 - INFO -   Market Image...
+2026-02-13 02:29:21,582 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-2026-02-12 23:33:05,254 - INFO - Cycle completed. 2026-02-12 23:33:05.254775
+2026-02-13 02:29:21,587 - INFO - Cycle completed. 2026-02-13 02:29:21.587030

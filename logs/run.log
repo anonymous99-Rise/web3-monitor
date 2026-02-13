@@ -1,5 +1,11 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
+  [BlockBeats] 新快讯: 美司法部长听证会激辩作伪证，预测市场上线串关盘口Bondi Parlay
+推送成功: 【BLOCKBEATS - 预测市场】美司法部长听证会激辩作伪证，预测市场上线串关盘口Bondi Parlay
+已保存到 Markdown: ./output/blockbeats/2026-02-13.md
+  [BlockBeats] 新快讯: 主流Perp DEX一览：Hyperliquid交易量稳居榜首，EdgeX升至第二
+推送成功: 【BLOCKBEATS - 链上侦探】主流Perp DEX一览：Hyperliquid交易量稳居榜首，EdgeX升至第二
+已保存到 Markdown: ./output/blockbeats/2026-02-13.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
   Category: 项目动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1003&is_hot=1
@@ -8,24 +14,9 @@
   Category: 融资动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1000&is_hot=1
 Scraping RootData...
   List: Top 100 项目
-  [RootData] 新榜单: Top 100 项目
-推送成功: 【RootData - Top 100 项目】
-推送成功: 【RootData - Top 100 项目】 (续)
-已保存到 Markdown: ./output/rootdata/2026-02-13.md
   List: 透明度评分提升榜
-  [RootData] 新榜单: 透明度评分提升榜
-推送成功: 【RootData - 透明度评分提升榜】
-推送成功: 【RootData - 透明度评分提升榜】 (续)
-已保存到 Markdown: ./output/rootdata/2026-02-13.md
   List: 交易所透明度排名
-  [RootData] 新榜单: 交易所透明度排名
-推送成功: 【RootData - 交易所透明度排名】
-推送成功: 【RootData - 交易所透明度排名】 (续)
-已保存到 Markdown: ./output/rootdata/2026-02-13.md
   Calendar Events...
-  [RootData] 日历事件: 10 条
-推送成功: 📅 RootData | 今日日历事件
-已保存到 Markdown: ./output/rootdata/2026-02-13.md
   Calendar Insight Image...
     Clicked calendar insight icon
     Clicked generate share image button
@@ -36,11 +27,10 @@ Scraping RootData...
   Market Image...
     Clicked market download icon
     Clicked save button
-    Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
-=========================== logs ===========================
-waiting for event "download"
-============================================================
-Cycle completed. 2026-02-13 09:48:20.448001
+    Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-13.png
+    Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-13.png
+推送成功: 📊 RootData | Top Gainers
+Cycle completed. 2026-02-13 10:42:16.191721
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -50,15 +40,12 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-2-13 09:47:39,998 - INFO -     Clicked download button
-2026-02-13 09:47:40,068 - INFO -     Saved Calendar Image: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-02-13.png
-2026-02-13 09:47:40,068 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-02-13.png
-2026-02-13 09:47:40,939 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
-2026-02-13 09:47:40,942 - INFO -   Market Image...
-2026-02-13 09:47:45,386 - INFO -     Clicked market download icon
-2026-02-13 09:48:07,084 - INFO -     Clicked save button
-2026-02-13 09:48:20,435 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
-=========================== logs ===========================
-waiting for event "download"
-============================================================
-2026-02-13 09:48:20,448 - INFO - Cycle completed. 2026-02-13 09:48:20.448001
+hts/未来7天加密日历洞察_2026-02-13.png
+2026-02-13 10:41:57,102 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
+2026-02-13 10:41:57,105 - INFO -   Market Image...
+2026-02-13 10:42:00,869 - INFO -     Clicked market download icon
+2026-02-13 10:42:15,536 - INFO -     Clicked save button
+2026-02-13 10:42:15,544 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-13.png
+2026-02-13 10:42:15,545 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-13.png
+2026-02-13 10:42:16,180 - INFO - 推送成功: 📊 RootData | Top Gainers
+2026-02-13 10:42:16,191 - INFO - Cycle completed. 2026-02-13 10:42:16.191721

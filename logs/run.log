@@ -1,10 +1,19 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 「累计做多10.5万枚ETH」巨鲸再度加仓，多单仓位价值2.04亿美元
-推送成功: 【BLOCKBEATS - 链上侦探】「累计做多10.5万枚ETH」巨鲸再度加仓，多单仓位价值2.04亿美元
+  [BlockBeats] 新快讯: 某巨鲸再度向Binance存入2035枚BTC，约1.3523亿美元
+推送成功: 【BLOCKBEATS - 链上侦探】某巨鲸再度向Binance存入2035枚BTC，约1.3523亿美元
 已保存到 Markdown: ./output/blockbeats/2026-02-13.md
-  [BlockBeats] 新快讯: 某巨鲸长期持有SOL录得738万美元巨额亏损
-推送成功: 【BLOCKBEATS - 链上侦探】某巨鲸长期持有SOL录得738万美元巨额亏损
+  [BlockBeats] 新快讯: Meme币AntiHunter短时拉涨超35%，市值回升至800万美元
+推送成功: 【BLOCKBEATS - 链上侦探】Meme币AntiHunter短时拉涨超35%，市值回升至800万美元
+已保存到 Markdown: ./output/blockbeats/2026-02-13.md
+  [BlockBeats] 新快讯: 大宗交易员以2350万规模做多美股科技板块，主要持仓为近日大涨的美光科技
+推送成功: 【BLOCKBEATS - 链上侦探】大宗交易员以2350万规模做多美股科技板块，主要持仓为近日大涨的美光科技
+已保存到 Markdown: ./output/blockbeats/2026-02-13.md
+  [BlockBeats] 新快讯: 某巨鲸过去两天向Binance存入8200枚BTC，约5.59亿美元
+推送成功: 【BLOCKBEATS - 链上侦探】某巨鲸过去两天向Binance存入8200枚BTC，约5.59亿美元
+已保存到 Markdown: ./output/blockbeats/2026-02-13.md
+  [BlockBeats] 新快讯: ETH最大多头浮亏做T拉低均价，当前持仓规模约1.16亿美元
+推送成功: 【BLOCKBEATS - 链上侦探】ETH最大多头浮亏做T拉低均价，当前持仓规模约1.16亿美元
 已保存到 Markdown: ./output/blockbeats/2026-02-13.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -40,7 +49,7 @@ Call log:
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-Cycle completed. 2026-02-13 02:29:21.587030
+Cycle completed. 2026-02-13 04:56:29.461712
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -50,15 +59,20 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-imeout 15000ms exceeded.
+ 交易所透明度排名: Page.wait_for_selector: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator("table tr, .list-item") to be visible
+
+2026-02-13 04:56:02,558 - INFO -   Calendar Events...
+2026-02-13 04:56:18,032 - WARNING -   Calendar events fetch failed: Page.wait_for_selector: Timeout 15000ms exceeded.
 Call log:
   - waiting for locator(".list-table, .list-row") to be visible
 
-2026-02-13 02:29:11,023 - INFO -   Calendar Insight Image...
-2026-02-13 02:29:11,025 - WARNING -     Calendar insight icon not found
-2026-02-13 02:29:11,026 - INFO -   Market Image...
-2026-02-13 02:29:21,582 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+2026-02-13 04:56:18,032 - INFO -   Calendar Insight Image...
+2026-02-13 04:56:18,035 - WARNING -     Calendar insight icon not found
+2026-02-13 04:56:18,035 - INFO -   Market Image...
+2026-02-13 04:56:29,456 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-2026-02-13 02:29:21,587 - INFO - Cycle completed. 2026-02-13 02:29:21.587030
+2026-02-13 04:56:29,461 - INFO - Cycle completed. 2026-02-13 04:56:29.461712

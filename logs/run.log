@@ -1,7 +1,7 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 美边境巡逻队探员射伤平民后提供伪证，一账户押注探员将被刑事指控
-推送成功: 【BLOCKBEATS - 预测市场】美边境巡逻队探员射伤平民后提供伪证，一账户押注探员将被刑事指控
+  [BlockBeats] 新快讯: 春晚合作机器人品牌已官宣，Polymarket尾盘订单簿深度限制套利空间
+推送成功: 【BLOCKBEATS - 预测市场】春晚合作机器人品牌已官宣，Polymarket尾盘订单簿深度限制套利空间
 已保存到 Markdown: ./output/blockbeats/2026-02-14.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -27,7 +27,7 @@ Scraping RootData...
     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-14.png
     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-14.png
 推送成功: 📊 RootData | Top Gainers
-Cycle completed. 2026-02-14 10:30:08.028433
+Cycle completed. 2026-02-14 11:25:19.378838
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -38,10 +38,10 @@ Scraping BlockBeats...
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
  RootData | 未来7天加密日历洞察
-2026-02-14 10:29:53,333 - INFO -   Market Image...
-2026-02-14 10:29:57,618 - INFO -     Clicked market download icon
-2026-02-14 10:30:07,384 - INFO -     Clicked save button
-2026-02-14 10:30:07,417 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-14.png
-2026-02-14 10:30:07,417 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-14.png
-2026-02-14 10:30:07,965 - INFO - 推送成功: 📊 RootData | Top Gainers
-2026-02-14 10:30:08,028 - INFO - Cycle completed. 2026-02-14 10:30:08.028433
+2026-02-14 11:25:04,643 - INFO -   Market Image...
+2026-02-14 11:25:09,023 - INFO -     Clicked market download icon
+2026-02-14 11:25:18,846 - INFO -     Clicked save button
+2026-02-14 11:25:18,852 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-14.png
+2026-02-14 11:25:18,853 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-14.png
+2026-02-14 11:25:19,366 - INFO - 推送成功: 📊 RootData | Top Gainers
+2026-02-14 11:25:19,378 - INFO - Cycle completed. 2026-02-14 11:25:19.378838

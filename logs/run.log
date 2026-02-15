@@ -1,14 +1,5 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: Roundhill向美SEC提交政治选举预测主题ETF申请
-推送成功: 【BLOCKBEATS - 预测市场】Roundhill向美SEC提交政治选举预测主题ETF申请
-已保存到 Markdown: ./output/blockbeats/2026-02-15.md
-  [BlockBeats] 新快讯: 某新建地址过去两日买入价值1887万美元黄金代币，均价5053美元
-推送成功: 【BLOCKBEATS - 链上侦探】某新建地址过去两日买入价值1887万美元黄金代币，均价5053美元
-已保存到 Markdown: ./output/blockbeats/2026-02-15.md
-  [BlockBeats] 新快讯: 某鲸鱼地址近两日囤积价值20万美元AZTEC
-推送成功: 【BLOCKBEATS - 链上侦探】某鲸鱼地址近两日囤积价值20万美元AZTEC
-已保存到 Markdown: ./output/blockbeats/2026-02-15.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
   Category: 项目动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1003&is_hot=1
@@ -33,7 +24,7 @@ Scraping RootData...
     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-15.png
     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-15.png
 推送成功: 📊 RootData | Top Gainers
-Cycle completed. 2026-02-15 10:29:55.779225
+Cycle completed. 2026-02-15 11:24:59.774523
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -43,13 +34,9 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-02-15.png
-2026-02-15 10:29:40,780 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-02-15.png
-2026-02-15 10:29:41,647 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
-2026-02-15 10:29:41,650 - INFO -   Market Image...
-2026-02-15 10:29:45,921 - INFO -     Clicked market download icon
-2026-02-15 10:29:55,211 - INFO -     Clicked save button
-2026-02-15 10:29:55,229 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-15.png
-2026-02-15 10:29:55,229 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-15.png
-2026-02-15 10:29:55,767 - INFO - 推送成功: 📊 RootData | Top Gainers
-2026-02-15 10:29:55,779 - INFO - Cycle completed. 2026-02-15 10:29:55.779225
+-15 11:24:48,721 - INFO -     Clicked market download icon
+2026-02-15 11:24:59,113 - INFO -     Clicked save button
+2026-02-15 11:24:59,121 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-15.png
+2026-02-15 11:24:59,121 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-15.png
+2026-02-15 11:24:59,763 - INFO - 推送成功: 📊 RootData | Top Gainers
+2026-02-15 11:24:59,774 - INFO - Cycle completed. 2026-02-15 11:24:59.774523

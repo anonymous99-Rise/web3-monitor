@@ -1,22 +1,7 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 一新地址斥资275万美元建仓WLFI，仍手握1121万枚USD1现金
-推送成功: 【BLOCKBEATS - 链上侦探】一新地址斥资275万美元建仓WLFI，仍手握1121万枚USD1现金
-已保存到 Markdown: ./output/blockbeats/2026-02-16.md
-  [BlockBeats] 新快讯: 本周解锁数据一览：ZRO、ARB、KAITO等将迎来一次性代币大额解锁
-推送成功: 【BLOCKBEATS - 链上侦探】本周解锁数据一览：ZRO、ARB、KAITO等将迎来一次性代币大额解锁
-已保存到 Markdown: ./output/blockbeats/2026-02-16.md
-  [BlockBeats] 新快讯: 链上ETH最大多头提前止盈2.9万枚ETH，今日以1955美元价格低位接回
-推送成功: 【BLOCKBEATS - 链上侦探】链上ETH最大多头提前止盈2.9万枚ETH，今日以1955美元价格低位接回
-已保存到 Markdown: ./output/blockbeats/2026-02-16.md
-  [BlockBeats] 新快讯: 「累计做多10.5万枚ETH」巨鲸再度加仓做多2.4万枚ETH
-推送成功: 【BLOCKBEATS - 链上侦探】「累计做多10.5万枚ETH」巨鲸再度加仓做多2.4万枚ETH
-已保存到 Markdown: ./output/blockbeats/2026-02-16.md
-  [BlockBeats] 新快讯: 「麻吉」加仓HYPE多单，账户浮亏33万美元
-推送成功: 【BLOCKBEATS - 链上侦探】「麻吉」加仓HYPE多单，账户浮亏33万美元
-已保存到 Markdown: ./output/blockbeats/2026-02-16.md
-  [BlockBeats] 新快讯: 「波段屡败屡战」交易员清仓追高买入的ETH，亏损17.1万美元
-推送成功: 【BLOCKBEATS - 链上侦探】「波段屡败屡战」交易员清仓追高买入的ETH，亏损17.1万美元
+  [BlockBeats] 新快讯: 休眠10.6年的以太坊预挖矿地址被激活，包含1430枚ETH
+推送成功: 【BLOCKBEATS - 链上侦探】休眠10.6年的以太坊预挖矿地址被激活，包含1430枚ETH
 已保存到 Markdown: ./output/blockbeats/2026-02-16.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -42,7 +27,7 @@ Scraping RootData...
     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-16.png
     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-16.png
 推送成功: 📊 RootData | Top Gainers
-Cycle completed. 2026-02-16 05:01:37.159803
+Cycle completed. 2026-02-16 06:13:29.476806
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -52,16 +37,11 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-    Clicked calendar insight icon
-2026-02-16 05:01:19,087 - INFO -     Clicked generate share image button
-2026-02-16 05:01:22,140 - INFO -     Clicked download button
-2026-02-16 05:01:22,181 - INFO -     Saved Calendar Image: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-02-16.png
-2026-02-16 05:01:22,182 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-02-16.png
-2026-02-16 05:01:22,718 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
-2026-02-16 05:01:22,721 - INFO -   Market Image...
-2026-02-16 05:01:26,931 - INFO -     Clicked market download icon
-2026-02-16 05:01:36,701 - INFO -     Clicked save button
-2026-02-16 05:01:36,708 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-16.png
-2026-02-16 05:01:36,708 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-16.png
-2026-02-16 05:01:37,149 - INFO - 推送成功: 📊 RootData | Top Gainers
-2026-02-16 05:01:37,159 - INFO - Cycle completed. 2026-02-16 05:01:37.159803
+ RootData | 未来7天加密日历洞察
+2026-02-16 06:13:13,826 - INFO -   Market Image...
+2026-02-16 06:13:18,632 - INFO -     Clicked market download icon
+2026-02-16 06:13:28,592 - INFO -     Clicked save button
+2026-02-16 06:13:28,601 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-16.png
+2026-02-16 06:13:28,601 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-16.png
+2026-02-16 06:13:29,465 - INFO - 推送成功: 📊 RootData | Top Gainers
+2026-02-16 06:13:29,476 - INFO - Cycle completed. 2026-02-16 06:13:29.476806

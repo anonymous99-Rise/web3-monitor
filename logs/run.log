@@ -1,7 +1,7 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: Justin Bram向CEX存入1419万枚WLD，价值约572万美元
-推送成功: 【BLOCKBEATS - 链上侦探】Justin Bram向CEX存入1419万枚WLD，价值约572万美元
+  [BlockBeats] 新快讯: 「麻吉」抛售部分山寨币以再次做多BTC、ETH和HYPE
+推送成功: 【BLOCKBEATS - 链上侦探】「麻吉」抛售部分山寨币以再次做多BTC、ETH和HYPE
 已保存到 Markdown: ./output/blockbeats/2026-02-17.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -11,24 +11,9 @@
   Category: 融资动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1000&is_hot=1
 Scraping RootData...
   List: Top 100 项目
-  [RootData] 新榜单: Top 100 项目
-推送成功: 【RootData - Top 100 项目】
-推送成功: 【RootData - Top 100 项目】 (续)
-已保存到 Markdown: ./output/rootdata/2026-02-17.md
   List: 透明度评分提升榜
-  [RootData] 新榜单: 透明度评分提升榜
-推送成功: 【RootData - 透明度评分提升榜】
-推送成功: 【RootData - 透明度评分提升榜】 (续)
-已保存到 Markdown: ./output/rootdata/2026-02-17.md
   List: 交易所透明度排名
-  [RootData] 新榜单: 交易所透明度排名
-推送成功: 【RootData - 交易所透明度排名】
-推送成功: 【RootData - 交易所透明度排名】 (续)
-已保存到 Markdown: ./output/rootdata/2026-02-17.md
   Calendar Events...
-  [RootData] 日历事件: 10 条
-推送成功: 📅 RootData | 今日日历事件
-已保存到 Markdown: ./output/rootdata/2026-02-17.md
   Calendar Insight Image...
     Clicked calendar insight icon
     Clicked generate share image button
@@ -42,7 +27,7 @@ Scraping RootData...
     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-17.png
     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-17.png
 推送成功: 📊 RootData | Top Gainers
-Cycle completed. 2026-02-17 02:14:15.223309
+Cycle completed. 2026-02-17 04:56:20.111641
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -52,16 +37,11 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-    Clicked calendar insight icon
-2026-02-17 02:13:53,030 - INFO -     Clicked generate share image button
-2026-02-17 02:13:57,678 - INFO -     Clicked download button
-2026-02-17 02:13:57,725 - INFO -     Saved Calendar Image: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-02-17.png
-2026-02-17 02:13:57,725 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-02-17.png
-2026-02-17 02:13:58,202 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
-2026-02-17 02:13:58,204 - INFO -   Market Image...
-2026-02-17 02:14:04,676 - INFO -     Clicked market download icon
-2026-02-17 02:14:14,492 - INFO -     Clicked save button
-2026-02-17 02:14:14,500 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-17.png
-2026-02-17 02:14:14,500 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-17.png
-2026-02-17 02:14:15,211 - INFO - 推送成功: 📊 RootData | Top Gainers
-2026-02-17 02:14:15,223 - INFO - Cycle completed. 2026-02-17 02:14:15.223309
+ RootData | 未来7天加密日历洞察
+2026-02-17 04:56:02,983 - INFO -   Market Image...
+2026-02-17 04:56:07,971 - INFO -     Clicked market download icon
+2026-02-17 04:56:19,497 - INFO -     Clicked save button
+2026-02-17 04:56:19,523 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-17.png
+2026-02-17 04:56:19,524 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-17.png
+2026-02-17 04:56:20,098 - INFO - 推送成功: 📊 RootData | Top Gainers
+2026-02-17 04:56:20,111 - INFO - Cycle completed. 2026-02-17 04:56:20.111641

@@ -1,10 +1,7 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 「麻吉」继续使用5年前存款加仓做多，总仓位超1600万美元
-推送成功: 【BLOCKBEATS - 链上侦探】「麻吉」继续使用5年前存款加仓做多，总仓位超1600万美元
-已保存到 Markdown: ./output/blockbeats/2026-02-18.md
-  [BlockBeats] 新快讯: Temporal完成3亿美元D轮融资，a16z领投
-推送成功: 【BLOCKBEATS - 融资】Temporal完成3亿美元D轮融资，a16z领投
+  [BlockBeats] 新快讯: 美伊核谈官方宣布取得进展，美国打击伊朗概率不降反升
+推送成功: 【BLOCKBEATS - 预测市场】美伊核谈官方宣布取得进展，美国打击伊朗概率不降反升
 已保存到 Markdown: ./output/blockbeats/2026-02-18.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -17,18 +14,10 @@ Scraping RootData...
   List: 透明度评分提升榜
   List: 交易所透明度排名
   Calendar Events...
-  Calendar Insight Image...
-    Clicked calendar insight icon
-    Clicked generate share image button
-    Download button not found
-  Market Image...
-    Clicked market download icon
-    Clicked save button
-    Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
-=========================== logs ===========================
-waiting for event "download"
-============================================================
-Cycle completed. 2026-02-18 06:04:19.333944
+Error in monitor loop: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://cn.rootdata.com/calendar", waiting until "load"
+
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -38,12 +27,8 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-    Download button not found
-2026-02-18 06:03:39,365 - INFO -   Market Image...
-2026-02-18 06:03:44,255 - INFO -     Clicked market download icon
-2026-02-18 06:04:15,683 - INFO -     Clicked save button
-2026-02-18 06:04:19,317 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
-=========================== logs ===========================
-waiting for event "download"
-============================================================
-2026-02-18 06:04:19,333 - INFO - Cycle completed. 2026-02-18 06:04:19.333944
+nts...
+2026-02-18 07:52:38,089 - ERROR - Error in monitor loop: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://cn.rootdata.com/calendar", waiting until "load"
+

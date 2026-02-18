@@ -14,10 +14,18 @@ Scraping RootData...
   List: 透明度评分提升榜
   List: 交易所透明度排名
   Calendar Events...
-Error in monitor loop: Page.goto: Timeout 30000ms exceeded.
-Call log:
-  - navigating to "https://cn.rootdata.com/calendar", waiting until "load"
-
+  Calendar Insight Image...
+    Clicked calendar insight icon
+    Clicked generate share image button
+    Download button not found
+  Market Image...
+    Clicked market download icon
+    Clicked save button
+    Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
+=========================== logs ===========================
+waiting for event "download"
+============================================================
+Cycle completed. 2026-02-18 08:51:26.820488
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -27,8 +35,10 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-nts...
-2026-02-18 07:52:38,089 - ERROR - Error in monitor loop: Page.goto: Timeout 30000ms exceeded.
-Call log:
-  - navigating to "https://cn.rootdata.com/calendar", waiting until "load"
-
+1,773 - INFO -     Clicked market download icon
+2026-02-18 08:51:23,155 - INFO -     Clicked save button
+2026-02-18 08:51:26,810 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
+=========================== logs ===========================
+waiting for event "download"
+============================================================
+2026-02-18 08:51:26,820 - INFO - Cycle completed. 2026-02-18 08:51:26.820488

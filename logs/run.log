@@ -14,18 +14,14 @@ Scraping RootData...
   Calendar Insight Image...
     Clicked calendar insight icon
     Clicked generate share image button
-    Clicked download button
-    Saved Calendar Image: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-02-18.png
-    Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-02-18.png
-推送成功: 📅 RootData | 未来7天加密日历洞察
+    Download button not found
   Market Image...
     Clicked market download icon
     Clicked save button
-    Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
-=========================== logs ===========================
-waiting for event "download"
-============================================================
-Cycle completed. 2026-02-18 09:53:02.595905
+    Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-18.png
+    Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-18.png
+推送成功: 📊 RootData | Top Gainers
+Cycle completed. 2026-02-18 10:49:31.371505
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -35,10 +31,8 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-51 - INFO -     Clicked market download icon
-2026-02-18 09:52:58,799 - INFO -     Clicked save button
-2026-02-18 09:53:02,587 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
-=========================== logs ===========================
-waiting for event "download"
-============================================================
-2026-02-18 09:53:02,595 - INFO - Cycle completed. 2026-02-18 09:53:02.595905
+Clicked save button
+2026-02-18 10:49:30,773 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-18.png
+2026-02-18 10:49:30,773 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-18.png
+2026-02-18 10:49:31,353 - INFO - 推送成功: 📊 RootData | Top Gainers
+2026-02-18 10:49:31,371 - INFO - Cycle completed. 2026-02-18 10:49:31.371505

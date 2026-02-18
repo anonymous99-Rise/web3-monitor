@@ -1,5 +1,14 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
+  [BlockBeats] 新快讯: 某巨鲸向HyperLiquid存入3000万U，以3倍杠杆做多BTC
+推送成功: 【BLOCKBEATS - 链上侦探】某巨鲸向HyperLiquid存入3000万U，以3倍杠杆做多BTC
+已保存到 Markdown: ./output/blockbeats/2026-02-18.md
+  [BlockBeats] 新快讯: WLFI项目地址过去11小时从Binance提币3.13亿枚WLFI
+推送成功: 【BLOCKBEATS - 链上侦探】WLFI项目地址过去11小时从Binance提币3.13亿枚WLFI
+已保存到 Markdown: ./output/blockbeats/2026-02-18.md
+  [BlockBeats] 新快讯: K3 Capital关联地址从Binance提币2万枚ETH
+推送成功: 【BLOCKBEATS - 链上侦探】K3 Capital关联地址从Binance提币2万枚ETH
+已保存到 Markdown: ./output/blockbeats/2026-02-18.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
   Category: 项目动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1003&is_hot=1
@@ -8,9 +17,24 @@
   Category: 融资动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1000&is_hot=1
 Scraping RootData...
   List: Top 100 项目
+  [RootData] 新榜单: Top 100 项目
+推送成功: 【RootData - Top 100 项目】
+推送成功: 【RootData - Top 100 项目】 (续)
+已保存到 Markdown: ./output/rootdata/2026-02-18.md
   List: 透明度评分提升榜
+  [RootData] 新榜单: 透明度评分提升榜
+推送成功: 【RootData - 透明度评分提升榜】
+推送成功: 【RootData - 透明度评分提升榜】 (续)
+已保存到 Markdown: ./output/rootdata/2026-02-18.md
   List: 交易所透明度排名
+  [RootData] 新榜单: 交易所透明度排名
+推送成功: 【RootData - 交易所透明度排名】
+推送成功: 【RootData - 交易所透明度排名】 (续)
+已保存到 Markdown: ./output/rootdata/2026-02-18.md
   Calendar Events...
+  [RootData] 日历事件: 10 条
+推送成功: 📅 RootData | 今日日历事件
+已保存到 Markdown: ./output/rootdata/2026-02-18.md
   Calendar Insight Image...
     Clicked calendar insight icon
     Clicked generate share image button
@@ -22,7 +46,7 @@ Scraping RootData...
 =========================== logs ===========================
 waiting for event "download"
 ============================================================
-Cycle completed. 2026-02-17 23:32:30.120550
+Cycle completed. 2026-02-18 02:26:26.662923
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -32,9 +56,20 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-utton
-2026-02-17 23:32:30,108 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
+2 - INFO - 已保存到 Markdown: ./output/rootdata/2026-02-18.md
+2026-02-18 02:25:28,342 - INFO -   Calendar Events...
+2026-02-18 02:25:30,834 - INFO -   [RootData] 日历事件: 10 条
+2026-02-18 02:25:31,087 - INFO - 推送成功: 📅 RootData | 今日日历事件
+2026-02-18 02:25:31,088 - INFO - 已保存到 Markdown: ./output/rootdata/2026-02-18.md
+2026-02-18 02:25:31,088 - INFO -   Calendar Insight Image...
+2026-02-18 02:25:31,202 - INFO -     Clicked calendar insight icon
+2026-02-18 02:25:32,263 - INFO -     Clicked generate share image button
+2026-02-18 02:25:47,265 - WARNING -     Download button not found
+2026-02-18 02:25:47,265 - INFO -   Market Image...
+2026-02-18 02:25:51,622 - INFO -     Clicked market download icon
+2026-02-18 02:26:22,981 - INFO -     Clicked save button
+2026-02-18 02:26:26,653 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
 =========================== logs ===========================
 waiting for event "download"
 ============================================================
-2026-02-17 23:32:30,120 - INFO - Cycle completed. 2026-02-17 23:32:30.120550
+2026-02-18 02:26:26,662 - INFO - Cycle completed. 2026-02-18 02:26:26.662923

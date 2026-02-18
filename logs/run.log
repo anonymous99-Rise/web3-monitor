@@ -1,8 +1,5 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 某鲸鱼做多4247万枚WLFI已扭亏为盈，此前一度浮亏超100万美元
-推送成功: 【BLOCKBEATS - 链上侦探】某鲸鱼做多4247万枚WLFI已扭亏为盈，此前一度浮亏超100万美元
-已保存到 Markdown: ./output/blockbeats/2026-02-18.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
   Category: 项目动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1003&is_hot=1
@@ -24,11 +21,10 @@ Scraping RootData...
   Market Image...
     Clicked market download icon
     Clicked save button
-    Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
-=========================== logs ===========================
-waiting for event "download"
-============================================================
-Cycle completed. 2026-02-18 17:07:35.690086
+    Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-18.png
+    Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-18.png
+推送成功: 📊 RootData | Top Gainers
+Cycle completed. 2026-02-18 18:58:35.603870
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -38,12 +34,9 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-�来7天加密日历洞察
-2026-02-18 17:06:56,259 - INFO -   Market Image...
-2026-02-18 17:07:00,628 - INFO -     Clicked market download icon
-2026-02-18 17:07:32,025 - INFO -     Clicked save button
-2026-02-18 17:07:35,678 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
-=========================== logs ===========================
-waiting for event "download"
-============================================================
-2026-02-18 17:07:35,690 - INFO - Cycle completed. 2026-02-18 17:07:35.690086
+-18 18:58:25,227 - INFO -     Clicked market download icon
+2026-02-18 18:58:35,063 - INFO -     Clicked save button
+2026-02-18 18:58:35,070 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-18.png
+2026-02-18 18:58:35,070 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-18.png
+2026-02-18 18:58:35,591 - INFO - 推送成功: 📊 RootData | Top Gainers
+2026-02-18 18:58:35,603 - INFO - Cycle completed. 2026-02-18 18:58:35.603870

@@ -1,5 +1,8 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
+  [BlockBeats] 新快讯: 波段巨鲸「pension-usdt.eth」止盈BTC多单，此前规模约6700万美元
+推送成功: 【BLOCKBEATS - 链上侦探】波段巨鲸「pension-usdt.eth」止盈BTC多单，此前规模约6700万美元
+已保存到 Markdown: ./output/blockbeats/2026-02-18.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
   Category: 项目动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1003&is_hot=1
@@ -14,14 +17,18 @@ Scraping RootData...
   Calendar Insight Image...
     Clicked calendar insight icon
     Clicked generate share image button
-    Download button not found
+    Clicked download button
+    Saved Calendar Image: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-02-18.png
+    Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-02-18.png
+推送成功: 📅 RootData | 未来7天加密日历洞察
   Market Image...
     Clicked market download icon
     Clicked save button
-    Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-18.png
-    Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-18.png
-推送成功: 📊 RootData | Top Gainers
-Cycle completed. 2026-02-18 10:49:31.371505
+    Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
+=========================== logs ===========================
+waiting for event "download"
+============================================================
+Cycle completed. 2026-02-18 11:41:15.014807
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -31,8 +38,12 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-Clicked save button
-2026-02-18 10:49:30,773 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-18.png
-2026-02-18 10:49:30,773 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-18.png
-2026-02-18 10:49:31,353 - INFO - 推送成功: 📊 RootData | Top Gainers
-2026-02-18 10:49:31,371 - INFO - Cycle completed. 2026-02-18 10:49:31.371505
+�来7天加密日历洞察
+2026-02-18 11:40:35,650 - INFO -   Market Image...
+2026-02-18 11:40:39,965 - INFO -     Clicked market download icon
+2026-02-18 11:41:11,349 - INFO -     Clicked save button
+2026-02-18 11:41:15,003 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
+=========================== logs ===========================
+waiting for event "download"
+============================================================
+2026-02-18 11:41:15,014 - INFO - Cycle completed. 2026-02-18 11:41:15.014807

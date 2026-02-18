@@ -1,7 +1,7 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: BitMine于2小时前再次增持20,000枚ETH
-推送成功: 【BLOCKBEATS - 链上侦探】BitMine于2小时前再次增持20,000枚ETH
+  [BlockBeats] 新快讯: 某鲸鱼做多4247万枚WLFI已扭亏为盈，此前一度浮亏超100万美元
+推送成功: 【BLOCKBEATS - 链上侦探】某鲸鱼做多4247万枚WLFI已扭亏为盈，此前一度浮亏超100万美元
 已保存到 Markdown: ./output/blockbeats/2026-02-18.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -17,7 +17,10 @@ Scraping RootData...
   Calendar Insight Image...
     Clicked calendar insight icon
     Clicked generate share image button
-    Download button not found
+    Clicked download button
+    Saved Calendar Image: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-02-18.png
+    Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-02-18.png
+推送成功: 📅 RootData | 未来7天加密日历洞察
   Market Image...
     Clicked market download icon
     Clicked save button
@@ -25,7 +28,7 @@ Scraping RootData...
 =========================== logs ===========================
 waiting for event "download"
 ============================================================
-Cycle completed. 2026-02-18 15:55:43.569599
+Cycle completed. 2026-02-18 17:07:35.690086
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -35,10 +38,12 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-8,512 - INFO -     Clicked market download icon
-2026-02-18 15:55:39,888 - INFO -     Clicked save button
-2026-02-18 15:55:43,559 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
+�来7天加密日历洞察
+2026-02-18 17:06:56,259 - INFO -   Market Image...
+2026-02-18 17:07:00,628 - INFO -     Clicked market download icon
+2026-02-18 17:07:32,025 - INFO -     Clicked save button
+2026-02-18 17:07:35,678 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
 =========================== logs ===========================
 waiting for event "download"
 ============================================================
-2026-02-18 15:55:43,569 - INFO - Cycle completed. 2026-02-18 15:55:43.569599
+2026-02-18 17:07:35,690 - INFO - Cycle completed. 2026-02-18 17:07:35.690086

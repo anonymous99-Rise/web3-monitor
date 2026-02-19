@@ -8,14 +8,9 @@
   Category: 融资动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1000&is_hot=1
 Scraping RootData...
   List: Top 100 项目
-  Failed to scrape list Top 100 项目: Page.wait_for_selector: Timeout 15000ms exceeded.
-Call log:
-  - waiting for locator("table tr, .list-item") to be visible
-
-  List: 透明度评分提升榜
 Error in monitor loop: Page.goto: Timeout 30000ms exceeded.
 Call log:
-  - navigating to "https://cn.rootdata.com/rankings/transparency", waiting until "load"
+  - navigating to "https://cn.rootdata.com/rootdatalist/2025/top-projects", waiting until "load"
 
   Database initialized: data.db
   Loaded BlockBeats cookies
@@ -26,5 +21,3 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-tdata.com/rankings/transparency", waiting until "load"
-

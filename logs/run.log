@@ -1,11 +1,5 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: UXLINK攻击者买入5493.26枚ETH，约1087万美元
-推送成功: 【BLOCKBEATS - 链上侦探】UXLINK攻击者买入5493.26枚ETH，约1087万美元
-已保存到 Markdown: ./output/blockbeats/2026-02-19.md
-  [BlockBeats] 新快讯: 波段巨鲸「pension-usdt.eth」加仓BTC多单，建仓均价66,930.5美元
-推送成功: 【BLOCKBEATS - 链上侦探】波段巨鲸「pension-usdt.eth」加仓BTC多单，建仓均价66,930.5美元
-已保存到 Markdown: ./output/blockbeats/2026-02-19.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
   Category: 项目动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1003&is_hot=1
@@ -28,7 +22,7 @@ Scraping RootData...
 =========================== logs ===========================
 waiting for event "download"
 ============================================================
-Cycle completed. 2026-02-19 09:51:56.178379
+Cycle completed. 2026-02-19 10:46:16.325529
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -38,12 +32,9 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-    Download button not found
-2026-02-19 09:51:15,492 - INFO -   Market Image...
-2026-02-19 09:51:21,128 - INFO -     Clicked market download icon
-2026-02-19 09:51:52,514 - INFO -     Clicked save button
-2026-02-19 09:51:56,168 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
+utton
+2026-02-19 10:46:16,312 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
 =========================== logs ===========================
 waiting for event "download"
 ============================================================
-2026-02-19 09:51:56,178 - INFO - Cycle completed. 2026-02-19 09:51:56.178379
+2026-02-19 10:46:16,325 - INFO - Cycle completed. 2026-02-19 10:46:16.325529

@@ -1,11 +1,5 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 某地址从Binance提取1038万枚ASTER，价值722万美元
-推送成功: 【BLOCKBEATS - 链上侦探】某地址从Binance提取1038万枚ASTER，价值722万美元
-已保存到 Markdown: ./output/blockbeats/2026-02-19.md
-  [BlockBeats] 新快讯: 某新建地址归集886.31枚WBTC，5小时前集中抛售
-推送成功: 【BLOCKBEATS - 链上侦探】某新建地址归集886.31枚WBTC，5小时前集中抛售
-已保存到 Markdown: ./output/blockbeats/2026-02-19.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
   Category: 项目动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1003&is_hot=1
@@ -24,11 +18,10 @@ Scraping RootData...
   Market Image...
     Clicked market download icon
     Clicked save button
-    Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
-=========================== logs ===========================
-waiting for event "download"
-============================================================
-Cycle completed. 2026-02-19 04:55:21.692284
+    Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-19.png
+    Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-19.png
+推送成功: 📊 RootData | Top Gainers
+Cycle completed. 2026-02-19 06:01:54.893453
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -38,12 +31,8 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-    Download button not found
-2026-02-19 04:54:42,121 - INFO -   Market Image...
-2026-02-19 04:54:46,648 - INFO -     Clicked market download icon
-2026-02-19 04:55:18,125 - INFO -     Clicked save button
-2026-02-19 04:55:21,681 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
-=========================== logs ===========================
-waiting for event "download"
-============================================================
-2026-02-19 04:55:21,692 - INFO - Cycle completed. 2026-02-19 04:55:21.692284
+Clicked save button
+2026-02-19 06:01:54,317 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-19.png
+2026-02-19 06:01:54,317 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-19.png
+2026-02-19 06:01:54,882 - INFO - 推送成功: 📊 RootData | Top Gainers
+2026-02-19 06:01:54,893 - INFO - Cycle completed. 2026-02-19 06:01:54.893453

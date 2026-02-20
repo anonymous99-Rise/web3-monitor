@@ -1,5 +1,14 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
+  [BlockBeats] 新快讯: 特朗普欲解密UFO档案，美国在2027年前确认外星人存在的概率升至25%
+推送成功: 【BLOCKBEATS - 预测市场】特朗普欲解密UFO档案，美国在2027年前确认外星人存在的概率升至25%
+已保存到 Markdown: ./output/blockbeats/2026-02-20.md
+  [BlockBeats] 新快讯: 一新地址从Binance提出7000枚ETH，约1355万美元
+推送成功: 【BLOCKBEATS - 链上侦探】一新地址从Binance提出7000枚ETH，约1355万美元
+已保存到 Markdown: ./output/blockbeats/2026-02-20.md
+  [BlockBeats] 新快讯: 3个做空ETH的巨鲸均浮盈超800万美元
+推送成功: 【BLOCKBEATS - 链上侦探】3个做空ETH的巨鲸均浮盈超800万美元
+已保存到 Markdown: ./output/blockbeats/2026-02-20.md
   [BlockBeats] 新快讯: BitMine疑似再度增持10,000枚以太坊，价值约1957万美元
 推送成功: 【BLOCKBEATS - 链上侦探】BitMine疑似再度增持10,000枚以太坊，价值约1957万美元
 已保存到 Markdown: ./output/blockbeats/2026-02-20.md
@@ -27,7 +36,11 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-2:45,774 - ERROR - Error in monitor loop: Page.goto: Timeout 30000ms exceeded.
+CN/newsletter?articleType=1001&is_hot=1
+2026-02-20 04:48:56,061 - INFO -   Category: 融资动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1000&is_hot=1
+2026-02-20 04:48:56,920 - INFO - Scraping RootData...
+2026-02-20 04:48:56,950 - INFO -   List: Top 100 项目
+2026-02-20 04:49:26,952 - ERROR - Error in monitor loop: Page.goto: Timeout 30000ms exceeded.
 Call log:
   - navigating to "https://cn.rootdata.com/rootdatalist/2025/top-projects", waiting until "load"
 

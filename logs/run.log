@@ -1,5 +1,11 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
+  [BlockBeats] 新快讯: BitMine疑似再度增持10,000枚以太坊，价值约1957万美元
+推送成功: 【BLOCKBEATS - 链上侦探】BitMine疑似再度增持10,000枚以太坊，价值约1957万美元
+已保存到 Markdown: ./output/blockbeats/2026-02-20.md
+  [BlockBeats] 新快讯: 金融科技公司Newity已完成1100万美元战略融资，CMT Digital领投
+推送成功: 【BLOCKBEATS - 融资】金融科技公司Newity已完成1100万美元战略融资，CMT Digital领投
+已保存到 Markdown: ./output/blockbeats/2026-02-20.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
   Category: 项目动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1003&is_hot=1
@@ -21,3 +27,7 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
+2:45,774 - ERROR - Error in monitor loop: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://cn.rootdata.com/rootdatalist/2025/top-projects", waiting until "load"
+

@@ -8,6 +8,10 @@
   Category: 融资动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1000&is_hot=1
 Scraping RootData...
   List: Top 100 项目
+  Failed to scrape list Top 100 项目: Page.wait_for_selector: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator("table tr, .list-item") to be visible
+
   List: 透明度评分提升榜
   List: 交易所透明度排名
   Calendar Events...
@@ -24,7 +28,7 @@ Scraping RootData...
     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-21.png
     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-21.png
 推送成功: 📊 RootData | Top Gainers
-Cycle completed. 2026-02-21 22:27:40.823798
+Cycle completed. 2026-02-21 23:27:59.838680
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -34,9 +38,10 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
--21 22:27:28,671 - INFO -     Clicked market download icon
-2026-02-21 22:27:40,099 - INFO -     Clicked save button
-2026-02-21 22:27:40,106 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-21.png
-2026-02-21 22:27:40,106 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-21.png
-2026-02-21 22:27:40,810 - INFO - 推送成功: 📊 RootData | Top Gainers
-2026-02-21 22:27:40,823 - INFO - Cycle completed. 2026-02-21 22:27:40.823798
+- INFO -   Market Image...
+2026-02-21 23:27:49,780 - INFO -     Clicked market download icon
+2026-02-21 23:27:59,170 - INFO -     Clicked save button
+2026-02-21 23:27:59,181 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-21.png
+2026-02-21 23:27:59,181 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-21.png
+2026-02-21 23:27:59,821 - INFO - 推送成功: 📊 RootData | Top Gainers
+2026-02-21 23:27:59,838 - INFO - Cycle completed. 2026-02-21 23:27:59.838680

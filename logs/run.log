@@ -1,5 +1,8 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
+  [BlockBeats] 新快讯: 链上HYPE最大多头「Loracle」首次止盈多单，持仓规模降至4620万美元
+推送成功: 【BLOCKBEATS - 链上侦探】链上HYPE最大多头「Loracle」首次止盈多单，持仓规模降至4620万美元
+已保存到 Markdown: ./output/blockbeats/2026-02-21.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
   Category: 项目动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1003&is_hot=1
@@ -24,7 +27,7 @@ Scraping RootData...
     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-21.png
     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-21.png
 推送成功: 📊 RootData | Top Gainers
-Cycle completed. 2026-02-21 14:29:14.911627
+Cycle completed. 2026-02-21 15:28:53.413632
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -34,9 +37,11 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
--21 14:29:04,505 - INFO -     Clicked market download icon
-2026-02-21 14:29:14,313 - INFO -     Clicked save button
-2026-02-21 14:29:14,319 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-21.png
-2026-02-21 14:29:14,319 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-21.png
-2026-02-21 14:29:14,901 - INFO - 推送成功: 📊 RootData | Top Gainers
-2026-02-21 14:29:14,911 - INFO - Cycle completed. 2026-02-21 14:29:14.911627
+ RootData | 未来7天加密日历洞察
+2026-02-21 15:28:37,296 - INFO -   Market Image...
+2026-02-21 15:28:41,967 - INFO -     Clicked market download icon
+2026-02-21 15:28:52,338 - INFO -     Clicked save button
+2026-02-21 15:28:52,346 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-21.png
+2026-02-21 15:28:52,346 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-21.png
+2026-02-21 15:28:53,402 - INFO - 推送成功: 📊 RootData | Top Gainers
+2026-02-21 15:28:53,413 - INFO - Cycle completed. 2026-02-21 15:28:53.413632

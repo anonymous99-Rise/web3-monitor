@@ -1,10 +1,7 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: Vitalik再次抛售428.57枚ETH，本月已累计抛售7,386枚ETH
-推送成功: 【BLOCKBEATS - 链上侦探】Vitalik再次抛售428.57枚ETH，本月已累计抛售7,386枚ETH
-已保存到 Markdown: ./output/blockbeats/2026-02-22.md
-  [BlockBeats] 新快讯: Pump.fun团队两关联地址抛售49.6亿枚PUMP，价值超1050万美元
-推送成功: 【BLOCKBEATS - 链上侦探】Pump.fun团队两关联地址抛售49.6亿枚PUMP，价值超1050万美元
+  [BlockBeats] 新快讯: 某鲸鱼从CEX提取1000万枚RAVE，价值约656万美元
+推送成功: 【BLOCKBEATS - 链上侦探】某鲸鱼从CEX提取1000万枚RAVE，价值约656万美元
 已保存到 Markdown: ./output/blockbeats/2026-02-22.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -14,23 +11,9 @@
   Category: 融资动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1000&is_hot=1
 Scraping RootData...
   List: Top 100 项目
-  [RootData] 新榜单: Top 100 项目
-推送成功: 【RootData - Top 100 项目】
-推送成功: 【RootData - Top 100 项目】 (续)
-已保存到 Markdown: ./output/rootdata/2026-02-22.md
   List: 透明度评分提升榜
-  [RootData] 新榜单: 透明度评分提升榜
-推送成功: 【RootData - 透明度评分提升榜】
-已保存到 Markdown: ./output/rootdata/2026-02-22.md
   List: 交易所透明度排名
-  [RootData] 新榜单: 交易所透明度排名
-推送成功: 【RootData - 交易所透明度排名】
-推送成功: 【RootData - 交易所透明度排名】 (续)
-已保存到 Markdown: ./output/rootdata/2026-02-22.md
   Calendar Events...
-  [RootData] 日历事件: 10 条
-推送成功: 📅 RootData | 今日日历事件
-已保存到 Markdown: ./output/rootdata/2026-02-22.md
   Calendar Insight Image...
     Clicked calendar insight icon
     Clicked generate share image button
@@ -44,7 +27,7 @@ Scraping RootData...
     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-22.png
     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-22.png
 推送成功: 📊 RootData | Top Gainers
-Cycle completed. 2026-02-22 02:24:46.873532
+Cycle completed. 2026-02-22 04:51:27.181811
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -54,17 +37,11 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-FO -   Calendar Insight Image...
-2026-02-22 02:24:26,662 - INFO -     Clicked calendar insight icon
-2026-02-22 02:24:27,773 - INFO -     Clicked generate share image button
-2026-02-22 02:24:31,333 - INFO -     Clicked download button
-2026-02-22 02:24:31,381 - INFO -     Saved Calendar Image: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-02-22.png
-2026-02-22 02:24:31,381 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-02-22.png
-2026-02-22 02:24:31,853 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
-2026-02-22 02:24:31,856 - INFO -   Market Image...
-2026-02-22 02:24:36,345 - INFO -     Clicked market download icon
-2026-02-22 02:24:46,256 - INFO -     Clicked save button
-2026-02-22 02:24:46,282 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-22.png
-2026-02-22 02:24:46,282 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-22.png
-2026-02-22 02:24:46,862 - INFO - 推送成功: 📊 RootData | Top Gainers
-2026-02-22 02:24:46,873 - INFO - Cycle completed. 2026-02-22 02:24:46.873532
+ RootData | 未来7天加密日历洞察
+2026-02-22 04:51:11,364 - INFO -   Market Image...
+2026-02-22 04:51:16,341 - INFO -     Clicked market download icon
+2026-02-22 04:51:26,712 - INFO -     Clicked save button
+2026-02-22 04:51:26,720 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-22.png
+2026-02-22 04:51:26,720 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-22.png
+2026-02-22 04:51:27,167 - INFO - 推送成功: 📊 RootData | Top Gainers
+2026-02-22 04:51:27,181 - INFO - Cycle completed. 2026-02-22 04:51:27.181811

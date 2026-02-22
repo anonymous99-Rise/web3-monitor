@@ -21,10 +21,11 @@ Scraping RootData...
   Market Image...
     Clicked market download icon
     Clicked save button
-    Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-22.png
-    Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-22.png
-推送成功: 📊 RootData | Top Gainers
-Cycle completed. 2026-02-22 06:52:38.211897
+    Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
+=========================== logs ===========================
+waiting for event "download"
+============================================================
+Cycle completed. 2026-02-22 07:38:18.457578
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -34,9 +35,10 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
--22 06:52:25,746 - INFO -     Clicked market download icon
-2026-02-22 06:52:37,710 - INFO -     Clicked save button
-2026-02-22 06:52:37,717 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-22.png
-2026-02-22 06:52:37,717 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-22.png
-2026-02-22 06:52:38,199 - INFO - 推送成功: 📊 RootData | Top Gainers
-2026-02-22 06:52:38,211 - INFO - Cycle completed. 2026-02-22 06:52:38.211897
+16 - INFO -     Clicked market download icon
+2026-02-22 07:37:48,507 - INFO -     Clicked save button
+2026-02-22 07:38:18,447 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
+=========================== logs ===========================
+waiting for event "download"
+============================================================
+2026-02-22 07:38:18,457 - INFO - Cycle completed. 2026-02-22 07:38:18.457578

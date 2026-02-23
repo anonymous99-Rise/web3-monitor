@@ -1,10 +1,13 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 「麻吉」加仓ETH多单，目前小幅浮盈
-推送成功: 【BLOCKBEATS - 链上侦探】「麻吉」加仓ETH多单，目前小幅浮盈
+  [BlockBeats] 新快讯: 早期比特币布道者Erik Voorhees近日斥资2038万美元买入9911枚ETH
+推送成功: 【BLOCKBEATS - 链上侦探】早期比特币布道者Erik Voorhees近日斥资2038万美元买入9911枚ETH
 已保存到 Markdown: ./output/blockbeats/2026-02-23.md
-  [BlockBeats] 新快讯: 贵金属热度减退，Hyperliquid上金银合约24小时成交量维持前十
-推送成功: 【BLOCKBEATS - 链上侦探】贵金属热度减退，Hyperliquid上金银合约24小时成交量维持前十
+  [BlockBeats] 新快讯: 某交易员循环借贷加仓61.93枚WBTC，头寸健康度1.72
+推送成功: 【BLOCKBEATS - 链上侦探】某交易员循环借贷加仓61.93枚WBTC，头寸健康度1.72
+已保存到 Markdown: ./output/blockbeats/2026-02-23.md
+  [BlockBeats] 新快讯: 某鲸鱼卖出5万枚SOL，并兑换买入676.27枚XAUT
+推送成功: 【BLOCKBEATS - 链上侦探】某鲸鱼卖出5万枚SOL，并兑换买入676.27枚XAUT
 已保存到 Markdown: ./output/blockbeats/2026-02-23.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -30,7 +33,7 @@ Scraping RootData...
     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-23.png
     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-23.png
 推送成功: 📊 RootData | Top Gainers
-Cycle completed. 2026-02-23 07:57:00.948817
+Cycle completed. 2026-02-23 08:55:04.544205
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -40,12 +43,13 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-hts/未来7天加密日历洞察_2026-02-23.png
-2026-02-23 07:56:45,882 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
-2026-02-23 07:56:45,884 - INFO -   Market Image...
-2026-02-23 07:56:50,541 - INFO -     Clicked market download icon
-2026-02-23 07:57:00,269 - INFO -     Clicked save button
-2026-02-23 07:57:00,278 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-23.png
-2026-02-23 07:57:00,278 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-23.png
-2026-02-23 07:57:00,932 - INFO - 推送成功: 📊 RootData | Top Gainers
-2026-02-23 07:57:00,948 - INFO - Cycle completed. 2026-02-23 07:57:00.948817
+02-23.png
+2026-02-23 08:54:49,026 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-02-23.png
+2026-02-23 08:54:49,536 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
+2026-02-23 08:54:49,538 - INFO -   Market Image...
+2026-02-23 08:54:54,103 - INFO -     Clicked market download icon
+2026-02-23 08:55:03,968 - INFO -     Clicked save button
+2026-02-23 08:55:03,976 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-23.png
+2026-02-23 08:55:03,976 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-23.png
+2026-02-23 08:55:04,529 - INFO - 推送成功: 📊 RootData | Top Gainers
+2026-02-23 08:55:04,544 - INFO - Cycle completed. 2026-02-23 08:55:04.544205

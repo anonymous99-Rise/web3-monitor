@@ -1,19 +1,25 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 「疑似HYPE上币内幕」巨鲸多单浮亏扩大至1720万美元，紧急下调清算线至24美元
-推送成功: 【BLOCKBEATS - 链上侦探】「疑似HYPE上币内幕」巨鲸多单浮亏扩大至1720万美元，紧急下调清算线至24美元
+  [BlockBeats] 新快讯: 曾在美军打击伊朗前精准建仓账户回归，重仓13.5万美元押注再次动武
+推送成功: 【BLOCKBEATS - 预测市场】曾在美军打击伊朗前精准建仓账户回归，重仓13.5万美元押注再次动武
 已保存到 Markdown: ./output/blockbeats/2026-02-24.md
-  [BlockBeats] 新快讯: Ondo Finance某多签地址将2447.5万枚ONDO存入CEX，价值超600万美元
-推送成功: 【BLOCKBEATS - 链上侦探】Ondo Finance某多签地址将2447.5万枚ONDO存入CEX，价值超600万美元
+  [BlockBeats] 新快讯: 5个新地址共计押注2.73万美元美国打击伊朗
+推送成功: 【BLOCKBEATS - 预测市场】5个新地址共计押注2.73万美元美国打击伊朗
 已保存到 Markdown: ./output/blockbeats/2026-02-24.md
-  [BlockBeats] 新快讯: 某巨鲸疑似清仓6,983枚ETH，持有超两年时间
-推送成功: 【BLOCKBEATS - 链上侦探】某巨鲸疑似清仓6,983枚ETH，持有超两年时间
+  [BlockBeats] 新快讯: Meteora遭内幕交易曝光概率升至48%，暂列加密项目第一
+推送成功: 【BLOCKBEATS - 预测市场】Meteora遭内幕交易曝光概率升至48%，暂列加密项目第一
 已保存到 Markdown: ./output/blockbeats/2026-02-24.md
-  [BlockBeats] 新快讯: Vitalik本月已抛售1.07万枚ETH，均价2,027美元
-推送成功: 【BLOCKBEATS - 链上侦探】Vitalik本月已抛售1.07万枚ETH，均价2,027美元
+  [BlockBeats] 新快讯: 贝莱德今晨从Coinbase提取2,086枚比特币与8,459枚以太坊
+推送成功: 【BLOCKBEATS - 链上侦探】贝莱德今晨从Coinbase提取2,086枚比特币与8,459枚以太坊
 已保存到 Markdown: ./output/blockbeats/2026-02-24.md
-  [BlockBeats] 新快讯: 某巨鲸抛售近2.4万枚ETH，套现4500万美元并加仓部分主流币多单
-推送成功: 【BLOCKBEATS - 链上侦探】某巨鲸抛售近2.4万枚ETH，套现4500万美元并加仓部分主流币多单
+  [BlockBeats] 新快讯: 某ETH OG巨鲸现货割肉杠杆做多，共计持有5618万美元多头仓位
+推送成功: 【BLOCKBEATS - 链上侦探】某ETH OG巨鲸现货割肉杠杆做多，共计持有5618万美元多头仓位
+已保存到 Markdown: ./output/blockbeats/2026-02-24.md
+  [BlockBeats] 新快讯: 「抄底先锋」7siblings关联地址继续增持2179.22枚ETH，价值403万美元
+推送成功: 【BLOCKBEATS - 链上侦探】「抄底先锋」7siblings关联地址继续增持2179.22枚ETH，价值403万美元
+已保存到 Markdown: ./output/blockbeats/2026-02-24.md
+  [BlockBeats] 新快讯: 「Loracle」曾于30美元附近减持HYPE多单实现短期逃顶，持仓规模已缩减超2000万美元
+推送成功: 【BLOCKBEATS - 链上侦探】「Loracle」曾于30美元附近减持HYPE多单实现短期逃顶，持仓规模已缩减超2000万美元
 已保存到 Markdown: ./output/blockbeats/2026-02-24.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -23,24 +29,9 @@
   Category: 融资动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1000&is_hot=1
 Scraping RootData...
   List: Top 100 项目
-  [RootData] 新榜单: Top 100 项目
-推送成功: 【RootData - Top 100 项目】
-推送成功: 【RootData - Top 100 项目】 (续)
-已保存到 Markdown: ./output/rootdata/2026-02-24.md
   List: 透明度评分提升榜
-  [RootData] 新榜单: 透明度评分提升榜
-推送成功: 【RootData - 透明度评分提升榜】
-推送成功: 【RootData - 透明度评分提升榜】 (续)
-已保存到 Markdown: ./output/rootdata/2026-02-24.md
   List: 交易所透明度排名
-  [RootData] 新榜单: 交易所透明度排名
-推送成功: 【RootData - 交易所透明度排名】
-推送成功: 【RootData - 交易所透明度排名】 (续)
-已保存到 Markdown: ./output/rootdata/2026-02-24.md
   Calendar Events...
-  [RootData] 日历事件: 10 条
-推送成功: 📅 RootData | 今日日历事件
-已保存到 Markdown: ./output/rootdata/2026-02-24.md
   Calendar Insight Image...
     Clicked calendar insight icon
     Clicked generate share image button
@@ -54,7 +45,7 @@ Scraping RootData...
     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-24.png
     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-24.png
 推送成功: 📊 RootData | Top Gainers
-Cycle completed. 2026-02-24 02:14:51.713194
+Cycle completed. 2026-02-24 04:54:23.802370
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -64,22 +55,18 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-6-02-24.md
-2026-02-24 02:14:30,661 - INFO -   Calendar Events...
-2026-02-24 02:14:32,496 - INFO -   [RootData] 日历事件: 10 条
-2026-02-24 02:14:33,707 - INFO - 推送成功: 📅 RootData | 今日日历事件
-2026-02-24 02:14:33,709 - INFO - 已保存到 Markdown: ./output/rootdata/2026-02-24.md
-2026-02-24 02:14:33,709 - INFO -   Calendar Insight Image...
-2026-02-24 02:14:33,810 - INFO -     Clicked calendar insight icon
-2026-02-24 02:14:34,935 - INFO -     Clicked generate share image button
-2026-02-24 02:14:36,438 - INFO -     Clicked download button
-2026-02-24 02:14:36,484 - INFO -     Saved Calendar Image: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-02-24.png
-2026-02-24 02:14:36,484 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-02-24.png
-2026-02-24 02:14:37,579 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
-2026-02-24 02:14:37,582 - INFO -   Market Image...
-2026-02-24 02:14:42,060 - INFO -     Clicked market download icon
-2026-02-24 02:14:50,869 - INFO -     Clicked save button
-2026-02-24 02:14:50,875 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-24.png
-2026-02-24 02:14:50,876 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-24.png
-2026-02-24 02:14:51,651 - INFO - 推送成功: 📊 RootData | Top Gainers
-2026-02-24 02:14:51,713 - INFO - Cycle completed. 2026-02-24 02:14:51.713194
+s...
+2026-02-24 04:54:03,350 - INFO -   Calendar Insight Image...
+2026-02-24 04:54:03,594 - INFO -     Clicked calendar insight icon
+2026-02-24 04:54:04,838 - INFO -     Clicked generate share image button
+2026-02-24 04:54:07,527 - INFO -     Clicked download button
+2026-02-24 04:54:07,604 - INFO -     Saved Calendar Image: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-02-24.png
+2026-02-24 04:54:07,604 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-02-24.png
+2026-02-24 04:54:08,398 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
+2026-02-24 04:54:08,401 - INFO -   Market Image...
+2026-02-24 04:54:13,479 - INFO -     Clicked market download icon
+2026-02-24 04:54:22,909 - INFO -     Clicked save button
+2026-02-24 04:54:22,918 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-24.png
+2026-02-24 04:54:22,918 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-24.png
+2026-02-24 04:54:23,790 - INFO - 推送成功: 📊 RootData | Top Gainers
+2026-02-24 04:54:23,802 - INFO - Cycle completed. 2026-02-24 04:54:23.802370

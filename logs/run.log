@@ -1,25 +1,10 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 曾在美军打击伊朗前精准建仓账户回归，重仓13.5万美元押注再次动武
-推送成功: 【BLOCKBEATS - 预测市场】曾在美军打击伊朗前精准建仓账户回归，重仓13.5万美元押注再次动武
+  [BlockBeats] 新快讯: 2个新地址下注3.5万美元Fabric上线首日FDV突破2亿和3亿美元
+推送成功: 【BLOCKBEATS - 预测市场】2个新地址下注3.5万美元Fabric上线首日FDV突破2亿和3亿美元
 已保存到 Markdown: ./output/blockbeats/2026-02-24.md
-  [BlockBeats] 新快讯: 5个新地址共计押注2.73万美元美国打击伊朗
-推送成功: 【BLOCKBEATS - 预测市场】5个新地址共计押注2.73万美元美国打击伊朗
-已保存到 Markdown: ./output/blockbeats/2026-02-24.md
-  [BlockBeats] 新快讯: Meteora遭内幕交易曝光概率升至48%，暂列加密项目第一
-推送成功: 【BLOCKBEATS - 预测市场】Meteora遭内幕交易曝光概率升至48%，暂列加密项目第一
-已保存到 Markdown: ./output/blockbeats/2026-02-24.md
-  [BlockBeats] 新快讯: 贝莱德今晨从Coinbase提取2,086枚比特币与8,459枚以太坊
-推送成功: 【BLOCKBEATS - 链上侦探】贝莱德今晨从Coinbase提取2,086枚比特币与8,459枚以太坊
-已保存到 Markdown: ./output/blockbeats/2026-02-24.md
-  [BlockBeats] 新快讯: 某ETH OG巨鲸现货割肉杠杆做多，共计持有5618万美元多头仓位
-推送成功: 【BLOCKBEATS - 链上侦探】某ETH OG巨鲸现货割肉杠杆做多，共计持有5618万美元多头仓位
-已保存到 Markdown: ./output/blockbeats/2026-02-24.md
-  [BlockBeats] 新快讯: 「抄底先锋」7siblings关联地址继续增持2179.22枚ETH，价值403万美元
-推送成功: 【BLOCKBEATS - 链上侦探】「抄底先锋」7siblings关联地址继续增持2179.22枚ETH，价值403万美元
-已保存到 Markdown: ./output/blockbeats/2026-02-24.md
-  [BlockBeats] 新快讯: 「Loracle」曾于30美元附近减持HYPE多单实现短期逃顶，持仓规模已缩减超2000万美元
-推送成功: 【BLOCKBEATS - 链上侦探】「Loracle」曾于30美元附近减持HYPE多单实现短期逃顶，持仓规模已缩减超2000万美元
+  [BlockBeats] 新快讯: 两大金字塔策略BTC交易员多仓遭较大幅回撤，「Paul Wei」于4.06至6.11万美元区间挂单接多
+推送成功: 【BLOCKBEATS - 链上侦探】两大金字塔策略BTC交易员多仓遭较大幅回撤，「Paul Wei」于4.06至6.11万美元区间挂单接多
 已保存到 Markdown: ./output/blockbeats/2026-02-24.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -32,20 +17,19 @@ Scraping RootData...
   List: 透明度评分提升榜
   List: 交易所透明度排名
   Calendar Events...
+  Calendar events fetch failed: Page.wait_for_selector: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator(".list-table, .list-row") to be visible
+
   Calendar Insight Image...
-    Clicked calendar insight icon
-    Clicked generate share image button
-    Clicked download button
-    Saved Calendar Image: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-02-24.png
-    Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-02-24.png
-推送成功: 📅 RootData | 未来7天加密日历洞察
+    Calendar insight icon not found
   Market Image...
     Clicked market download icon
     Clicked save button
     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-24.png
     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-24.png
 推送成功: 📊 RootData | Top Gainers
-Cycle completed. 2026-02-24 04:54:23.802370
+Cycle completed. 2026-02-24 06:01:58.011836
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -55,18 +39,11 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-s...
-2026-02-24 04:54:03,350 - INFO -   Calendar Insight Image...
-2026-02-24 04:54:03,594 - INFO -     Clicked calendar insight icon
-2026-02-24 04:54:04,838 - INFO -     Clicked generate share image button
-2026-02-24 04:54:07,527 - INFO -     Clicked download button
-2026-02-24 04:54:07,604 - INFO -     Saved Calendar Image: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-02-24.png
-2026-02-24 04:54:07,604 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-02-24.png
-2026-02-24 04:54:08,398 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
-2026-02-24 04:54:08,401 - INFO -   Market Image...
-2026-02-24 04:54:13,479 - INFO -     Clicked market download icon
-2026-02-24 04:54:22,909 - INFO -     Clicked save button
-2026-02-24 04:54:22,918 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-24.png
-2026-02-24 04:54:22,918 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-24.png
-2026-02-24 04:54:23,790 - INFO - 推送成功: 📊 RootData | Top Gainers
-2026-02-24 04:54:23,802 - INFO - Cycle completed. 2026-02-24 04:54:23.802370
+con not found
+2026-02-24 06:01:39,805 - INFO -   Market Image...
+2026-02-24 06:01:47,679 - INFO -     Clicked market download icon
+2026-02-24 06:01:57,489 - INFO -     Clicked save button
+2026-02-24 06:01:57,521 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-24.png
+2026-02-24 06:01:57,521 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-24.png
+2026-02-24 06:01:57,946 - INFO - 推送成功: 📊 RootData | Top Gainers
+2026-02-24 06:01:58,011 - INFO - Cycle completed. 2026-02-24 06:01:58.011836

@@ -1,10 +1,16 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 三个新账户押注ZachXBT将曝光Meteora内幕交易
-推送成功: 【BLOCKBEATS - 预测市场】三个新账户押注ZachXBT将曝光Meteora内幕交易
+  [BlockBeats] 新快讯: 3个新账户斥资7800美元押注GPT-5.3不会在本月底前发布
+推送成功: 【BLOCKBEATS - 预测市场】3个新账户斥资7800美元押注GPT-5.3不会在本月底前发布
 已保存到 Markdown: ./output/blockbeats/2026-02-24.md
-  [BlockBeats] 新快讯: 链上ETH最大多头浮亏扩大至约1200万美元，近日加仓摊平持仓规模达1.27亿美元
-推送成功: 【BLOCKBEATS - 链上侦探】链上ETH最大多头浮亏扩大至约1200万美元，近日加仓摊平持仓规模达1.27亿美元
+  [BlockBeats] 新快讯: Polymarket上「ZachXBT将曝光Meteora内幕交易」概率暂报48%，MET币价24小时跌近14%
+推送成功: 【BLOCKBEATS - 预测市场】Polymarket上「ZachXBT将曝光Meteora内幕交易」概率暂报48%，MET币价24小时跌近14%
+已保存到 Markdown: ./output/blockbeats/2026-02-24.md
+  [BlockBeats] 新快讯: 某巨鲸再次加仓后累计做多12万枚ETH，现已浮亏2059万美元
+推送成功: 【BLOCKBEATS - 链上侦探】某巨鲸再次加仓后累计做多12万枚ETH，现已浮亏2059万美元
+已保存到 Markdown: ./output/blockbeats/2026-02-24.md
+  [BlockBeats] 新快讯: 链上纳指100最大多头押错三市：做多纳指与BTC并做空白银，浮亏近千万美元
+推送成功: 【BLOCKBEATS - 链上侦探】链上纳指100最大多头押错三市：做多纳指与BTC并做空白银，浮亏近千万美元
 已保存到 Markdown: ./output/blockbeats/2026-02-24.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -27,10 +33,11 @@ Scraping RootData...
   Market Image...
     Clicked market download icon
     Clicked save button
-    Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-24.png
-    Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-24.png
-推送成功: 📊 RootData | Top Gainers
-Cycle completed. 2026-02-24 07:14:24.357564
+    Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
+=========================== logs ===========================
+waiting for event "download"
+============================================================
+Cycle completed. 2026-02-24 08:53:30.068381
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -40,12 +47,14 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-hts/未来7天加密日历洞察_2026-02-24.png
-2026-02-24 07:14:09,717 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
-2026-02-24 07:14:09,720 - INFO -   Market Image...
-2026-02-24 07:14:14,040 - INFO -     Clicked market download icon
-2026-02-24 07:14:23,877 - INFO -     Clicked save button
-2026-02-24 07:14:23,909 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-24.png
-2026-02-24 07:14:23,909 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-24.png
-2026-02-24 07:14:24,343 - INFO - 推送成功: 📊 RootData | Top Gainers
-2026-02-24 07:14:24,357 - INFO - Cycle completed. 2026-02-24 07:14:24.357564
+alendar Image: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-02-24.png
+2026-02-24 08:52:50,180 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-02-24.png
+2026-02-24 08:52:50,764 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
+2026-02-24 08:52:50,768 - INFO -   Market Image...
+2026-02-24 08:52:55,021 - INFO -     Clicked market download icon
+2026-02-24 08:53:02,165 - INFO -     Clicked save button
+2026-02-24 08:53:30,057 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
+=========================== logs ===========================
+waiting for event "download"
+============================================================
+2026-02-24 08:53:30,068 - INFO - Cycle completed. 2026-02-24 08:53:30.068381

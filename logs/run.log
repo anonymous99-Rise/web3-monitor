@@ -1,17 +1,5 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: Stripe今年全资收购PayPal概率仅26%，部分收购可能性达46%
-推送成功: 【BLOCKBEATS - 预测市场】Stripe今年全资收购PayPal概率仅26%，部分收购可能性达46%
-已保存到 Markdown: ./output/blockbeats/2026-02-25.md
-  [BlockBeats] 新快讯: 链上最长情的XPL主力多军于「10.11」前夕建仓开多，累计存入670万资金以扛单至今
-推送成功: 【BLOCKBEATS - 链上侦探】链上最长情的XPL主力多军于「10.11」前夕建仓开多，累计存入670万资金以扛单至今
-已保存到 Markdown: ./output/blockbeats/2026-02-25.md
-  [BlockBeats] 新快讯: 链上白银最大多头连亏一周后翻身，今日建仓押中白银大涨浮盈36%
-推送成功: 【BLOCKBEATS - 链上侦探】链上白银最大多头连亏一周后翻身，今日建仓押中白银大涨浮盈36%
-已保存到 Markdown: ./output/blockbeats/2026-02-25.md
-  [BlockBeats] 新快讯: 某鲸鱼从Binance和Deribit提取2万枚以太坊，价值约3825万美元
-推送成功: 【BLOCKBEATS - 链上侦探】某鲸鱼从Binance和Deribit提取2万枚以太坊，价值约3825万美元
-已保存到 Markdown: ./output/blockbeats/2026-02-25.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
   Category: 项目动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1003&is_hot=1
@@ -36,7 +24,7 @@ Scraping RootData...
     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-25.png
     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-25.png
 推送成功: 📊 RootData | Top Gainers
-Cycle completed. 2026-02-25 07:54:21.558090
+Cycle completed. 2026-02-25 08:54:03.192780
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -46,13 +34,9 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
- -     Saved Calendar Image: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-02-25.png
-2026-02-25 07:54:04,819 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-02-25.png
-2026-02-25 07:54:05,362 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
-2026-02-25 07:54:05,364 - INFO -   Market Image...
-2026-02-25 07:54:09,590 - INFO -     Clicked market download icon
-2026-02-25 07:54:19,403 - INFO -     Clicked save button
-2026-02-25 07:54:19,410 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-25.png
-2026-02-25 07:54:19,411 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-25.png
-2026-02-25 07:54:21,546 - INFO - 推送成功: 📊 RootData | Top Gainers
-2026-02-25 07:54:21,558 - INFO - Cycle completed. 2026-02-25 07:54:21.558090
+-25 08:53:52,398 - INFO -     Clicked market download icon
+2026-02-25 08:54:02,272 - INFO -     Clicked save button
+2026-02-25 08:54:02,295 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-25.png
+2026-02-25 08:54:02,295 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-25.png
+2026-02-25 08:54:03,180 - INFO - 推送成功: 📊 RootData | Top Gainers
+2026-02-25 08:54:03,192 - INFO - Cycle completed. 2026-02-25 08:54:03.192780

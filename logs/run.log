@@ -1,13 +1,7 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: Hyperliquid最大ETH多头浮亏缩窄至1035万美元，仓位价值2.3亿美元
-推送成功: 【BLOCKBEATS - 链上侦探】Hyperliquid最大ETH多头浮亏缩窄至1035万美元，仓位价值2.3亿美元
-已保存到 Markdown: ./output/blockbeats/2026-02-25.md
-  [BlockBeats] 新快讯: USDC Treasury在Solana链上新增铸造2.5亿枚USDC
-推送成功: 【BLOCKBEATS - 链上侦探】USDC Treasury在Solana链上新增铸造2.5亿枚USDC
-已保存到 Markdown: ./output/blockbeats/2026-02-25.md
-  [BlockBeats] 新快讯: 预测市场协议TBD完成300万美元种子轮融资，CMT Digital和ParaFi共同领投
-推送成功: 【BLOCKBEATS - 融资】预测市场协议TBD完成300万美元种子轮融资，CMT Digital和ParaFi共同领投
+  [BlockBeats] 新快讯: 「pension-usdt.eth」BTC多单扭亏为盈后短时完全平仓，此前规模约6860万美元
+推送成功: 【BLOCKBEATS - 链上侦探】「pension-usdt.eth」BTC多单扭亏为盈后短时完全平仓，此前规模约6860万美元
 已保存到 Markdown: ./output/blockbeats/2026-02-25.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -33,7 +27,7 @@ Scraping RootData...
     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-25.png
     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-25.png
 推送成功: 📊 RootData | Top Gainers
-Cycle completed. 2026-02-25 16:06:02.304753
+Cycle completed. 2026-02-25 17:59:43.524182
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -43,13 +37,11 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-02-25.png
-2026-02-25 16:05:46,636 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-02-25.png
-2026-02-25 16:05:47,603 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
-2026-02-25 16:05:47,605 - INFO -   Market Image...
-2026-02-25 16:05:51,934 - INFO -     Clicked market download icon
-2026-02-25 16:06:01,734 - INFO -     Clicked save button
-2026-02-25 16:06:01,758 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-25.png
-2026-02-25 16:06:01,758 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-25.png
-2026-02-25 16:06:02,291 - INFO - 推送成功: 📊 RootData | Top Gainers
-2026-02-25 16:06:02,304 - INFO - Cycle completed. 2026-02-25 16:06:02.304753
+ RootData | 未来7天加密日历洞察
+2026-02-25 17:59:29,016 - INFO -   Market Image...
+2026-02-25 17:59:33,626 - INFO -     Clicked market download icon
+2026-02-25 17:59:42,919 - INFO -     Clicked save button
+2026-02-25 17:59:42,927 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-25.png
+2026-02-25 17:59:42,927 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-25.png
+2026-02-25 17:59:43,512 - INFO - 推送成功: 📊 RootData | Top Gainers
+2026-02-25 17:59:43,524 - INFO - Cycle completed. 2026-02-25 17:59:43.524182

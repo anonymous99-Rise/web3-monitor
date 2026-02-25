@@ -1,16 +1,10 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 三新账户1.42万美元押注ZachXBT将曝光Axiom，概率升至20%
-推送成功: 【BLOCKBEATS - 预测市场】三新账户1.42万美元押注ZachXBT将曝光Axiom，概率升至20%
+  [BlockBeats] 新快讯: Galaxy Digital关联地址过去9小时向Binance存入280枚BTC
+推送成功: 【BLOCKBEATS - 链上侦探】Galaxy Digital关联地址过去9小时向Binance存入280枚BTC
 已保存到 Markdown: ./output/blockbeats/2026-02-25.md
-  [BlockBeats] 新快讯: 四新账户8100美元押注Judy Shelton为下任美联储主席
-推送成功: 【BLOCKBEATS - 预测市场】四新账户8100美元押注Judy Shelton为下任美联储主席
-已保存到 Markdown: ./output/blockbeats/2026-02-25.md
-  [BlockBeats] 新快讯: 新账户反手2600美元押注GPT-5.3本月发布，概率一小时内飙升至80%
-推送成功: 【BLOCKBEATS - 预测市场】新账户反手2600美元押注GPT-5.3本月发布，概率一小时内飙升至80%
-已保存到 Markdown: ./output/blockbeats/2026-02-25.md
-  [BlockBeats] 新快讯: 以太坊财库公司FG Nexus再次抛售7,550枚ETH，整体账面亏损超8000万美元
-推送成功: 【BLOCKBEATS - 链上侦探】以太坊财库公司FG Nexus再次抛售7,550枚ETH，整体账面亏损超8000万美元
+  [BlockBeats] 新快讯: 主流Perp DEX一览：Aster交易量回落明显，Hyperliquid交易量波动较小
+推送成功: 【BLOCKBEATS - 链上侦探】主流Perp DEX一览：Aster交易量回落明显，Hyperliquid交易量波动较小
 已保存到 Markdown: ./output/blockbeats/2026-02-25.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -36,7 +30,7 @@ Scraping RootData...
     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-25.png
     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-25.png
 推送成功: 📊 RootData | Top Gainers
-Cycle completed. 2026-02-25 10:56:16.501759
+Cycle completed. 2026-02-25 11:42:32.579881
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -46,13 +40,12 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
- -     Saved Calendar Image: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-02-25.png
-2026-02-25 10:55:49,988 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-02-25.png
-2026-02-25 10:55:50,704 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
-2026-02-25 10:55:50,707 - INFO -   Market Image...
-2026-02-25 10:55:55,292 - INFO -     Clicked market download icon
-2026-02-25 10:56:15,916 - INFO -     Clicked save button
-2026-02-25 10:56:15,924 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-25.png
-2026-02-25 10:56:15,924 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-25.png
-2026-02-25 10:56:16,489 - INFO - 推送成功: 📊 RootData | Top Gainers
-2026-02-25 10:56:16,501 - INFO - Cycle completed. 2026-02-25 10:56:16.501759
+hts/未来7天加密日历洞察_2026-02-25.png
+2026-02-25 11:42:18,226 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
+2026-02-25 11:42:18,229 - INFO -   Market Image...
+2026-02-25 11:42:22,231 - INFO -     Clicked market download icon
+2026-02-25 11:42:32,069 - INFO -     Clicked save button
+2026-02-25 11:42:32,077 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-25.png
+2026-02-25 11:42:32,077 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-25.png
+2026-02-25 11:42:32,566 - INFO - 推送成功: 📊 RootData | Top Gainers
+2026-02-25 11:42:32,579 - INFO - Cycle completed. 2026-02-25 11:42:32.579881

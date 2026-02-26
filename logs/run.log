@@ -1,16 +1,13 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 29个新账户过去5小时涌入ZachXBT指控事件，总买入超44.8万美元
-推送成功: 【BLOCKBEATS - 预测市场】29个新账户过去5小时涌入ZachXBT指控事件，总买入超44.8万美元
+  [BlockBeats] 新快讯: 2个专业账户押注3.1万美元买入GPT-5.3将于3天内发布
+推送成功: 【BLOCKBEATS - 预测市场】2个专业账户押注3.1万美元买入GPT-5.3将于3天内发布
 已保存到 Markdown: ./output/blockbeats/2026-02-26.md
-  [BlockBeats] 新快讯: 链上ETH最大多头此前高抛低吸拉低近90美元均价，当前持仓浮盈扩大至526万美元
-推送成功: 【BLOCKBEATS - 链上侦探】链上ETH最大多头此前高抛低吸拉低近90美元均价，当前持仓浮盈扩大至526万美元
+  [BlockBeats] 新快讯: 主流Perp DEX一览：各平台交易量持仓量均有明显回升，Hyperliquid持仓量近四日接连小涨
+推送成功: 【BLOCKBEATS - 链上侦探】主流Perp DEX一览：各平台交易量持仓量均有明显回升，Hyperliquid持仓量近四日接连小涨
 已保存到 Markdown: ./output/blockbeats/2026-02-26.md
-  [BlockBeats] 新快讯: 隐私赛道主力多军浮亏死守，ZEC最大多头巨鲸持仓亏损达668万美元
-推送成功: 【BLOCKBEATS - 链上侦探】隐私赛道主力多军浮亏死守，ZEC最大多头巨鲸持仓亏损达668万美元
-已保存到 Markdown: ./output/blockbeats/2026-02-26.md
-  [BlockBeats] 新快讯: 马来西亚Zetrix完成约4000万美元融资，AI子公司计划在纳斯达克上市
-推送成功: 【BLOCKBEATS - 融资】马来西亚Zetrix完成约4000万美元融资，AI子公司计划在纳斯达克上市
+  [BlockBeats] 新快讯: 「麻吉」加仓ETH多单，现浮盈88万美元
+推送成功: 【BLOCKBEATS - 链上侦探】「麻吉」加仓ETH多单，现浮盈88万美元
 已保存到 Markdown: ./output/blockbeats/2026-02-26.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -36,7 +33,7 @@ Scraping RootData...
     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-26.png
     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-26.png
 推送成功: 📊 RootData | Top Gainers
-Cycle completed. 2026-02-26 09:54:09.356561
+Cycle completed. 2026-02-26 10:50:36.496402
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -46,13 +43,13 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
- -     Saved Calendar Image: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-02-26.png
-2026-02-26 09:53:53,746 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-02-26.png
-2026-02-26 09:53:54,407 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
-2026-02-26 09:53:54,410 - INFO -   Market Image...
-2026-02-26 09:53:58,987 - INFO -     Clicked market download icon
-2026-02-26 09:54:08,784 - INFO -     Clicked save button
-2026-02-26 09:54:08,810 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-26.png
-2026-02-26 09:54:08,810 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-26.png
-2026-02-26 09:54:09,345 - INFO - 推送成功: 📊 RootData | Top Gainers
-2026-02-26 09:54:09,356 - INFO - Cycle completed. 2026-02-26 09:54:09.356561
+02-26.png
+2026-02-26 10:50:20,955 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-02-26.png
+2026-02-26 10:50:21,538 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
+2026-02-26 10:50:21,541 - INFO -   Market Image...
+2026-02-26 10:50:25,963 - INFO -     Clicked market download icon
+2026-02-26 10:50:35,763 - INFO -     Clicked save button
+2026-02-26 10:50:35,783 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-26.png
+2026-02-26 10:50:35,783 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-26.png
+2026-02-26 10:50:36,484 - INFO - 推送成功: 📊 RootData | Top Gainers
+2026-02-26 10:50:36,496 - INFO - Cycle completed. 2026-02-26 10:50:36.496402

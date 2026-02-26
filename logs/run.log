@@ -1,19 +1,16 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 2个新账户押注16.45万美元美国将袭击伊朗
-推送成功: 【BLOCKBEATS - 预测市场】2个新账户押注16.45万美元美国将袭击伊朗
+  [BlockBeats] 新快讯: 4个新账户押注2.74万美元「Meteora不会被ZachXBT指控内幕交易」
+推送成功: 【BLOCKBEATS - 预测市场】4个新账户押注2.74万美元「Meteora不会被ZachXBT指控内幕交易」
 已保存到 Markdown: ./output/blockbeats/2026-02-26.md
-  [BlockBeats] 新快讯: 「ZachXBT将曝光Axiom内幕交易」概率升至38%，超越Meteora暂列第一
-推送成功: 【BLOCKBEATS - 预测市场】「ZachXBT将曝光Axiom内幕交易」概率升至38%，超越Meteora暂列第一
+  [BlockBeats] 新快讯: Polymarket推出白宫新闻发布会版「连连看」
+推送成功: 【BLOCKBEATS - 预测市场】Polymarket推出白宫新闻发布会版「连连看」
 已保存到 Markdown: ./output/blockbeats/2026-02-26.md
-  [BlockBeats] 新快讯: 政治板块65%胜率账户押注3000美元买入DHS停摆将于4月前结束
-推送成功: 【BLOCKBEATS - 预测市场】政治板块65%胜率账户押注3000美元买入DHS停摆将于4月前结束
+  [BlockBeats] 新快讯: 「白银铁头空军」入场做空英伟达，建仓均价196.37美元
+推送成功: 【BLOCKBEATS - 链上侦探】「白银铁头空军」入场做空英伟达，建仓均价196.37美元
 已保存到 Markdown: ./output/blockbeats/2026-02-26.md
-  [BlockBeats] 新快讯: 某鲸鱼通过Aave循环贷借出3600万枚USDT后买入17,283枚ETH
-推送成功: 【BLOCKBEATS - 链上侦探】某鲸鱼通过Aave循环贷借出3600万枚USDT后买入17,283枚ETH
-已保存到 Markdown: ./output/blockbeats/2026-02-26.md
-  [BlockBeats] 新快讯: Continue Capital多单浮盈扩大至133万美元，现以逾2000万规模布局存储板块及英伟达
-推送成功: 【BLOCKBEATS - 链上侦探】Continue Capital多单浮盈扩大至133万美元，现以逾2000万规模布局存储板块及英伟达
+  [BlockBeats] 新快讯: 某交易员平仓「Zachxbt将指控Axiom存在内幕交易」押注，一天获利3.9万美元
+推送成功: 【BLOCKBEATS - 链上侦探】某交易员平仓「Zachxbt将指控Axiom存在内幕交易」押注，一天获利3.9万美元
 已保存到 Markdown: ./output/blockbeats/2026-02-26.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -39,7 +36,7 @@ Scraping RootData...
     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-26.png
     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-26.png
 推送成功: 📊 RootData | Top Gainers
-Cycle completed. 2026-02-26 07:12:37.050297
+Cycle completed. 2026-02-26 08:53:12.803204
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -49,15 +46,13 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
- button
-2026-02-26 07:12:21,044 - INFO -     Clicked download button
-2026-02-26 07:12:21,147 - INFO -     Saved Calendar Image: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-02-26.png
-2026-02-26 07:12:21,148 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-02-26.png
-2026-02-26 07:12:21,646 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
-2026-02-26 07:12:21,649 - INFO -   Market Image...
-2026-02-26 07:12:26,337 - INFO -     Clicked market download icon
-2026-02-26 07:12:36,256 - INFO -     Clicked save button
-2026-02-26 07:12:36,263 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-26.png
-2026-02-26 07:12:36,263 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-26.png
-2026-02-26 07:12:37,035 - INFO - 推送成功: 📊 RootData | Top Gainers
-2026-02-26 07:12:37,050 - INFO - Cycle completed. 2026-02-26 07:12:37.050297
+ -     Saved Calendar Image: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-02-26.png
+2026-02-26 08:52:57,041 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-02-26.png
+2026-02-26 08:52:57,697 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
+2026-02-26 08:52:57,700 - INFO -   Market Image...
+2026-02-26 08:53:02,038 - INFO -     Clicked market download icon
+2026-02-26 08:53:11,870 - INFO -     Clicked save button
+2026-02-26 08:53:11,878 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-26.png
+2026-02-26 08:53:11,878 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-26.png
+2026-02-26 08:53:12,786 - INFO - 推送成功: 📊 RootData | Top Gainers
+2026-02-26 08:53:12,803 - INFO - Cycle completed. 2026-02-26 08:53:12.803204

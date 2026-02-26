@@ -1,8 +1,5 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 贝莱德过去1小时从Coinbase提币4,309枚BTC
-推送成功: 【BLOCKBEATS - 链上侦探】贝莱德过去1小时从Coinbase提币4,309枚BTC
-已保存到 Markdown: ./output/blockbeats/2026-02-26.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
   Category: 项目动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1003&is_hot=1
@@ -27,7 +24,7 @@ Scraping RootData...
     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-26.png
     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-26.png
 推送成功: 📊 RootData | Top Gainers
-Cycle completed. 2026-02-26 17:02:05.748103
+Cycle completed. 2026-02-26 18:55:50.522689
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -37,11 +34,9 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
- RootData | 未来7天加密日历洞察
-2026-02-26 17:01:50,906 - INFO -   Market Image...
-2026-02-26 17:01:55,071 - INFO -     Clicked market download icon
-2026-02-26 17:02:04,885 - INFO -     Clicked save button
-2026-02-26 17:02:04,892 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-26.png
-2026-02-26 17:02:04,892 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-26.png
-2026-02-26 17:02:05,716 - INFO - 推送成功: 📊 RootData | Top Gainers
-2026-02-26 17:02:05,748 - INFO - Cycle completed. 2026-02-26 17:02:05.748103
+-26 18:55:40,066 - INFO -     Clicked market download icon
+2026-02-26 18:55:49,868 - INFO -     Clicked save button
+2026-02-26 18:55:49,876 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-26.png
+2026-02-26 18:55:49,876 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-02-26.png
+2026-02-26 18:55:50,510 - INFO - 推送成功: 📊 RootData | Top Gainers
+2026-02-26 18:55:50,522 - INFO - Cycle completed. 2026-02-26 18:55:50.522689

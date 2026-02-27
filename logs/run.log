@@ -1,7 +1,13 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: Polymarket上预测「比特币今年回升至7.5万美元」概率为83%
-推送成功: 【BLOCKBEATS - 预测市场】Polymarket上预测「比特币今年回升至7.5万美元」概率为83%
+  [BlockBeats] 新快讯: 「麻吉」屡败屡战后的第162次滚仓做多，本轮ETH多仓清算价约1938美元
+推送成功: 【BLOCKBEATS - 链上侦探】「麻吉」屡败屡战后的第162次滚仓做多，本轮ETH多仓清算价约1938美元
+已保存到 Markdown: ./output/blockbeats/2026-02-27.md
+  [BlockBeats] 新快讯: 美股盘前时段加密市场回落，BTC与ETH最大多头巨鲸持仓双双跌破均价
+推送成功: 【BLOCKBEATS - 链上侦探】美股盘前时段加密市场回落，BTC与ETH最大多头巨鲸持仓双双跌破均价
+已保存到 Markdown: ./output/blockbeats/2026-02-27.md
+  [BlockBeats] 新快讯: Matrixport向Binance转入750枚BTC
+推送成功: 【BLOCKBEATS - 链上侦探】Matrixport向Binance转入750枚BTC
 已保存到 Markdown: ./output/blockbeats/2026-02-27.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -28,7 +34,7 @@ Scraping RootData...
 =========================== logs ===========================
 waiting for event "download"
 ============================================================
-Cycle completed. 2026-02-27 09:44:25.450366
+Cycle completed. 2026-02-27 10:41:14.747892
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -38,12 +44,13 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-�来7天加密日历洞察
-2026-02-27 09:43:46,270 - INFO -   Market Image...
-2026-02-27 09:43:50,391 - INFO -     Clicked market download icon
-2026-02-27 09:43:59,668 - INFO -     Clicked save button
-2026-02-27 09:44:25,438 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
+-02-27 10:40:34,966 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-02-27.png
+2026-02-27 10:40:35,468 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
+2026-02-27 10:40:35,470 - INFO -   Market Image...
+2026-02-27 10:40:39,687 - INFO -     Clicked market download icon
+2026-02-27 10:40:44,798 - INFO -     Clicked save button
+2026-02-27 10:41:14,736 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
 =========================== logs ===========================
 waiting for event "download"
 ============================================================
-2026-02-27 09:44:25,450 - INFO - Cycle completed. 2026-02-27 09:44:25.450366
+2026-02-27 10:41:14,747 - INFO - Cycle completed. 2026-02-27 10:41:14.747892

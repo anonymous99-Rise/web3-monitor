@@ -1,7 +1,13 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 「疑似HYPE上币内幕」巨鲸浮亏收窄后仍超1300万美元，持仓均价达38美元
-推送成功: 【BLOCKBEATS - 链上侦探】「疑似HYPE上币内幕」巨鲸浮亏收窄后仍超1300万美元，持仓均价达38美元
+  [BlockBeats] 新快讯: 俄乌停火盘口添加新分支节点：4月30日前停火
+推送成功: 【BLOCKBEATS - 预测市场】俄乌停火盘口添加新分支节点：4月30日前停火
+已保存到 Markdown: ./output/blockbeats/2026-02-27.md
+  [BlockBeats] 新快讯: MetaAlpha过去24小时累计向Binance存入6994枚ETH，约合1430万美元
+推送成功: 【BLOCKBEATS - 链上侦探】MetaAlpha过去24小时累计向Binance存入6994枚ETH，约合1430万美元
+已保存到 Markdown: ./output/blockbeats/2026-02-27.md
+  [BlockBeats] 新快讯: 英伟达日内跌幅5.4%，交易员CBB在此过程中增持空单至1580万美元
+推送成功: 【BLOCKBEATS - 链上侦探】英伟达日内跌幅5.4%，交易员CBB在此过程中增持空单至1580万美元
 已保存到 Markdown: ./output/blockbeats/2026-02-27.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -28,7 +34,7 @@ Scraping RootData...
 =========================== logs ===========================
 waiting for event "download"
 ============================================================
-Cycle completed. 2026-02-27 07:51:56.927931
+Cycle completed. 2026-02-27 08:44:30.290947
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -38,12 +44,13 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-�来7天加密日历洞察
-2026-02-27 07:51:17,438 - INFO -   Market Image...
-2026-02-27 07:51:21,877 - INFO -     Clicked market download icon
-2026-02-27 07:51:26,960 - INFO -     Clicked save button
-2026-02-27 07:51:56,915 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
+-02-27 08:43:50,284 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-02-27.png
+2026-02-27 08:43:50,828 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
+2026-02-27 08:43:50,831 - INFO -   Market Image...
+2026-02-27 08:43:55,239 - INFO -     Clicked market download icon
+2026-02-27 08:44:00,339 - INFO -     Clicked save button
+2026-02-27 08:44:30,281 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
 =========================== logs ===========================
 waiting for event "download"
 ============================================================
-2026-02-27 07:51:56,927 - INFO - Cycle completed. 2026-02-27 07:51:56.927931
+2026-02-27 08:44:30,290 - INFO - Cycle completed. 2026-02-27 08:44:30.290947

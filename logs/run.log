@@ -25,7 +25,7 @@ Scraping RootData...
 =========================== logs ===========================
 waiting for event "download"
 ============================================================
-Cycle completed. 2026-02-27 16:44:01.977873
+Cycle completed. 2026-02-27 17:38:59.616893
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -35,10 +35,10 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-12 - INFO -     Clicked market download icon
-2026-02-27 16:43:32,029 - INFO -     Clicked save button
-2026-02-27 16:44:01,963 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
+58 - INFO -     Clicked market download icon
+2026-02-27 17:38:29,649 - INFO -     Clicked save button
+2026-02-27 17:38:59,601 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
 =========================== logs ===========================
 waiting for event "download"
 ============================================================
-2026-02-27 16:44:01,977 - INFO - Cycle completed. 2026-02-27 16:44:01.977873
+2026-02-27 17:38:59,616 - INFO - Cycle completed. 2026-02-27 17:38:59.616893

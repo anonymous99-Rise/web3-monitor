@@ -1,7 +1,7 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 2个新账户投入5.91万美元押注美国会在2月28日前打击伊朗
-推送成功: 【BLOCKBEATS - 预测市场】2个新账户投入5.91万美元押注美国会在2月28日前打击伊朗
+  [BlockBeats] 新快讯: 「疑似HYPE上币内幕」巨鲸浮亏收窄后仍超1300万美元，持仓均价达38美元
+推送成功: 【BLOCKBEATS - 链上侦探】「疑似HYPE上币内幕」巨鲸浮亏收窄后仍超1300万美元，持仓均价达38美元
 已保存到 Markdown: ./output/blockbeats/2026-02-27.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -28,7 +28,7 @@ Scraping RootData...
 =========================== logs ===========================
 waiting for event "download"
 ============================================================
-Cycle completed. 2026-02-27 06:59:00.811464
+Cycle completed. 2026-02-27 07:51:56.927931
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -39,11 +39,11 @@ Scraping BlockBeats...
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
 �来7天加密日历洞察
-2026-02-27 06:58:21,683 - INFO -   Market Image...
-2026-02-27 06:58:25,759 - INFO -     Clicked market download icon
-2026-02-27 06:58:30,850 - INFO -     Clicked save button
-2026-02-27 06:59:00,802 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
+2026-02-27 07:51:17,438 - INFO -   Market Image...
+2026-02-27 07:51:21,877 - INFO -     Clicked market download icon
+2026-02-27 07:51:26,960 - INFO -     Clicked save button
+2026-02-27 07:51:56,915 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
 =========================== logs ===========================
 waiting for event "download"
 ============================================================
-2026-02-27 06:59:00,811 - INFO - Cycle completed. 2026-02-27 06:59:00.811464
+2026-02-27 07:51:56,927 - INFO - Cycle completed. 2026-02-27 07:51:56.927931

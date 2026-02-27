@@ -1,5 +1,14 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
+  [BlockBeats] 新快讯: 某新地址通过NEAR Intents跨链增持2,000枚XAUT
+推送成功: 【BLOCKBEATS - 链上侦探】某新地址通过NEAR Intents跨链增持2,000枚XAUT
+已保存到 Markdown: ./output/blockbeats/2026-02-27.md
+  [BlockBeats] 新快讯: WLFI团队向OKX存入1,140万枚代币，价值超130万美元
+推送成功: 【BLOCKBEATS - 链上侦探】WLFI团队向OKX存入1,140万枚代币，价值超130万美元
+已保存到 Markdown: ./output/blockbeats/2026-02-27.md
+  [BlockBeats] 新快讯: OpenAI宣布以7300亿美元的估值获得1100亿美元的新投资
+推送成功: 【BLOCKBEATS - 融资】OpenAI宣布以7300亿美元的估值获得1100亿美元的新投资
+已保存到 Markdown: ./output/blockbeats/2026-02-27.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
   Category: 项目动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1003&is_hot=1
@@ -25,7 +34,7 @@ Scraping RootData...
 =========================== logs ===========================
 waiting for event "download"
 ============================================================
-Cycle completed. 2026-02-27 13:03:59.427272
+Cycle completed. 2026-02-27 14:41:40.016703
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -35,10 +44,13 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-79 - INFO -     Clicked market download icon
-2026-02-27 13:03:29,465 - INFO -     Clicked save button
-2026-02-27 13:03:59,418 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
+-02-27 14:41:00,189 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-02-27.png
+2026-02-27 14:41:00,693 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
+2026-02-27 14:41:00,696 - INFO -   Market Image...
+2026-02-27 14:41:04,966 - INFO -     Clicked market download icon
+2026-02-27 14:41:10,065 - INFO -     Clicked save button
+2026-02-27 14:41:40,007 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
 =========================== logs ===========================
 waiting for event "download"
 ============================================================
-2026-02-27 13:03:59,427 - INFO - Cycle completed. 2026-02-27 13:03:59.427272
+2026-02-27 14:41:40,016 - INFO - Cycle completed. 2026-02-27 14:41:40.016703

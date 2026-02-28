@@ -1,13 +1,22 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 13连胜政治账户9300美元押注共和党将赢得2026年参议院控制权
-推送成功: 【BLOCKBEATS - 预测市场】13连胜政治账户9300美元押注共和党将赢得2026年参议院控制权
+  [BlockBeats] 新快讯: 4个新地址押注6.65万美元美国会在三天内袭击伊朗
+推送成功: 【BLOCKBEATS - 预测市场】4个新地址押注6.65万美元美国会在三天内袭击伊朗
 已保存到 Markdown: ./output/blockbeats/2026-02-28.md
-  [BlockBeats] 新快讯: CZ回应新书草稿被「免费宣传」，相关Meme币Freedom of Money市值短时涨至800万美元
-推送成功: 【BLOCKBEATS - 链上侦探】CZ回应新书草稿被「免费宣传」，相关Meme币Freedom of Money市值短时涨至800万美元
+  [BlockBeats] 新快讯: 美国今日打击伊朗的概率短时极速升至69%
+推送成功: 【BLOCKBEATS - 预测市场】美国今日打击伊朗的概率短时极速升至69%
 已保存到 Markdown: ./output/blockbeats/2026-02-28.md
-  [BlockBeats] 新快讯: 「Strategy对手盘」巨鲸新建40倍杠杆BTC空单，持仓规模已达3430万美元
-推送成功: 【BLOCKBEATS - 链上侦探】「Strategy对手盘」巨鲸新建40倍杠杆BTC空单，持仓规模已达3430万美元
+  [BlockBeats] 新快讯: 明星交易员拉盘DeepSeek V4于3月15日前发布，概率飙升至79%后逐步止盈
+推送成功: 【BLOCKBEATS - 预测市场】明星交易员拉盘DeepSeek V4于3月15日前发布，概率飙升至79%后逐步止盈
+已保存到 Markdown: ./output/blockbeats/2026-02-28.md
+  [BlockBeats] 新快讯: 「Strategy对手盘」今晨重仓看空BTC，当前持仓浮盈已扩大至105%
+推送成功: 【BLOCKBEATS - 链上侦探】「Strategy对手盘」今晨重仓看空BTC，当前持仓浮盈已扩大至105%
+已保存到 Markdown: ./output/blockbeats/2026-02-28.md
+  [BlockBeats] 新快讯: 「麻吉」ETH多单遭强平，清算规模达228万美元
+推送成功: 【BLOCKBEATS - 链上侦探】「麻吉」ETH多单遭强平，清算规模达228万美元
+已保存到 Markdown: ./output/blockbeats/2026-02-28.md
+  [BlockBeats] 新快讯: 受现货白银价格持续上涨影响，链上白银最大空头近日减持440万美元仓位
+推送成功: 【BLOCKBEATS - 链上侦探】受现货白银价格持续上涨影响，链上白银最大空头近日减持440万美元仓位
 已保存到 Markdown: ./output/blockbeats/2026-02-28.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -34,7 +43,7 @@ Scraping RootData...
 =========================== logs ===========================
 waiting for event "download"
 ============================================================
-Cycle completed. 2026-02-28 05:35:16.515781
+Cycle completed. 2026-02-28 06:42:22.605078
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -44,13 +53,17 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
--02-28 05:34:36,329 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-02-28.png
-2026-02-28 05:34:37,084 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
-2026-02-28 05:34:37,087 - INFO -   Market Image...
-2026-02-28 05:34:41,466 - INFO -     Clicked market download icon
-2026-02-28 05:34:46,567 - INFO -     Clicked save button
-2026-02-28 05:35:16,506 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
+lendar insight icon
+2026-02-28 06:41:39,618 - INFO -     Clicked generate share image button
+2026-02-28 06:41:42,569 - INFO -     Clicked download button
+2026-02-28 06:41:42,615 - INFO -     Saved Calendar Image: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-02-28.png
+2026-02-28 06:41:42,615 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-02-28.png
+2026-02-28 06:41:43,146 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
+2026-02-28 06:41:43,149 - INFO -   Market Image...
+2026-02-28 06:41:47,559 - INFO -     Clicked market download icon
+2026-02-28 06:41:52,653 - INFO -     Clicked save button
+2026-02-28 06:42:22,594 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
 =========================== logs ===========================
 waiting for event "download"
 ============================================================
-2026-02-28 05:35:16,515 - INFO - Cycle completed. 2026-02-28 05:35:16.515781
+2026-02-28 06:42:22,605 - INFO - Cycle completed. 2026-02-28 06:42:22.605078

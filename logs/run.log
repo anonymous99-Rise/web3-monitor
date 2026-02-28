@@ -1,22 +1,19 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 4个新地址押注6.65万美元美国会在三天内袭击伊朗
-推送成功: 【BLOCKBEATS - 预测市场】4个新地址押注6.65万美元美国会在三天内袭击伊朗
+  [BlockBeats] 新快讯: 克林顿就爱泼斯坦案闭门作证，「无符合条件事件」结算概率高达98%
+推送成功: 【BLOCKBEATS - 预测市场】克林顿就爱泼斯坦案闭门作证，「无符合条件事件」结算概率高达98%
 已保存到 Markdown: ./output/blockbeats/2026-02-28.md
-  [BlockBeats] 新快讯: 美国今日打击伊朗的概率短时极速升至69%
-推送成功: 【BLOCKBEATS - 预测市场】美国今日打击伊朗的概率短时极速升至69%
+  [BlockBeats] 新快讯: 以色列军方正式宣布对伊朗发动了「先发制人」的军事打击
+推送成功: 【BLOCKBEATS - 预测市场】以色列军方正式宣布对伊朗发动了「先发制人」的军事打击
 已保存到 Markdown: ./output/blockbeats/2026-02-28.md
-  [BlockBeats] 新快讯: 明星交易员拉盘DeepSeek V4于3月15日前发布，概率飙升至79%后逐步止盈
-推送成功: 【BLOCKBEATS - 预测市场】明星交易员拉盘DeepSeek V4于3月15日前发布，概率飙升至79%后逐步止盈
+  [BlockBeats] 新快讯: 美国今日打击伊朗的概率升至93%，多个可靠信源表示美国已加入打击
+推送成功: 【BLOCKBEATS - 预测市场】美国今日打击伊朗的概率升至93%，多个可靠信源表示美国已加入打击
 已保存到 Markdown: ./output/blockbeats/2026-02-28.md
-  [BlockBeats] 新快讯: 「Strategy对手盘」今晨重仓看空BTC，当前持仓浮盈已扩大至105%
-推送成功: 【BLOCKBEATS - 链上侦探】「Strategy对手盘」今晨重仓看空BTC，当前持仓浮盈已扩大至105%
+  [BlockBeats] 新快讯: Hyperlend首日FDV压哨突破2000万美元，4名被提及账户盈利8200美元
+推送成功: 【BLOCKBEATS - 预测市场】Hyperlend首日FDV压哨突破2000万美元，4名被提及账户盈利8200美元
 已保存到 Markdown: ./output/blockbeats/2026-02-28.md
-  [BlockBeats] 新快讯: 「麻吉」ETH多单遭强平，清算规模达228万美元
-推送成功: 【BLOCKBEATS - 链上侦探】「麻吉」ETH多单遭强平，清算规模达228万美元
-已保存到 Markdown: ./output/blockbeats/2026-02-28.md
-  [BlockBeats] 新快讯: 受现货白银价格持续上涨影响，链上白银最大空头近日减持440万美元仓位
-推送成功: 【BLOCKBEATS - 链上侦探】受现货白银价格持续上涨影响，链上白银最大空头近日减持440万美元仓位
+  [BlockBeats] 新快讯: 休市期间链上贵金属因避险需求拉涨，黄金最大多头「Loracle」浮盈达27%
+推送成功: 【BLOCKBEATS - 链上侦探】休市期间链上贵金属因避险需求拉涨，黄金最大多头「Loracle」浮盈达27%
 已保存到 Markdown: ./output/blockbeats/2026-02-28.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -43,7 +40,7 @@ Scraping RootData...
 =========================== logs ===========================
 waiting for event "download"
 ============================================================
-Cycle completed. 2026-02-28 06:42:22.605078
+Cycle completed. 2026-02-28 07:30:06.322201
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -53,17 +50,15 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-lendar insight icon
-2026-02-28 06:41:39,618 - INFO -     Clicked generate share image button
-2026-02-28 06:41:42,569 - INFO -     Clicked download button
-2026-02-28 06:41:42,615 - INFO -     Saved Calendar Image: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-02-28.png
-2026-02-28 06:41:42,615 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-02-28.png
-2026-02-28 06:41:43,146 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
-2026-02-28 06:41:43,149 - INFO -   Market Image...
-2026-02-28 06:41:47,559 - INFO -     Clicked market download icon
-2026-02-28 06:41:52,653 - INFO -     Clicked save button
-2026-02-28 06:42:22,594 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
+2-28 07:29:25,953 - INFO -     Clicked download button
+2026-02-28 07:29:25,988 - INFO -     Saved Calendar Image: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-02-28.png
+2026-02-28 07:29:25,989 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-02-28.png
+2026-02-28 07:29:26,946 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
+2026-02-28 07:29:26,949 - INFO -   Market Image...
+2026-02-28 07:29:31,277 - INFO -     Clicked market download icon
+2026-02-28 07:29:36,374 - INFO -     Clicked save button
+2026-02-28 07:30:06,312 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
 =========================== logs ===========================
 waiting for event "download"
 ============================================================
-2026-02-28 06:42:22,605 - INFO - Cycle completed. 2026-02-28 06:42:22.605078
+2026-02-28 07:30:06,322 - INFO - Cycle completed. 2026-02-28 07:30:06.322201

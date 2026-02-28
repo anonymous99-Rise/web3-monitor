@@ -1,19 +1,10 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 克林顿就爱泼斯坦案闭门作证，「无符合条件事件」结算概率高达98%
-推送成功: 【BLOCKBEATS - 预测市场】克林顿就爱泼斯坦案闭门作证，「无符合条件事件」结算概率高达98%
+  [BlockBeats] 新快讯: 新华社曝伊朗向以色列发射导弹，报复打击盘口概率飙升至95%
+推送成功: 【BLOCKBEATS - 预测市场】新华社曝伊朗向以色列发射导弹，报复打击盘口概率飙升至95%
 已保存到 Markdown: ./output/blockbeats/2026-02-28.md
-  [BlockBeats] 新快讯: 以色列军方正式宣布对伊朗发动了「先发制人」的军事打击
-推送成功: 【BLOCKBEATS - 预测市场】以色列军方正式宣布对伊朗发动了「先发制人」的军事打击
-已保存到 Markdown: ./output/blockbeats/2026-02-28.md
-  [BlockBeats] 新快讯: 美国今日打击伊朗的概率升至93%，多个可靠信源表示美国已加入打击
-推送成功: 【BLOCKBEATS - 预测市场】美国今日打击伊朗的概率升至93%，多个可靠信源表示美国已加入打击
-已保存到 Markdown: ./output/blockbeats/2026-02-28.md
-  [BlockBeats] 新快讯: Hyperlend首日FDV压哨突破2000万美元，4名被提及账户盈利8200美元
-推送成功: 【BLOCKBEATS - 预测市场】Hyperlend首日FDV压哨突破2000万美元，4名被提及账户盈利8200美元
-已保存到 Markdown: ./output/blockbeats/2026-02-28.md
-  [BlockBeats] 新快讯: 休市期间链上贵金属因避险需求拉涨，黄金最大多头「Loracle」浮盈达27%
-推送成功: 【BLOCKBEATS - 链上侦探】休市期间链上贵金属因避险需求拉涨，黄金最大多头「Loracle」浮盈达27%
+  [BlockBeats] 新快讯: 多家媒体报道美以联合打击伊朗，「美国率先袭击伊朗」概率反弹至33%
+推送成功: 【BLOCKBEATS - 预测市场】多家媒体报道美以联合打击伊朗，「美国率先袭击伊朗」概率反弹至33%
 已保存到 Markdown: ./output/blockbeats/2026-02-28.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -40,7 +31,7 @@ Scraping RootData...
 =========================== logs ===========================
 waiting for event "download"
 ============================================================
-Cycle completed. 2026-02-28 07:30:06.322201
+Cycle completed. 2026-02-28 08:34:04.189913
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -50,15 +41,13 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-2-28 07:29:25,953 - INFO -     Clicked download button
-2026-02-28 07:29:25,988 - INFO -     Saved Calendar Image: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-02-28.png
-2026-02-28 07:29:25,989 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-02-28.png
-2026-02-28 07:29:26,946 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
-2026-02-28 07:29:26,949 - INFO -   Market Image...
-2026-02-28 07:29:31,277 - INFO -     Clicked market download icon
-2026-02-28 07:29:36,374 - INFO -     Clicked save button
-2026-02-28 07:30:06,312 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
+加密日历洞察_2026-02-28.png
+2026-02-28 08:33:24,995 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
+2026-02-28 08:33:24,998 - INFO -   Market Image...
+2026-02-28 08:33:29,137 - INFO -     Clicked market download icon
+2026-02-28 08:33:34,239 - INFO -     Clicked save button
+2026-02-28 08:34:04,179 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
 =========================== logs ===========================
 waiting for event "download"
 ============================================================
-2026-02-28 07:30:06,322 - INFO - Cycle completed. 2026-02-28 07:30:06.322201
+2026-02-28 08:34:04,189 - INFO - Cycle completed. 2026-02-28 08:34:04.189913

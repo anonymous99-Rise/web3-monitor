@@ -1,22 +1,7 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 美伊谈判进展不佳，美国3月底前打击伊朗概率升至69%
-推送成功: 【BLOCKBEATS - 预测市场】美伊谈判进展不佳，美国3月底前打击伊朗概率升至69%
-已保存到 Markdown: ./output/blockbeats/2026-02-28.md
-  [BlockBeats] 新快讯: 某地址过去18天建仓约54万枚HYPE，价值约1486万美元
-推送成功: 【BLOCKBEATS - 链上侦探】某地址过去18天建仓约54万枚HYPE，价值约1486万美元
-已保存到 Markdown: ./output/blockbeats/2026-02-28.md
-  [BlockBeats] 新快讯: Trump Media减持2000枚比特币，总持有量降至9,542枚
-推送成功: 【BLOCKBEATS - 链上侦探】Trump Media减持2000枚比特币，总持有量降至9,542枚
-已保存到 Markdown: ./output/blockbeats/2026-02-28.md
-  [BlockBeats] 新快讯: 过去3日贝莱德累计从Coinbase提取10749枚BTC，总价值约7.1709亿美元
-推送成功: 【BLOCKBEATS - 链上侦探】过去3日贝莱德累计从Coinbase提取10749枚BTC，总价值约7.1709亿美元
-已保存到 Markdown: ./output/blockbeats/2026-02-28.md
-  [BlockBeats] 新快讯: OpenAI预计3月前再融资约100亿美元，估值达8500亿美元
-推送成功: 【BLOCKBEATS - 融资】OpenAI预计3月前再融资约100亿美元，估值达8500亿美元
-已保存到 Markdown: ./output/blockbeats/2026-02-28.md
-  [BlockBeats] 新快讯: 日元稳定币发行商JPYC完成约1200万美元B轮融资，Asteria Corporation领投
-推送成功: 【BLOCKBEATS - 融资】日元稳定币发行商JPYC完成约1200万美元B轮融资，Asteria Corporation领投
+  [BlockBeats] 新快讯: 链上黄金近三周最大单笔交易，Tether向Abraxas转移28723枚XAUT
+推送成功: 【BLOCKBEATS - 链上侦探】链上黄金近三周最大单笔交易，Tether向Abraxas转移28723枚XAUT
 已保存到 Markdown: ./output/blockbeats/2026-02-28.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -26,24 +11,9 @@
   Category: 融资动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1000&is_hot=1
 Scraping RootData...
   List: Top 100 项目
-  [RootData] 新榜单: Top 100 项目
-推送成功: 【RootData - Top 100 项目】
-推送成功: 【RootData - Top 100 项目】 (续)
-已保存到 Markdown: ./output/rootdata/2026-02-28.md
   List: 透明度评分提升榜
-  [RootData] 新榜单: 透明度评分提升榜
-推送成功: 【RootData - 透明度评分提升榜】
-推送成功: 【RootData - 透明度评分提升榜】 (续)
-已保存到 Markdown: ./output/rootdata/2026-02-28.md
   List: 交易所透明度排名
-  [RootData] 新榜单: 交易所透明度排名
-推送成功: 【RootData - 交易所透明度排名】
-推送成功: 【RootData - 交易所透明度排名】 (续)
-已保存到 Markdown: ./output/rootdata/2026-02-28.md
   Calendar Events...
-  [RootData] 日历事件: 10 条
-推送成功: 📅 RootData | 今日日历事件
-已保存到 Markdown: ./output/rootdata/2026-02-28.md
   Calendar Insight Image...
     Clicked calendar insight icon
     Clicked generate share image button
@@ -58,7 +28,7 @@ Scraping RootData...
 =========================== logs ===========================
 waiting for event "download"
 ============================================================
-Cycle completed. 2026-02-28 02:01:38.214171
+Cycle completed. 2026-02-28 04:02:17.679146
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -68,24 +38,12 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-� (续)
-2026-02-28 02:00:51,223 - INFO - 已保存到 Markdown: ./output/rootdata/2026-02-28.md
-2026-02-28 02:00:51,223 - INFO -   Calendar Events...
-2026-02-28 02:00:53,438 - INFO -   [RootData] 日历事件: 10 条
-2026-02-28 02:00:53,714 - INFO - 推送成功: 📅 RootData | 今日日历事件
-2026-02-28 02:00:53,715 - INFO - 已保存到 Markdown: ./output/rootdata/2026-02-28.md
-2026-02-28 02:00:53,715 - INFO -   Calendar Insight Image...
-2026-02-28 02:00:53,819 - INFO -     Clicked calendar insight icon
-2026-02-28 02:00:54,919 - INFO -     Clicked generate share image button
-2026-02-28 02:00:57,468 - INFO -     Clicked download button
-2026-02-28 02:00:57,523 - INFO -     Saved Calendar Image: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-02-28.png
-2026-02-28 02:00:57,523 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-02-28.png
-2026-02-28 02:00:58,773 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
-2026-02-28 02:00:58,775 - INFO -   Market Image...
-2026-02-28 02:01:03,170 - INFO -     Clicked market download icon
-2026-02-28 02:01:08,241 - INFO -     Clicked save button
-2026-02-28 02:01:38,204 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
+�来7天加密日历洞察
+2026-02-28 04:01:38,162 - INFO -   Market Image...
+2026-02-28 04:01:42,634 - INFO -     Clicked market download icon
+2026-02-28 04:01:47,727 - INFO -     Clicked save button
+2026-02-28 04:02:17,668 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
 =========================== logs ===========================
 waiting for event "download"
 ============================================================
-2026-02-28 02:01:38,214 - INFO - Cycle completed. 2026-02-28 02:01:38.214171
+2026-02-28 04:02:17,679 - INFO - Cycle completed. 2026-02-28 04:02:17.679146

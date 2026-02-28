@@ -1,22 +1,10 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 冲突加剧推动哈梅内伊卸任最高领袖概率升至17%，仍未见可信报道证实
-推送成功: 【BLOCKBEATS - 预测市场】冲突加剧推动哈梅内伊卸任最高领袖概率升至17%，仍未见可信报道证实
+  [BlockBeats] 新快讯: 美以联合行动波及伊拉克境内武装，「袭击伊拉克」相关盘口概率暴涨
+推送成功: 【BLOCKBEATS - 预测市场】美以联合行动波及伊拉克境内武装，「袭击伊拉克」相关盘口概率暴涨
 已保存到 Markdown: ./output/blockbeats/2026-02-28.md
-  [BlockBeats] 新快讯: 押注美国政府关门时间赚24万美元的账户重仓15.2万美元押注哈梅内伊4月前不会下台
-推送成功: 【BLOCKBEATS - 预测市场】押注美国政府关门时间赚24万美元的账户重仓15.2万美元押注哈梅内伊4月前不会下台
-已保存到 Markdown: ./output/blockbeats/2026-02-28.md
-  [BlockBeats] 新快讯: 美以联合打击覆盖多处核重镇，「针对伊朗核目标」盘口概率达87%
-推送成功: 【BLOCKBEATS - 预测市场】美以联合打击覆盖多处核重镇，「针对伊朗核目标」盘口概率达87%
-已保存到 Markdown: ./output/blockbeats/2026-02-28.md
-  [BlockBeats] 新快讯: 伊朗向卡塔尔发射导弹遭拦截，「袭击卡塔尔」盘口概率升至75%
-推送成功: 【BLOCKBEATS - 预测市场】伊朗向卡塔尔发射导弹遭拦截，「袭击卡塔尔」盘口概率升至75%
-已保存到 Markdown: ./output/blockbeats/2026-02-28.md
-  [BlockBeats] 新快讯: 链上BTC与ETH最大多头持仓合计亏超1300万美元，暂未减仓
-推送成功: 【BLOCKBEATS - 链上侦探】链上BTC与ETH最大多头持仓合计亏超1300万美元，暂未减仓
-已保存到 Markdown: ./output/blockbeats/2026-02-28.md
-  [BlockBeats] 新快讯: 交易员CBB持仓超3000万美元AI产业链一揽子空单，现为链上英伟达最大空头
-推送成功: 【BLOCKBEATS - 链上侦探】交易员CBB持仓超3000万美元AI产业链一揽子空单，现为链上英伟达最大空头
+  [BlockBeats] 新快讯: 主流Perp DEX一览：多数平台持仓量已不足10亿美元，交易量较昨日再次下滑
+推送成功: 【BLOCKBEATS - 链上侦探】主流Perp DEX一览：多数平台持仓量已不足10亿美元，交易量较昨日再次下滑
 已保存到 Markdown: ./output/blockbeats/2026-02-28.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -43,7 +31,7 @@ Scraping RootData...
 =========================== logs ===========================
 waiting for event "download"
 ============================================================
-Cycle completed. 2026-02-28 10:27:48.382862
+Cycle completed. 2026-02-28 11:22:09.057126
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -53,17 +41,13 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-lendar insight icon
-2026-02-28 10:26:59,332 - INFO -     Clicked generate share image button
-2026-02-28 10:27:01,268 - INFO -     Clicked download button
-2026-02-28 10:27:01,299 - INFO -     Saved Calendar Image: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-02-28.png
-2026-02-28 10:27:01,299 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-02-28.png
-2026-02-28 10:27:01,864 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
-2026-02-28 10:27:01,866 - INFO -   Market Image...
-2026-02-28 10:27:13,334 - INFO -     Clicked market download icon
-2026-02-28 10:27:20,385 - INFO -     Clicked save button
-2026-02-28 10:27:48,373 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
+加密日历洞察_2026-02-28.png
+2026-02-28 11:21:29,654 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
+2026-02-28 11:21:29,656 - INFO -   Market Image...
+2026-02-28 11:21:33,998 - INFO -     Clicked market download icon
+2026-02-28 11:21:39,097 - INFO -     Clicked save button
+2026-02-28 11:22:09,047 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
 =========================== logs ===========================
 waiting for event "download"
 ============================================================
-2026-02-28 10:27:48,382 - INFO - Cycle completed. 2026-02-28 10:27:48.382862
+2026-02-28 11:22:09,057 - INFO - Cycle completed. 2026-02-28 11:22:09.057126

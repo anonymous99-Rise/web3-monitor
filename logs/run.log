@@ -1,8 +1,5 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 某地址从Binance提取384枚PAXG，约合207万美元
-推送成功: 【BLOCKBEATS - 链上侦探】某地址从Binance提取384枚PAXG，约合207万美元
-已保存到 Markdown: ./output/blockbeats/2026-03-01.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
   Category: 项目动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1003&is_hot=1
@@ -28,7 +25,7 @@ Scraping RootData...
 =========================== logs ===========================
 waiting for event "download"
 ============================================================
-Cycle completed. 2026-03-01 14:28:11.292003
+Cycle completed. 2026-03-01 15:26:41.406752
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -38,12 +35,10 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-�来7天加密日历洞察
-2026-03-01 14:27:31,652 - INFO -   Market Image...
-2026-03-01 14:27:36,241 - INFO -     Clicked market download icon
-2026-03-01 14:27:41,345 - INFO -     Clicked save button
-2026-03-01 14:28:11,282 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
+43 - INFO -     Clicked market download icon
+2026-03-01 15:26:11,458 - INFO -     Clicked save button
+2026-03-01 15:26:41,394 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
 =========================== logs ===========================
 waiting for event "download"
 ============================================================
-2026-03-01 14:28:11,292 - INFO - Cycle completed. 2026-03-01 14:28:11.292003
+2026-03-01 15:26:41,406 - INFO - Cycle completed. 2026-03-01 15:26:41.406752

@@ -1,7 +1,22 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 某鲸鱼在官方公布哈梅内伊遇害后40倍做多比特币，爆仓价66,559美元
-推送成功: 【BLOCKBEATS - 链上侦探】某鲸鱼在官方公布哈梅内伊遇害后40倍做多比特币，爆仓价66,559美元
+  [BlockBeats] 新快讯: 原油3月底突破75美元概率达82%，周末开战或为规避传统市场恐慌抛盘
+推送成功: 【BLOCKBEATS - 预测市场】原油3月底突破75美元概率达82%，周末开战或为规避传统市场恐慌抛盘
+已保存到 Markdown: ./output/blockbeats/2026-03-01.md
+  [BlockBeats] 新快讯: 押注哈梅内伊下台获利9.7万美元的账户笃定伊朗末代国王长子礼萨·巴列维6月底前进入伊朗
+推送成功: 【BLOCKBEATS - 预测市场】押注哈梅内伊下台获利9.7万美元的账户笃定伊朗末代国王长子礼萨·巴列维6月底前进入伊朗
+已保存到 Markdown: ./output/blockbeats/2026-03-01.md
+  [BlockBeats] 新快讯: 三可疑账户7.45万美元押注美伊短期内不会停火，3月15日前停火概率为44%
+推送成功: 【BLOCKBEATS - 预测市场】三可疑账户7.45万美元押注美伊短期内不会停火，3月15日前停火概率为44%
+已保存到 Markdown: ./output/blockbeats/2026-03-01.md
+  [BlockBeats] 新快讯: 黎巴嫩真主党3月7日前袭击以色列概率达63%，哈梅内伊遇害触及武装组织红线
+推送成功: 【BLOCKBEATS - 预测市场】黎巴嫩真主党3月7日前袭击以色列概率达63%，哈梅内伊遇害触及武装组织红线
+已保存到 Markdown: ./output/blockbeats/2026-03-01.md
+  [BlockBeats] 新快讯: 六钱包押注美伊袭击时间获利逾100万美元，引发内幕交易质疑
+推送成功: 【BLOCKBEATS - 预测市场】六钱包押注美伊袭击时间获利逾100万美元，引发内幕交易质疑
+已保存到 Markdown: ./output/blockbeats/2026-03-01.md
+  [BlockBeats] 新快讯: 巨鲸「pension」平仓比特币多单获利超46万美元
+推送成功: 【BLOCKBEATS - 链上侦探】巨鲸「pension」平仓比特币多单获利超46万美元
 已保存到 Markdown: ./output/blockbeats/2026-03-01.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -28,7 +43,7 @@ Scraping RootData...
 =========================== logs ===========================
 waiting for event "download"
 ============================================================
-Cycle completed. 2026-03-01 07:35:32.377521
+Cycle completed. 2026-03-01 08:35:04.216277
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -38,12 +53,17 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-�来7天加密日历洞察
-2026-03-01 07:34:53,168 - INFO -   Market Image...
-2026-03-01 07:34:57,332 - INFO -     Clicked market download icon
-2026-03-01 07:35:02,426 - INFO -     Clicked save button
-2026-03-01 07:35:32,367 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
+lendar insight icon
+2026-03-01 08:34:21,747 - INFO -     Clicked generate share image button
+2026-03-01 08:34:24,281 - INFO -     Clicked download button
+2026-03-01 08:34:24,306 - INFO -     Saved Calendar Image: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-03-01.png
+2026-03-01 08:34:24,307 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-03-01.png
+2026-03-01 08:34:25,029 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
+2026-03-01 08:34:25,031 - INFO -   Market Image...
+2026-03-01 08:34:29,170 - INFO -     Clicked market download icon
+2026-03-01 08:34:34,258 - INFO -     Clicked save button
+2026-03-01 08:35:04,207 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
 =========================== logs ===========================
 waiting for event "download"
 ============================================================
-2026-03-01 07:35:32,377 - INFO - Cycle completed. 2026-03-01 07:35:32.377521
+2026-03-01 08:35:04,216 - INFO - Cycle completed. 2026-03-01 08:35:04.216277

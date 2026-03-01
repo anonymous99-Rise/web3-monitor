@@ -1,7 +1,7 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 多个账户连续押中美国打击伊朗及哈梅内伊遇刺，本频道早期预警3大账户狂赚160万美元
-推送成功: 【BLOCKBEATS - 预测市场】多个账户连续押中美国打击伊朗及哈梅内伊遇刺，本频道早期预警3大账户狂赚160万美元
+  [BlockBeats] 新快讯: 某高胜率地址1万美元押注伊朗本月将封锁霍尔木兹海峡
+推送成功: 【BLOCKBEATS - 预测市场】某高胜率地址1万美元押注伊朗本月将封锁霍尔木兹海峡
 已保存到 Markdown: ./output/blockbeats/2026-03-01.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -28,7 +28,7 @@ Scraping RootData...
 =========================== logs ===========================
 waiting for event "download"
 ============================================================
-Cycle completed. 2026-03-01 04:56:57.266497
+Cycle completed. 2026-03-01 05:54:54.172949
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -39,11 +39,11 @@ Scraping BlockBeats...
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
 �来7天加密日历洞察
-2026-03-01 04:56:17,684 - INFO -   Market Image...
-2026-03-01 04:56:22,191 - INFO -     Clicked market download icon
-2026-03-01 04:56:27,314 - INFO -     Clicked save button
-2026-03-01 04:56:57,253 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
+2026-03-01 05:54:14,762 - INFO -   Market Image...
+2026-03-01 05:54:19,128 - INFO -     Clicked market download icon
+2026-03-01 05:54:24,220 - INFO -     Clicked save button
+2026-03-01 05:54:54,160 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
 =========================== logs ===========================
 waiting for event "download"
 ============================================================
-2026-03-01 04:56:57,266 - INFO - Cycle completed. 2026-03-01 04:56:57.266497
+2026-03-01 05:54:54,172 - INFO - Cycle completed. 2026-03-01 05:54:54.172949

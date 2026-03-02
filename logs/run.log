@@ -1,16 +1,10 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 新地址下注1.31万美元预测「Opinion会在3月5日发币」
-推送成功: 【BLOCKBEATS - 预测市场】新地址下注1.31万美元预测「Opinion会在3月5日发币」
+  [BlockBeats] 新快讯: 2个高胜率账户押注6700美元伊朗3月将打击塞浦路斯
+推送成功: 【BLOCKBEATS - 预测市场】2个高胜率账户押注6700美元伊朗3月将打击塞浦路斯
 已保存到 Markdown: ./output/blockbeats/2026-03-02.md
-  [BlockBeats] 新快讯: 政治盘口胜率100%地址下注9.8万美元预测「伊朗不会封锁霍尔木兹海峡」
-推送成功: 【BLOCKBEATS - 预测市场】政治盘口胜率100%地址下注9.8万美元预测「伊朗不会封锁霍尔木兹海峡」
-已保存到 Markdown: ./output/blockbeats/2026-03-02.md
-  [BlockBeats] 新快讯: 千万规模纳指空头巨鲸战前伏笔黄金多单，避险情绪下持仓双向获利
-推送成功: 【BLOCKBEATS - 链上侦探】千万规模纳指空头巨鲸战前伏笔黄金多单，避险情绪下持仓双向获利
-已保存到 Markdown: ./output/blockbeats/2026-03-02.md
-  [BlockBeats] 新快讯: 押多「数字黄金」跑赢现货黄金，巨鲸开多BTC对冲黄金空头浮亏
-推送成功: 【BLOCKBEATS - 链上侦探】押多「数字黄金」跑赢现货黄金，巨鲸开多BTC对冲黄金空头浮亏
+  [BlockBeats] 新快讯: 「麻吉」自以太坊4700美元持续做多至今，六个月累计亏损7400万美元
+推送成功: 【BLOCKBEATS - 链上侦探】「麻吉」自以太坊4700美元持续做多至今，六个月累计亏损7400万美元
 已保存到 Markdown: ./output/blockbeats/2026-03-02.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -37,7 +31,7 @@ Scraping RootData...
 =========================== logs ===========================
 waiting for event "download"
 ============================================================
-Cycle completed. 2026-03-02 05:56:18.030885
+Cycle completed. 2026-03-02 07:02:19.481632
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -47,14 +41,13 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-alendar Image: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-03-02.png
-2026-03-02 05:55:36,866 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-03-02.png
-2026-03-02 05:55:37,301 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
-2026-03-02 05:55:37,304 - INFO -   Market Image...
-2026-03-02 05:55:42,943 - INFO -     Clicked market download icon
-2026-03-02 05:55:48,097 - INFO -     Clicked save button
-2026-03-02 05:56:18,016 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
+加密日历洞察_2026-03-02.png
+2026-03-02 07:01:40,733 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
+2026-03-02 07:01:40,736 - INFO -   Market Image...
+2026-03-02 07:01:44,433 - INFO -     Clicked market download icon
+2026-03-02 07:01:49,504 - INFO -     Clicked save button
+2026-03-02 07:02:19,468 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
 =========================== logs ===========================
 waiting for event "download"
 ============================================================
-2026-03-02 05:56:18,030 - INFO - Cycle completed. 2026-03-02 05:56:18.030885
+2026-03-02 07:02:19,481 - INFO - Cycle completed. 2026-03-02 07:02:19.481632

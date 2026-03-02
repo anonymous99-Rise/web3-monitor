@@ -1,5 +1,17 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
+  [BlockBeats] 新快讯: 某巨鲸地址从CEX提币13,450枚ETH
+推送成功: 【BLOCKBEATS - 链上侦探】某巨鲸地址从CEX提币13,450枚ETH
+已保存到 Markdown: ./output/blockbeats/2026-03-02.md
+  [BlockBeats] 新快讯: 合约巨鲸pension-usdt.eth已平空小额获利离场
+推送成功: 【BLOCKBEATS - 链上侦探】合约巨鲸pension-usdt.eth已平空小额获利离场
+已保存到 Markdown: ./output/blockbeats/2026-03-02.md
+  [BlockBeats] 新快讯: 某合约巨鲸平多后反手3倍做空比特币，仓位规模达2844万美元
+推送成功: 【BLOCKBEATS - 链上侦探】某合约巨鲸平多后反手3倍做空比特币，仓位规模达2844万美元
+已保存到 Markdown: ./output/blockbeats/2026-03-02.md
+  [BlockBeats] 新快讯: 「麻吉」再次入场25倍滚仓做多ETH，爆仓价2013美元
+推送成功: 【BLOCKBEATS - 链上侦探】「麻吉」再次入场25倍滚仓做多ETH，爆仓价2013美元
+已保存到 Markdown: ./output/blockbeats/2026-03-02.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
   Category: 项目动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1003&is_hot=1
@@ -25,7 +37,7 @@ Scraping RootData...
 =========================== logs ===========================
 waiting for event "download"
 ============================================================
-Cycle completed. 2026-03-02 15:44:50.598835
+Cycle completed. 2026-03-02 16:53:55.679729
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -35,10 +47,14 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-52 - INFO -     Clicked market download icon
-2026-03-02 15:44:20,645 - INFO -     Clicked save button
-2026-03-02 15:44:50,587 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
+alendar Image: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-03-02.png
+2026-03-02 16:53:13,704 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-03-02.png
+2026-03-02 16:53:16,037 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
+2026-03-02 16:53:16,040 - INFO -   Market Image...
+2026-03-02 16:53:20,609 - INFO -     Clicked market download icon
+2026-03-02 16:53:25,719 - INFO -     Clicked save button
+2026-03-02 16:53:55,665 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
 =========================== logs ===========================
 waiting for event "download"
 ============================================================
-2026-03-02 15:44:50,598 - INFO - Cycle completed. 2026-03-02 15:44:50.598835
+2026-03-02 16:53:55,679 - INFO - Cycle completed. 2026-03-02 16:53:55.679729

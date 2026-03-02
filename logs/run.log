@@ -1,13 +1,10 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 波段巨鲸「pension-usdt.eth」已再次入场做多BTC，短时增持上千万规模
-推送成功: 【BLOCKBEATS - 链上侦探】波段巨鲸「pension-usdt.eth」已再次入场做多BTC，短时增持上千万规模
+  [BlockBeats] 新快讯: 伊朗确认核设施遭打击，预测市场上伊核设施被打击概率升至96%
+推送成功: 【BLOCKBEATS - 预测市场】伊朗确认核设施遭打击，预测市场上伊核设施被打击概率升至96%
 已保存到 Markdown: ./output/blockbeats/2026-03-02.md
-  [BlockBeats] 新快讯: 前BTC最大多头24小时内遭24次清算，曾于哈梅内伊遇害节点做多押注战争结束
-推送成功: 【BLOCKBEATS - 链上侦探】前BTC最大多头24小时内遭24次清算，曾于哈梅内伊遇害节点做多押注战争结束
-已保存到 Markdown: ./output/blockbeats/2026-03-02.md
-  [BlockBeats] 新快讯: Bitunix分析师：中东战火升级，BTC迎来「数字黄金」压力测试
-推送成功: 【BLOCKBEATS - 融资】Bitunix分析师：中东战火升级，BTC迎来「数字黄金」压力测试
+  [BlockBeats] 新快讯: 王纯关联地址过去两周从Binance提取6750万美元以太坊
+推送成功: 【BLOCKBEATS - 链上侦探】王纯关联地址过去两周从Binance提取6750万美元以太坊
 已保存到 Markdown: ./output/blockbeats/2026-03-02.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -34,7 +31,7 @@ Scraping RootData...
 =========================== logs ===========================
 waiting for event "download"
 ============================================================
-Cycle completed. 2026-03-02 08:51:41.473171
+Cycle completed. 2026-03-02 09:54:28.781836
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -44,13 +41,13 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
--03-02 08:51:01,922 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-03-02.png
-2026-03-02 08:51:02,382 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
-2026-03-02 08:51:02,384 - INFO -   Market Image...
-2026-03-02 08:51:06,428 - INFO -     Clicked market download icon
-2026-03-02 08:51:11,520 - INFO -     Clicked save button
-2026-03-02 08:51:41,462 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
+加密日历洞察_2026-03-02.png
+2026-03-02 09:53:49,393 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
+2026-03-02 09:53:49,396 - INFO -   Market Image...
+2026-03-02 09:53:53,731 - INFO -     Clicked market download icon
+2026-03-02 09:53:58,829 - INFO -     Clicked save button
+2026-03-02 09:54:28,771 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
 =========================== logs ===========================
 waiting for event "download"
 ============================================================
-2026-03-02 08:51:41,473 - INFO - Cycle completed. 2026-03-02 08:51:41.473171
+2026-03-02 09:54:28,781 - INFO - Cycle completed. 2026-03-02 09:54:28.781836

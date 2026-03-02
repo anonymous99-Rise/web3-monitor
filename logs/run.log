@@ -1,16 +1,13 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 英国空军战机自塞浦路斯起飞，英法德3月31日之前打击伊朗概率升至39%
-推送成功: 【BLOCKBEATS - 预测市场】英国空军战机自塞浦路斯起飞，英法德3月31日之前打击伊朗概率升至39%
+  [BlockBeats] 新快讯: 某盈利244万美元账户新投入12.7万美元，押注伊朗政权6月底前不会倒台
+推送成功: 【BLOCKBEATS - 预测市场】某盈利244万美元账户新投入12.7万美元，押注伊朗政权6月底前不会倒台
 已保存到 Markdown: ./output/blockbeats/2026-03-02.md
-  [BlockBeats] 新快讯: 3个FDV板块高胜率账户押注1.05万美元Predict.fun首日FDV小于3亿美元
-推送成功: 【BLOCKBEATS - 预测市场】3个FDV板块高胜率账户押注1.05万美元Predict.fun首日FDV小于3亿美元
+  [BlockBeats] 新快讯: 贝莱德过去15分钟向Coinbase存入1,134枚BTC
+推送成功: 【BLOCKBEATS - 链上侦探】贝莱德过去15分钟向Coinbase存入1,134枚BTC
 已保存到 Markdown: ./output/blockbeats/2026-03-02.md
-  [BlockBeats] 新快讯: 2个盘前市场高胜率账户押注OPINION首日FDV大于5亿美元，总投入1.23万美元
-推送成功: 【BLOCKBEATS - 预测市场】2个盘前市场高胜率账户押注OPINION首日FDV大于5亿美元，总投入1.23万美元
-已保存到 Markdown: ./output/blockbeats/2026-03-02.md
-  [BlockBeats] 新快讯: 两大疑似内幕地址以300万持仓提前埋伏链上WTI原油，地缘冲突加剧下多单已实现浮盈
-推送成功: 【BLOCKBEATS - 链上侦探】两大疑似内幕地址以300万持仓提前埋伏链上WTI原油，地缘冲突加剧下多单已实现浮盈
+  [BlockBeats] 新快讯: 主流Perp DEX一览：各平台数据变化较小，Hyperliquid交易量于50亿美元附近波动
+推送成功: 【BLOCKBEATS - 链上侦探】主流Perp DEX一览：各平台数据变化较小，Hyperliquid交易量于50亿美元附近波动
 已保存到 Markdown: ./output/blockbeats/2026-03-02.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -37,7 +34,7 @@ Scraping RootData...
 =========================== logs ===========================
 waiting for event "download"
 ============================================================
-Cycle completed. 2026-03-02 10:47:11.807819
+Cycle completed. 2026-03-02 11:34:47.033649
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -47,14 +44,13 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-alendar Image: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-03-02.png
-2026-03-02 10:46:31,619 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-03-02.png
-2026-03-02 10:46:32,360 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
-2026-03-02 10:46:32,369 - INFO -   Market Image...
-2026-03-02 10:46:36,742 - INFO -     Clicked market download icon
-2026-03-02 10:46:43,340 - INFO -     Clicked save button
-2026-03-02 10:47:11,792 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
+-03-02 11:34:06,797 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-03-02.png
+2026-03-02 11:34:07,310 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
+2026-03-02 11:34:07,313 - INFO -   Market Image...
+2026-03-02 11:34:11,986 - INFO -     Clicked market download icon
+2026-03-02 11:34:17,083 - INFO -     Clicked save button
+2026-03-02 11:34:47,023 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
 =========================== logs ===========================
 waiting for event "download"
 ============================================================
-2026-03-02 10:47:11,807 - INFO - Cycle completed. 2026-03-02 10:47:11.807819
+2026-03-02 11:34:47,033 - INFO - Cycle completed. 2026-03-02 11:34:47.033649

@@ -1,8 +1,5 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 去中心化云基础设施Akave完成665万美元融资，Avalanche基金会等参投
-推送成功: 【BLOCKBEATS - 融资】去中心化云基础设施Akave完成665万美元融资，Avalanche基金会等参投
-已保存到 Markdown: ./output/blockbeats/2026-03-02.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
   Category: 项目动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1003&is_hot=1
@@ -28,7 +25,7 @@ Scraping RootData...
 =========================== logs ===========================
 waiting for event "download"
 ============================================================
-Cycle completed. 2026-03-02 14:44:33.538982
+Cycle completed. 2026-03-02 15:44:50.598835
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -38,12 +35,10 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-�来7天加密日历洞察
-2026-03-02 14:43:54,157 - INFO -   Market Image...
-2026-03-02 14:43:58,488 - INFO -     Clicked market download icon
-2026-03-02 14:44:03,576 - INFO -     Clicked save button
-2026-03-02 14:44:33,530 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
+52 - INFO -     Clicked market download icon
+2026-03-02 15:44:20,645 - INFO -     Clicked save button
+2026-03-02 15:44:50,587 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
 =========================== logs ===========================
 waiting for event "download"
 ============================================================
-2026-03-02 14:44:33,539 - INFO - Cycle completed. 2026-03-02 14:44:33.538982
+2026-03-02 15:44:50,598 - INFO - Cycle completed. 2026-03-02 15:44:50.598835

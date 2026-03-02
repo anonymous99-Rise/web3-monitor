@@ -1,22 +1,22 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 某地址453万美元押注3.1阿森纳足球俱乐部获胜，获利242万美元
-推送成功: 【BLOCKBEATS - 预测市场】某地址453万美元押注3.1阿森纳足球俱乐部获胜，获利242万美元
+  [BlockBeats] 新快讯: 新地址下注1.8万美元预测「DeepSeek V4会在3.15前发布」
+推送成功: 【BLOCKBEATS - 预测市场】新地址下注1.8万美元预测「DeepSeek V4会在3.15前发布」
 已保存到 Markdown: ./output/blockbeats/2026-03-02.md
-  [BlockBeats] 新快讯: 神秘账户精准押注对伊空袭，特朗普阵营陷「内幕交易」指控
-推送成功: 【BLOCKBEATS - 预测市场】神秘账户精准押注对伊空袭，特朗普阵营陷「内幕交易」指控
+  [BlockBeats] 新快讯: 2个在打击伊朗盘口获利超10万美元的账户押注6.8万美元「美伊本月停火」
+推送成功: 【BLOCKBEATS - 预测市场】2个在打击伊朗盘口获利超10万美元的账户押注6.8万美元「美伊本月停火」
 已保存到 Markdown: ./output/blockbeats/2026-03-02.md
-  [BlockBeats] 新快讯: 波段巨鲸「pension-usdt.eth」平仓BTC多单，此前规模达6700万美元
-推送成功: 【BLOCKBEATS - 链上侦探】波段巨鲸「pension-usdt.eth」平仓BTC多单，此前规模达6700万美元
+  [BlockBeats] 新快讯: 5个政治板块胜率超80%的账户押注6.55万美元预测「伊朗政权3月底前不会倒台」
+推送成功: 【BLOCKBEATS - 预测市场】5个政治板块胜率超80%的账户押注6.55万美元预测「伊朗政权3月底前不会倒台」
 已保存到 Markdown: ./output/blockbeats/2026-03-02.md
-  [BlockBeats] 新快讯: Meme币PsyopAnime市值短时回升至1000万美元，24小时涨幅达35%
-推送成功: 【BLOCKBEATS - 链上侦探】Meme币PsyopAnime市值短时回升至1000万美元，24小时涨幅达35%
+  [BlockBeats] 新快讯: 某鲸鱼买入115,435枚HYPE，均价32美元
+推送成功: 【BLOCKBEATS - 链上侦探】某鲸鱼买入115,435枚HYPE，均价32美元
 已保存到 Markdown: ./output/blockbeats/2026-03-02.md
-  [BlockBeats] 新快讯: 「麻吉」ETH多单再遭部分清算，合约账户余额不足1万美元
-推送成功: 【BLOCKBEATS - 链上侦探】「麻吉」ETH多单再遭部分清算，合约账户余额不足1万美元
+  [BlockBeats] 新快讯: Hyperliquid上BTC第一大头寸地址40倍做空，看跌比特币跌至5.5万美元
+推送成功: 【BLOCKBEATS - 链上侦探】Hyperliquid上BTC第一大头寸地址40倍做空，看跌比特币跌至5.5万美元
 已保存到 Markdown: ./output/blockbeats/2026-03-02.md
-  [BlockBeats] 新快讯: 某鲸鱼将1,000枚ETH兑换为358.49枚XAUT，均价5,413美元
-推送成功: 【BLOCKBEATS - 链上侦探】某鲸鱼将1,000枚ETH兑换为358.49枚XAUT，均价5,413美元
+  [BlockBeats] 新快讯: 某新地址从Bybit增持9.4731亿枚PUMP，价值约186万美元
+推送成功: 【BLOCKBEATS - 链上侦探】某新地址从Bybit增持9.4731亿枚PUMP，价值约186万美元
 已保存到 Markdown: ./output/blockbeats/2026-03-02.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -26,24 +26,9 @@
   Category: 融资动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1000&is_hot=1
 Scraping RootData...
   List: Top 100 项目
-  [RootData] 新榜单: Top 100 项目
-推送成功: 【RootData - Top 100 项目】
-推送成功: 【RootData - Top 100 项目】 (续)
-已保存到 Markdown: ./output/rootdata/2026-03-02.md
   List: 透明度评分提升榜
-  [RootData] 新榜单: 透明度评分提升榜
-推送成功: 【RootData - 透明度评分提升榜】
-推送成功: 【RootData - 透明度评分提升榜】 (续)
-已保存到 Markdown: ./output/rootdata/2026-03-02.md
   List: 交易所透明度排名
-  [RootData] 新榜单: 交易所透明度排名
-推送成功: 【RootData - 交易所透明度排名】
-推送成功: 【RootData - 交易所透明度排名】 (续)
-已保存到 Markdown: ./output/rootdata/2026-03-02.md
   Calendar Events...
-  [RootData] 日历事件: 10 条
-推送成功: 📅 RootData | 今日日历事件
-已保存到 Markdown: ./output/rootdata/2026-03-02.md
   Calendar Insight Image...
     Clicked calendar insight icon
     Clicked generate share image button
@@ -58,7 +43,7 @@ Scraping RootData...
 =========================== logs ===========================
 waiting for event "download"
 ============================================================
-Cycle completed. 2026-03-02 02:14:35.212460
+Cycle completed. 2026-03-02 04:50:53.415082
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -68,24 +53,17 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-� (续)
-2026-03-02 02:13:49,705 - INFO - 已保存到 Markdown: ./output/rootdata/2026-03-02.md
-2026-03-02 02:13:49,705 - INFO -   Calendar Events...
-2026-03-02 02:13:51,717 - INFO -   [RootData] 日历事件: 10 条
-2026-03-02 02:13:51,997 - INFO - 推送成功: 📅 RootData | 今日日历事件
-2026-03-02 02:13:51,998 - INFO - 已保存到 Markdown: ./output/rootdata/2026-03-02.md
-2026-03-02 02:13:51,998 - INFO -   Calendar Insight Image...
-2026-03-02 02:13:52,123 - INFO -     Clicked calendar insight icon
-2026-03-02 02:13:53,107 - INFO -     Clicked generate share image button
-2026-03-02 02:13:55,526 - INFO -     Clicked download button
-2026-03-02 02:13:55,562 - INFO -     Saved Calendar Image: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-03-02.png
-2026-03-02 02:13:55,562 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-03-02.png
-2026-03-02 02:13:56,121 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
-2026-03-02 02:13:56,123 - INFO -   Market Image...
-2026-03-02 02:14:00,174 - INFO -     Clicked market download icon
-2026-03-02 02:14:05,245 - INFO -     Clicked save button
-2026-03-02 02:14:35,201 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
+lendar insight icon
+2026-03-02 04:50:10,433 - INFO -     Clicked generate share image button
+2026-03-02 04:50:13,386 - INFO -     Clicked download button
+2026-03-02 04:50:13,415 - INFO -     Saved Calendar Image: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-03-02.png
+2026-03-02 04:50:13,415 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-03-02.png
+2026-03-02 04:50:13,825 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
+2026-03-02 04:50:13,828 - INFO -   Market Image...
+2026-03-02 04:50:18,359 - INFO -     Clicked market download icon
+2026-03-02 04:50:24,966 - INFO -     Clicked save button
+2026-03-02 04:50:53,405 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
 =========================== logs ===========================
 waiting for event "download"
 ============================================================
-2026-03-02 02:14:35,212 - INFO - Cycle completed. 2026-03-02 02:14:35.212460
+2026-03-02 04:50:53,415 - INFO - Cycle completed. 2026-03-02 04:50:53.415082

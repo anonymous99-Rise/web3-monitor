@@ -1,11 +1,5 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 特朗普再谈伊朗问题，伊朗政权6月30日前倒台概率现报38%
-推送成功: 【BLOCKBEATS - 预测市场】特朗普再谈伊朗问题，伊朗政权6月30日前倒台概率现报38%
-已保存到 Markdown: ./output/blockbeats/2026-03-03.md
-  [BlockBeats] 新快讯: 美国政府地址再次转出两笔比特币，今晚共转出0.3346枚比特币
-推送成功: 【BLOCKBEATS - 融资】美国政府地址再次转出两笔比特币，今晚共转出0.3346枚比特币
-已保存到 Markdown: ./output/blockbeats/2026-03-03.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
   Category: 项目动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1003&is_hot=1
@@ -31,7 +25,7 @@ Scraping RootData...
 =========================== logs ===========================
 waiting for event "download"
 ============================================================
-Cycle completed. 2026-03-03 17:45:57.747159
+Cycle completed. 2026-03-03 18:56:19.337559
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -41,13 +35,10 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-加密日历洞察_2026-03-03.png
-2026-03-03 17:45:18,118 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
-2026-03-03 17:45:18,121 - INFO -   Market Image...
-2026-03-03 17:45:22,692 - INFO -     Clicked market download icon
-2026-03-03 17:45:27,797 - INFO -     Clicked save button
-2026-03-03 17:45:57,734 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
+55 - INFO -     Clicked market download icon
+2026-03-03 18:55:49,387 - INFO -     Clicked save button
+2026-03-03 18:56:19,322 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
 =========================== logs ===========================
 waiting for event "download"
 ============================================================
-2026-03-03 17:45:57,747 - INFO - Cycle completed. 2026-03-03 17:45:57.747159
+2026-03-03 18:56:19,337 - INFO - Cycle completed. 2026-03-03 18:56:19.337559

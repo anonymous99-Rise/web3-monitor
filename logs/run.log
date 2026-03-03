@@ -1,7 +1,10 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 今日加密市场逆势回暖，宏观避险巨鲸持金银多单与加密空单日亏50万美元
-推送成功: 【BLOCKBEATS - 链上侦探】今日加密市场逆势回暖，宏观避险巨鲸持金银多单与加密空单日亏50万美元
+  [BlockBeats] 新快讯: 6个GPT专属盈利账户投入2.68万美元预测「OpenAI将发布GPT-5.3」
+推送成功: 【BLOCKBEATS - 预测市场】6个GPT专属盈利账户投入2.68万美元预测「OpenAI将发布GPT-5.3」
+已保存到 Markdown: ./output/blockbeats/2026-03-03.md
+  [BlockBeats] 新快讯: Hyperliquid上WTI原油日交易量突破1亿美元，合约交易量前十中加密货币类仅占其四
+推送成功: 【BLOCKBEATS - 链上侦探】Hyperliquid上WTI原油日交易量突破1亿美元，合约交易量前十中加密货币类仅占其四
 已保存到 Markdown: ./output/blockbeats/2026-03-03.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -28,7 +31,7 @@ Scraping RootData...
 =========================== logs ===========================
 waiting for event "download"
 ============================================================
-Cycle completed. 2026-03-03 08:44:42.311979
+Cycle completed. 2026-03-03 09:45:23.694192
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -38,12 +41,13 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-�来7天加密日历洞察
-2026-03-03 08:44:02,833 - INFO -   Market Image...
-2026-03-03 08:44:07,265 - INFO -     Clicked market download icon
-2026-03-03 08:44:12,352 - INFO -     Clicked save button
-2026-03-03 08:44:42,303 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
+加密日历洞察_2026-03-03.png
+2026-03-03 09:44:44,353 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
+2026-03-03 09:44:44,355 - INFO -   Market Image...
+2026-03-03 09:44:48,629 - INFO -     Clicked market download icon
+2026-03-03 09:44:53,728 - INFO -     Clicked save button
+2026-03-03 09:45:23,680 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
 =========================== logs ===========================
 waiting for event "download"
 ============================================================
-2026-03-03 08:44:42,312 - INFO - Cycle completed. 2026-03-03 08:44:42.311979
+2026-03-03 09:45:23,694 - INFO - Cycle completed. 2026-03-03 09:45:23.694192

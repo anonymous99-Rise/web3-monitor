@@ -1,16 +1,13 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 伊朗打击海湾国家施压美国适得其反，多国或将反击伊朗
-推送成功: 【BLOCKBEATS - 预测市场】伊朗打击海湾国家施压美国适得其反，多国或将反击伊朗
+  [BlockBeats] 新快讯: 阿联酋考虑在战争蔓延之时打击伊朗
+推送成功: 【BLOCKBEATS - 预测市场】阿联酋考虑在战争蔓延之时打击伊朗
 已保存到 Markdown: ./output/blockbeats/2026-03-03.md
-  [BlockBeats] 新快讯: 美国政府地址转出0.0378枚比特币，或为测试交易
-推送成功: 【BLOCKBEATS - 融资】美国政府地址转出0.0378枚比特币，或为测试交易
+  [BlockBeats] 新快讯: 英国将向塞浦路斯派遣反无人机直升机与「龙」号驱逐舰
+推送成功: 【BLOCKBEATS - 预测市场】英国将向塞浦路斯派遣反无人机直升机与「龙」号驱逐舰
 已保存到 Markdown: ./output/blockbeats/2026-03-03.md
-  [BlockBeats] 新快讯: 某巨鲸波段黄金代币XAUT，预计获利41.4万美元
-推送成功: 【BLOCKBEATS - 融资】某巨鲸波段黄金代币XAUT，预计获利41.4万美元
-已保存到 Markdown: ./output/blockbeats/2026-03-03.md
-  [BlockBeats] 新快讯: 三个新建地址今日囤积1,298.46枚比特币，约合8,640万美元
-推送成功: 【BLOCKBEATS - 融资】三个新建地址今日囤积1,298.46枚比特币，约合8,640万美元
+  [BlockBeats] 新快讯: POWER团队转移2900万美元代币，币价今日跌超58.6%
+推送成功: 【BLOCKBEATS - 融资】POWER团队转移2900万美元代币，币价今日跌超58.6%
 已保存到 Markdown: ./output/blockbeats/2026-03-03.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -37,7 +34,7 @@ Scraping RootData...
 =========================== logs ===========================
 waiting for event "download"
 ============================================================
-Cycle completed. 2026-03-03 15:57:53.453625
+Cycle completed. 2026-03-03 16:53:42.436491
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -47,14 +44,13 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-alendar Image: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-03-03.png
-2026-03-03 15:57:05,948 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-03-03.png
-2026-03-03 15:57:06,693 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
-2026-03-03 15:57:06,696 - INFO -   Market Image...
-2026-03-03 15:57:18,407 - INFO -     Clicked market download icon
-2026-03-03 15:57:23,502 - INFO -     Clicked save button
-2026-03-03 15:57:53,443 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
+-03-03 16:53:02,098 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-03-03.png
+2026-03-03 16:53:02,819 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
+2026-03-03 16:53:02,822 - INFO -   Market Image...
+2026-03-03 16:53:07,377 - INFO -     Clicked market download icon
+2026-03-03 16:53:12,498 - INFO -     Clicked save button
+2026-03-03 16:53:42,420 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
 =========================== logs ===========================
 waiting for event "download"
 ============================================================
-2026-03-03 15:57:53,453 - INFO - Cycle completed. 2026-03-03 15:57:53.453625
+2026-03-03 16:53:42,436 - INFO - Cycle completed. 2026-03-03 16:53:42.436491

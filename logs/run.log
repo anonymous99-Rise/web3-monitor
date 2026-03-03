@@ -1,19 +1,13 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 预测「哈梅内伊下台」实现百倍盈利的内幕账户，投入8500美元预测「沙特3月底前打击伊朗」
-推送成功: 【BLOCKBEATS - 预测市场】预测「哈梅内伊下台」实现百倍盈利的内幕账户，投入8500美元预测「沙特3月底前打击伊朗」
+  [BlockBeats] 新快讯: 沙特要打伊朗了？小时级别内幕地址再出手
+推送成功: 【BLOCKBEATS - 预测市场】沙特要打伊朗了？小时级别内幕地址再出手
 已保存到 Markdown: ./output/blockbeats/2026-03-03.md
-  [BlockBeats] 新快讯: 「盘前市场领域75%胜率」地址7000美元下注Opinion首日FDV大于5亿美元
-推送成功: 【BLOCKBEATS - 预测市场】「盘前市场领域75%胜率」地址7000美元下注Opinion首日FDV大于5亿美元
+  [BlockBeats] 新快讯: 受白银价格跳水，两日前以1200万美元做空白银巨鲸已录大额浮盈
+推送成功: 【BLOCKBEATS - 链上侦探】受白银价格跳水，两日前以1200万美元做空白银巨鲸已录大额浮盈
 已保存到 Markdown: ./output/blockbeats/2026-03-03.md
-  [BlockBeats] 新快讯: 巨鲸重仓500万规模链上WTI原油空单，或意在押注霍尔木兹海峡并未封锁
-推送成功: 【BLOCKBEATS - 链上侦探】巨鲸重仓500万规模链上WTI原油空单，或意在押注霍尔木兹海峡并未封锁
-已保存到 Markdown: ./output/blockbeats/2026-03-03.md
-  [BlockBeats] 新快讯: 「麻吉」黄立成存入25万美元开启第二十轮ETH滚仓做多，清算价1949美元
-推送成功: 【BLOCKBEATS - 链上侦探】「麻吉」黄立成存入25万美元开启第二十轮ETH滚仓做多，清算价1949美元
-已保存到 Markdown: ./output/blockbeats/2026-03-03.md
-  [BlockBeats] 新快讯: Base生态代币FAI市值短时涨超3000万美元，24小时涨幅达122%
-推送成功: 【BLOCKBEATS - 链上侦探】Base生态代币FAI市值短时涨超3000万美元，24小时涨幅达122%
+  [BlockBeats] 新快讯: Hyperliquid上ETH最大多头新增做多BTC，现仓位总价值2.77亿美元
+推送成功: 【BLOCKBEATS - 链上侦探】Hyperliquid上ETH最大多头新增做多BTC，现仓位总价值2.77亿美元
 已保存到 Markdown: ./output/blockbeats/2026-03-03.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -40,7 +34,7 @@ Scraping RootData...
 =========================== logs ===========================
 waiting for event "download"
 ============================================================
-Cycle completed. 2026-03-03 06:56:37.635225
+Cycle completed. 2026-03-03 07:44:57.148012
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -50,15 +44,13 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-3-03 06:55:57,264 - INFO -     Clicked download button
-2026-03-03 06:55:57,296 - INFO -     Saved Calendar Image: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-03-03.png
-2026-03-03 06:55:57,296 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-03-03.png
-2026-03-03 06:55:57,715 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
-2026-03-03 06:55:57,717 - INFO -   Market Image...
-2026-03-03 06:56:02,595 - INFO -     Clicked market download icon
-2026-03-03 06:56:07,684 - INFO -     Clicked save button
-2026-03-03 06:56:37,624 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
+-03-03 07:44:17,364 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-03-03.png
+2026-03-03 07:44:17,965 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
+2026-03-03 07:44:17,968 - INFO -   Market Image...
+2026-03-03 07:44:22,100 - INFO -     Clicked market download icon
+2026-03-03 07:44:27,198 - INFO -     Clicked save button
+2026-03-03 07:44:57,137 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
 =========================== logs ===========================
 waiting for event "download"
 ============================================================
-2026-03-03 06:56:37,635 - INFO - Cycle completed. 2026-03-03 06:56:37.635225
+2026-03-03 07:44:57,148 - INFO - Cycle completed. 2026-03-03 07:44:57.148012

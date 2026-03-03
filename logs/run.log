@@ -1,34 +1,10 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 两高胜率账户成功预测「伊朗无人机打击阿曼塞拉莱港」
-推送成功: 【BLOCKBEATS - 预测市场】两高胜率账户成功预测「伊朗无人机打击阿曼塞拉莱港」
+  [BlockBeats] 新快讯: 巨鲸「pension-usdt.eth」重仓开多BTC，仓位价值约6757万美元
+推送成功: 【BLOCKBEATS - 融资】巨鲸「pension-usdt.eth」重仓开多BTC，仓位价值约6757万美元
 已保存到 Markdown: ./output/blockbeats/2026-03-03.md
-  [BlockBeats] 新快讯: 阿里发布 Qwen3.5 小模型系列，9B 模型多项基准超越 OpenAI gpt-oss-120B，马斯克评价「智能密度惊人」
-推送成功: 【BLOCKBEATS - 链上侦探】阿里发布 Qwen3.5 小模型系列，9B 模型多项基准超越 OpenAI gpt-oss-120B，马斯克评价「智能密度惊人」
-已保存到 Markdown: ./output/blockbeats/2026-03-03.md
-  [BlockBeats] 新快讯: 科大讯飞AI翻译眼镜亮相MWC2026，唇动识别降噪方案称可提升翻译准确率50%以上
-推送成功: 【BLOCKBEATS - 链上侦探】科大讯飞AI翻译眼镜亮相MWC2026，唇动识别降噪方案称可提升翻译准确率50%以上
-已保存到 Markdown: ./output/blockbeats/2026-03-03.md
-  [BlockBeats] 新快讯: 英伟达向Lumentum和Coherent各投资20亿美元，推进下一代数据中心光互连技术
-推送成功: 【BLOCKBEATS - 链上侦探】英伟达向Lumentum和Coherent各投资20亿美元，推进下一代数据中心光互连技术
-已保存到 Markdown: ./output/blockbeats/2026-03-03.md
-  [BlockBeats] 新快讯: Anthropic曾竞标五角大楼1亿美元无人机蜂群项目，未入选，SpaceX和OpenAI阵营胜出
-推送成功: 【BLOCKBEATS - 链上侦探】Anthropic曾竞标五角大楼1亿美元无人机蜂群项目，未入选，SpaceX和OpenAI阵营胜出
-已保存到 Markdown: ./output/blockbeats/2026-03-03.md
-  [BlockBeats] 新快讯: Ollama新增「ollama launch pi」命令，一键启动极简编程Agent
-推送成功: 【BLOCKBEATS - 链上侦探】Ollama新增「ollama launch pi」命令，一键启动极简编程Agent
-已保存到 Markdown: ./output/blockbeats/2026-03-03.md
-  [BlockBeats] 新快讯: 研究：AGENTS.md文件可使AI编程Agent运行时间缩短29%、输出token减少17%
-推送成功: 【BLOCKBEATS - 链上侦探】研究：AGENTS.md文件可使AI编程Agent运行时间缩短29%、输出token减少17%
-已保存到 Markdown: ./output/blockbeats/2026-03-03.md
-  [BlockBeats] 新快讯: xAI推送Grok4.20Beta2更新，改进指令遵循与幻觉抑制
-推送成功: 【BLOCKBEATS - 链上侦探】xAI推送Grok4.20Beta2更新，改进指令遵循与幻觉抑制
-已保存到 Markdown: ./output/blockbeats/2026-03-03.md
-  [BlockBeats] 新快讯: 主流Perp DEX一览：Hyperliquid 24小时交易量上涨58%，回升至87亿美元
-推送成功: 【BLOCKBEATS - 融资】主流Perp DEX一览：Hyperliquid 24小时交易量上涨58%，回升至87亿美元
-已保存到 Markdown: ./output/blockbeats/2026-03-03.md
-  [BlockBeats] 新快讯: 某鲸鱼2小时前向Binance存入8.2万枚ETH，价值超1.6亿美元
-推送成功: 【BLOCKBEATS - 融资】某鲸鱼2小时前向Binance存入8.2万枚ETH，价值超1.6亿美元
+  [BlockBeats] 新快讯: 「麻吉」加仓以太坊多单至320万美元，账户内仅剩11万美元
+推送成功: 【BLOCKBEATS - 融资】「麻吉」加仓以太坊多单至320万美元，账户内仅剩11万美元
 已保存到 Markdown: ./output/blockbeats/2026-03-03.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -55,7 +31,7 @@ Scraping RootData...
 =========================== logs ===========================
 waiting for event "download"
 ============================================================
-Cycle completed. 2026-03-03 11:36:05.399743
+Cycle completed. 2026-03-03 13:03:05.653259
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -65,23 +41,13 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-03 11:35:08,057 - INFO - Scraping RootData...
-2026-03-03 11:35:08,096 - INFO -   List: Top 100 项目
-2026-03-03 11:35:12,155 - INFO -   List: 透明度评分提升榜
-2026-03-03 11:35:14,818 - INFO -   List: 交易所透明度排名
-2026-03-03 11:35:18,142 - INFO -   Calendar Events...
-2026-03-03 11:35:20,074 - INFO -   Calendar Insight Image...
-2026-03-03 11:35:20,511 - INFO -     Clicked calendar insight icon
-2026-03-03 11:35:21,709 - INFO -     Clicked generate share image button
-2026-03-03 11:35:25,185 - INFO -     Clicked download button
-2026-03-03 11:35:25,223 - INFO -     Saved Calendar Image: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-03-03.png
-2026-03-03 11:35:25,223 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-03-03.png
-2026-03-03 11:35:25,996 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
-2026-03-03 11:35:25,999 - INFO -   Market Image...
-2026-03-03 11:35:30,324 - INFO -     Clicked market download icon
-2026-03-03 11:35:35,440 - INFO -     Clicked save button
-2026-03-03 11:36:05,389 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
+加密日历洞察_2026-03-03.png
+2026-03-03 13:02:26,257 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
+2026-03-03 13:02:26,260 - INFO -   Market Image...
+2026-03-03 13:02:30,608 - INFO -     Clicked market download icon
+2026-03-03 13:02:35,675 - INFO -     Clicked save button
+2026-03-03 13:03:05,641 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
 =========================== logs ===========================
 waiting for event "download"
 ============================================================
-2026-03-03 11:36:05,399 - INFO - Cycle completed. 2026-03-03 11:36:05.399743
+2026-03-03 13:03:05,653 - INFO - Cycle completed. 2026-03-03 13:03:05.653259

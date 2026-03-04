@@ -1,16 +1,13 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: GSR于3小时前从Binance提取3000枚ETH
-推送成功: 【BLOCKBEATS - 融资】GSR于3小时前从Binance提取3000枚ETH
+  [BlockBeats] 新快讯: 某疑似内幕钱包再次投入3000美元押注伊朗政权将在3月31日前倒台
+推送成功: 【BLOCKBEATS - 预测市场】某疑似内幕钱包再次投入3000美元押注伊朗政权将在3月31日前倒台
 已保存到 Markdown: ./output/blockbeats/2026-03-04.md
-  [BlockBeats] 新快讯: 贝莱德过去24小时从Coinbase提取3,809枚BTC，并存入19,637枚ETH
-推送成功: 【BLOCKBEATS - 融资】贝莱德过去24小时从Coinbase提取3,809枚BTC，并存入19,637枚ETH
+  [BlockBeats] 新快讯: OpenAI下一个AI模型将具备极强的推理能力
+推送成功: 【BLOCKBEATS - 链上侦探】OpenAI下一个AI模型将具备极强的推理能力
 已保存到 Markdown: ./output/blockbeats/2026-03-04.md
-  [BlockBeats] 新快讯: 某新建钱包从Bybit提取500枚XAUT，约合257万美元
-推送成功: 【BLOCKBEATS - 融资】某新建钱包从Bybit提取500枚XAUT，约合257万美元
-已保存到 Markdown: ./output/blockbeats/2026-03-04.md
-  [BlockBeats] 新快讯: 某鲸鱼将102枚BTC换仓为3489枚ETH
-推送成功: 【BLOCKBEATS - 融资】某鲸鱼将102枚BTC换仓为3489枚ETH
+  [BlockBeats] 新快讯: 贝莱德自2月24日以来净流入17,642枚BTC，约合12.8亿美元
+推送成功: 【BLOCKBEATS - 融资】贝莱德自2月24日以来净流入17,642枚BTC，约合12.8亿美元
 已保存到 Markdown: ./output/blockbeats/2026-03-04.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -37,7 +34,7 @@ Scraping RootData...
 =========================== logs ===========================
 waiting for event "download"
 ============================================================
-Cycle completed. 2026-03-04 14:03:56.587184
+Cycle completed. 2026-03-04 15:44:39.056335
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -47,14 +44,13 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-alendar Image: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-03-04.png
-2026-03-04 14:03:16,569 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-03-04.png
-2026-03-04 14:03:17,217 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
-2026-03-04 14:03:17,220 - INFO -   Market Image...
-2026-03-04 14:03:21,534 - INFO -     Clicked market download icon
-2026-03-04 14:03:26,637 - INFO -     Clicked save button
-2026-03-04 14:03:56,577 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
+-03-04 15:43:59,116 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-03-04.png
+2026-03-04 15:43:59,764 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
+2026-03-04 15:43:59,767 - INFO -   Market Image...
+2026-03-04 15:44:03,997 - INFO -     Clicked market download icon
+2026-03-04 15:44:09,109 - INFO -     Clicked save button
+2026-03-04 15:44:39,042 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
 =========================== logs ===========================
 waiting for event "download"
 ============================================================
-2026-03-04 14:03:56,587 - INFO - Cycle completed. 2026-03-04 14:03:56.587184
+2026-03-04 15:44:39,056 - INFO - Cycle completed. 2026-03-04 15:44:39.056335

@@ -1,13 +1,28 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 伊朗领域9次预测88%胜率的明星账户押注1.77万美元伊朗政权不会在6月30日前垮台
-推送成功: 【BLOCKBEATS - 预测市场】伊朗领域9次预测88%胜率的明星账户押注1.77万美元伊朗政权不会在6月30日前垮台
+  [BlockBeats] 新快讯: 哈梅内伊的次子或将接任伊朗最高领袖，2个高盈利账户押注7.3千美元，伊朗3月5日前不会官宣
+推送成功: 【BLOCKBEATS - 预测市场】哈梅内伊的次子或将接任伊朗最高领袖，2个高盈利账户押注7.3千美元，伊朗3月5日前不会官宣
 已保存到 Markdown: ./output/blockbeats/2026-03-04.md
-  [BlockBeats] 新快讯: OpenAI正在开发代码托管平台，或与微软旗下GitHub竞争
-推送成功: 【BLOCKBEATS - 链上侦探】OpenAI正在开发代码托管平台，或与微软旗下GitHub竞争
+  [BlockBeats] 新快讯: 预测市场新增：「Faker是否会在2026年国际赛事中获奖FMVP」
+推送成功: 【BLOCKBEATS - 预测市场】预测市场新增：「Faker是否会在2026年国际赛事中获奖FMVP」
 已保存到 Markdown: ./output/blockbeats/2026-03-04.md
-  [BlockBeats] 新快讯: 看跌韩国股市的链上最大空头巨鲸部分止盈，目前持仓规模仍达467万美元
-推送成功: 【BLOCKBEATS - 融资】看跌韩国股市的链上最大空头巨鲸部分止盈，目前持仓规模仍达467万美元
+  [BlockBeats] 新快讯: QuitGPT抵制运动称参与人数超250万，核心诉求为停止政治捐款与拒绝AI监控
+推送成功: 【BLOCKBEATS - 链上侦探】QuitGPT抵制运动称参与人数超250万，核心诉求为停止政治捐款与拒绝AI监控
+已保存到 Markdown: ./output/blockbeats/2026-03-04.md
+  [BlockBeats] 新快讯: 论文：强制AI逐行追踪代码执行路径，补丁验证准确率达93%，无需实际运行代码
+推送成功: 【BLOCKBEATS - 链上侦探】论文：强制AI逐行追踪代码执行路径，补丁验证准确率达93%，无需实际运行代码
+已保存到 Markdown: ./output/blockbeats/2026-03-04.md
+  [BlockBeats] 新快讯: OpenClaw「代装」生意兴起：国内报价30元至5000元不等，海外平台单次收费最高6000美元
+推送成功: 【BLOCKBEATS - 链上侦探】OpenClaw「代装」生意兴起：国内报价30元至5000元不等，海外平台单次收费最高6000美元
+已保存到 Markdown: ./output/blockbeats/2026-03-04.md
+  [BlockBeats] 新快讯: Altman在全员会上为五角大楼协议辩护，称反弹「真的很痛苦」；OpenAI同时寻求北约合同
+推送成功: 【BLOCKBEATS - 链上侦探】Altman在全员会上为五角大楼协议辩护，称反弹「真的很痛苦」；OpenAI同时寻求北约合同
+已保存到 Markdown: ./output/blockbeats/2026-03-04.md
+  [BlockBeats] 新快讯: 某鲸鱼从Binance提出4900枚ETH，约970万美元
+推送成功: 【BLOCKBEATS - 融资】某鲸鱼从Binance提出4900枚ETH，约970万美元
+已保存到 Markdown: ./output/blockbeats/2026-03-04.md
+  [BlockBeats] 新快讯: Continue Capital持仓1800万规模AI产业链相关多单，浮亏扩大至110万美元
+推送成功: 【BLOCKBEATS - 融资】Continue Capital持仓1800万规模AI产业链相关多单，浮亏扩大至110万美元
 已保存到 Markdown: ./output/blockbeats/2026-03-04.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -34,7 +49,7 @@ Scraping RootData...
 =========================== logs ===========================
 waiting for event "download"
 ============================================================
-Cycle completed. 2026-03-04 06:53:03.231662
+Cycle completed. 2026-03-04 07:40:55.903644
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -44,13 +59,20 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
--03-04 06:52:23,299 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-03-04.png
-2026-03-04 06:52:23,920 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
-2026-03-04 06:52:23,923 - INFO -   Market Image...
-2026-03-04 06:52:28,166 - INFO -     Clicked market download icon
-2026-03-04 06:52:33,282 - INFO -     Clicked save button
-2026-03-04 06:53:03,219 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
+ -   List: 交易所透明度排名
+2026-03-04 07:40:07,507 - INFO -   Calendar Events...
+2026-03-04 07:40:09,788 - INFO -   Calendar Insight Image...
+2026-03-04 07:40:10,064 - INFO -     Clicked calendar insight icon
+2026-03-04 07:40:11,263 - INFO -     Clicked generate share image button
+2026-03-04 07:40:15,249 - INFO -     Clicked download button
+2026-03-04 07:40:15,307 - INFO -     Saved Calendar Image: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-03-04.png
+2026-03-04 07:40:15,308 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-03-04.png
+2026-03-04 07:40:15,999 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
+2026-03-04 07:40:16,002 - INFO -   Market Image...
+2026-03-04 07:40:20,859 - INFO -     Clicked market download icon
+2026-03-04 07:40:25,952 - INFO -     Clicked save button
+2026-03-04 07:40:55,893 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
 =========================== logs ===========================
 waiting for event "download"
 ============================================================
-2026-03-04 06:53:03,231 - INFO - Cycle completed. 2026-03-04 06:53:03.231662
+2026-03-04 07:40:55,903 - INFO - Cycle completed. 2026-03-04 07:40:55.903644

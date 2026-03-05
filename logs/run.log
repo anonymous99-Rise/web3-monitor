@@ -1,5 +1,17 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
+  [BlockBeats] 新快讯: 安全公司披露Perplexity Comet浏览器零点击漏洞，AI代理可被劫持窃取1Password凭证
+推送成功: 【BLOCKBEATS - 链上侦探】安全公司披露Perplexity Comet浏览器零点击漏洞，AI代理可被劫持窃取1Password凭证
+已保存到 Markdown: ./output/blockbeats/2026-03-05.md
+  [BlockBeats] 新快讯: 派盾：某地址在「投毒」攻击中损失2400万美元aEthUSDC
+推送成功: 【BLOCKBEATS - 融资】派盾：某地址在「投毒」攻击中损失2400万美元aEthUSDC
+已保存到 Markdown: ./output/blockbeats/2026-03-05.md
+  [BlockBeats] 新快讯: Hyperliquid上ETH最大多头仓位总浮盈超1900万美元
+推送成功: 【BLOCKBEATS - 融资】Hyperliquid上ETH最大多头仓位总浮盈超1900万美元
+已保存到 Markdown: ./output/blockbeats/2026-03-05.md
+  [BlockBeats] 新快讯: 贝莱德过去13小时从Coinbase提出4716枚BTC和21,147枚ETH
+推送成功: 【BLOCKBEATS - 融资】贝莱德过去13小时从Coinbase提出4716枚BTC和21,147枚ETH
+已保存到 Markdown: ./output/blockbeats/2026-03-05.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
   Category: 项目动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1003&is_hot=1
@@ -8,15 +20,30 @@
   Category: 融资动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1000&is_hot=1
 Scraping RootData...
   List: Top 100 项目
+  [RootData] 新榜单: Top 100 项目
+推送成功: 【RootData - Top 100 项目】
+推送成功: 【RootData - Top 100 项目】 (续)
+已保存到 Markdown: ./output/rootdata/2026-03-05.md
   List: 透明度评分提升榜
+  [RootData] 新榜单: 透明度评分提升榜
+推送成功: 【RootData - 透明度评分提升榜】
+推送成功: 【RootData - 透明度评分提升榜】 (续)
+已保存到 Markdown: ./output/rootdata/2026-03-05.md
   List: 交易所透明度排名
+  [RootData] 新榜单: 交易所透明度排名
+推送成功: 【RootData - 交易所透明度排名】
+推送成功: 【RootData - 交易所透明度排名】 (续)
+已保存到 Markdown: ./output/rootdata/2026-03-05.md
   Calendar Events...
+  [RootData] 日历事件: 10 条
+推送成功: 📅 RootData | 今日日历事件
+已保存到 Markdown: ./output/rootdata/2026-03-05.md
   Calendar Insight Image...
     Clicked calendar insight icon
     Clicked generate share image button
     Clicked download button
-    Saved Calendar Image: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-03-04.png
-    Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-03-04.png
+    Saved Calendar Image: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-03-05.png
+    Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-03-05.png
 推送成功: 📅 RootData | 未来7天加密日历洞察
   Market Image...
     Clicked market download icon
@@ -25,7 +52,7 @@ Scraping RootData...
 =========================== logs ===========================
 waiting for event "download"
 ============================================================
-Cycle completed. 2026-03-04 23:33:38.548902
+Cycle completed. 2026-03-05 02:13:34.435597
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -35,10 +62,21 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-91 - INFO -     Clicked market download icon
-2026-03-04 23:33:08,615 - INFO -     Clicked save button
-2026-03-04 23:33:38,537 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
+�历事件: 10 条
+2026-03-05 02:12:49,861 - INFO - 推送成功: 📅 RootData | 今日日历事件
+2026-03-05 02:12:49,863 - INFO - 已保存到 Markdown: ./output/rootdata/2026-03-05.md
+2026-03-05 02:12:49,863 - INFO -   Calendar Insight Image...
+2026-03-05 02:12:50,152 - INFO -     Clicked calendar insight icon
+2026-03-05 02:12:51,188 - INFO -     Clicked generate share image button
+2026-03-05 02:12:54,709 - INFO -     Clicked download button
+2026-03-05 02:12:54,727 - INFO -     Saved Calendar Image: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-03-05.png
+2026-03-05 02:12:54,727 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-03-05.png
+2026-03-05 02:12:55,173 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
+2026-03-05 02:12:55,175 - INFO -   Market Image...
+2026-03-05 02:12:59,368 - INFO -     Clicked market download icon
+2026-03-05 02:13:04,485 - INFO -     Clicked save button
+2026-03-05 02:13:34,423 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
 =========================== logs ===========================
 waiting for event "download"
 ============================================================
-2026-03-04 23:33:38,548 - INFO - Cycle completed. 2026-03-04 23:33:38.548902
+2026-03-05 02:13:34,435 - INFO - Cycle completed. 2026-03-05 02:13:34.435597

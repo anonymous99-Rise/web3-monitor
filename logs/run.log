@@ -1,22 +1,16 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 此前疑似内幕账户开始止损离场，沙特打击伊朗概率降至 33%
-推送成功: 【BLOCKBEATS - 预测市场】此前疑似内幕账户开始止损离场，沙特打击伊朗概率降至 33%
+  [BlockBeats] 新快讯: 政治板块高胜率账户投入3.79万美元，押注美国将于3月7日前打击伊拉克
+推送成功: 【BLOCKBEATS - 预测市场】政治板块高胜率账户投入3.79万美元，押注美国将于3月7日前打击伊拉克
 已保存到 Markdown: ./output/blockbeats/2026-03-05.md
-  [BlockBeats] 新快讯: 吴泳铭发内部邮件回应Qwen离职风波：坚持开源，加大AI研发和人才投入
-推送成功: 【BLOCKBEATS - 链上侦探】吴泳铭发内部邮件回应Qwen离职风波：坚持开源，加大AI研发和人才投入
+  [BlockBeats] 新快讯: AI社交应用捏Ta完成Pre A+轮融资，超1000万美元，用户破1200万
+推送成功: 【BLOCKBEATS - 链上侦探】AI社交应用捏Ta完成Pre A+轮融资，超1000万美元，用户破1200万
 已保存到 Markdown: ./output/blockbeats/2026-03-05.md
-  [BlockBeats] 新快讯: Claude是美军对伊行动核心AI工具，经Maven系统首日打击千余目标
-推送成功: 【BLOCKBEATS - 链上侦探】Claude是美军对伊行动核心AI工具，经Maven系统首日打击千余目标
+  [BlockBeats] 新快讯: 「麻吉」加仓150枚ETH多单
+推送成功: 【BLOCKBEATS - 融资】「麻吉」加仓150枚ETH多单
 已保存到 Markdown: ./output/blockbeats/2026-03-05.md
-  [BlockBeats] 新快讯: 谷歌搜索Claude Code遭广告投毒，冒充安装页植入窃密木马已持续近一月
-推送成功: 【BLOCKBEATS - 链上侦探】谷歌搜索Claude Code遭广告投毒，冒充安装页植入窃密木马已持续近一月
-已保存到 Markdown: ./output/blockbeats/2026-03-05.md
-  [BlockBeats] 新快讯: WLFI团队15小时前将1671万枚代币存入OKX
-推送成功: 【BLOCKBEATS - 融资】WLFI团队15小时前将1671万枚代币存入OKX
-已保存到 Markdown: ./output/blockbeats/2026-03-05.md
-  [BlockBeats] 新快讯: 加密KOL CBB逆势加仓原油空单至550万美元，现为链上CL最大空头
-推送成功: 【BLOCKBEATS - 融资】加密KOL CBB逆势加仓原油空单至550万美元，现为链上CL最大空头
+  [BlockBeats] 新快讯: Circle主力多头近日以87美元均价建仓，已捕获其股价二轮上涨行情
+推送成功: 【BLOCKBEATS - 融资】Circle主力多头近日以87美元均价建仓，已捕获其股价二轮上涨行情
 已保存到 Markdown: ./output/blockbeats/2026-03-05.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -43,7 +37,7 @@ Scraping RootData...
 =========================== logs ===========================
 waiting for event "download"
 ============================================================
-Cycle completed. 2026-03-05 07:45:02.755982
+Cycle completed. 2026-03-05 08:45:52.748381
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -53,17 +47,14 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-lendar insight icon
-2026-03-05 07:44:17,620 - INFO -     Clicked generate share image button
-2026-03-05 07:44:22,216 - INFO -     Clicked download button
-2026-03-05 07:44:22,268 - INFO -     Saved Calendar Image: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-03-05.png
-2026-03-05 07:44:22,268 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-03-05.png
-2026-03-05 07:44:22,779 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
-2026-03-05 07:44:22,781 - INFO -   Market Image...
-2026-03-05 07:44:27,673 - INFO -     Clicked market download icon
-2026-03-05 07:44:32,911 - INFO -     Clicked save button
-2026-03-05 07:45:02,740 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
+alendar Image: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-03-05.png
+2026-03-05 08:45:12,745 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-03-05.png
+2026-03-05 08:45:13,402 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
+2026-03-05 08:45:13,404 - INFO -   Market Image...
+2026-03-05 08:45:17,703 - INFO -     Clicked market download icon
+2026-03-05 08:45:22,798 - INFO -     Clicked save button
+2026-03-05 08:45:52,738 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
 =========================== logs ===========================
 waiting for event "download"
 ============================================================
-2026-03-05 07:45:02,756 - INFO - Cycle completed. 2026-03-05 07:45:02.755982
+2026-03-05 08:45:52,748 - INFO - Cycle completed. 2026-03-05 08:45:52.748381

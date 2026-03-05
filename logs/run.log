@@ -1,16 +1,10 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 浪潮YuanLab开源万亿参数多模态模型Yuan3.0 Ultra，激活参数68.8B，预训练效率提升49%
-推送成功: 【BLOCKBEATS - 链上侦探】浪潮YuanLab开源万亿参数多模态模型Yuan3.0 Ultra，激活参数68.8B，预训练效率提升49%
+  [BlockBeats] 新快讯: 某新地址从Binance提出304.55枚BTC，价值约2216万美元
+推送成功: 【BLOCKBEATS - 融资】某新地址从Binance提出304.55枚BTC，价值约2216万美元
 已保存到 Markdown: ./output/blockbeats/2026-03-05.md
-  [BlockBeats] 新快讯: Raycast推出vibe coding平台Glaze，输入提示词即生成原生Mac应用并内置应用商店
-推送成功: 【BLOCKBEATS - 链上侦探】Raycast推出vibe coding平台Glaze，输入提示词即生成原生Mac应用并内置应用商店
-已保存到 Markdown: ./output/blockbeats/2026-03-05.md
-  [BlockBeats] 新快讯: Nature研究测试13个大模型：全部可被诱导协助学术造假，Grok表现最差，Claude最抗拒
-推送成功: 【BLOCKBEATS - 链上侦探】Nature研究测试13个大模型：全部可被诱导协助学术造假，Grok表现最差，Claude最抗拒
-已保存到 Markdown: ./output/blockbeats/2026-03-05.md
-  [BlockBeats] 新快讯: 主流Perp DEX一览：Hyperliquid近日交易活跃度激增，交易量已站上100亿美元关口
-推送成功: 【BLOCKBEATS - 融资】主流Perp DEX一览：Hyperliquid近日交易活跃度激增，交易量已站上100亿美元关口
+  [BlockBeats] 新快讯: 某地址以0.5831美元均价买入约34.3万枚OPN，现已浮亏4.1万美元
+推送成功: 【BLOCKBEATS - 融资】某地址以0.5831美元均价买入约34.3万枚OPN，现已浮亏4.1万美元
 已保存到 Markdown: ./output/blockbeats/2026-03-05.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -37,7 +31,7 @@ Scraping RootData...
 =========================== logs ===========================
 waiting for event "download"
 ============================================================
-Cycle completed. 2026-03-05 11:36:31.935879
+Cycle completed. 2026-03-05 13:05:35.697412
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -47,14 +41,13 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-alendar Image: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-03-05.png
-2026-03-05 11:35:52,064 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-03-05.png
-2026-03-05 11:35:52,629 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
-2026-03-05 11:35:52,631 - INFO -   Market Image...
-2026-03-05 11:35:56,894 - INFO -     Clicked market download icon
-2026-03-05 11:36:01,987 - INFO -     Clicked save button
-2026-03-05 11:36:31,926 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
+加密日历洞察_2026-03-05.png
+2026-03-05 13:04:55,904 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
+2026-03-05 13:04:55,907 - INFO -   Market Image...
+2026-03-05 13:05:00,640 - INFO -     Clicked market download icon
+2026-03-05 13:05:05,749 - INFO -     Clicked save button
+2026-03-05 13:05:35,685 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
 =========================== logs ===========================
 waiting for event "download"
 ============================================================
-2026-03-05 11:36:31,935 - INFO - Cycle completed. 2026-03-05 11:36:31.935879
+2026-03-05 13:05:35,697 - INFO - Cycle completed. 2026-03-05 13:05:35.697412

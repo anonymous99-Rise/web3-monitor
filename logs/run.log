@@ -1,11 +1,5 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: Jez San地址抛售6,091枚ETH和161.8万枚LINK，价值超2800万美元
-推送成功: 【BLOCKBEATS - 融资】Jez San地址抛售6,091枚ETH和161.8万枚LINK，价值超2800万美元
-已保存到 Markdown: ./output/blockbeats/2026-03-05.md
-  [BlockBeats] 新快讯: 「麻吉」加仓25倍以太坊多单，浮盈已超25万美元
-推送成功: 【BLOCKBEATS - 融资】「麻吉」加仓25倍以太坊多单，浮盈已超25万美元
-已保存到 Markdown: ./output/blockbeats/2026-03-05.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
   Category: 项目动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1003&is_hot=1
@@ -31,7 +25,7 @@ Scraping RootData...
 =========================== logs ===========================
 waiting for event "download"
 ============================================================
-Cycle completed. 2026-03-05 15:54:11.684602
+Cycle completed. 2026-03-05 18:07:46.139237
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -41,13 +35,10 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-加密日历洞察_2026-03-05.png
-2026-03-05 15:53:32,140 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
-2026-03-05 15:53:32,143 - INFO -   Market Image...
-2026-03-05 15:53:36,631 - INFO -     Clicked market download icon
-2026-03-05 15:53:41,751 - INFO -     Clicked save button
-2026-03-05 15:54:11,672 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
+92 - INFO -     Clicked market download icon
+2026-03-05 18:07:16,186 - INFO -     Clicked save button
+2026-03-05 18:07:46,127 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
 =========================== logs ===========================
 waiting for event "download"
 ============================================================
-2026-03-05 15:54:11,684 - INFO - Cycle completed. 2026-03-05 15:54:11.684602
+2026-03-05 18:07:46,139 - INFO - Cycle completed. 2026-03-05 18:07:46.139237

@@ -1,22 +1,22 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 新账户在Polymarket市场投入6000美元，美国会在月底前宣布对伊朗库尔德人提供军事支持
-推送成功: 【BLOCKBEATS - 预测市场】新账户在Polymarket市场投入6000美元，美国会在月底前宣布对伊朗库尔德人提供军事支持
+  [BlockBeats] 新快讯: 此前疑似内幕账户开始止损离场，沙特打击伊朗概率降至 33%
+推送成功: 【BLOCKBEATS - 预测市场】此前疑似内幕账户开始止损离场，沙特打击伊朗概率降至 33%
 已保存到 Markdown: ./output/blockbeats/2026-03-05.md
-  [BlockBeats] 新快讯: 成功预测哈梅内伊被刺账户押注3.14万美元伊朗政权不会在6月30日前垮台
-推送成功: 【BLOCKBEATS - 预测市场】成功预测哈梅内伊被刺账户押注3.14万美元伊朗政权不会在6月30日前垮台
+  [BlockBeats] 新快讯: 吴泳铭发内部邮件回应Qwen离职风波：坚持开源，加大AI研发和人才投入
+推送成功: 【BLOCKBEATS - 链上侦探】吴泳铭发内部邮件回应Qwen离职风波：坚持开源，加大AI研发和人才投入
 已保存到 Markdown: ./output/blockbeats/2026-03-05.md
-  [BlockBeats] 新快讯: OpenAI Codex应用登陆Windows，支持原生沙盒和PowerShell
-推送成功: 【BLOCKBEATS - 链上侦探】OpenAI Codex应用登陆Windows，支持原生沙盒和PowerShell
+  [BlockBeats] 新快讯: Claude是美军对伊行动核心AI工具，经Maven系统首日打击千余目标
+推送成功: 【BLOCKBEATS - 链上侦探】Claude是美军对伊行动核心AI工具，经Maven系统首日打击千余目标
 已保存到 Markdown: ./output/blockbeats/2026-03-05.md
-  [BlockBeats] 新快讯: Google Workspace官方CLI上线GitHub，单命令行操作全套谷歌文档
-推送成功: 【BLOCKBEATS - 链上侦探】Google Workspace官方CLI上线GitHub，单命令行操作全套谷歌文档
+  [BlockBeats] 新快讯: 谷歌搜索Claude Code遭广告投毒，冒充安装页植入窃密木马已持续近一月
+推送成功: 【BLOCKBEATS - 链上侦探】谷歌搜索Claude Code遭广告投毒，冒充安装页植入窃密木马已持续近一月
 已保存到 Markdown: ./output/blockbeats/2026-03-05.md
-  [BlockBeats] 新快讯: 某鲸鱼地址11小时前将3000枚ETH存入Binance，波段交易获利99万美元
-推送成功: 【BLOCKBEATS - 融资】某鲸鱼地址11小时前将3000枚ETH存入Binance，波段交易获利99万美元
+  [BlockBeats] 新快讯: WLFI团队15小时前将1671万枚代币存入OKX
+推送成功: 【BLOCKBEATS - 融资】WLFI团队15小时前将1671万枚代币存入OKX
 已保存到 Markdown: ./output/blockbeats/2026-03-05.md
-  [BlockBeats] 新快讯: 某鲸鱼地址14小时前卖出650枚ETH以换仓ASTER
-推送成功: 【BLOCKBEATS - 融资】某鲸鱼地址14小时前卖出650枚ETH以换仓ASTER
+  [BlockBeats] 新快讯: 加密KOL CBB逆势加仓原油空单至550万美元，现为链上CL最大空头
+推送成功: 【BLOCKBEATS - 融资】加密KOL CBB逆势加仓原油空单至550万美元，现为链上CL最大空头
 已保存到 Markdown: ./output/blockbeats/2026-03-05.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -43,7 +43,7 @@ Scraping RootData...
 =========================== logs ===========================
 waiting for event "download"
 ============================================================
-Cycle completed. 2026-03-05 06:56:55.398506
+Cycle completed. 2026-03-05 07:45:02.755982
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -54,16 +54,16 @@ Scraping BlockBeats...
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
 lendar insight icon
-2026-03-05 06:56:10,435 - INFO -     Clicked generate share image button
-2026-03-05 06:56:14,924 - INFO -     Clicked download button
-2026-03-05 06:56:14,950 - INFO -     Saved Calendar Image: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-03-05.png
-2026-03-05 06:56:14,950 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-03-05.png
-2026-03-05 06:56:15,632 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
-2026-03-05 06:56:15,635 - INFO -   Market Image...
-2026-03-05 06:56:20,342 - INFO -     Clicked market download icon
-2026-03-05 06:56:25,467 - INFO -     Clicked save button
-2026-03-05 06:56:55,387 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
+2026-03-05 07:44:17,620 - INFO -     Clicked generate share image button
+2026-03-05 07:44:22,216 - INFO -     Clicked download button
+2026-03-05 07:44:22,268 - INFO -     Saved Calendar Image: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-03-05.png
+2026-03-05 07:44:22,268 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-03-05.png
+2026-03-05 07:44:22,779 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
+2026-03-05 07:44:22,781 - INFO -   Market Image...
+2026-03-05 07:44:27,673 - INFO -     Clicked market download icon
+2026-03-05 07:44:32,911 - INFO -     Clicked save button
+2026-03-05 07:45:02,740 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
 =========================== logs ===========================
 waiting for event "download"
 ============================================================
-2026-03-05 06:56:55,398 - INFO - Cycle completed. 2026-03-05 06:56:55.398506
+2026-03-05 07:45:02,756 - INFO - Cycle completed. 2026-03-05 07:45:02.755982

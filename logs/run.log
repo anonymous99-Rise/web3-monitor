@@ -1,5 +1,17 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
+  [BlockBeats] 新快讯: 林俊旸离职始末：事先不知周浩入职，管理层连夜定性「挑战公司制度」
+推送成功: 【BLOCKBEATS - 链上侦探】林俊旸离职始末：事先不知周浩入职，管理层连夜定性「挑战公司制度」
+已保存到 Markdown: ./output/blockbeats/2026-03-06.md
+  [BlockBeats] 新快讯: Step 3.5 Flash连续三天登顶OpenClaw调用量榜首，前五名中国模型占三席
+推送成功: 【BLOCKBEATS - 链上侦探】Step 3.5 Flash连续三天登顶OpenClaw调用量榜首，前五名中国模型占三席
+已保存到 Markdown: ./output/blockbeats/2026-03-06.md
+  [BlockBeats] 新快讯: 百度8.37亿中标联通济南AI项目，740台服务器为开年最大单
+推送成功: 【BLOCKBEATS - 链上侦探】百度8.37亿中标联通济南AI项目，740台服务器为开年最大单
+已保存到 Markdown: ./output/blockbeats/2026-03-06.md
+  [BlockBeats] 新快讯: 中国联通发布AI原生通信服务UniClaw，短信语音可直接调用AI无需装应用
+推送成功: 【BLOCKBEATS - 链上侦探】中国联通发布AI原生通信服务UniClaw，短信语音可直接调用AI无需装应用
+已保存到 Markdown: ./output/blockbeats/2026-03-06.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
   Category: 项目动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1003&is_hot=1
@@ -25,7 +37,7 @@ Scraping RootData...
 =========================== logs ===========================
 waiting for event "download"
 ============================================================
-Cycle completed. 2026-03-06 14:01:05.094096
+Cycle completed. 2026-03-06 14:51:27.027462
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -35,10 +47,14 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-46 - INFO -     Clicked market download icon
-2026-03-06 14:00:35,120 - INFO -     Clicked save button
-2026-03-06 14:01:05,082 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
+alendar Image: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-03-06.png
+2026-03-06 14:50:46,495 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-03-06.png
+2026-03-06 14:50:47,274 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
+2026-03-06 14:50:47,277 - INFO -   Market Image...
+2026-03-06 14:50:51,969 - INFO -     Clicked market download icon
+2026-03-06 14:50:57,077 - INFO -     Clicked save button
+2026-03-06 14:51:27,014 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
 =========================== logs ===========================
 waiting for event "download"
 ============================================================
-2026-03-06 14:01:05,094 - INFO - Cycle completed. 2026-03-06 14:01:05.094096
+2026-03-06 14:51:27,027 - INFO - Cycle completed. 2026-03-06 14:51:27.027462

@@ -1,16 +1,10 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: Polymarket新市场上线：「凯文·沃什的美联储主席提名是否会在5月15日前被撤回」
-推送成功: 【BLOCKBEATS - 预测市场】Polymarket新市场上线：「凯文·沃什的美联储主席提名是否会在5月15日前被撤回」
+  [BlockBeats] 新快讯: 雷军：小米人形机器人已在汽车工厂「实习」，安装成功率90.2%
+推送成功: 【BLOCKBEATS - 链上侦探】雷军：小米人形机器人已在汽车工厂「实习」，安装成功率90.2%
 已保存到 Markdown: ./output/blockbeats/2026-03-06.md
-  [BlockBeats] 新快讯: OpenAI投资人Khosla：美中正处于「技术经济战争」，赢AI者赢全球影响力
-推送成功: 【BLOCKBEATS - 链上侦探】OpenAI投资人Khosla：美中正处于「技术经济战争」，赢AI者赢全球影响力
-已保存到 Markdown: ./output/blockbeats/2026-03-06.md
-  [BlockBeats] 新快讯: Cumberland于30分钟前再次从Coinbase提取14,800枚ETH
-推送成功: 【BLOCKBEATS - 融资】Cumberland于30分钟前再次从Coinbase提取14,800枚ETH
-已保存到 Markdown: ./output/blockbeats/2026-03-06.md
-  [BlockBeats] 新快讯: 链上WTI原油合约价格短时拉涨3.7%，该合约最大多头浮盈达70万美元
-推送成功: 【BLOCKBEATS - 融资】链上WTI原油合约价格短时拉涨3.7%，该合约最大多头浮盈达70万美元
+  [BlockBeats] 新快讯: 主流Perp DEX一览：各平台交易量整体回落约30%，EdgeX交易量小幅上涨现居第二
+推送成功: 【BLOCKBEATS - 融资】主流Perp DEX一览：各平台交易量整体回落约30%，EdgeX交易量小幅上涨现居第二
 已保存到 Markdown: ./output/blockbeats/2026-03-06.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -37,7 +31,7 @@ Scraping RootData...
 =========================== logs ===========================
 waiting for event "download"
 ============================================================
-Cycle completed. 2026-03-06 10:38:24.381989
+Cycle completed. 2026-03-06 11:32:36.424478
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -47,14 +41,13 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-alendar Image: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-03-06.png
-2026-03-06 10:37:42,343 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-03-06.png
-2026-03-06 10:37:44,598 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
-2026-03-06 10:37:44,601 - INFO -   Market Image...
-2026-03-06 10:37:49,320 - INFO -     Clicked market download icon
-2026-03-06 10:37:54,433 - INFO -     Clicked save button
-2026-03-06 10:38:24,369 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
+加密日历洞察_2026-03-06.png
+2026-03-06 11:31:57,315 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
+2026-03-06 11:31:57,318 - INFO -   Market Image...
+2026-03-06 11:32:01,365 - INFO -     Clicked market download icon
+2026-03-06 11:32:06,474 - INFO -     Clicked save button
+2026-03-06 11:32:36,412 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
 =========================== logs ===========================
 waiting for event "download"
 ============================================================
-2026-03-06 10:38:24,382 - INFO - Cycle completed. 2026-03-06 10:38:24.381989
+2026-03-06 11:32:36,424 - INFO - Cycle completed. 2026-03-06 11:32:36.424478

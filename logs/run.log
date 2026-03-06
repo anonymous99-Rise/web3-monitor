@@ -1,31 +1,13 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 乌克兰市场147次预测72%胜率的地址押注7300美元俄罗斯会在月底前占领格里申涅
-推送成功: 【BLOCKBEATS - 预测市场】乌克兰市场147次预测72%胜率的地址押注7300美元俄罗斯会在月底前占领格里申涅
+  [BlockBeats] 新快讯: 科技市场六次全胜的地址投入3200美元，押注到月底Anthropic拥有最好的AI模型
+推送成功: 【BLOCKBEATS - 预测市场】科技市场六次全胜的地址投入3200美元，押注到月底Anthropic拥有最好的AI模型
 已保存到 Markdown: ./output/blockbeats/2026-03-06.md
-  [BlockBeats] 新快讯: 成功预测美国打伊朗的地址投入2.89万美元，押注美伊会在四月底前停火
-推送成功: 【BLOCKBEATS - 预测市场】成功预测美国打伊朗的地址投入2.89万美元，押注美伊会在四月底前停火
+  [BlockBeats] 新快讯: NVIDIA GTC下周开幕，190国3万人参会，议程超千场
+推送成功: 【BLOCKBEATS - 链上侦探】NVIDIA GTC下周开幕，190国3万人参会，议程超千场
 已保存到 Markdown: ./output/blockbeats/2026-03-06.md
-  [BlockBeats] 新快讯: 新地址押注4.9万美元，伊朗不会在月底前关闭霍尔木兹海峡
-推送成功: 【BLOCKBEATS - 预测市场】新地址押注4.9万美元，伊朗不会在月底前关闭霍尔木兹海峡
-已保存到 Markdown: ./output/blockbeats/2026-03-06.md
-  [BlockBeats] 新快讯: 原豆包PC端负责人齐俊元正式创业，做GUI Agent手机获阶跃星辰和IDG投资
-推送成功: 【BLOCKBEATS - 链上侦探】原豆包PC端负责人齐俊元正式创业，做GUI Agent手机获阶跃星辰和IDG投资
-已保存到 Markdown: ./output/blockbeats/2026-03-06.md
-  [BlockBeats] 新快讯: Anthropic发布AI岗位暴露指数，程序员75%任务可被自动化，22-25岁招聘已放缓
-推送成功: 【BLOCKBEATS - 链上侦探】Anthropic发布AI岗位暴露指数，程序员75%任务可被自动化，22-25岁招聘已放缓
-已保存到 Markdown: ./output/blockbeats/2026-03-06.md
-  [BlockBeats] 新快讯: 京东Q4电话会：言犀大模型调用量激增近百倍，外卖投入将低于去年
-推送成功: 【BLOCKBEATS - 链上侦探】京东Q4电话会：言犀大模型调用量激增近百倍，外卖投入将低于去年
-已保存到 Markdown: ./output/blockbeats/2026-03-06.md
-  [BlockBeats] 新快讯: 腾讯门口摆摊免费装OpenClaw，Lighthouse单日部署量创历史新高
-推送成功: 【BLOCKBEATS - 链上侦探】腾讯门口摆摊免费装OpenClaw，Lighthouse单日部署量创历史新高
-已保存到 Markdown: ./output/blockbeats/2026-03-06.md
-  [BlockBeats] 新快讯: OpenAI Codex周活突破200万，周环比增25%
-推送成功: 【BLOCKBEATS - 链上侦探】OpenAI Codex周活突破200万，周环比增25%
-已保存到 Markdown: ./output/blockbeats/2026-03-06.md
-  [BlockBeats] 新快讯: 波段巨鲸「pension-usdt.eth」1000枚BTC空单浮亏收窄至220万美元
-推送成功: 【BLOCKBEATS - 融资】波段巨鲸「pension-usdt.eth」1000枚BTC空单浮亏收窄至220万美元
+  [BlockBeats] 新快讯: Google搜索AI Mode向全美开放Canvas，支持在搜索中生成应用和代码
+推送成功: 【BLOCKBEATS - 链上侦探】Google搜索AI Mode向全美开放Canvas，支持在搜索中生成应用和代码
 已保存到 Markdown: ./output/blockbeats/2026-03-06.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -52,7 +34,7 @@ Scraping RootData...
 =========================== logs ===========================
 waiting for event "download"
 ============================================================
-Cycle completed. 2026-03-06 06:54:52.661468
+Cycle completed. 2026-03-06 07:40:53.591171
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -62,22 +44,13 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-��
-2026-03-06 06:53:59,023 - INFO -   List: 透明度评分提升榜
-2026-03-06 06:54:01,284 - INFO -   List: 交易所透明度排名
-2026-03-06 06:54:03,778 - INFO -   Calendar Events...
-2026-03-06 06:54:05,647 - INFO -   Calendar Insight Image...
-2026-03-06 06:54:06,095 - INFO -     Clicked calendar insight icon
-2026-03-06 06:54:07,358 - INFO -     Clicked generate share image button
-2026-03-06 06:54:12,555 - INFO -     Clicked download button
-2026-03-06 06:54:12,610 - INFO -     Saved Calendar Image: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-03-06.png
-2026-03-06 06:54:12,610 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-03-06.png
-2026-03-06 06:54:13,087 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
-2026-03-06 06:54:13,089 - INFO -   Market Image...
-2026-03-06 06:54:17,611 - INFO -     Clicked market download icon
-2026-03-06 06:54:22,708 - INFO -     Clicked save button
-2026-03-06 06:54:52,650 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
+-03-06 07:40:13,738 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-03-06.png
+2026-03-06 07:40:14,197 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
+2026-03-06 07:40:14,199 - INFO -   Market Image...
+2026-03-06 07:40:18,549 - INFO -     Clicked market download icon
+2026-03-06 07:40:23,639 - INFO -     Clicked save button
+2026-03-06 07:40:53,581 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
 =========================== logs ===========================
 waiting for event "download"
 ============================================================
-2026-03-06 06:54:52,661 - INFO - Cycle completed. 2026-03-06 06:54:52.661468
+2026-03-06 07:40:53,591 - INFO - Cycle completed. 2026-03-06 07:40:53.591171

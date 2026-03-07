@@ -1,10 +1,7 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: Netflix收购本·阿弗莱克的AI电影制作公司InterPositive
-推送成功: 【BLOCKBEATS - 链上侦探】Netflix收购本·阿弗莱克的AI电影制作公司InterPositive
-已保存到 Markdown: ./output/blockbeats/2026-03-07.md
-  [BlockBeats] 新快讯: 五角大楼将Anthropic列为「供应链风险」，OpenAI火速接手国防合同
-推送成功: 【BLOCKBEATS - 链上侦探】五角大楼将Anthropic列为「供应链风险」，OpenAI火速接手国防合同
+  [BlockBeats] 新快讯: 合约巨鲸pension-usdt.eth开始减仓其比特币空单
+推送成功: 【BLOCKBEATS - 融资】合约巨鲸pension-usdt.eth开始减仓其比特币空单
 已保存到 Markdown: ./output/blockbeats/2026-03-07.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -31,7 +28,7 @@ Scraping RootData...
 =========================== logs ===========================
 waiting for event "download"
 ============================================================
-Cycle completed. 2026-03-07 06:44:51.522705
+Cycle completed. 2026-03-07 07:32:25.404242
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -41,13 +38,12 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-加密日历洞察_2026-03-07.png
-2026-03-07 06:44:11,920 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
-2026-03-07 06:44:11,923 - INFO -   Market Image...
-2026-03-07 06:44:16,478 - INFO -     Clicked market download icon
-2026-03-07 06:44:21,570 - INFO -     Clicked save button
-2026-03-07 06:44:51,511 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
+�来7天加密日历洞察
+2026-03-07 07:31:46,025 - INFO -   Market Image...
+2026-03-07 07:31:50,356 - INFO -     Clicked market download icon
+2026-03-07 07:31:55,453 - INFO -     Clicked save button
+2026-03-07 07:32:25,394 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
 =========================== logs ===========================
 waiting for event "download"
 ============================================================
-2026-03-07 06:44:51,522 - INFO - Cycle completed. 2026-03-07 06:44:51.522705
+2026-03-07 07:32:25,404 - INFO - Cycle completed. 2026-03-07 07:32:25.404242

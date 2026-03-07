@@ -1,7 +1,7 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: Hypurrfun创始人持续加仓原油空单，建仓均价91.16美元
-推送成功: 【BLOCKBEATS - 融资】Hypurrfun创始人持续加仓原油空单，建仓均价91.16美元
+  [BlockBeats] 新快讯: 以太坊联创Jeffrey Wilcke将79,258.61枚ETH转至Kraken，约1.57亿美元
+推送成功: 【BLOCKBEATS - 融资】以太坊联创Jeffrey Wilcke将79,258.61枚ETH转至Kraken，约1.57亿美元
 已保存到 Markdown: ./output/blockbeats/2026-03-07.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -28,7 +28,7 @@ Scraping RootData...
 =========================== logs ===========================
 waiting for event "download"
 ============================================================
-Cycle completed. 2026-03-07 15:26:57.289757
+Cycle completed. 2026-03-07 16:31:24.597129
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -39,11 +39,11 @@ Scraping BlockBeats...
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
 �来7天加密日历洞察
-2026-03-07 15:26:17,975 - INFO -   Market Image...
-2026-03-07 15:26:22,241 - INFO -     Clicked market download icon
-2026-03-07 15:26:27,341 - INFO -     Clicked save button
-2026-03-07 15:26:57,280 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
+2026-03-07 16:30:45,077 - INFO -   Market Image...
+2026-03-07 16:30:49,545 - INFO -     Clicked market download icon
+2026-03-07 16:30:54,647 - INFO -     Clicked save button
+2026-03-07 16:31:24,586 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
 =========================== logs ===========================
 waiting for event "download"
 ============================================================
-2026-03-07 15:26:57,289 - INFO - Cycle completed. 2026-03-07 15:26:57.289757
+2026-03-07 16:31:24,597 - INFO - Cycle completed. 2026-03-07 16:31:24.597129

@@ -1,7 +1,7 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: Anthropic研究：AI替代潜力远超实际采用，白领工作面临「大衰退」风险
-推送成功: 【BLOCKBEATS - 链上侦探】Anthropic研究：AI替代潜力远超实际采用，白领工作面临「大衰退」风险
+  [BlockBeats] 新快讯: AI芯片制造商Cerebras聘请摩根士丹利协助重启IPO计划
+推送成功: 【BLOCKBEATS - 链上侦探】AI芯片制造商Cerebras聘请摩根士丹利协助重启IPO计划
 已保存到 Markdown: ./output/blockbeats/2026-03-07.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -28,7 +28,7 @@ Scraping RootData...
 =========================== logs ===========================
 waiting for event "download"
 ============================================================
-Cycle completed. 2026-03-07 08:35:29.286257
+Cycle completed. 2026-03-07 09:32:18.073943
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -39,11 +39,11 @@ Scraping BlockBeats...
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
 �来7天加密日历洞察
-2026-03-07 08:34:49,830 - INFO -   Market Image...
-2026-03-07 08:34:54,231 - INFO -     Clicked market download icon
-2026-03-07 08:34:59,337 - INFO -     Clicked save button
-2026-03-07 08:35:29,272 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
+2026-03-07 09:31:38,293 - INFO -   Market Image...
+2026-03-07 09:31:43,018 - INFO -     Clicked market download icon
+2026-03-07 09:31:48,108 - INFO -     Clicked save button
+2026-03-07 09:32:18,061 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
 =========================== logs ===========================
 waiting for event "download"
 ============================================================
-2026-03-07 08:35:29,286 - INFO - Cycle completed. 2026-03-07 08:35:29.286257
+2026-03-07 09:32:18,073 - INFO - Cycle completed. 2026-03-07 09:32:18.073943

@@ -1,22 +1,13 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 新账户投入5万美元预测「四大头部AI应用不会成为今日美区App Store Top1」
-推送成功: 【BLOCKBEATS - 预测市场】新账户投入5万美元预测「四大头部AI应用不会成为今日美区App Store Top1」
+  [BlockBeats] 新快讯: Openclaw发布3.7测试版，新增完善支持GPT 5.4 和 Gemini Flash 3.1
+推送成功: 【BLOCKBEATS - 链上侦探】Openclaw发布3.7测试版，新增完善支持GPT 5.4 和 Gemini Flash 3.1
 已保存到 Markdown: ./output/blockbeats/2026-03-08.md
-  [BlockBeats] 新快讯: 雷军谈「AI时代」：未来每周或仅需工作3天，每天工作2个小时
-推送成功: 【BLOCKBEATS - 链上侦探】雷军谈「AI时代」：未来每周或仅需工作3天，每天工作2个小时
+  [BlockBeats] 新快讯: 「Hyperliquid早期贡献者Loracle」低倍做空石油，同时做多NVDA和PAXG
+推送成功: 【BLOCKBEATS - 融资】「Hyperliquid早期贡献者Loracle」低倍做空石油，同时做多NVDA和PAXG
 已保存到 Markdown: ./output/blockbeats/2026-03-08.md
-  [BlockBeats] 新快讯: Anthropic与五角大楼闹僵，美起草更严苛AI合约规则
-推送成功: 【BLOCKBEATS - 链上侦探】Anthropic与五角大楼闹僵，美起草更严苛AI合约规则
-已保存到 Markdown: ./output/blockbeats/2026-03-08.md
-  [BlockBeats] 新快讯: OpenClaw创始人分享AI模型与OpenClaw「适配率」排名，国产两模型分列2、3位
-推送成功: 【BLOCKBEATS - 链上侦探】OpenClaw创始人分享AI模型与OpenClaw「适配率」排名，国产两模型分列2、3位
-已保存到 Markdown: ./output/blockbeats/2026-03-08.md
-  [BlockBeats] 新快讯: 慢雾余弦：不信任OpenClaw稳定性，某些分叉版本对安全积极性较差
-推送成功: 【BLOCKBEATS - 链上侦探】慢雾余弦：不信任OpenClaw稳定性，某些分叉版本对安全积极性较差
-已保存到 Markdown: ./output/blockbeats/2026-03-08.md
-  [BlockBeats] 新快讯: 波段巨鲸「pension-usdt.eth」增持比特币多单，持仓价值近6700万美元
-推送成功: 【BLOCKBEATS - 融资】波段巨鲸「pension-usdt.eth」增持比特币多单，持仓价值近6700万美元
+  [BlockBeats] 新快讯: 某神秘鲸鱼再次提取价值160万美元PUMP，近两周累计囤积1640万美元PUMP
+推送成功: 【BLOCKBEATS - 融资】某神秘鲸鱼再次提取价值160万美元PUMP，近两周累计囤积1640万美元PUMP
 已保存到 Markdown: ./output/blockbeats/2026-03-08.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -43,7 +34,7 @@ Scraping RootData...
 =========================== logs ===========================
 waiting for event "download"
 ============================================================
-Cycle completed. 2026-03-08 04:45:46.024046
+Cycle completed. 2026-03-08 05:45:19.696445
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -53,17 +44,13 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-lendar insight icon
-2026-03-08 04:45:03,489 - INFO -     Clicked generate share image button
-2026-03-08 04:45:05,918 - INFO -     Clicked download button
-2026-03-08 04:45:05,958 - INFO -     Saved Calendar Image: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-03-08.png
-2026-03-08 04:45:05,958 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-03-08.png
-2026-03-08 04:45:06,390 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
-2026-03-08 04:45:06,393 - INFO -   Market Image...
-2026-03-08 04:45:10,956 - INFO -     Clicked market download icon
-2026-03-08 04:45:16,090 - INFO -     Clicked save button
-2026-03-08 04:45:46,010 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
+-03-08 05:44:40,055 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-03-08.png
+2026-03-08 05:44:40,728 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
+2026-03-08 05:44:40,730 - INFO -   Market Image...
+2026-03-08 05:44:44,650 - INFO -     Clicked market download icon
+2026-03-08 05:44:49,744 - INFO -     Clicked save button
+2026-03-08 05:45:19,684 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
 =========================== logs ===========================
 waiting for event "download"
 ============================================================
-2026-03-08 04:45:46,024 - INFO - Cycle completed. 2026-03-08 04:45:46.024046
+2026-03-08 05:45:19,696 - INFO - Cycle completed. 2026-03-08 05:45:19.696445

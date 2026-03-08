@@ -13,11 +13,26 @@ Scraping RootData...
   Calendar Events...
   Calendar Insight Image...
     Clicked calendar insight icon
-    Clicked generate share image button
-    Clicked download button
-    Saved Calendar Image: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-03-08.png
-    Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-03-08.png
-推送成功: 📅 RootData | 未来7天加密日历洞察
+    Insight capture failed: ElementHandle.click: Timeout 30000ms exceeded.
+Call log:
+  - attempting click action
+    2 × waiting for element to be visible, enabled and stable
+      - element is not stable
+    - retrying click action
+    - waiting 20ms
+    - waiting for element to be visible, enabled and stable
+    - element is not stable
+  2 × retrying click action
+      - waiting 100ms
+      - waiting for element to be visible, enabled and stable
+      - element is not enabled
+  55 × retrying click action
+       - waiting 500ms
+       - waiting for element to be visible, enabled and stable
+       - element is not enabled
+  - retrying click action
+    - waiting 500ms
+
   Market Image...
     Clicked market download icon
     Clicked save button
@@ -25,7 +40,7 @@ Scraping RootData...
 =========================== logs ===========================
 waiting for event "download"
 ============================================================
-Cycle completed. 2026-03-08 20:30:26.655383
+Cycle completed. 2026-03-08 21:27:54.883795
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -35,10 +50,8 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-00 - INFO -     Clicked market download icon
-2026-03-08 20:29:56,701 - INFO -     Clicked save button
-2026-03-08 20:30:26,642 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
+ARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
 =========================== logs ===========================
 waiting for event "download"
 ============================================================
-2026-03-08 20:30:26,655 - INFO - Cycle completed. 2026-03-08 20:30:26.655383
+2026-03-08 21:27:54,883 - INFO - Cycle completed. 2026-03-08 21:27:54.883795

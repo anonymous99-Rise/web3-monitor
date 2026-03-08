@@ -1,5 +1,11 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
+  [BlockBeats] 新快讯: 马斯克：Grok即将推出文章摘要功能，以提升信息获取效率
+推送成功: 【BLOCKBEATS - 链上侦探】马斯克：Grok即将推出文章摘要功能，以提升信息获取效率
+已保存到 Markdown: ./output/blockbeats/2026-03-08.md
+  [BlockBeats] 新快讯: 深圳龙岗拟出台措施，支持OpenClaw&OPC发展
+推送成功: 【BLOCKBEATS - 链上侦探】深圳龙岗拟出台措施，支持OpenClaw&OPC发展
+已保存到 Markdown: ./output/blockbeats/2026-03-08.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
   Category: 项目动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1003&is_hot=1
@@ -25,7 +31,7 @@ Scraping RootData...
 =========================== logs ===========================
 waiting for event "download"
 ============================================================
-Cycle completed. 2026-03-08 09:33:02.439514
+Cycle completed. 2026-03-08 10:28:54.775983
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -35,10 +41,13 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-88 - INFO -     Clicked market download icon
-2026-03-08 09:32:32,487 - INFO -     Clicked save button
-2026-03-08 09:33:02,428 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
+加密日历洞察_2026-03-08.png
+2026-03-08 10:28:15,086 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
+2026-03-08 10:28:15,088 - INFO -   Market Image...
+2026-03-08 10:28:19,710 - INFO -     Clicked market download icon
+2026-03-08 10:28:24,824 - INFO -     Clicked save button
+2026-03-08 10:28:54,761 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
 =========================== logs ===========================
 waiting for event "download"
 ============================================================
-2026-03-08 09:33:02,439 - INFO - Cycle completed. 2026-03-08 09:33:02.439514
+2026-03-08 10:28:54,776 - INFO - Cycle completed. 2026-03-08 10:28:54.775983

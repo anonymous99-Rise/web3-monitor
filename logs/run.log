@@ -1,16 +1,22 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: OpenClaw创始人：Codex在速度和可用性方面已超越命令行工具
-推送成功: 【BLOCKBEATS - 链上侦探】OpenClaw创始人：Codex在速度和可用性方面已超越命令行工具
+  [BlockBeats] 新快讯: 新账户投入5万美元预测「四大头部AI应用不会成为今日美区App Store Top1」
+推送成功: 【BLOCKBEATS - 预测市场】新账户投入5万美元预测「四大头部AI应用不会成为今日美区App Store Top1」
 已保存到 Markdown: ./output/blockbeats/2026-03-08.md
-  [BlockBeats] 新快讯: 担忧监控与自主武器问题，OpenAI机器人部门负责人辞职
-推送成功: 【BLOCKBEATS - 链上侦探】担忧监控与自主武器问题，OpenAI机器人部门负责人辞职
+  [BlockBeats] 新快讯: 雷军谈「AI时代」：未来每周或仅需工作3天，每天工作2个小时
+推送成功: 【BLOCKBEATS - 链上侦探】雷军谈「AI时代」：未来每周或仅需工作3天，每天工作2个小时
 已保存到 Markdown: ./output/blockbeats/2026-03-08.md
-  [BlockBeats] 新快讯: 波段ETH鲸鱼今晨提取6898.98枚ETH，价值1358万美元
-推送成功: 【BLOCKBEATS - 融资】波段ETH鲸鱼今晨提取6898.98枚ETH，价值1358万美元
+  [BlockBeats] 新快讯: Anthropic与五角大楼闹僵，美起草更严苛AI合约规则
+推送成功: 【BLOCKBEATS - 链上侦探】Anthropic与五角大楼闹僵，美起草更严苛AI合约规则
 已保存到 Markdown: ./output/blockbeats/2026-03-08.md
-  [BlockBeats] 新快讯: 某鲸鱼割肉清仓WBTC，损失448万美元
-推送成功: 【BLOCKBEATS - 融资】某鲸鱼割肉清仓WBTC，损失448万美元
+  [BlockBeats] 新快讯: OpenClaw创始人分享AI模型与OpenClaw「适配率」排名，国产两模型分列2、3位
+推送成功: 【BLOCKBEATS - 链上侦探】OpenClaw创始人分享AI模型与OpenClaw「适配率」排名，国产两模型分列2、3位
+已保存到 Markdown: ./output/blockbeats/2026-03-08.md
+  [BlockBeats] 新快讯: 慢雾余弦：不信任OpenClaw稳定性，某些分叉版本对安全积极性较差
+推送成功: 【BLOCKBEATS - 链上侦探】慢雾余弦：不信任OpenClaw稳定性，某些分叉版本对安全积极性较差
+已保存到 Markdown: ./output/blockbeats/2026-03-08.md
+  [BlockBeats] 新快讯: 波段巨鲸「pension-usdt.eth」增持比特币多单，持仓价值近6700万美元
+推送成功: 【BLOCKBEATS - 融资】波段巨鲸「pension-usdt.eth」增持比特币多单，持仓价值近6700万美元
 已保存到 Markdown: ./output/blockbeats/2026-03-08.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -20,24 +26,9 @@
   Category: 融资动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1000&is_hot=1
 Scraping RootData...
   List: Top 100 项目
-  [RootData] 新榜单: Top 100 项目
-推送成功: 【RootData - Top 100 项目】
-推送成功: 【RootData - Top 100 项目】 (续)
-已保存到 Markdown: ./output/rootdata/2026-03-08.md
   List: 透明度评分提升榜
-  [RootData] 新榜单: 透明度评分提升榜
-推送成功: 【RootData - 透明度评分提升榜】
-推送成功: 【RootData - 透明度评分提升榜】 (续)
-已保存到 Markdown: ./output/rootdata/2026-03-08.md
   List: 交易所透明度排名
-  [RootData] 新榜单: 交易所透明度排名
-推送成功: 【RootData - 交易所透明度排名】
-推送成功: 【RootData - 交易所透明度排名】 (续)
-已保存到 Markdown: ./output/rootdata/2026-03-08.md
   Calendar Events...
-  [RootData] 日历事件: 10 条
-推送成功: 📅 RootData | 今日日历事件
-已保存到 Markdown: ./output/rootdata/2026-03-08.md
   Calendar Insight Image...
     Clicked calendar insight icon
     Clicked generate share image button
@@ -52,7 +43,7 @@ Scraping RootData...
 =========================== logs ===========================
 waiting for event "download"
 ============================================================
-Cycle completed. 2026-03-08 02:15:45.795622
+Cycle completed. 2026-03-08 04:45:46.024046
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -62,21 +53,17 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-�历事件: 10 条
-2026-03-08 02:15:00,221 - INFO - 推送成功: 📅 RootData | 今日日历事件
-2026-03-08 02:15:00,223 - INFO - 已保存到 Markdown: ./output/rootdata/2026-03-08.md
-2026-03-08 02:15:00,223 - INFO -   Calendar Insight Image...
-2026-03-08 02:15:00,386 - INFO -     Clicked calendar insight icon
-2026-03-08 02:15:01,604 - INFO -     Clicked generate share image button
-2026-03-08 02:15:05,080 - INFO -     Clicked download button
-2026-03-08 02:15:05,113 - INFO -     Saved Calendar Image: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-03-08.png
-2026-03-08 02:15:05,113 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-03-08.png
-2026-03-08 02:15:05,877 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
-2026-03-08 02:15:05,879 - INFO -   Market Image...
-2026-03-08 02:15:10,734 - INFO -     Clicked market download icon
-2026-03-08 02:15:15,859 - INFO -     Clicked save button
-2026-03-08 02:15:45,781 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
+lendar insight icon
+2026-03-08 04:45:03,489 - INFO -     Clicked generate share image button
+2026-03-08 04:45:05,918 - INFO -     Clicked download button
+2026-03-08 04:45:05,958 - INFO -     Saved Calendar Image: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-03-08.png
+2026-03-08 04:45:05,958 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-03-08.png
+2026-03-08 04:45:06,390 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
+2026-03-08 04:45:06,393 - INFO -   Market Image...
+2026-03-08 04:45:10,956 - INFO -     Clicked market download icon
+2026-03-08 04:45:16,090 - INFO -     Clicked save button
+2026-03-08 04:45:46,010 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
 =========================== logs ===========================
 waiting for event "download"
 ============================================================
-2026-03-08 02:15:45,795 - INFO - Cycle completed. 2026-03-08 02:15:45.795622
+2026-03-08 04:45:46,024 - INFO - Cycle completed. 2026-03-08 04:45:46.024046

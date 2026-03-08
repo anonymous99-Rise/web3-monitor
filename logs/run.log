@@ -1,8 +1,5 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 某鲸鱼出售755万美元黄金代币并将259万美元黄金代币转入Binance，获利413万美元
-推送成功: 【BLOCKBEATS - 融资】某鲸鱼出售755万美元黄金代币并将259万美元黄金代币转入Binance，获利413万美元
-已保存到 Markdown: ./output/blockbeats/2026-03-08.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
   Category: 项目动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1003&is_hot=1
@@ -28,7 +25,7 @@ Scraping RootData...
 =========================== logs ===========================
 waiting for event "download"
 ============================================================
-Cycle completed. 2026-03-08 15:27:25.524267
+Cycle completed. 2026-03-08 16:32:45.980231
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -38,12 +35,10 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-�来7天加密日历洞察
-2026-03-08 15:26:46,027 - INFO -   Market Image...
-2026-03-08 15:26:50,481 - INFO -     Clicked market download icon
-2026-03-08 15:26:55,573 - INFO -     Clicked save button
-2026-03-08 15:27:25,513 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
+34 - INFO -     Clicked market download icon
+2026-03-08 16:32:16,028 - INFO -     Clicked save button
+2026-03-08 16:32:45,970 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
 =========================== logs ===========================
 waiting for event "download"
 ============================================================
-2026-03-08 15:27:25,524 - INFO - Cycle completed. 2026-03-08 15:27:25.524267
+2026-03-08 16:32:45,980 - INFO - Cycle completed. 2026-03-08 16:32:45.980231

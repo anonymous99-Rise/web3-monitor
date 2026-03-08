@@ -40,7 +40,7 @@ Call log:
 =========================== logs ===========================
 waiting for event "download"
 ============================================================
-Cycle completed. 2026-03-08 21:27:54.883795
+Cycle completed. 2026-03-08 22:28:08.440088
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -54,4 +54,4 @@ ARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for e
 =========================== logs ===========================
 waiting for event "download"
 ============================================================
-2026-03-08 21:27:54,883 - INFO - Cycle completed. 2026-03-08 21:27:54.883795
+2026-03-08 22:28:08,440 - INFO - Cycle completed. 2026-03-08 22:28:08.440088

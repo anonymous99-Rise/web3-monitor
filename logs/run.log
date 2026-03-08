@@ -1,13 +1,10 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: Openclaw发布3.7测试版，新增完善支持GPT 5.4 和 Gemini Flash 3.1
-推送成功: 【BLOCKBEATS - 链上侦探】Openclaw发布3.7测试版，新增完善支持GPT 5.4 和 Gemini Flash 3.1
+  [BlockBeats] 新快讯: OpenClaw创始人：不要用小模型跑高风险任务，有提示词注入风险
+推送成功: 【BLOCKBEATS - 链上侦探】OpenClaw创始人：不要用小模型跑高风险任务，有提示词注入风险
 已保存到 Markdown: ./output/blockbeats/2026-03-08.md
-  [BlockBeats] 新快讯: 「Hyperliquid早期贡献者Loracle」低倍做空石油，同时做多NVDA和PAXG
-推送成功: 【BLOCKBEATS - 融资】「Hyperliquid早期贡献者Loracle」低倍做空石油，同时做多NVDA和PAXG
-已保存到 Markdown: ./output/blockbeats/2026-03-08.md
-  [BlockBeats] 新快讯: 某神秘鲸鱼再次提取价值160万美元PUMP，近两周累计囤积1640万美元PUMP
-推送成功: 【BLOCKBEATS - 融资】某神秘鲸鱼再次提取价值160万美元PUMP，近两周累计囤积1640万美元PUMP
+  [BlockBeats] 新快讯: Vitalik：加密隐私对本地AI代理至关重要，能防止API调用中的访问模式泄露用户行为
+推送成功: 【BLOCKBEATS - 链上侦探】Vitalik：加密隐私对本地AI代理至关重要，能防止API调用中的访问模式泄露用户行为
 已保存到 Markdown: ./output/blockbeats/2026-03-08.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -34,7 +31,7 @@ Scraping RootData...
 =========================== logs ===========================
 waiting for event "download"
 ============================================================
-Cycle completed. 2026-03-08 05:45:19.696445
+Cycle completed. 2026-03-08 06:47:39.029044
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -44,13 +41,13 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
--03-08 05:44:40,055 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-03-08.png
-2026-03-08 05:44:40,728 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
-2026-03-08 05:44:40,730 - INFO -   Market Image...
-2026-03-08 05:44:44,650 - INFO -     Clicked market download icon
-2026-03-08 05:44:49,744 - INFO -     Clicked save button
-2026-03-08 05:45:19,684 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
+加密日历洞察_2026-03-08.png
+2026-03-08 06:46:59,075 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
+2026-03-08 06:46:59,077 - INFO -   Market Image...
+2026-03-08 06:47:03,967 - INFO -     Clicked market download icon
+2026-03-08 06:47:09,079 - INFO -     Clicked save button
+2026-03-08 06:47:39,015 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
 =========================== logs ===========================
 waiting for event "download"
 ============================================================
-2026-03-08 05:45:19,696 - INFO - Cycle completed. 2026-03-08 05:45:19.696445
+2026-03-08 06:47:39,029 - INFO - Cycle completed. 2026-03-08 06:47:39.029044

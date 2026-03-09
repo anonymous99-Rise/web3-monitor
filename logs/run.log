@@ -1,25 +1,10 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: Polymarket新增市场「美国会指控伊朗袭击奥斯陆大使馆吗？」
-推送成功: 【BLOCKBEATS - 预测市场】Polymarket新增市场「美国会指控伊朗袭击奥斯陆大使馆吗？」
+  [BlockBeats] 新快讯: 微软官宣Microsoft 365 Copilot第三波更新，包括与Anthropic合作的Copilot Co‑work功能
+推送成功: 【BLOCKBEATS - 链上侦探】微软官宣Microsoft 365 Copilot第三波更新，包括与Anthropic合作的Copilot Co‑work功能
 已保存到 Markdown: ./output/blockbeats/2026-03-09.md
-  [BlockBeats] 新快讯: AI也会「自保」？一句话让AI学会撒谎：研究称Agent欺骗率可从3%飙升至91%
-推送成功: 【BLOCKBEATS - 链上侦探】AI也会「自保」？一句话让AI学会撒谎：研究称Agent欺骗率可从3%飙升至91%
-已保存到 Markdown: ./output/blockbeats/2026-03-09.md
-  [BlockBeats] 新快讯: 甲骨文斥Stargate扩建搁置报道「虚假」，但OpenAI已确认转移产能
-推送成功: 【BLOCKBEATS - 链上侦探】甲骨文斥Stargate扩建搁置报道「虚假」，但OpenAI已确认转移产能
-已保存到 Markdown: ./output/blockbeats/2026-03-09.md
-  [BlockBeats] 新快讯: 朱啸虎：OpenClaw一个月新增逾30万Skills，增速堪比个人互联网兴起
-推送成功: 【BLOCKBEATS - 链上侦探】朱啸虎：OpenClaw一个月新增逾30万Skills，增速堪比个人互联网兴起
-已保存到 Markdown: ./output/blockbeats/2026-03-09.md
-  [BlockBeats] 新快讯: 百度智能云昨日京沪线下免费安装OpenClaw，联合红手指将其预装至云手机
-推送成功: 【BLOCKBEATS - 链上侦探】百度智能云昨日京沪线下免费安装OpenClaw，联合红手指将其预装至云手机
-已保存到 Markdown: ./output/blockbeats/2026-03-09.md
-  [BlockBeats] 新快讯: 贝莱德向Coinbase存入2200枚BTC和2417枚ETH
-推送成功: 【BLOCKBEATS - 融资】贝莱德向Coinbase存入2200枚BTC和2417枚ETH
-已保存到 Markdown: ./output/blockbeats/2026-03-09.md
-  [BlockBeats] 新快讯: 周末主流Perp DEX一览：各平台交易量有所回落，Hyperliquid上持仓量维持相对高位
-推送成功: 【BLOCKBEATS - 融资】周末主流Perp DEX一览：各平台交易量有所回落，Hyperliquid上持仓量维持相对高位
+  [BlockBeats] 新快讯: 豆包内测「购物下单」功能：用户可在App内直接浏览商品完成支付，最快本月上线
+推送成功: 【BLOCKBEATS - 链上侦探】豆包内测「购物下单」功能：用户可在App内直接浏览商品完成支付，最快本月上线
 已保存到 Markdown: ./output/blockbeats/2026-03-09.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -45,7 +30,7 @@ Scraping RootData...
     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-09.png
     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-09.png
 推送成功: 📊 RootData | Top Gainers
-Cycle completed. 2026-03-09 11:37:00.714575
+Cycle completed. 2026-03-09 13:08:20.847997
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -55,18 +40,12 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-s...
-2026-03-09 11:36:31,466 - INFO -   Calendar Insight Image...
-2026-03-09 11:36:31,924 - INFO -     Clicked calendar insight icon
-2026-03-09 11:36:33,049 - INFO -     Clicked generate share image button
-2026-03-09 11:36:36,502 - INFO -     Clicked download button
-2026-03-09 11:36:36,574 - INFO -     Saved Calendar Image: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-03-09.png
-2026-03-09 11:36:36,574 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-03-09.png
-2026-03-09 11:36:37,183 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
-2026-03-09 11:36:37,186 - INFO -   Market Image...
-2026-03-09 11:36:41,022 - INFO -     Clicked market download icon
-2026-03-09 11:36:59,958 - INFO -     Clicked save button
-2026-03-09 11:36:59,965 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-09.png
-2026-03-09 11:36:59,965 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-09.png
-2026-03-09 11:37:00,701 - INFO - 推送成功: 📊 RootData | Top Gainers
-2026-03-09 11:37:00,714 - INFO - Cycle completed. 2026-03-09 11:37:00.714575
+hts/未来7天加密日历洞察_2026-03-09.png
+2026-03-09 13:08:01,973 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
+2026-03-09 13:08:01,976 - INFO -   Market Image...
+2026-03-09 13:08:06,247 - INFO -     Clicked market download icon
+2026-03-09 13:08:20,348 - INFO -     Clicked save button
+2026-03-09 13:08:20,380 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-09.png
+2026-03-09 13:08:20,380 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-09.png
+2026-03-09 13:08:20,833 - INFO - 推送成功: 📊 RootData | Top Gainers
+2026-03-09 13:08:20,848 - INFO - Cycle completed. 2026-03-09 13:08:20.847997

@@ -1,28 +1,13 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 新账户2.35万美元押注美军将于3月14日前进入伊朗
-推送成功: 【BLOCKBEATS - 预测市场】新账户2.35万美元押注美军将于3月14日前进入伊朗
+  [BlockBeats] 新快讯: 链上WTI原油短时下探至94美元期间，两大巨鲸「接针」建仓百万美元多单
+推送成功: 【BLOCKBEATS - 融资】链上WTI原油短时下探至94美元期间，两大巨鲸「接针」建仓百万美元多单
 已保存到 Markdown: ./output/blockbeats/2026-03-09.md
-  [BlockBeats] 新快讯: 油价走势全胜账户1.2万美元再押注原油将在3月底前触及120美元
-推送成功: 【BLOCKBEATS - 预测市场】油价走势全胜账户1.2万美元再押注原油将在3月底前触及120美元
+  [BlockBeats] 新快讯: 链上ETH最大多头回撤后再度回本，曾浮盈过1200万美元未平仓
+推送成功: 【BLOCKBEATS - 融资】链上ETH最大多头回撤后再度回本，曾浮盈过1200万美元未平仓
 已保存到 Markdown: ./output/blockbeats/2026-03-09.md
-  [BlockBeats] 新快讯: OpenClaw爆火：腾讯、字节、小米等13家大厂加速布局AI Agent
-推送成功: 【BLOCKBEATS - 链上侦探】OpenClaw爆火：腾讯、字节、小米等13家大厂加速布局AI Agent
-已保存到 Markdown: ./output/blockbeats/2026-03-09.md
-  [BlockBeats] 新快讯: 阿里公布Qwen新管理安排：周靖人代管模型一号位，刘大一恒接管后训练和Coding
-推送成功: 【BLOCKBEATS - 链上侦探】阿里公布Qwen新管理安排：周靖人代管模型一号位，刘大一恒接管后训练和Coding
-已保存到 Markdown: ./output/blockbeats/2026-03-09.md
-  [BlockBeats] 新快讯: 至少13家国内互联网大厂跟进OpenClaw，从云端托管到手机系统Agent
-推送成功: 【BLOCKBEATS - 链上侦探】至少13家国内互联网大厂跟进OpenClaw，从云端托管到手机系统Agent
-已保存到 Markdown: ./output/blockbeats/2026-03-09.md
-  [BlockBeats] 新快讯: 腾讯两天密集推出三款OpenClaw相关产品，明显加速预覆盖日常通信与办公场景
-推送成功: 【BLOCKBEATS - 链上侦探】腾讯两天密集推出三款OpenClaw相关产品，明显加速预覆盖日常通信与办公场景
-已保存到 Markdown: ./output/blockbeats/2026-03-09.md
-  [BlockBeats] 新快讯: 布伦特原油交易对跻身Hyperliquid交易量前十，24小时交易量突破1.4亿美元
-推送成功: 【BLOCKBEATS - 融资】布伦特原油交易对跻身Hyperliquid交易量前十，24小时交易量突破1.4亿美元
-已保存到 Markdown: ./output/blockbeats/2026-03-09.md
-  [BlockBeats] 新快讯: 链上原油交易量周环比涨超910%，一览知名交易员如何布局美股及大宗商品
-推送成功: 【BLOCKBEATS - 融资】链上原油交易量周环比涨超910%，一览知名交易员如何布局美股及大宗商品
+  [BlockBeats] 新快讯: Meme币「龙虾」市值短时冲高至1000万美元继创新高，24小时涨幅250%
+推送成功: 【BLOCKBEATS - 融资】Meme币「龙虾」市值短时冲高至1000万美元继创新高，24小时涨幅250%
 已保存到 Markdown: ./output/blockbeats/2026-03-09.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -49,7 +34,7 @@ Scraping RootData...
 =========================== logs ===========================
 waiting for event "download"
 ============================================================
-Cycle completed. 2026-03-09 09:55:51.804111
+Cycle completed. 2026-03-09 10:49:59.668528
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -59,20 +44,13 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
- -   List: 交易所透明度排名
-2026-03-09 09:55:02,787 - INFO -   Calendar Events...
-2026-03-09 09:55:04,780 - INFO -   Calendar Insight Image...
-2026-03-09 09:55:05,231 - INFO -     Clicked calendar insight icon
-2026-03-09 09:55:06,432 - INFO -     Clicked generate share image button
-2026-03-09 09:55:10,677 - INFO -     Clicked download button
-2026-03-09 09:55:10,791 - INFO -     Saved Calendar Image: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-03-09.png
-2026-03-09 09:55:10,791 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-03-09.png
-2026-03-09 09:55:12,278 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
-2026-03-09 09:55:12,281 - INFO -   Market Image...
-2026-03-09 09:55:16,736 - INFO -     Clicked market download icon
-2026-03-09 09:55:21,849 - INFO -     Clicked save button
-2026-03-09 09:55:51,785 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
+-03-09 10:49:19,934 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-03-09.png
+2026-03-09 10:49:20,417 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
+2026-03-09 10:49:20,419 - INFO -   Market Image...
+2026-03-09 10:49:24,620 - INFO -     Clicked market download icon
+2026-03-09 10:49:29,714 - INFO -     Clicked save button
+2026-03-09 10:49:59,656 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
 =========================== logs ===========================
 waiting for event "download"
 ============================================================
-2026-03-09 09:55:51,804 - INFO - Cycle completed. 2026-03-09 09:55:51.804111
+2026-03-09 10:49:59,668 - INFO - Cycle completed. 2026-03-09 10:49:59.668528

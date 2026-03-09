@@ -1,16 +1,31 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 新地址投入2000美元预测「美伊四月不会停火」
-推送成功: 【BLOCKBEATS - 预测市场】新地址投入2000美元预测「美伊四月不会停火」
+  [BlockBeats] 新快讯: 两高胜率地址7.38万美元押注美军会在三月入境伊朗
+推送成功: 【BLOCKBEATS - 预测市场】两高胜率地址7.38万美元押注美军会在三月入境伊朗
 已保存到 Markdown: ./output/blockbeats/2026-03-09.md
-  [BlockBeats] 新快讯: 伊朗打击盘口高盈利账户投入1650美元预测「美以将于3月底前打击福尔多核设施」
-推送成功: 【BLOCKBEATS - 预测市场】伊朗打击盘口高盈利账户投入1650美元预测「美以将于3月底前打击福尔多核设施」
+  [BlockBeats] 新快讯: 新地址投入1.18万美元预测「英法德不会打伊朗」
+推送成功: 【BLOCKBEATS - 预测市场】新地址投入1.18万美元预测「英法德不会打伊朗」
 已保存到 Markdown: ./output/blockbeats/2026-03-09.md
-  [BlockBeats] 新快讯: 某聪明钱投入775万USDC，2倍做多ETH
-推送成功: 【BLOCKBEATS - 融资】某聪明钱投入775万USDC，2倍做多ETH
+  [BlockBeats] 新快讯: 哈梅内伊次子接任伊朗最高领袖，高胜率地址投入8.62万美元预测「伊朗政权不会在六月前垮台」
+推送成功: 【BLOCKBEATS - 预测市场】哈梅内伊次子接任伊朗最高领袖，高胜率地址投入8.62万美元预测「伊朗政权不会在六月前垮台」
 已保存到 Markdown: ./output/blockbeats/2026-03-09.md
-  [BlockBeats] 新快讯: 「多次反指全球资产」巨鲸空原油多BTC及纳指遭多空双杀，月亏损达730万美元
-推送成功: 【BLOCKBEATS - 融资】「多次反指全球资产」巨鲸空原油多BTC及纳指遭多空双杀，月亏损达730万美元
+  [BlockBeats] 新快讯: GAN之父与Stanford教授Manning联名发文：像素世界模型效率低下
+推送成功: 【BLOCKBEATS - 链上侦探】GAN之父与Stanford教授Manning联名发文：像素世界模型效率低下
+已保存到 Markdown: ./output/blockbeats/2026-03-09.md
+  [BlockBeats] 新快讯: 无锡高新区跟进发布「龙虾十二条」，具身智能项目最高补500万
+推送成功: 【BLOCKBEATS - 链上侦探】无锡高新区跟进发布「龙虾十二条」，具身智能项目最高补500万
+已保存到 Markdown: ./output/blockbeats/2026-03-09.md
+  [BlockBeats] 新快讯: OpenClaw作者gogcli新增48项功能，Google gws反向移除MCP
+推送成功: 【BLOCKBEATS - 链上侦探】OpenClaw作者gogcli新增48项功能，Google gws反向移除MCP
+已保存到 Markdown: ./output/blockbeats/2026-03-09.md
+  [BlockBeats] 新快讯: OpenClaw概念股逆势涨停，深圳龙岗「龙虾十条」最高补200万
+推送成功: 【BLOCKBEATS - 链上侦探】OpenClaw概念股逆势涨停，深圳龙岗「龙虾十条」最高补200万
+已保存到 Markdown: ./output/blockbeats/2026-03-09.md
+  [BlockBeats] 新快讯: 中国无锡高新区发布「养龙虾」12条，最高补贴500万
+推送成功: 【BLOCKBEATS - 链上侦探】中国无锡高新区发布「养龙虾」12条，最高补贴500万
+已保存到 Markdown: ./output/blockbeats/2026-03-09.md
+  [BlockBeats] 新快讯: 加密KOL CBB开空后五日内油价拉涨50%，已部分止损并上调持仓清算价至152美元
+推送成功: 【BLOCKBEATS - 融资】加密KOL CBB开空后五日内油价拉涨50%，已部分止损并上调持仓清算价至152美元
 已保存到 Markdown: ./output/blockbeats/2026-03-09.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -37,7 +52,7 @@ Scraping RootData...
 =========================== logs ===========================
 waiting for event "download"
 ============================================================
-Cycle completed. 2026-03-09 06:00:44.188876
+Cycle completed. 2026-03-09 07:15:28.682871
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -47,14 +62,22 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-alendar Image: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-03-09.png
-2026-03-09 06:00:02,674 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-03-09.png
-2026-03-09 06:00:04,096 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
-2026-03-09 06:00:04,098 - INFO -   Market Image...
-2026-03-09 06:00:09,139 - INFO -     Clicked market download icon
-2026-03-09 06:00:14,237 - INFO -     Clicked save button
-2026-03-09 06:00:44,177 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
+��
+2026-03-09 07:14:37,583 - INFO -   List: 透明度评分提升榜
+2026-03-09 07:14:40,053 - INFO -   List: 交易所透明度排名
+2026-03-09 07:14:42,266 - INFO -   Calendar Events...
+2026-03-09 07:14:44,027 - INFO -   Calendar Insight Image...
+2026-03-09 07:14:44,367 - INFO -     Clicked calendar insight icon
+2026-03-09 07:14:45,596 - INFO -     Clicked generate share image button
+2026-03-09 07:14:48,579 - INFO -     Clicked download button
+2026-03-09 07:14:48,612 - INFO -     Saved Calendar Image: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-03-09.png
+2026-03-09 07:14:48,612 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-03-09.png
+2026-03-09 07:14:49,414 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
+2026-03-09 07:14:49,416 - INFO -   Market Image...
+2026-03-09 07:14:53,640 - INFO -     Clicked market download icon
+2026-03-09 07:14:58,731 - INFO -     Clicked save button
+2026-03-09 07:15:28,670 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
 =========================== logs ===========================
 waiting for event "download"
 ============================================================
-2026-03-09 06:00:44,188 - INFO - Cycle completed. 2026-03-09 06:00:44.188876
+2026-03-09 07:15:28,682 - INFO - Cycle completed. 2026-03-09 07:15:28.682871

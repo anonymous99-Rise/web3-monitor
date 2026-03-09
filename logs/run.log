@@ -1,11 +1,26 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 市场消息：英伟达的Vera Rubin架构或采用三星和海力士的HMB4内存
-推送成功: 【BLOCKBEATS - 链上侦探】市场消息：英伟达的Vera Rubin架构或采用三星和海力士的HMB4内存
-已保存到 Markdown: ./output/blockbeats/2026-03-08.md
-  [BlockBeats] 新快讯: 某聪明钱清仓黄金代币，获利549.9万美元
-推送成功: 【BLOCKBEATS - 融资】某聪明钱清仓黄金代币，获利549.9万美元
-已保存到 Markdown: ./output/blockbeats/2026-03-08.md
+  [BlockBeats] 新快讯: WTI原油今晨涨超20%，链上原油最大多头浮盈已达170万美元
+推送成功: 【BLOCKBEATS - 融资】WTI原油今晨涨超20%，链上原油最大多头浮盈已达170万美元
+已保存到 Markdown: ./output/blockbeats/2026-03-09.md
+  [BlockBeats] 新快讯: 国际油价飙涨，Hyperliquid上原油合约24小时成交量跻身第三
+推送成功: 【BLOCKBEATS - 融资】国际油价飙涨，Hyperliquid上原油合约24小时成交量跻身第三
+已保存到 Markdown: ./output/blockbeats/2026-03-09.md
+  [BlockBeats] 新快讯: 「链上原油最大空头」已浮亏340万美元，清算价120.76美元
+推送成功: 【BLOCKBEATS - 融资】「链上原油最大空头」已浮亏340万美元，清算价120.76美元
+已保存到 Markdown: ./output/blockbeats/2026-03-09.md
+  [BlockBeats] 新快讯: 「原油铁头空军」爆仓亏损超155万美元后再度做空648万美元原油
+推送成功: 【BLOCKBEATS - 融资】「原油铁头空军」爆仓亏损超155万美元后再度做空648万美元原油
+已保存到 Markdown: ./output/blockbeats/2026-03-09.md
+  [BlockBeats] 新快讯: 波段巨鲸「pension-usdt.eth」重启做多BTC，建仓均价66,227.9美元
+推送成功: 【BLOCKBEATS - 融资】波段巨鲸「pension-usdt.eth」重启做多BTC，建仓均价66,227.9美元
+已保存到 Markdown: ./output/blockbeats/2026-03-09.md
+  [BlockBeats] 新快讯: 本周解锁数据一览：APT、STRK、LINEA等将迎来一次性代币大额解锁
+推送成功: 【BLOCKBEATS - 融资】本周解锁数据一览：APT、STRK、LINEA等将迎来一次性代币大额解锁
+已保存到 Markdown: ./output/blockbeats/2026-03-09.md
+  [BlockBeats] 新快讯: MakerDAO创始人做多原油浮盈逾100万美元
+推送成功: 【BLOCKBEATS - 融资】MakerDAO创始人做多原油浮盈逾100万美元
+已保存到 Markdown: ./output/blockbeats/2026-03-09.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
   Category: 项目动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1003&is_hot=1
@@ -14,31 +29,31 @@
   Category: 融资动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1000&is_hot=1
 Scraping RootData...
   List: Top 100 项目
+  [RootData] 新榜单: Top 100 项目
+推送成功: 【RootData - Top 100 项目】
+推送成功: 【RootData - Top 100 项目】 (续)
+已保存到 Markdown: ./output/rootdata/2026-03-09.md
   List: 透明度评分提升榜
+  [RootData] 新榜单: 透明度评分提升榜
+推送成功: 【RootData - 透明度评分提升榜】
+推送成功: 【RootData - 透明度评分提升榜】 (续)
+已保存到 Markdown: ./output/rootdata/2026-03-09.md
   List: 交易所透明度排名
+  [RootData] 新榜单: 交易所透明度排名
+推送成功: 【RootData - 交易所透明度排名】
+推送成功: 【RootData - 交易所透明度排名】 (续)
+已保存到 Markdown: ./output/rootdata/2026-03-09.md
   Calendar Events...
+  [RootData] 日历事件: 10 条
+推送成功: 📅 RootData | 今日日历事件
+已保存到 Markdown: ./output/rootdata/2026-03-09.md
   Calendar Insight Image...
     Clicked calendar insight icon
-    Insight capture failed: ElementHandle.click: Timeout 30000ms exceeded.
-Call log:
-  - attempting click action
-    2 × waiting for element to be visible, enabled and stable
-      - element is not stable
-    - retrying click action
-    - waiting 20ms
-    - waiting for element to be visible, enabled and stable
-    - element is not stable
-  2 × retrying click action
-      - waiting 100ms
-      - waiting for element to be visible, enabled and stable
-      - element is not enabled
-  55 × retrying click action
-       - waiting 500ms
-       - waiting for element to be visible, enabled and stable
-       - element is not enabled
-  - retrying click action
-    - waiting 500ms
-
+    Clicked generate share image button
+    Clicked download button
+    Saved Calendar Image: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-03-09.png
+    Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-03-09.png
+推送成功: 📅 RootData | 未来7天加密日历洞察
   Market Image...
     Clicked market download icon
     Clicked save button
@@ -46,7 +61,7 @@ Call log:
 =========================== logs ===========================
 waiting for event "download"
 ============================================================
-Cycle completed. 2026-03-08 23:28:15.801590
+Cycle completed. 2026-03-09 02:24:13.889836
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -56,11 +71,25 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-6-03-08 23:27:36,424 - INFO -   Market Image...
-2026-03-08 23:27:40,755 - INFO -     Clicked market download icon
-2026-03-08 23:27:45,840 - INFO -     Clicked save button
-2026-03-08 23:28:15,791 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
+��排名】
+2026-03-09 02:23:26,948 - INFO - 推送成功: 【RootData - 交易所透明度排名】 (续)
+2026-03-09 02:23:26,950 - INFO - 已保存到 Markdown: ./output/rootdata/2026-03-09.md
+2026-03-09 02:23:26,950 - INFO -   Calendar Events...
+2026-03-09 02:23:29,333 - INFO -   [RootData] 日历事件: 10 条
+2026-03-09 02:23:29,586 - INFO - 推送成功: 📅 RootData | 今日日历事件
+2026-03-09 02:23:29,588 - INFO - 已保存到 Markdown: ./output/rootdata/2026-03-09.md
+2026-03-09 02:23:29,588 - INFO -   Calendar Insight Image...
+2026-03-09 02:23:29,686 - INFO -     Clicked calendar insight icon
+2026-03-09 02:23:31,199 - INFO -     Clicked generate share image button
+2026-03-09 02:23:34,151 - INFO -     Clicked download button
+2026-03-09 02:23:34,239 - INFO -     Saved Calendar Image: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-03-09.png
+2026-03-09 02:23:34,239 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-03-09.png
+2026-03-09 02:23:34,820 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
+2026-03-09 02:23:34,822 - INFO -   Market Image...
+2026-03-09 02:23:38,844 - INFO -     Clicked market download icon
+2026-03-09 02:23:43,958 - INFO -     Clicked save button
+2026-03-09 02:24:13,880 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
 =========================== logs ===========================
 waiting for event "download"
 ============================================================
-2026-03-08 23:28:15,801 - INFO - Cycle completed. 2026-03-08 23:28:15.801590
+2026-03-09 02:24:13,889 - INFO - Cycle completed. 2026-03-09 02:24:13.889836

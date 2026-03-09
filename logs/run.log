@@ -1,10 +1,22 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 微软官宣Microsoft 365 Copilot第三波更新，包括与Anthropic合作的Copilot Co‑work功能
-推送成功: 【BLOCKBEATS - 链上侦探】微软官宣Microsoft 365 Copilot第三波更新，包括与Anthropic合作的Copilot Co‑work功能
+  [BlockBeats] 新快讯: 微软发布基于Claude Cowork打造的Copilot Cowork 拓展企业智能体业务
+推送成功: 【BLOCKBEATS - 链上侦探】微软发布基于Claude Cowork打造的Copilot Cowork 拓展企业智能体业务
 已保存到 Markdown: ./output/blockbeats/2026-03-09.md
-  [BlockBeats] 新快讯: 豆包内测「购物下单」功能：用户可在App内直接浏览商品完成支付，最快本月上线
-推送成功: 【BLOCKBEATS - 链上侦探】豆包内测「购物下单」功能：用户可在App内直接浏览商品完成支付，最快本月上线
+  [BlockBeats] 新快讯: Circle于以太坊网络增发1亿USDC
+推送成功: 【BLOCKBEATS - 融资】Circle于以太坊网络增发1亿USDC
+已保存到 Markdown: ./output/blockbeats/2026-03-09.md
+  [BlockBeats] 新快讯: 某鲸鱼地址20倍开多原油，爆仓价98.87美元
+推送成功: 【BLOCKBEATS - 融资】某鲸鱼地址20倍开多原油，爆仓价98.87美元
+已保存到 Markdown: ./output/blockbeats/2026-03-09.md
+  [BlockBeats] 新快讯: 某鲸鱼地址沉寂9个月后苏醒，从CEX提币404枚比特币
+推送成功: 【BLOCKBEATS - 融资】某鲸鱼地址沉寂9个月后苏醒，从CEX提币404枚比特币
+已保存到 Markdown: ./output/blockbeats/2026-03-09.md
+  [BlockBeats] 新快讯: 合约巨鲸pension-usdt.eth比特币空单规模已超3000万美元
+推送成功: 【BLOCKBEATS - 融资】合约巨鲸pension-usdt.eth比特币空单规模已超3000万美元
+已保存到 Markdown: ./output/blockbeats/2026-03-09.md
+  [BlockBeats] 新快讯: 合约巨鲸pension-usdt.eth开始以3倍杠杆做空比特币
+推送成功: 【BLOCKBEATS - 融资】合约巨鲸pension-usdt.eth开始以3倍杠杆做空比特币
 已保存到 Markdown: ./output/blockbeats/2026-03-09.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -30,7 +42,7 @@ Scraping RootData...
     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-09.png
     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-09.png
 推送成功: 📊 RootData | Top Gainers
-Cycle completed. 2026-03-09 13:08:20.847997
+Cycle completed. 2026-03-09 14:54:27.058033
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -40,12 +52,16 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-hts/未来7天加密日历洞察_2026-03-09.png
-2026-03-09 13:08:01,973 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
-2026-03-09 13:08:01,976 - INFO -   Market Image...
-2026-03-09 13:08:06,247 - INFO -     Clicked market download icon
-2026-03-09 13:08:20,348 - INFO -     Clicked save button
-2026-03-09 13:08:20,380 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-09.png
-2026-03-09 13:08:20,380 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-09.png
-2026-03-09 13:08:20,833 - INFO - 推送成功: 📊 RootData | Top Gainers
-2026-03-09 13:08:20,848 - INFO - Cycle completed. 2026-03-09 13:08:20.847997
+    Clicked calendar insight icon
+2026-03-09 14:54:06,768 - INFO -     Clicked generate share image button
+2026-03-09 14:54:09,731 - INFO -     Clicked download button
+2026-03-09 14:54:09,778 - INFO -     Saved Calendar Image: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-03-09.png
+2026-03-09 14:54:09,778 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-03-09.png
+2026-03-09 14:54:10,337 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
+2026-03-09 14:54:10,340 - INFO -   Market Image...
+2026-03-09 14:54:16,476 - INFO -     Clicked market download icon
+2026-03-09 14:54:26,383 - INFO -     Clicked save button
+2026-03-09 14:54:26,390 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-09.png
+2026-03-09 14:54:26,390 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-09.png
+2026-03-09 14:54:27,044 - INFO - 推送成功: 📊 RootData | Top Gainers
+2026-03-09 14:54:27,058 - INFO - Cycle completed. 2026-03-09 14:54:27.058033

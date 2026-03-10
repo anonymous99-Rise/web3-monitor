@@ -1,5 +1,29 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
+  [BlockBeats] 新快讯: 美国国防部官员：与Anthropic重启AI合作谈判希望渺茫
+推送成功: 【BLOCKBEATS - 链上侦探】美国国防部官员：与Anthropic重启AI合作谈判希望渺茫
+已保存到 Markdown: ./output/blockbeats/2026-03-10.md
+  [BlockBeats] 新快讯: Claude宣布推出Code Review功能，AI代理自动进行代码审查
+推送成功: 【BLOCKBEATS - 链上侦探】Claude宣布推出Code Review功能，AI代理自动进行代码审查
+已保存到 Markdown: ./output/blockbeats/2026-03-10.md
+  [BlockBeats] 新快讯: OpenAI将收购Promptfoo，以增强智能体安全测试与评估能力
+推送成功: 【BLOCKBEATS - 链上侦探】OpenAI将收购Promptfoo，以增强智能体安全测试与评估能力
+已保存到 Markdown: ./output/blockbeats/2026-03-10.md
+  [BlockBeats] 新快讯: 英伟达计划推出AI代理开源平台NemoClaw
+推送成功: 【BLOCKBEATS - 链上侦探】英伟达计划推出AI代理开源平台NemoClaw
+已保存到 Markdown: ./output/blockbeats/2026-03-10.md
+  [BlockBeats] 新快讯: 此前做空原油亏损159.5万美元地址再次做空原油，现已浮盈140.5万美元
+推送成功: 【BLOCKBEATS - 融资】此前做空原油亏损159.5万美元地址再次做空原油，现已浮盈140.5万美元
+已保存到 Markdown: ./output/blockbeats/2026-03-10.md
+  [BlockBeats] 新快讯: 比特币矿企Mara向Cumberland转入298枚BTC
+推送成功: 【BLOCKBEATS - 融资】比特币矿企Mara向Cumberland转入298枚BTC
+已保存到 Markdown: ./output/blockbeats/2026-03-10.md
+  [BlockBeats] 新快讯: 标记为BitMine钱包3小时前将5300枚ETH转入Coinbase Prime
+推送成功: 【BLOCKBEATS - 融资】标记为BitMine钱包3小时前将5300枚ETH转入Coinbase Prime
+已保存到 Markdown: ./output/blockbeats/2026-03-10.md
+  [BlockBeats] 新快讯: MakerDAO创始人原油多单由盈转亏，目前浮亏约34.4万美元
+推送成功: 【BLOCKBEATS - 融资】MakerDAO创始人原油多单由盈转亏，目前浮亏约34.4万美元
+已保存到 Markdown: ./output/blockbeats/2026-03-10.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
   Category: 项目动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1003&is_hot=1
@@ -8,23 +32,38 @@
   Category: 融资动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1000&is_hot=1
 Scraping RootData...
   List: Top 100 项目
+  [RootData] 新榜单: Top 100 项目
+推送成功: 【RootData - Top 100 项目】
+推送成功: 【RootData - Top 100 项目】 (续)
+已保存到 Markdown: ./output/rootdata/2026-03-10.md
   List: 透明度评分提升榜
+  [RootData] 新榜单: 透明度评分提升榜
+推送成功: 【RootData - 透明度评分提升榜】
+推送成功: 【RootData - 透明度评分提升榜】 (续)
+已保存到 Markdown: ./output/rootdata/2026-03-10.md
   List: 交易所透明度排名
+  [RootData] 新榜单: 交易所透明度排名
+推送成功: 【RootData - 交易所透明度排名】
+推送成功: 【RootData - 交易所透明度排名】 (续)
+已保存到 Markdown: ./output/rootdata/2026-03-10.md
   Calendar Events...
+  [RootData] 日历事件: 10 条
+推送成功: 📅 RootData | 今日日历事件
+已保存到 Markdown: ./output/rootdata/2026-03-10.md
   Calendar Insight Image...
     Clicked calendar insight icon
     Clicked generate share image button
     Clicked download button
-    Saved Calendar Image: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-03-09.png
-    Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-03-09.png
+    Saved Calendar Image: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-03-10.png
+    Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-03-10.png
 推送成功: 📅 RootData | 未来7天加密日历洞察
   Market Image...
     Clicked market download icon
     Clicked save button
-    Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-09.png
-    Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-09.png
+    Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-10.png
+    Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-10.png
 推送成功: 📊 RootData | Top Gainers
-Cycle completed. 2026-03-09 23:31:01.379123
+Cycle completed. 2026-03-10 02:09:15.776205
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -34,9 +73,25 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
--09 23:30:50,394 - INFO -     Clicked market download icon
-2026-03-09 23:31:00,817 - INFO -     Clicked save button
-2026-03-09 23:31:00,825 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-09.png
-2026-03-09 23:31:00,825 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-09.png
-2026-03-09 23:31:01,360 - INFO - 推送成功: 📊 RootData | Top Gainers
-2026-03-09 23:31:01,379 - INFO - Cycle completed. 2026-03-09 23:31:01.379123
+新榜单: 交易所透明度排名
+2026-03-10 02:08:51,781 - INFO - 推送成功: 【RootData - 交易所透明度排名】
+2026-03-10 02:08:53,142 - INFO - 推送成功: 【RootData - 交易所透明度排名】 (续)
+2026-03-10 02:08:53,144 - INFO - 已保存到 Markdown: ./output/rootdata/2026-03-10.md
+2026-03-10 02:08:53,144 - INFO -   Calendar Events...
+2026-03-10 02:08:55,035 - INFO -   [RootData] 日历事件: 10 条
+2026-03-10 02:08:55,401 - INFO - 推送成功: 📅 RootData | 今日日历事件
+2026-03-10 02:08:55,402 - INFO - 已保存到 Markdown: ./output/rootdata/2026-03-10.md
+2026-03-10 02:08:55,402 - INFO -   Calendar Insight Image...
+2026-03-10 02:08:55,723 - INFO -     Clicked calendar insight icon
+2026-03-10 02:08:56,716 - INFO -     Clicked generate share image button
+2026-03-10 02:08:59,650 - INFO -     Clicked download button
+2026-03-10 02:08:59,714 - INFO -     Saved Calendar Image: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-03-10.png
+2026-03-10 02:08:59,714 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-03-10.png
+2026-03-10 02:09:01,090 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
+2026-03-10 02:09:01,093 - INFO -   Market Image...
+2026-03-10 02:09:05,741 - INFO -     Clicked market download icon
+2026-03-10 02:09:15,187 - INFO -     Clicked save button
+2026-03-10 02:09:15,203 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-10.png
+2026-03-10 02:09:15,203 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-10.png
+2026-03-10 02:09:15,757 - INFO - 推送成功: 📊 RootData | Top Gainers
+2026-03-10 02:09:15,776 - INFO - Cycle completed. 2026-03-10 02:09:15.776205

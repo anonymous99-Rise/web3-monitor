@@ -1,22 +1,31 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 政治市场胜率66%地址投入1万美元，预测「美伊会在四月停火」
-推送成功: 【BLOCKBEATS - 预测市场】政治市场胜率66%地址投入1万美元，预测「美伊会在四月停火」
+  [BlockBeats] 新快讯: 2高胜率地址投入9.5万美元，预测「美军会在三月进入伊朗」
+推送成功: 【BLOCKBEATS - 预测市场】2高胜率地址投入9.5万美元，预测「美军会在三月进入伊朗」
 已保存到 Markdown: ./output/blockbeats/2026-03-10.md
-  [BlockBeats] 新快讯: 新地址押注5300美元，美军会在三月进入伊朗
-推送成功: 【BLOCKBEATS - 预测市场】新地址押注5300美元，美军会在三月进入伊朗
+  [BlockBeats] 新快讯: a16z联创Marc Andreessen：我的信息来源由X、播客、AI模型和旧书四等分
+推送成功: 【BLOCKBEATS - 链上侦探】a16z联创Marc Andreessen：我的信息来源由X、播客、AI模型和旧书四等分
 已保存到 Markdown: ./output/blockbeats/2026-03-10.md
-  [BlockBeats] 新快讯: 两年半估值翻倍：EQT考虑以60亿美元出售全球首家企业级Linux发行商SUSE
-推送成功: 【BLOCKBEATS - 链上侦探】两年半估值翻倍：EQT考虑以60亿美元出售全球首家企业级Linux发行商SUSE
+  [BlockBeats] 新快讯: 腾讯WorkBuddy从零到上线只用一周，负责人称用户对AI工具的忍耐度已以小时计
+推送成功: 【BLOCKBEATS - 链上侦探】腾讯WorkBuddy从零到上线只用一周，负责人称用户对AI工具的忍耐度已以小时计
 已保存到 Markdown: ./output/blockbeats/2026-03-10.md
-  [BlockBeats] 新快讯: 腾讯混元开源首个面向世界模型的强化学习后训练框架WorldCompass
-推送成功: 【BLOCKBEATS - 链上侦探】腾讯混元开源首个面向世界模型的强化学习后训练框架WorldCompass
+  [BlockBeats] 新快讯: 「Token是什么」登上抖音热搜第一：OpenClaw把AI术语变成了全民话题
+推送成功: 【BLOCKBEATS - 链上侦探】「Token是什么」登上抖音热搜第一：OpenClaw把AI术语变成了全民话题
 已保存到 Markdown: ./output/blockbeats/2026-03-10.md
-  [BlockBeats] 新快讯: 甲骨文财报日连续急发声明：股价半年跌56%，3000亿美元AI豪赌被市场重新定价
-推送成功: 【BLOCKBEATS - 链上侦探】甲骨文财报日连续急发声明：股价半年跌56%，3000亿美元AI豪赌被市场重新定价
+  [BlockBeats] 新快讯: Codex出问题就重置速率限制，工程负责人：「你们已经习惯了吧」
+推送成功: 【BLOCKBEATS - 链上侦探】Codex出问题就重置速率限制，工程负责人：「你们已经习惯了吧」
 已保存到 Markdown: ./output/blockbeats/2026-03-10.md
-  [BlockBeats] 新快讯: BSC生态代币MILADY市值突破600万美元新高，日内涨幅达39%
-推送成功: 【BLOCKBEATS - 融资】BSC生态代币MILADY市值突破600万美元新高，日内涨幅达39%
+  [BlockBeats] 新快讯: 吴恩达发布Context Hub：给编程Agent一本实时更新的API手册，解决幻觉参数问题
+推送成功: 【BLOCKBEATS - 链上侦探】吴恩达发布Context Hub：给编程Agent一本实时更新的API手册，解决幻觉参数问题
+已保存到 Markdown: ./output/blockbeats/2026-03-10.md
+  [BlockBeats] 新快讯: 某巨鲸使用20倍杠杆做空原油，总持仓价值超1400万美元
+推送成功: 【BLOCKBEATS - 融资】某巨鲸使用20倍杠杆做空原油，总持仓价值超1400万美元
+已保存到 Markdown: ./output/blockbeats/2026-03-10.md
+  [BlockBeats] 新快讯: Meme币「龙虾」市值短时突破2000万美元，24小时交易量达1280万美元
+推送成功: 【BLOCKBEATS - 融资】Meme币「龙虾」市值短时突破2000万美元，24小时交易量达1280万美元
+已保存到 Markdown: ./output/blockbeats/2026-03-10.md
+  [BlockBeats] 新快讯: 某巨鲸于美股休市期间接多标普500，看涨美股市场持仓超120万美元
+推送成功: 【BLOCKBEATS - 融资】某巨鲸于美股休市期间接多标普500，看涨美股市场持仓超120万美元
 已保存到 Markdown: ./output/blockbeats/2026-03-10.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -42,7 +51,7 @@ Scraping RootData...
     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-10.png
     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-10.png
 推送成功: 📊 RootData | Top Gainers
-Cycle completed. 2026-03-10 07:43:26.604712
+Cycle completed. 2026-03-10 08:46:50.337594
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -52,16 +61,21 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-    Clicked calendar insight icon
-2026-03-10 07:43:07,882 - INFO -     Clicked generate share image button
-2026-03-10 07:43:10,464 - INFO -     Clicked download button
-2026-03-10 07:43:10,518 - INFO -     Saved Calendar Image: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-03-10.png
-2026-03-10 07:43:10,518 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-03-10.png
-2026-03-10 07:43:11,550 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
-2026-03-10 07:43:11,553 - INFO -   Market Image...
-2026-03-10 07:43:16,188 - INFO -     Clicked market download icon
-2026-03-10 07:43:26,017 - INFO -     Clicked save button
-2026-03-10 07:43:26,024 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-10.png
-2026-03-10 07:43:26,024 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-10.png
-2026-03-10 07:43:26,587 - INFO - 推送成功: 📊 RootData | Top Gainers
-2026-03-10 07:43:26,604 - INFO - Cycle completed. 2026-03-10 07:43:26.604712
+: Top 100 项目
+2026-03-10 08:46:19,050 - INFO -   List: 透明度评分提升榜
+2026-03-10 08:46:21,709 - INFO -   List: 交易所透明度排名
+2026-03-10 08:46:25,440 - INFO -   Calendar Events...
+2026-03-10 08:46:28,155 - INFO -   Calendar Insight Image...
+2026-03-10 08:46:28,387 - INFO -     Clicked calendar insight icon
+2026-03-10 08:46:29,940 - INFO -     Clicked generate share image button
+2026-03-10 08:46:33,445 - INFO -     Clicked download button
+2026-03-10 08:46:33,498 - INFO -     Saved Calendar Image: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-03-10.png
+2026-03-10 08:46:33,499 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-03-10.png
+2026-03-10 08:46:34,098 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
+2026-03-10 08:46:34,101 - INFO -   Market Image...
+2026-03-10 08:46:39,180 - INFO -     Clicked market download icon
+2026-03-10 08:46:49,695 - INFO -     Clicked save button
+2026-03-10 08:46:49,704 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-10.png
+2026-03-10 08:46:49,704 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-10.png
+2026-03-10 08:46:50,315 - INFO - 推送成功: 📊 RootData | Top Gainers
+2026-03-10 08:46:50,337 - INFO - Cycle completed. 2026-03-10 08:46:50.337594

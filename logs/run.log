@@ -1,5 +1,14 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
+  [BlockBeats] 新快讯: Meme币MOLT市值高点涨超1200万美元后回落35%，日内交易量达1510万美元
+推送成功: 【BLOCKBEATS - 融资】Meme币MOLT市值高点涨超1200万美元后回落35%，日内交易量达1510万美元
+已保存到 Markdown: ./output/blockbeats/2026-03-11.md
+  [BlockBeats] 新快讯: 数据：多名巨鲸在油价跌破85美元后开多原油
+推送成功: 【BLOCKBEATS - 融资】数据：多名巨鲸在油价跌破85美元后开多原油
+已保存到 Markdown: ./output/blockbeats/2026-03-11.md
+  [BlockBeats] 新快讯: 某巨鲸以2,071美元均价增持44,888枚ETH，价值近9300万美元
+推送成功: 【BLOCKBEATS - 融资】某巨鲸以2,071美元均价增持44,888枚ETH，价值近9300万美元
+已保存到 Markdown: ./output/blockbeats/2026-03-11.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
   Category: 项目动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1003&is_hot=1
@@ -8,23 +17,38 @@
   Category: 融资动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1000&is_hot=1
 Scraping RootData...
   List: Top 100 项目
+  [RootData] 新榜单: Top 100 项目
+推送成功: 【RootData - Top 100 项目】
+推送成功: 【RootData - Top 100 项目】 (续)
+已保存到 Markdown: ./output/rootdata/2026-03-11.md
   List: 透明度评分提升榜
+  [RootData] 新榜单: 透明度评分提升榜
+推送成功: 【RootData - 透明度评分提升榜】
+推送成功: 【RootData - 透明度评分提升榜】 (续)
+已保存到 Markdown: ./output/rootdata/2026-03-11.md
   List: 交易所透明度排名
+  [RootData] 新榜单: 交易所透明度排名
+推送成功: 【RootData - 交易所透明度排名】
+推送成功: 【RootData - 交易所透明度排名】 (续)
+已保存到 Markdown: ./output/rootdata/2026-03-11.md
   Calendar Events...
+  [RootData] 日历事件: 10 条
+推送成功: 📅 RootData | 今日日历事件
+已保存到 Markdown: ./output/rootdata/2026-03-11.md
   Calendar Insight Image...
     Clicked calendar insight icon
     Clicked generate share image button
     Clicked download button
-    Saved Calendar Image: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-03-10.png
-    Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-03-10.png
+    Saved Calendar Image: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-03-11.png
+    Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-03-11.png
 推送成功: 📅 RootData | 未来7天加密日历洞察
   Market Image...
     Clicked market download icon
     Clicked save button
-    Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-10.png
-    Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-10.png
+    Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-11.png
+    Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-11.png
 推送成功: 📊 RootData | Top Gainers
-Cycle completed. 2026-03-10 23:31:10.489929
+Cycle completed. 2026-03-11 02:08:14.100364
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -34,9 +58,19 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
--10 23:30:59,471 - INFO -     Clicked market download icon
-2026-03-10 23:31:09,829 - INFO -     Clicked save button
-2026-03-10 23:31:09,837 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-10.png
-2026-03-10 23:31:09,837 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-10.png
-2026-03-10 23:31:10,472 - INFO - 推送成功: 📊 RootData | Top Gainers
-2026-03-10 23:31:10,489 - INFO - Cycle completed. 2026-03-10 23:31:10.489929
+日日历事件
+2026-03-11 02:07:49,841 - INFO - 已保存到 Markdown: ./output/rootdata/2026-03-11.md
+2026-03-11 02:07:49,841 - INFO -   Calendar Insight Image...
+2026-03-11 02:07:50,052 - INFO -     Clicked calendar insight icon
+2026-03-11 02:07:51,260 - INFO -     Clicked generate share image button
+2026-03-11 02:07:55,735 - INFO -     Clicked download button
+2026-03-11 02:07:55,780 - INFO -     Saved Calendar Image: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-03-11.png
+2026-03-11 02:07:55,780 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-03-11.png
+2026-03-11 02:07:57,975 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
+2026-03-11 02:07:57,978 - INFO -   Market Image...
+2026-03-11 02:08:02,987 - INFO -     Clicked market download icon
+2026-03-11 02:08:13,501 - INFO -     Clicked save button
+2026-03-11 02:08:13,509 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-11.png
+2026-03-11 02:08:13,509 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-11.png
+2026-03-11 02:08:14,087 - INFO - 推送成功: 📊 RootData | Top Gainers
+2026-03-11 02:08:14,100 - INFO - Cycle completed. 2026-03-11 02:08:14.100364

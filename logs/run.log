@@ -1,7 +1,7 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 某新建钱包囤积8,209枚ETH，价值1685万美元
-推送成功: 【BLOCKBEATS - 融资】某新建钱包囤积8,209枚ETH，价值1685万美元
+  [BlockBeats] 新快讯: Two Prime过去一周向Ceffu存入3,946枚BTC，价值2.74亿美元
+推送成功: 【BLOCKBEATS - 融资】Two Prime过去一周向Ceffu存入3,946枚BTC，价值2.74亿美元
 已保存到 Markdown: ./output/blockbeats/2026-03-11.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -38,8 +38,9 @@ Call log:
        - element is not enabled
      - retrying click action
        - waiting 500ms
+    - waiting for element to be visible, enabled and stable
 
-Cycle completed. 2026-03-11 15:52:48.882829
+Cycle completed. 2026-03-11 16:56:16.741851
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -49,8 +50,7 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
- action
-    2 × waiting for element to be visible, enabled and stable
+and stable
       - element is not enabled
     - retrying click action
     - waiting 20ms
@@ -62,5 +62,6 @@ Scraping TechFlow...
        - element is not enabled
      - retrying click action
        - waiting 500ms
+    - waiting for element to be visible, enabled and stable
 
-2026-03-11 15:52:48,882 - INFO - Cycle completed. 2026-03-11 15:52:48.882829
+2026-03-11 16:56:16,741 - INFO - Cycle completed. 2026-03-11 16:56:16.741851

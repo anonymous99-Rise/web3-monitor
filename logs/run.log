@@ -1,13 +1,10 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 某鲸鱼过去2小时向Hyperliquid存入560万枚USDC做空原油
-推送成功: 【BLOCKBEATS - 融资】某鲸鱼过去2小时向Hyperliquid存入560万枚USDC做空原油
+  [BlockBeats] 新快讯: Claude上线交互式图表和图形功能，聊天中即可构建
+推送成功: 【BLOCKBEATS - 链上侦探】Claude上线交互式图表和图形功能，聊天中即可构建
 已保存到 Markdown: ./output/blockbeats/2026-03-12.md
-  [BlockBeats] 新快讯: DNA Fund关联钱包2小时前从Kraken提取11,067枚ETH
-推送成功: 【BLOCKBEATS - 融资】DNA Fund关联钱包2小时前从Kraken提取11,067枚ETH
-已保存到 Markdown: ./output/blockbeats/2026-03-12.md
-  [BlockBeats] 新快讯: 某新建钱包从Binance提取720枚BTC
-推送成功: 【BLOCKBEATS - 融资】某新建钱包从Binance提取720枚BTC
+  [BlockBeats] 新快讯: 「美、布两油主力空军」短时连续摊平原油空单近千万美元，持仓规模升至2313万美元
+推送成功: 【BLOCKBEATS - 融资】「美、布两油主力空军」短时连续摊平原油空单近千万美元，持仓规模升至2313万美元
 已保存到 Markdown: ./output/blockbeats/2026-03-12.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -44,9 +41,8 @@ Call log:
        - element is not enabled
      - retrying click action
        - waiting 500ms
-    - waiting for element to be visible, enabled and stable
 
-Cycle completed. 2026-03-12 16:01:36.373388
+Cycle completed. 2026-03-12 17:08:13.619382
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -56,7 +52,7 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-26-03-12 16:01:36,361 - WARNING -     Market capture failed: ElementHandle.click: Timeout 30000ms exceeded.
+arket capture failed: ElementHandle.click: Timeout 30000ms exceeded.
 Call log:
   - attempting click action
     2 × waiting for element to be visible, enabled and stable
@@ -71,6 +67,5 @@ Call log:
        - element is not enabled
      - retrying click action
        - waiting 500ms
-    - waiting for element to be visible, enabled and stable
 
-2026-03-12 16:01:36,373 - INFO - Cycle completed. 2026-03-12 16:01:36.373388
+2026-03-12 17:08:13,619 - INFO - Cycle completed. 2026-03-12 17:08:13.619382

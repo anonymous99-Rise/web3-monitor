@@ -1,22 +1,25 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 新市场上线：谁将在3月20日登顶「#1Chad」
-推送成功: 【BLOCKBEATS - 预测市场】新市场上线：谁将在3月20日登顶「#1Chad」
+  [BlockBeats] 新快讯: 两名英伟达高管加入AI投资机构Era
+推送成功: 【BLOCKBEATS - 链上侦探】两名英伟达高管加入AI投资机构Era
 已保存到 Markdown: ./output/blockbeats/2026-03-12.md
-  [BlockBeats] 新快讯: Anthropic登上《时代》杂志封面：被称为「世界上最具颠覆性的公司」，3800亿美元估值超高盛和可口可乐
-推送成功: 【BLOCKBEATS - 链上侦探】Anthropic登上《时代》杂志封面：被称为「世界上最具颠覆性的公司」，3800亿美元估值超高盛和可口可乐
+  [BlockBeats] 新快讯: 谷歌AlphaEvolve攻克5个Ramsey数难题：数学家几十年逐个手搜的结果，AI用一套方法全部覆盖并刷新
+推送成功: 【BLOCKBEATS - 链上侦探】谷歌AlphaEvolve攻克5个Ramsey数难题：数学家几十年逐个手搜的结果，AI用一套方法全部覆盖并刷新
 已保存到 Markdown: ./output/blockbeats/2026-03-12.md
-  [BlockBeats] 新快讯: 马斯克：「我们正处于硬起飞之中」，AI递归自我改进今年底可能全自动化，最迟明年
-推送成功: 【BLOCKBEATS - 链上侦探】马斯克：「我们正处于硬起飞之中」，AI递归自我改进今年底可能全自动化，最迟明年
+  [BlockBeats] 新快讯: Runway成立内部孵化器Runway Labs：从视频生成工具公司转向通用世界模型的跨行业应用探索
+推送成功: 【BLOCKBEATS - 链上侦探】Runway成立内部孵化器Runway Labs：从视频生成工具公司转向通用世界模型的跨行业应用探索
 已保存到 Markdown: ./output/blockbeats/2026-03-12.md
-  [BlockBeats] 新快讯: 马斯克：Optimus3今年夏天开始生产，明年夏天高产量，正建1000万平方英尺专用工厂
-推送成功: 【BLOCKBEATS - 链上侦探】马斯克：Optimus3今年夏天开始生产，明年夏天高产量，正建1000万平方英尺专用工厂
+  [BlockBeats] 新快讯: 盛大创始人陈天桥的AI公司MiroMind发布MiroThinker-1.7：开源深度研究Agent在多个基准上刷新纪录
+推送成功: 【BLOCKBEATS - 链上侦探】盛大创始人陈天桥的AI公司MiroMind发布MiroThinker-1.7：开源深度研究Agent在多个基准上刷新纪录
 已保存到 Markdown: ./output/blockbeats/2026-03-12.md
-  [BlockBeats] 新快讯: 贝莱德向Coinbase存入566枚BTC和7552枚ETH
-推送成功: 【BLOCKBEATS - 融资】贝莱德向Coinbase存入566枚BTC和7552枚ETH
+  [BlockBeats] 新快讯: AI数学证明公司Axiom获2亿美元A轮，5个月估值从3亿飙至16亿，Menlo Ventures领投
+推送成功: 【BLOCKBEATS - 链上侦探】AI数学证明公司Axiom获2亿美元A轮，5个月估值从3亿飙至16亿，Menlo Ventures领投
 已保存到 Markdown: ./output/blockbeats/2026-03-12.md
-  [BlockBeats] 新快讯: BSC中文Meme 币「龙虾」市值短时突破2700万美元，1小时拉涨30%
-推送成功: 【BLOCKBEATS - 融资】BSC中文Meme 币「龙虾」市值短时突破2700万美元，1小时拉涨30%
+  [BlockBeats] 新快讯: 链上ETH最大多头浮盈扩大至700万美元，总持仓规模达1.94亿美元
+推送成功: 【BLOCKBEATS - 融资】链上ETH最大多头浮盈扩大至700万美元，总持仓规模达1.94亿美元
+已保存到 Markdown: ./output/blockbeats/2026-03-12.md
+  [BlockBeats] 新快讯: 主流Perp DEX一览：市场进入观望阶段，Hyperliquid交易量回落持仓量再次上涨
+推送成功: 【BLOCKBEATS - 融资】主流Perp DEX一览：市场进入观望阶段，Hyperliquid交易量回落持仓量再次上涨
 已保存到 Markdown: ./output/blockbeats/2026-03-12.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -54,7 +57,7 @@ Call log:
      - retrying click action
        - waiting 500ms
 
-Cycle completed. 2026-03-12 10:42:54.913120
+Cycle completed. 2026-03-12 11:34:52.213676
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -64,12 +67,12 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-3-12.png
-2026-03-12 10:42:14,729 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-03-12.png
-2026-03-12 10:42:15,154 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
-2026-03-12 10:42:15,157 - INFO -   Market Image...
-2026-03-12 10:42:19,847 - INFO -     Clicked market download icon
-2026-03-12 10:42:54,897 - WARNING -     Market capture failed: ElementHandle.click: Timeout 30000ms exceeded.
+-     Saved Calendar Image: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-03-12.png
+2026-03-12 11:34:12,407 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-03-12.png
+2026-03-12 11:34:12,897 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
+2026-03-12 11:34:12,899 - INFO -   Market Image...
+2026-03-12 11:34:17,157 - INFO -     Clicked market download icon
+2026-03-12 11:34:52,200 - WARNING -     Market capture failed: ElementHandle.click: Timeout 30000ms exceeded.
 Call log:
   - attempting click action
     2 × waiting for element to be visible, enabled and stable
@@ -85,4 +88,4 @@ Call log:
      - retrying click action
        - waiting 500ms
 
-2026-03-12 10:42:54,913 - INFO - Cycle completed. 2026-03-12 10:42:54.913120
+2026-03-12 11:34:52,213 - INFO - Cycle completed. 2026-03-12 11:34:52.213676

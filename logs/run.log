@@ -1,25 +1,13 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 两名英伟达高管加入AI投资机构Era
-推送成功: 【BLOCKBEATS - 链上侦探】两名英伟达高管加入AI投资机构Era
+  [BlockBeats] 新快讯: Vibe Coding初创公司Lovable年度经常性收入突破4亿美元
+推送成功: 【BLOCKBEATS - 链上侦探】Vibe Coding初创公司Lovable年度经常性收入突破4亿美元
 已保存到 Markdown: ./output/blockbeats/2026-03-12.md
-  [BlockBeats] 新快讯: 谷歌AlphaEvolve攻克5个Ramsey数难题：数学家几十年逐个手搜的结果，AI用一套方法全部覆盖并刷新
-推送成功: 【BLOCKBEATS - 链上侦探】谷歌AlphaEvolve攻克5个Ramsey数难题：数学家几十年逐个手搜的结果，AI用一套方法全部覆盖并刷新
+  [BlockBeats] 新快讯: 中国人工智能产业发展联盟：持续跟踪OpenClaw安全风险动态，编制企业级OpenClaw部署风险管理指南
+推送成功: 【BLOCKBEATS - 链上侦探】中国人工智能产业发展联盟：持续跟踪OpenClaw安全风险动态，编制企业级OpenClaw部署风险管理指南
 已保存到 Markdown: ./output/blockbeats/2026-03-12.md
-  [BlockBeats] 新快讯: Runway成立内部孵化器Runway Labs：从视频生成工具公司转向通用世界模型的跨行业应用探索
-推送成功: 【BLOCKBEATS - 链上侦探】Runway成立内部孵化器Runway Labs：从视频生成工具公司转向通用世界模型的跨行业应用探索
-已保存到 Markdown: ./output/blockbeats/2026-03-12.md
-  [BlockBeats] 新快讯: 盛大创始人陈天桥的AI公司MiroMind发布MiroThinker-1.7：开源深度研究Agent在多个基准上刷新纪录
-推送成功: 【BLOCKBEATS - 链上侦探】盛大创始人陈天桥的AI公司MiroMind发布MiroThinker-1.7：开源深度研究Agent在多个基准上刷新纪录
-已保存到 Markdown: ./output/blockbeats/2026-03-12.md
-  [BlockBeats] 新快讯: AI数学证明公司Axiom获2亿美元A轮，5个月估值从3亿飙至16亿，Menlo Ventures领投
-推送成功: 【BLOCKBEATS - 链上侦探】AI数学证明公司Axiom获2亿美元A轮，5个月估值从3亿飙至16亿，Menlo Ventures领投
-已保存到 Markdown: ./output/blockbeats/2026-03-12.md
-  [BlockBeats] 新快讯: 链上ETH最大多头浮盈扩大至700万美元，总持仓规模达1.94亿美元
-推送成功: 【BLOCKBEATS - 融资】链上ETH最大多头浮盈扩大至700万美元，总持仓规模达1.94亿美元
-已保存到 Markdown: ./output/blockbeats/2026-03-12.md
-  [BlockBeats] 新快讯: 主流Perp DEX一览：市场进入观望阶段，Hyperliquid交易量回落持仓量再次上涨
-推送成功: 【BLOCKBEATS - 融资】主流Perp DEX一览：市场进入观望阶段，Hyperliquid交易量回落持仓量再次上涨
+  [BlockBeats] 新快讯: 某巨鲸短时同步开空ETH与BTC，以6000万美元总规模看跌后市
+推送成功: 【BLOCKBEATS - 融资】某巨鲸短时同步开空ETH与BTC，以6000万美元总规模看跌后市
 已保存到 Markdown: ./output/blockbeats/2026-03-12.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -57,7 +45,7 @@ Call log:
      - retrying click action
        - waiting 500ms
 
-Cycle completed. 2026-03-12 11:34:52.213676
+Cycle completed. 2026-03-12 13:05:30.575023
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -67,12 +55,8 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
--     Saved Calendar Image: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-03-12.png
-2026-03-12 11:34:12,407 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-03-12.png
-2026-03-12 11:34:12,897 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
-2026-03-12 11:34:12,899 - INFO -   Market Image...
-2026-03-12 11:34:17,157 - INFO -     Clicked market download icon
-2026-03-12 11:34:52,200 - WARNING -     Market capture failed: ElementHandle.click: Timeout 30000ms exceeded.
+12 13:04:55,493 - INFO -     Clicked market download icon
+2026-03-12 13:05:30,553 - WARNING -     Market capture failed: ElementHandle.click: Timeout 30000ms exceeded.
 Call log:
   - attempting click action
     2 × waiting for element to be visible, enabled and stable
@@ -88,4 +72,4 @@ Call log:
      - retrying click action
        - waiting 500ms
 
-2026-03-12 11:34:52,213 - INFO - Cycle completed. 2026-03-12 11:34:52.213676
+2026-03-12 13:05:30,575 - INFO - Cycle completed. 2026-03-12 13:05:30.575023

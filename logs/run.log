@@ -35,9 +35,8 @@ Call log:
        - element is not enabled
      - retrying click action
        - waiting 500ms
-    - waiting for element to be visible, enabled and stable
 
-Cycle completed. 2026-03-12 21:36:08.602746
+Cycle completed. 2026-03-12 22:30:02.045015
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -47,7 +46,10 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-aiting for element to be visible, enabled and stable
+ed
+    - retrying click action
+    - waiting 20ms
+    2 × waiting for element to be visible, enabled and stable
       - element is not enabled
     - retrying click action
       - waiting 100ms
@@ -55,6 +57,5 @@ aiting for element to be visible, enabled and stable
        - element is not enabled
      - retrying click action
        - waiting 500ms
-    - waiting for element to be visible, enabled and stable
 
-2026-03-12 21:36:08,602 - INFO - Cycle completed. 2026-03-12 21:36:08.602746
+2026-03-12 22:30:02,045 - INFO - Cycle completed. 2026-03-12 22:30:02.045015

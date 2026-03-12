@@ -1,5 +1,4 @@
   Total 28 cookies loaded
-Discord 推送失败 (尝试 1/3): 503 Server Error: Service Unavailable for url: https://discord.com/api/webhooks/1458679319911202919/do6RRCOypbkhP4RjKEvlSnG0h3RjwBnClgncbMCY95fJe6QpOdFcBSTvBw4rLmddLFL-
 推送成功: 🚀 Web3-Monitor 已启动!
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -18,7 +17,6 @@ Scraping RootData...
     Clicked download button
     Saved Calendar Image: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-03-12.png
     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-03-12.png
-Discord 推送失败 (尝试 1/3): 503 Server Error: Service Unavailable for url: https://discord.com/api/webhooks/1458679319911202919/do6RRCOypbkhP4RjKEvlSnG0h3RjwBnClgncbMCY95fJe6QpOdFcBSTvBw4rLmddLFL-
 推送成功: 📅 RootData | 未来7天加密日历洞察
   Market Image...
     Clicked market download icon
@@ -37,8 +35,9 @@ Call log:
        - element is not enabled
      - retrying click action
        - waiting 500ms
+    - waiting for element to be visible, enabled and stable
 
-Cycle completed. 2026-03-12 20:40:05.027899
+Cycle completed. 2026-03-12 21:36:08.602746
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -48,11 +47,7 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-ement to be visible, enabled and stable
-      - element is not enabled
-    - retrying click action
-    - waiting 20ms
-    2 × waiting for element to be visible, enabled and stable
+aiting for element to be visible, enabled and stable
       - element is not enabled
     - retrying click action
       - waiting 100ms
@@ -60,5 +55,6 @@ ement to be visible, enabled and stable
        - element is not enabled
      - retrying click action
        - waiting 500ms
+    - waiting for element to be visible, enabled and stable
 
-2026-03-12 20:40:05,027 - INFO - Cycle completed. 2026-03-12 20:40:05.027899
+2026-03-12 21:36:08,602 - INFO - Cycle completed. 2026-03-12 21:36:08.602746

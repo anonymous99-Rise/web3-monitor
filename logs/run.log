@@ -1,31 +1,13 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 新事件「X Money何时推出？」现已在预测市场Polymarket上线
-推送成功: 【BLOCKBEATS - 预测市场】新事件「X Money何时推出？」现已在预测市场Polymarket上线
+  [BlockBeats] 新快讯: 某巨鲸近期累计囤积2,003.2枚BTC，均价69,923美元
+推送成功: 【BLOCKBEATS - 融资】某巨鲸近期累计囤积2,003.2枚BTC，均价69,923美元
 已保存到 Markdown: ./output/blockbeats/2026-03-13.md
-  [BlockBeats] 新快讯: Markov在Hugging Face开源1.23万小时电脑操作数据集，瞄准Computer-Use AI训练
-推送成功: 【BLOCKBEATS - 链上侦探】Markov在Hugging Face开源1.23万小时电脑操作数据集，瞄准Computer-Use AI训练
+  [BlockBeats] 新快讯: 「投资MELANIA亏损1400万美元」巨鲸以3.17美元均价买入220万枚TRUMP，浮盈272万美元
+推送成功: 【BLOCKBEATS - 融资】「投资MELANIA亏损1400万美元」巨鲸以3.17美元均价买入220万枚TRUMP，浮盈272万美元
 已保存到 Markdown: ./output/blockbeats/2026-03-13.md
-  [BlockBeats] 新快讯: Augment Code公开其「AI原生工程师」招聘标准：编码能力不再是独立考核维度，取而代之的是六项能力
-推送成功: 【BLOCKBEATS - 链上侦探】Augment Code公开其「AI原生工程师」招聘标准：编码能力不再是独立考核维度，取而代之的是六项能力
-已保存到 Markdown: ./output/blockbeats/2026-03-13.md
-  [BlockBeats] 新快讯: Shopify CEO亲手提交93个commit优化Liquid模板引擎：用AI跑了120轮自动化实验，解析+渲染快53%，对象分配减少61%
-推送成功: 【BLOCKBEATS - 链上侦探】Shopify CEO亲手提交93个commit优化Liquid模板引擎：用AI跑了120轮自动化实验，解析+渲染快53%，对象分配减少61%
-已保存到 Markdown: ./output/blockbeats/2026-03-13.md
-  [BlockBeats] 新快讯: Mixedbread发布Wholembed v3：首个在LIMIT基准上超越BM25词法检索的语义模型，用多向量架构打破「够像但不对」的检索瓶颈
-推送成功: 【BLOCKBEATS - 链上侦探】Mixedbread发布Wholembed v3：首个在LIMIT基准上超越BM25词法检索的语义模型，用多向量架构打破「够像但不对」的检索瓶颈
-已保存到 Markdown: ./output/blockbeats/2026-03-13.md
-  [BlockBeats] 新快讯: 超声脑机接口初创Gestala成立两个月融资2160万美元，估值1至2亿美元，为国内BCI行业最大早期轮
-推送成功: 【BLOCKBEATS - 链上侦探】超声脑机接口初创Gestala成立两个月融资2160万美元，估值1至2亿美元，为国内BCI行业最大早期轮
-已保存到 Markdown: ./output/blockbeats/2026-03-13.md
-  [BlockBeats] 新快讯: 无人机集群公司Swarm Aero完成3500万美元A轮融资，在阿肯色州建成8万平方英尺量产工厂，目标产能「二战以来未见」
-推送成功: 【BLOCKBEATS - 链上侦探】无人机集群公司Swarm Aero完成3500万美元A轮融资，在阿肯色州建成8万平方英尺量产工厂，目标产能「二战以来未见」
-已保存到 Markdown: ./output/blockbeats/2026-03-13.md
-  [BlockBeats] 新快讯: Palantir CEO首次回应Anthropic禁令：未来将接入Claude之外的其他大模型
-推送成功: 【BLOCKBEATS - 链上侦探】Palantir CEO首次回应Anthropic禁令：未来将接入Claude之外的其他大模型
-已保存到 Markdown: ./output/blockbeats/2026-03-13.md
-  [BlockBeats] 新快讯: 主流Perp DEX一览：各平台交易量变化较小，Hyperliquid持仓量维持高位
-推送成功: 【BLOCKBEATS - 融资】主流Perp DEX一览：各平台交易量变化较小，Hyperliquid持仓量维持高位
+  [BlockBeats] 新快讯: 某巨鲸抛售13,739枚ETH，价值约2896万美元
+推送成功: 【BLOCKBEATS - 融资】某巨鲸抛售13,739枚ETH，价值约2896万美元
 已保存到 Markdown: ./output/blockbeats/2026-03-13.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -51,7 +33,7 @@ Scraping RootData...
     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-13.png
     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-13.png
 推送成功: 📊 RootData | Top Gainers
-Cycle completed. 2026-03-13 11:34:00.242657
+Cycle completed. 2026-03-13 13:03:41.848320
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -61,21 +43,13 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-: Top 100 项目
-2026-03-13 11:33:31,459 - INFO -   List: 透明度评分提升榜
-2026-03-13 11:33:34,522 - INFO -   List: 交易所透明度排名
-2026-03-13 11:33:37,959 - INFO -   Calendar Events...
-2026-03-13 11:33:40,146 - INFO -   Calendar Insight Image...
-2026-03-13 11:33:40,649 - INFO -     Clicked calendar insight icon
-2026-03-13 11:33:41,954 - INFO -     Clicked generate share image button
-2026-03-13 11:33:44,489 - INFO -     Clicked download button
-2026-03-13 11:33:44,561 - INFO -     Saved Calendar Image: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-03-13.png
-2026-03-13 11:33:44,561 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-03-13.png
-2026-03-13 11:33:44,997 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
-2026-03-13 11:33:45,000 - INFO -   Market Image...
-2026-03-13 11:33:49,814 - INFO -     Clicked market download icon
-2026-03-13 11:33:59,741 - INFO -     Clicked save button
-2026-03-13 11:33:59,769 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-13.png
-2026-03-13 11:33:59,769 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-13.png
-2026-03-13 11:34:00,225 - INFO - 推送成功: 📊 RootData | Top Gainers
-2026-03-13 11:34:00,242 - INFO - Cycle completed. 2026-03-13 11:34:00.242657
+03-13.png
+2026-03-13 13:03:25,585 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-03-13.png
+2026-03-13 13:03:26,355 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
+2026-03-13 13:03:26,357 - INFO -   Market Image...
+2026-03-13 13:03:31,135 - INFO -     Clicked market download icon
+2026-03-13 13:03:41,063 - INFO -     Clicked save button
+2026-03-13 13:03:41,072 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-13.png
+2026-03-13 13:03:41,072 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-13.png
+2026-03-13 13:03:41,836 - INFO - 推送成功: 📊 RootData | Top Gainers
+2026-03-13 13:03:41,848 - INFO - Cycle completed. 2026-03-13 13:03:41.848320

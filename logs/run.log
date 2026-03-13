@@ -1,22 +1,25 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: Polymarket上预测「比特币3月回升至7.5万美元」概率升至63%
-推送成功: 【BLOCKBEATS - 预测市场】Polymarket上预测「比特币3月回升至7.5万美元」概率升至63%
+  [BlockBeats] 新快讯: LobeChat创始人指控腾讯SkillHub照搬其Skills Marketplace界面设计：「连图标都不换」
+推送成功: 【BLOCKBEATS - 链上侦探】LobeChat创始人指控腾讯SkillHub照搬其Skills Marketplace界面设计：「连图标都不换」
 已保存到 Markdown: ./output/blockbeats/2026-03-13.md
-  [BlockBeats] 新快讯: 新账户押注9万美元伊朗政权将在6月30日前倒台
-推送成功: 【BLOCKBEATS - 预测市场】新账户押注9万美元伊朗政权将在6月30日前倒台
+  [BlockBeats] 新快讯: Cursor公开内部基准CursorBench：公开基准已失效，前沿模型间差距远比SWE-bench显示的大
+推送成功: 【BLOCKBEATS - 链上侦探】Cursor公开内部基准CursorBench：公开基准已失效，前沿模型间差距远比SWE-bench显示的大
 已保存到 Markdown: ./output/blockbeats/2026-03-13.md
-  [BlockBeats] 新快讯: 王兴称AI Agent冲击比ChatGPT更大：AI与互联网的差距「像猴与花」，美团要做物理世界AI底座
-推送成功: 【BLOCKBEATS - 链上侦探】王兴称AI Agent冲击比ChatGPT更大：AI与互联网的差距「像猴与花」，美团要做物理世界AI底座
+  [BlockBeats] 新快讯: 继搬运争议后，腾讯SkillHub插件被发现在OpenClaw中每条消息前强插提示词，源码分析：「本质上就是一个提示词注入器」
+推送成功: 【BLOCKBEATS - 链上侦探】继搬运争议后，腾讯SkillHub插件被发现在OpenClaw中每条消息前强插提示词，源码分析：「本质上就是一个提示词注入器」
 已保存到 Markdown: ./output/blockbeats/2026-03-13.md
-  [BlockBeats] 新快讯: Genspark发布AI Workspace3.0，推出「AI员工」Genspark Claw，年化收入达2亿美元，B轮扩至3.85亿美元
-推送成功: 【BLOCKBEATS - 链上侦探】Genspark发布AI Workspace3.0，推出「AI员工」Genspark Claw，年化收入达2亿美元，B轮扩至3.85亿美元
+  [BlockBeats] 新快讯: OpenAI为Responses API新增Shell工具和托管容器，模型可执行命令行操作，Assistants API将在年内停用
+推送成功: 【BLOCKBEATS - 链上侦探】OpenAI为Responses API新增Shell工具和托管容器，模型可执行命令行操作，Assistants API将在年内停用
 已保存到 Markdown: ./output/blockbeats/2026-03-13.md
-  [BlockBeats] 新快讯: 研究者利用.npmrc漏洞从Perplexity Computer沙箱提取proxy token，Perplexity：系用户级临时token已撤销
-推送成功: 【BLOCKBEATS - 链上侦探】研究者利用.npmrc漏洞从Perplexity Computer沙箱提取proxy token，Perplexity：系用户级临时token已撤销
+  [BlockBeats] 新快讯: Adobe CEO宣布将在继任者确定后卸任，结束18年任期
+推送成功: 【BLOCKBEATS - 链上侦探】Adobe CEO宣布将在继任者确定后卸任，结束18年任期
 已保存到 Markdown: ./output/blockbeats/2026-03-13.md
-  [BlockBeats] 新快讯: 家用机器人公司Sunday Robotics融资1.65亿美元估值破10亿，用数据手套教机器人做家务，年底交付
-推送成功: 【BLOCKBEATS - 链上侦探】家用机器人公司Sunday Robotics融资1.65亿美元估值破10亿，用数据手套教机器人做家务，年底交付
+  [BlockBeats] 新快讯: HydraDB融资650万美元种子轮，用本体论上下文图谱挑战向量数据库：「相似度0.94不代表相关」
+推送成功: 【BLOCKBEATS - 链上侦探】HydraDB融资650万美元种子轮，用本体论上下文图谱挑战向量数据库：「相似度0.94不代表相关」
+已保存到 Markdown: ./output/blockbeats/2026-03-13.md
+  [BlockBeats] 新快讯: 魅族手机「解体」：超半数员工离开，阶跃星辰放弃收购但已拿走核心资产，品牌将成过去式
+推送成功: 【BLOCKBEATS - 链上侦探】魅族手机「解体」：超半数员工离开，阶跃星辰放弃收购但已拿走核心资产，品牌将成过去式
 已保存到 Markdown: ./output/blockbeats/2026-03-13.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -42,7 +45,7 @@ Scraping RootData...
     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-13.png
     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-13.png
 推送成功: 📊 RootData | Top Gainers
-Cycle completed. 2026-03-13 08:42:51.581255
+Cycle completed. 2026-03-13 09:41:41.398129
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -52,16 +55,18 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-    Clicked calendar insight icon
-2026-03-13 08:42:32,911 - INFO -     Clicked generate share image button
-2026-03-13 08:42:36,024 - INFO -     Clicked download button
-2026-03-13 08:42:36,096 - INFO -     Saved Calendar Image: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-03-13.png
-2026-03-13 08:42:36,096 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-03-13.png
-2026-03-13 08:42:36,675 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
-2026-03-13 08:42:36,677 - INFO -   Market Image...
-2026-03-13 08:42:41,227 - INFO -     Clicked market download icon
-2026-03-13 08:42:51,057 - INFO -     Clicked save button
-2026-03-13 08:42:51,083 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-13.png
-2026-03-13 08:42:51,086 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-13.png
-2026-03-13 08:42:51,568 - INFO - 推送成功: 📊 RootData | Top Gainers
-2026-03-13 08:42:51,581 - INFO - Cycle completed. 2026-03-13 08:42:51.581255
+s...
+2026-03-13 09:41:21,513 - INFO -   Calendar Insight Image...
+2026-03-13 09:41:21,980 - INFO -     Clicked calendar insight icon
+2026-03-13 09:41:23,307 - INFO -     Clicked generate share image button
+2026-03-13 09:41:25,926 - INFO -     Clicked download button
+2026-03-13 09:41:25,993 - INFO -     Saved Calendar Image: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-03-13.png
+2026-03-13 09:41:25,993 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-03-13.png
+2026-03-13 09:41:26,522 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
+2026-03-13 09:41:26,525 - INFO -   Market Image...
+2026-03-13 09:41:31,025 - INFO -     Clicked market download icon
+2026-03-13 09:41:40,855 - INFO -     Clicked save button
+2026-03-13 09:41:40,864 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-13.png
+2026-03-13 09:41:40,864 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-13.png
+2026-03-13 09:41:41,385 - INFO - 推送成功: 📊 RootData | Top Gainers
+2026-03-13 09:41:41,398 - INFO - Cycle completed. 2026-03-13 09:41:41.398129

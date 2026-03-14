@@ -1,10 +1,16 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: Polymarket上线新市场：内塔尼亚胡今日是否再次发推
-推送成功: 【BLOCKBEATS - 预测市场】Polymarket上线新市场：内塔尼亚胡今日是否再次发推
+  [BlockBeats] 新快讯: 特朗普：将与盟友派遣军舰在霍尔木兹进行护航
+推送成功: 【BLOCKBEATS - 预测市场】特朗普：将与盟友派遣军舰在霍尔木兹进行护航
 已保存到 Markdown: ./output/blockbeats/2026-03-14.md
-  [BlockBeats] 新快讯: Tether冻结某地址中约1200万枚USDT
-推送成功: 【BLOCKBEATS - 融资】Tether冻结某地址中约1200万枚USDT
+  [BlockBeats] 新快讯: 企业微信已支持一键扫码接入「龙虾」OpenClaw
+推送成功: 【BLOCKBEATS - 链上侦探】企业微信已支持一键扫码接入「龙虾」OpenClaw
+已保存到 Markdown: ./output/blockbeats/2026-03-14.md
+  [BlockBeats] 新快讯: 马斯克：特斯拉巨型半导体芯片工厂Terafab将于7天后启动
+推送成功: 【BLOCKBEATS - 链上侦探】马斯克：特斯拉巨型半导体芯片工厂Terafab将于7天后启动
+已保存到 Markdown: ./output/blockbeats/2026-03-14.md
+  [BlockBeats] 新快讯: 持仓LINK八年巨鲸疑似清仓，回报率高达2635%
+推送成功: 【BLOCKBEATS - 融资】持仓LINK八年巨鲸疑似清仓，回报率高达2635%
 已保存到 Markdown: ./output/blockbeats/2026-03-14.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -30,7 +36,7 @@ Scraping RootData...
     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-14.png
     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-14.png
 推送成功: 📊 RootData | Top Gainers
-Cycle completed. 2026-03-14 13:50:12.270040
+Cycle completed. 2026-03-14 14:31:23.175764
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -40,12 +46,13 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-hts/未来7天加密日历洞察_2026-03-14.png
-2026-03-14 13:49:57,200 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
-2026-03-14 13:49:57,203 - INFO -   Market Image...
-2026-03-14 13:50:01,197 - INFO -     Clicked market download icon
-2026-03-14 13:50:11,544 - INFO -     Clicked save button
-2026-03-14 13:50:11,553 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-14.png
-2026-03-14 13:50:11,553 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-14.png
-2026-03-14 13:50:12,261 - INFO - 推送成功: 📊 RootData | Top Gainers
-2026-03-14 13:50:12,270 - INFO - Cycle completed. 2026-03-14 13:50:12.270040
+ -     Saved Calendar Image: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-03-14.png
+2026-03-14 14:31:06,389 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-03-14.png
+2026-03-14 14:31:06,998 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
+2026-03-14 14:31:07,000 - INFO -   Market Image...
+2026-03-14 14:31:11,880 - INFO -     Clicked market download icon
+2026-03-14 14:31:22,362 - INFO -     Clicked save button
+2026-03-14 14:31:22,386 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-14.png
+2026-03-14 14:31:22,386 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-14.png
+2026-03-14 14:31:23,161 - INFO - 推送成功: 📊 RootData | Top Gainers
+2026-03-14 14:31:23,175 - INFO - Cycle completed. 2026-03-14 14:31:23.175764

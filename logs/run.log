@@ -1,7 +1,7 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 专家：AI大模型投毒是新型不正当竞争
-推送成功: 【BLOCKBEATS - 链上侦探】专家：AI大模型投毒是新型不正当竞争
+  [BlockBeats] 新快讯: 分析：疑似黑客操纵THE抵押清算，致Venus出现约215万美元清算亏空
+推送成功: 【BLOCKBEATS - 融资】分析：疑似黑客操纵THE抵押清算，致Venus出现约215万美元清算亏空
 已保存到 Markdown: ./output/blockbeats/2026-03-15.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -27,7 +27,7 @@ Scraping RootData...
     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-15.png
     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-15.png
 推送成功: 📊 RootData | Top Gainers
-Cycle completed. 2026-03-15 15:32:23.992593
+Cycle completed. 2026-03-15 16:36:02.098327
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -38,10 +38,10 @@ Scraping BlockBeats...
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
  RootData | 未来7天加密日历洞察
-2026-03-15 15:32:09,849 - INFO -   Market Image...
-2026-03-15 15:32:13,947 - INFO -     Clicked market download icon
-2026-03-15 15:32:23,257 - INFO -     Clicked save button
-2026-03-15 15:32:23,265 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-15.png
-2026-03-15 15:32:23,265 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-15.png
-2026-03-15 15:32:23,967 - INFO - 推送成功: 📊 RootData | Top Gainers
-2026-03-15 15:32:23,992 - INFO - Cycle completed. 2026-03-15 15:32:23.992593
+2026-03-15 16:35:46,338 - INFO -   Market Image...
+2026-03-15 16:35:51,074 - INFO -     Clicked market download icon
+2026-03-15 16:36:00,974 - INFO -     Clicked save button
+2026-03-15 16:36:00,981 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-15.png
+2026-03-15 16:36:00,982 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-15.png
+2026-03-15 16:36:02,085 - INFO - 推送成功: 📊 RootData | Top Gainers
+2026-03-15 16:36:02,098 - INFO - Cycle completed. 2026-03-15 16:36:02.098327

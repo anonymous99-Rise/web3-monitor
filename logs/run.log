@@ -1,7 +1,13 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: Karpathy发布AI可替代职业前景图，体力工作者相对安全
-推送成功: 【BLOCKBEATS - 链上侦探】Karpathy发布AI可替代职业前景图，体力工作者相对安全
+  [BlockBeats] 新快讯: 财新：世界杯赛事相关AI需求将暴增，预计每日消耗16万亿相关Token
+推送成功: 【BLOCKBEATS - 链上侦探】财新：世界杯赛事相关AI需求将暴增，预计每日消耗16万亿相关Token
+已保存到 Markdown: ./output/blockbeats/2026-03-15.md
+  [BlockBeats] 新快讯: 继百度之后，腾讯也成为OpenClaw赞助方
+推送成功: 【BLOCKBEATS - 链上侦探】继百度之后，腾讯也成为OpenClaw赞助方
+已保存到 Markdown: ./output/blockbeats/2026-03-15.md
+  [BlockBeats] 新快讯: 某鲸鱼沉寂8个月后将21万枚TRUMP存入Gate，亏损128万美元
+推送成功: 【BLOCKBEATS - 融资】某鲸鱼沉寂8个月后将21万枚TRUMP存入Gate，亏损128万美元
 已保存到 Markdown: ./output/blockbeats/2026-03-15.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -27,7 +33,7 @@ Scraping RootData...
     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-15.png
     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-15.png
 推送成功: 📊 RootData | Top Gainers
-Cycle completed. 2026-03-15 07:52:41.040383
+Cycle completed. 2026-03-15 08:40:29.768979
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -37,11 +43,13 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
- RootData | 未来7天加密日历洞察
-2026-03-15 07:52:26,259 - INFO -   Market Image...
-2026-03-15 07:52:30,693 - INFO -     Clicked market download icon
-2026-03-15 07:52:40,514 - INFO -     Clicked save button
-2026-03-15 07:52:40,549 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-15.png
-2026-03-15 07:52:40,549 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-15.png
-2026-03-15 07:52:41,027 - INFO - 推送成功: 📊 RootData | Top Gainers
-2026-03-15 07:52:41,040 - INFO - Cycle completed. 2026-03-15 07:52:41.040383
+03-15.png
+2026-03-15 08:40:14,000 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-03-15.png
+2026-03-15 08:40:14,713 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
+2026-03-15 08:40:14,715 - INFO -   Market Image...
+2026-03-15 08:40:19,183 - INFO -     Clicked market download icon
+2026-03-15 08:40:29,023 - INFO -     Clicked save button
+2026-03-15 08:40:29,049 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-15.png
+2026-03-15 08:40:29,049 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-15.png
+2026-03-15 08:40:29,758 - INFO - 推送成功: 📊 RootData | Top Gainers
+2026-03-15 08:40:29,769 - INFO - Cycle completed. 2026-03-15 08:40:29.768979

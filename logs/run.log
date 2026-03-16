@@ -1,37 +1,7 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: Polymarket新增市场：「哈梅内伊会在何时发推文？」
-推送成功: 【BLOCKBEATS - 预测市场】Polymarket新增市场：「哈梅内伊会在何时发推文？」
-已保存到 Markdown: ./output/blockbeats/2026-03-16.md
-  [BlockBeats] 新快讯: 两高胜率地址2400美元押注OpenSea在6月30日前不会发币
-推送成功: 【BLOCKBEATS - 预测市场】两高胜率地址2400美元押注OpenSea在6月30日前不会发币
-已保存到 Markdown: ./output/blockbeats/2026-03-16.md
-  [BlockBeats] 新快讯: Nebius与Meta签270亿美元5年合同，Vera Rubin首批大规模落地
-推送成功: 【BLOCKBEATS - 链上侦探】Nebius与Meta签270亿美元5年合同，Vera Rubin首批大规模落地
-已保存到 Markdown: ./output/blockbeats/2026-03-16.md
-  [BlockBeats] 新快讯: 阿里巴巴成立Alibaba Token Hub，美股盘前涨近3%
-推送成功: 【BLOCKBEATS - 链上侦探】阿里巴巴成立Alibaba Token Hub，美股盘前涨近3%
-已保存到 Markdown: ./output/blockbeats/2026-03-16.md
-  [BlockBeats] 新快讯: 分析：黄仁勋今日需证明Groq整合路线，否则定制芯片叙事占上风
-推送成功: 【BLOCKBEATS - 链上侦探】分析：黄仁勋今日需证明Groq整合路线，否则定制芯片叙事占上风
-已保存到 Markdown: ./output/blockbeats/2026-03-16.md
-  [BlockBeats] 新快讯: SWE-CI：现有编程基准全在测错误的能力，AI长期维护代码远弱于一次性修bug
-推送成功: 【BLOCKBEATS - 链上侦探】SWE-CI：现有编程基准全在测错误的能力，AI长期维护代码远弱于一次性修bug
-已保存到 Markdown: ./output/blockbeats/2026-03-16.md
-  [BlockBeats] 新快讯: 某巨鲸刚刚从Binance提币413.7枚BTC，过去41天囤积2417枚BTC
-推送成功: 【BLOCKBEATS - 融资】某巨鲸刚刚从Binance提币413.7枚BTC，过去41天囤积2417枚BTC
-已保存到 Markdown: ./output/blockbeats/2026-03-16.md
-  [BlockBeats] 新快讯: Jane Street关联地址过去2小时接收205.36枚BTC
-推送成功: 【BLOCKBEATS - 融资】Jane Street关联地址过去2小时接收205.36枚BTC
-已保存到 Markdown: ./output/blockbeats/2026-03-16.md
-  [BlockBeats] 新快讯: 周末主流Perp DEX一览：各平台交易量略显萎靡，未平仓合约量均稳步上涨
-推送成功: 【BLOCKBEATS - 融资】周末主流Perp DEX一览：各平台交易量略显萎靡，未平仓合约量均稳步上涨
-已保存到 Markdown: ./output/blockbeats/2026-03-16.md
-  [BlockBeats] 新快讯: 某巨鲸为其ETH空单补充200万美元保证金，浮亏超320万美元
-推送成功: 【BLOCKBEATS - 融资】某巨鲸为其ETH空单补充200万美元保证金，浮亏超320万美元
-已保存到 Markdown: ./output/blockbeats/2026-03-16.md
-  [BlockBeats] 新快讯: 「白银铁头空军」周末以690万规模开空白银，受盘前白银下撤浮盈已达91%
-推送成功: 【BLOCKBEATS - 融资】「白银铁头空军」周末以690万规模开空白银，受盘前白银下撤浮盈已达91%
+  [BlockBeats] 新快讯: 「麻吉」以40倍杠杆建仓22枚比特币多单
+推送成功: 【BLOCKBEATS - 融资】「麻吉」以40倍杠杆建仓22枚比特币多单
 已保存到 Markdown: ./output/blockbeats/2026-03-16.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -41,23 +11,10 @@
   Category: 融资动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1000&is_hot=1
 Scraping RootData...
   List: Top 100 项目
-  List: 透明度评分提升榜
-  List: 交易所透明度排名
-  Calendar Events...
-  Calendar Insight Image...
-    Clicked calendar insight icon
-    Clicked generate share image button
-    Clicked download button
-    Saved Calendar Image: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-03-16.png
-    Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-03-16.png
-推送成功: 📅 RootData | 未来7天加密日历洞察
-  Market Image...
-    Clicked market download icon
-    Clicked save button
-    Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-16.png
-    Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-16.png
-推送成功: 📊 RootData | Top Gainers
-Cycle completed. 2026-03-16 11:51:08.096637
+Error in monitor loop: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://cn.rootdata.com/rootdatalist/2025/top-projects", waiting until "load"
+
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -67,23 +24,5 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-NFO -   Category: 融资动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1000&is_hot=1
-2026-03-16 11:50:34,190 - INFO - Scraping RootData...
-2026-03-16 11:50:34,226 - INFO -   List: Top 100 项目
-2026-03-16 11:50:38,706 - INFO -   List: 透明度评分提升榜
-2026-03-16 11:50:41,196 - INFO -   List: 交易所透明度排名
-2026-03-16 11:50:43,761 - INFO -   Calendar Events...
-2026-03-16 11:50:46,472 - INFO -   Calendar Insight Image...
-2026-03-16 11:50:46,713 - INFO -     Clicked calendar insight icon
-2026-03-16 11:50:48,307 - INFO -     Clicked generate share image button
-2026-03-16 11:50:51,076 - INFO -     Clicked download button
-2026-03-16 11:50:51,149 - INFO -     Saved Calendar Image: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-03-16.png
-2026-03-16 11:50:51,149 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-03-16.png
-2026-03-16 11:50:52,172 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
-2026-03-16 11:50:52,174 - INFO -   Market Image...
-2026-03-16 11:50:57,125 - INFO -     Clicked market download icon
-2026-03-16 11:51:07,517 - INFO -     Clicked save button
-2026-03-16 11:51:07,525 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-16.png
-2026-03-16 11:51:07,525 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-16.png
-2026-03-16 11:51:08,077 - INFO - 推送成功: 📊 RootData | Top Gainers
-2026-03-16 11:51:08,096 - INFO - Cycle completed. 2026-03-16 11:51:08.096637
+ting to "https://cn.rootdata.com/rootdatalist/2025/top-projects", waiting until "load"
+

@@ -1,5 +1,17 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
+  [BlockBeats] 新快讯: OpenAI拟与四大PE组建百亿美元合资公司，抢在IPO前锁定企业AI渠道
+推送成功: 【BLOCKBEATS - 链上侦探】OpenAI拟与四大PE组建百亿美元合资公司，抢在IPO前锁定企业AI渠道
+已保存到 Markdown: ./output/blockbeats/2026-03-16.md
+  [BlockBeats] 新快讯: 安全产品反而泄密：360安全龙虾将HTTPS通配符证书私钥打包进本地目录
+推送成功: 【BLOCKBEATS - 链上侦探】安全产品反而泄密：360安全龙虾将HTTPS通配符证书私钥打包进本地目录
+已保存到 Markdown: ./output/blockbeats/2026-03-16.md
+  [BlockBeats] 新快讯: 某鲸鱼地址过去6天从Binance提币1938枚BTC
+推送成功: 【BLOCKBEATS - 融资】某鲸鱼地址过去6天从Binance提币1938枚BTC
+已保存到 Markdown: ./output/blockbeats/2026-03-16.md
+  [BlockBeats] 新快讯: 某巨鲸地址将1.2万枚ETH转移至FalconX
+推送成功: 【BLOCKBEATS - 融资】某巨鲸地址将1.2万枚ETH转移至FalconX
+已保存到 Markdown: ./output/blockbeats/2026-03-16.md
   [BlockBeats] 新快讯: 「麻吉」以40倍杠杆建仓22枚比特币多单
 推送成功: 【BLOCKBEATS - 融资】「麻吉」以40倍杠杆建仓22枚比特币多单
 已保存到 Markdown: ./output/blockbeats/2026-03-16.md
@@ -11,10 +23,23 @@
   Category: 融资动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1000&is_hot=1
 Scraping RootData...
   List: Top 100 项目
-Error in monitor loop: Page.goto: Timeout 30000ms exceeded.
-Call log:
-  - navigating to "https://cn.rootdata.com/rootdatalist/2025/top-projects", waiting until "load"
-
+  List: 透明度评分提升榜
+  List: 交易所透明度排名
+  Calendar Events...
+  Calendar Insight Image...
+    Clicked calendar insight icon
+    Clicked generate share image button
+    Clicked download button
+    Saved Calendar Image: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-03-16.png
+    Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-03-16.png
+推送成功: 📅 RootData | 未来7天加密日历洞察
+  Market Image...
+    Clicked market download icon
+    Clicked save button
+    Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-16.png
+    Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-16.png
+推送成功: 📊 RootData | Top Gainers
+Cycle completed. 2026-03-16 15:02:53.492775
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -24,5 +49,15 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-ting to "https://cn.rootdata.com/rootdatalist/2025/top-projects", waiting until "load"
-
+ button
+2026-03-16 15:02:28,608 - INFO -     Clicked download button
+2026-03-16 15:02:28,764 - INFO -     Saved Calendar Image: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-03-16.png
+2026-03-16 15:02:28,764 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-03-16.png
+2026-03-16 15:02:29,523 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
+2026-03-16 15:02:29,525 - INFO -   Market Image...
+2026-03-16 15:02:34,074 - INFO -     Clicked market download icon
+2026-03-16 15:02:52,487 - INFO -     Clicked save button
+2026-03-16 15:02:52,495 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-16.png
+2026-03-16 15:02:52,495 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-16.png
+2026-03-16 15:02:53,480 - INFO - 推送成功: 📊 RootData | Top Gainers
+2026-03-16 15:02:53,492 - INFO - Cycle completed. 2026-03-16 15:02:53.492775

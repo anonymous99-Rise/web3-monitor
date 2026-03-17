@@ -1,7 +1,19 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 新账户加仓15万美元预测「内塔尼亚胡4月前下台」
-推送成功: 【BLOCKBEATS - 预测市场】新账户加仓15万美元预测「内塔尼亚胡4月前下台」
+  [BlockBeats] 新快讯: 新事件「以色列军队何时进入贝鲁特？」上线预测市场Polymarket
+推送成功: 【BLOCKBEATS - 预测市场】新事件「以色列军队何时进入贝鲁特？」上线预测市场Polymarket
+已保存到 Markdown: ./output/blockbeats/2026-03-17.md
+  [BlockBeats] 新快讯: OpenAI与AWS签署协议，向美国政府工作人员销售AI技术
+推送成功: 【BLOCKBEATS - 链上侦探】OpenAI与AWS签署协议，向美国政府工作人员销售AI技术
+已保存到 Markdown: ./output/blockbeats/2026-03-17.md
+  [BlockBeats] 新快讯: 马斯克：xAI到本周末将同时训练三款Grok Build模型
+推送成功: 【BLOCKBEATS - 链上侦探】马斯克：xAI到本周末将同时训练三款Grok Build模型
+已保存到 Markdown: ./output/blockbeats/2026-03-17.md
+  [BlockBeats] 新快讯: 腾讯QClaw3月18日将发布全新版本，微信入口会全面升级
+推送成功: 【BLOCKBEATS - 链上侦探】腾讯QClaw3月18日将发布全新版本，微信入口会全面升级
+已保存到 Markdown: ./output/blockbeats/2026-03-17.md
+  [BlockBeats] 新快讯: 不丹王国再次转出377枚BTC，价值约2787万美元
+推送成功: 【BLOCKBEATS - 融资】不丹王国再次转出377枚BTC，价值约2787万美元
 已保存到 Markdown: ./output/blockbeats/2026-03-17.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -24,10 +36,11 @@ Scraping RootData...
   Market Image...
     Clicked market download icon
     Clicked save button
-    Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-17.png
-    Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-17.png
-推送成功: 📊 RootData | Top Gainers
-Cycle completed. 2026-03-17 11:51:03.155645
+    Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
+=========================== logs ===========================
+waiting for event "download"
+============================================================
+Cycle completed. 2026-03-17 13:17:40.540728
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -37,11 +50,15 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
- RootData | 未来7天加密日历洞察
-2026-03-17 11:50:47,094 - INFO -   Market Image...
-2026-03-17 11:50:51,372 - INFO -     Clicked market download icon
-2026-03-17 11:51:01,727 - INFO -     Clicked save button
-2026-03-17 11:51:01,735 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-17.png
-2026-03-17 11:51:01,735 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-17.png
-2026-03-17 11:51:03,143 - INFO - 推送成功: 📊 RootData | Top Gainers
-2026-03-17 11:51:03,155 - INFO - Cycle completed. 2026-03-17 11:51:03.155645
+3-17 13:17:00,140 - INFO -     Clicked download button
+2026-03-17 13:17:00,210 - INFO -     Saved Calendar Image: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-03-17.png
+2026-03-17 13:17:00,210 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-03-17.png
+2026-03-17 13:17:00,781 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
+2026-03-17 13:17:00,784 - INFO -   Market Image...
+2026-03-17 13:17:05,465 - INFO -     Clicked market download icon
+2026-03-17 13:17:13,674 - INFO -     Clicked save button
+2026-03-17 13:17:40,528 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
+=========================== logs ===========================
+waiting for event "download"
+============================================================
+2026-03-17 13:17:40,540 - INFO - Cycle completed. 2026-03-17 13:17:40.540728

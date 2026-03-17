@@ -1,13 +1,7 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: Tether推出AI新框架：手机可训练十亿参数AI模型
-推送成功: 【BLOCKBEATS - 链上侦探】Tether推出AI新框架：手机可训练十亿参数AI模型
-已保存到 Markdown: ./output/blockbeats/2026-03-17.md
-  [BlockBeats] 新快讯: Aster已上线主网，Hyperliquid最大ASTER多头浮盈约390万美元
-推送成功: 【BLOCKBEATS - 融资】Aster已上线主网，Hyperliquid最大ASTER多头浮盈约390万美元
-已保存到 Markdown: ./output/blockbeats/2026-03-17.md
-  [BlockBeats] 新快讯: Antalpha向Cobo存入价值约846万美元的XAUT
-推送成功: 【BLOCKBEATS - 融资】Antalpha向Cobo存入价值约846万美元的XAUT
+  [BlockBeats] 新快讯: 某巨鲸过去一周累计增持2,155.62枚BTC，价值约1.54亿美元
+推送成功: 【BLOCKBEATS - 融资】某巨鲸过去一周累计增持2,155.62枚BTC，价值约1.54亿美元
 已保存到 Markdown: ./output/blockbeats/2026-03-17.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -33,7 +27,7 @@ Scraping RootData...
     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-17.png
     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-17.png
 推送成功: 📊 RootData | Top Gainers
-Cycle completed. 2026-03-17 14:59:54.514162
+Cycle completed. 2026-03-17 16:13:39.841090
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -43,13 +37,11 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-03-17.png
-2026-03-17 14:59:33,377 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-03-17.png
-2026-03-17 14:59:33,960 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
-2026-03-17 14:59:33,963 - INFO -   Market Image...
-2026-03-17 14:59:38,345 - INFO -     Clicked market download icon
-2026-03-17 14:59:54,050 - INFO -     Clicked save button
-2026-03-17 14:59:54,058 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-17.png
-2026-03-17 14:59:54,058 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-17.png
-2026-03-17 14:59:54,500 - INFO - 推送成功: 📊 RootData | Top Gainers
-2026-03-17 14:59:54,514 - INFO - Cycle completed. 2026-03-17 14:59:54.514162
+ RootData | 未来7天加密日历洞察
+2026-03-17 16:13:24,798 - INFO -   Market Image...
+2026-03-17 16:13:29,503 - INFO -     Clicked market download icon
+2026-03-17 16:13:38,931 - INFO -     Clicked save button
+2026-03-17 16:13:38,953 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-17.png
+2026-03-17 16:13:38,953 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-17.png
+2026-03-17 16:13:39,796 - INFO - 推送成功: 📊 RootData | Top Gainers
+2026-03-17 16:13:39,841 - INFO - Cycle completed. 2026-03-17 16:13:39.841090

@@ -1,10 +1,10 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 京东云承诺全系核心产品不涨价，并对多款产品实施更大力度优惠
-推送成功: 【BLOCKBEATS - 链上侦探】京东云承诺全系核心产品不涨价，并对多款产品实施更大力度优惠
+  [BlockBeats] 新快讯: Polymarket上线新市场「内马尔是否会参加2026年世界杯」
+推送成功: 【BLOCKBEATS - 预测市场】Polymarket上线新市场「内马尔是否会参加2026年世界杯」
 已保存到 Markdown: ./output/blockbeats/2026-03-18.md
-  [BlockBeats] 新快讯: 某巨鲸斥资501万美元开立原油合约空头头寸
-推送成功: 【BLOCKBEATS - 融资】某巨鲸斥资501万美元开立原油合约空头头寸
+  [BlockBeats] 新快讯: 巨鲸「先定10个大目标」平仓1.69亿美元空单，预估盈利超700万美元
+推送成功: 【BLOCKBEATS - 融资】巨鲸「先定10个大目标」平仓1.69亿美元空单，预估盈利超700万美元
 已保存到 Markdown: ./output/blockbeats/2026-03-18.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -30,7 +30,7 @@ Scraping RootData...
     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-18.png
     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-18.png
 推送成功: 📊 RootData | Top Gainers
-Cycle completed. 2026-03-18 15:05:46.783581
+Cycle completed. 2026-03-18 17:03:35.203947
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -41,11 +41,11 @@ Scraping BlockBeats...
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
 hts/未来7天加密日历洞察_2026-03-18.png
-2026-03-18 15:05:31,070 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
-2026-03-18 15:05:31,072 - INFO -   Market Image...
-2026-03-18 15:05:35,698 - INFO -     Clicked market download icon
-2026-03-18 15:05:46,079 - INFO -     Clicked save button
-2026-03-18 15:05:46,102 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-18.png
-2026-03-18 15:05:46,104 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-18.png
-2026-03-18 15:05:46,769 - INFO - 推送成功: 📊 RootData | Top Gainers
-2026-03-18 15:05:46,783 - INFO - Cycle completed. 2026-03-18 15:05:46.783581
+2026-03-18 17:03:18,631 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
+2026-03-18 17:03:18,634 - INFO -   Market Image...
+2026-03-18 17:03:23,225 - INFO -     Clicked market download icon
+2026-03-18 17:03:33,131 - INFO -     Clicked save button
+2026-03-18 17:03:33,160 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-18.png
+2026-03-18 17:03:33,160 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-18.png
+2026-03-18 17:03:35,191 - INFO - 推送成功: 📊 RootData | Top Gainers
+2026-03-18 17:03:35,203 - INFO - Cycle completed. 2026-03-18 17:03:35.203947

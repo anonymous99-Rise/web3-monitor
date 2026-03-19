@@ -1,14 +1,5 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: OpenAI宣布收购Astral，加大在编程领域的布局
-推送成功: 【BLOCKBEATS - 链上侦探】OpenAI宣布收购Astral，加大在编程领域的布局
-已保存到 Markdown: ./output/blockbeats/2026-03-19.md
-  [BlockBeats] 新快讯: 某鲸鱼20倍做空428.73枚BTC和13,852枚ETH，目前已浮盈超115万美元
-推送成功: 【BLOCKBEATS - 融资】某鲸鱼20倍做空428.73枚BTC和13,852枚ETH，目前已浮盈超115万美元
-已保存到 Markdown: ./output/blockbeats/2026-03-19.md
-  [BlockBeats] 新快讯: 某鲸鱼向Hyperliquid存入410万美元，做多价值1608万美元布伦特原油
-推送成功: 【BLOCKBEATS - 融资】某鲸鱼向Hyperliquid存入410万美元，做多价值1608万美元布伦特原油
-已保存到 Markdown: ./output/blockbeats/2026-03-19.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
   Category: 项目动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1003&is_hot=1
@@ -30,10 +21,11 @@ Scraping RootData...
   Market Image...
     Clicked market download icon
     Clicked save button
-    Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-19.png
-    Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-19.png
-推送成功: 📊 RootData | Top Gainers
-Cycle completed. 2026-03-19 14:52:35.408183
+    Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
+=========================== logs ===========================
+waiting for event "download"
+============================================================
+Cycle completed. 2026-03-19 16:01:45.672776
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -43,13 +35,10 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-03-19.png
-2026-03-19 14:52:19,588 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-03-19.png
-2026-03-19 14:52:20,389 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
-2026-03-19 14:52:20,392 - INFO -   Market Image...
-2026-03-19 14:52:24,447 - INFO -     Clicked market download icon
-2026-03-19 14:52:34,758 - INFO -     Clicked save button
-2026-03-19 14:52:34,767 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-19.png
-2026-03-19 14:52:34,767 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-19.png
-2026-03-19 14:52:35,391 - INFO - 推送成功: 📊 RootData | Top Gainers
-2026-03-19 14:52:35,408 - INFO - Cycle completed. 2026-03-19 14:52:35.408183
+18 - INFO -     Clicked market download icon
+2026-03-19 16:01:18,733 - INFO -     Clicked save button
+2026-03-19 16:01:45,656 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
+=========================== logs ===========================
+waiting for event "download"
+============================================================
+2026-03-19 16:01:45,672 - INFO - Cycle completed. 2026-03-19 16:01:45.672776

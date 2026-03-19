@@ -1,19 +1,31 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 百度发布40亿参数文档智能模型Qianfan-OCR，多项基准超越Gemini-3-Pro和Qwen3-VL-235B
-推送成功: 【BLOCKBEATS - 链上侦探】百度发布40亿参数文档智能模型Qianfan-OCR，多项基准超越Gemini-3-Pro和Qwen3-VL-235B
+  [BlockBeats] 新快讯: 政治板块86%准确率地址投入6600美元押注特朗普会在七月前访华
+推送成功: 【BLOCKBEATS - 预测市场】政治板块86%准确率地址投入6600美元押注特朗普会在七月前访华
 已保存到 Markdown: ./output/blockbeats/2026-03-19.md
-  [BlockBeats] 新快讯: Paul Graham：一位OpenAI员工无意间透露时间表，「2028年之前造出的东西都会很值钱」
-推送成功: 【BLOCKBEATS - 链上侦探】Paul Graham：一位OpenAI员工无意间透露时间表，「2028年之前造出的东西都会很值钱」
+  [BlockBeats] 新快讯: 一个聪明钱账户投入1.45万美元押注美军会在今年入境伊朗
+推送成功: 【BLOCKBEATS - 预测市场】一个聪明钱账户投入1.45万美元押注美军会在今年入境伊朗
 已保存到 Markdown: ./output/blockbeats/2026-03-19.md
-  [BlockBeats] 新快讯: Anduril创始人Luckey：中美AI差距极其微小，中国部署速度远超美国
-推送成功: 【BLOCKBEATS - 链上侦探】Anduril创始人Luckey：中美AI差距极其微小，中国部署速度远超美国
+  [BlockBeats] 新快讯: 「软件已死」：前Salesforce高管创办Eragon，种子轮融资1200万美元估值1亿，要把企业软件变成一句prompt
+推送成功: 【BLOCKBEATS - 链上侦探】「软件已死」：前Salesforce高管创办Eragon，种子轮融资1200万美元估值1亿，要把企业软件变成一句prompt
 已保存到 Markdown: ./output/blockbeats/2026-03-19.md
-  [BlockBeats] 新快讯: 「重仓布局三大市场」巨鲸原油空单平仓翻多，6300万美元全线看多三大赛道
-推送成功: 【BLOCKBEATS - 融资】「重仓布局三大市场」巨鲸原油空单平仓翻多，6300万美元全线看多三大赛道
+  [BlockBeats] 新快讯: 逆向Claude Code发现Anthropic未披露PaaS平台「Antspace」：Baku构建、自家托管，全栈闭环已具雏形
+推送成功: 【BLOCKBEATS - 链上侦探】逆向Claude Code发现Anthropic未披露PaaS平台「Antspace」：Baku构建、自家托管，全栈闭环已具雏形
 已保存到 Markdown: ./output/blockbeats/2026-03-19.md
-  [BlockBeats] 新快讯: 「麻吉」加仓ETH多单，现浮亏53万美元
-推送成功: 【BLOCKBEATS - 融资】「麻吉」加仓ETH多单，现浮亏53万美元
+  [BlockBeats] 新快讯: 韩媒：三星电子将向OpenAI供应HBM4芯片
+推送成功: 【BLOCKBEATS - 链上侦探】韩媒：三星电子将向OpenAI供应HBM4芯片
+已保存到 Markdown: ./output/blockbeats/2026-03-19.md
+  [BlockBeats] 新快讯: OpenAI以竞赛替代招聘：Parameter Golf挑战16MB极限压缩，排行榜顶端直通面试
+推送成功: 【BLOCKBEATS - 链上侦探】OpenAI以竞赛替代招聘：Parameter Golf挑战16MB极限压缩，排行榜顶端直通面试
+已保存到 Markdown: ./output/blockbeats/2026-03-19.md
+  [BlockBeats] 新快讯: 普华永道美国CEO：抵制AI的合伙人「待不了多久」，推出AI平台PwC One并改革计费模式
+推送成功: 【BLOCKBEATS - 链上侦探】普华永道美国CEO：抵制AI的合伙人「待不了多久」，推出AI平台PwC One并改革计费模式
+已保存到 Markdown: ./output/blockbeats/2026-03-19.md
+  [BlockBeats] 新快讯: 贝莱德向Coinbase存入930枚BTC与12,687枚ETH
+推送成功: 【BLOCKBEATS - 融资】贝莱德向Coinbase存入930枚BTC与12,687枚ETH
+已保存到 Markdown: ./output/blockbeats/2026-03-19.md
+  [BlockBeats] 新快讯: 存储概念股盘前集体下挫，两大最大多头巨鲸按兵不动浮盈仍超百万
+推送成功: 【BLOCKBEATS - 融资】存储概念股盘前集体下挫，两大最大多头巨鲸按兵不动浮盈仍超百万
 已保存到 Markdown: ./output/blockbeats/2026-03-19.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -39,7 +51,7 @@ Scraping RootData...
     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-19.png
     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-19.png
 推送成功: 📊 RootData | Top Gainers
-Cycle completed. 2026-03-19 09:46:50.346007
+Cycle completed. 2026-03-19 10:43:13.678829
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -49,15 +61,21 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
- button
-2026-03-19 09:46:34,670 - INFO -     Clicked download button
-2026-03-19 09:46:34,746 - INFO -     Saved Calendar Image: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-03-19.png
-2026-03-19 09:46:34,746 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-03-19.png
-2026-03-19 09:46:35,576 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
-2026-03-19 09:46:35,579 - INFO -   Market Image...
-2026-03-19 09:46:39,743 - INFO -     Clicked market download icon
-2026-03-19 09:46:49,574 - INFO -     Clicked save button
-2026-03-19 09:46:49,582 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-19.png
-2026-03-19 09:46:49,582 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-19.png
-2026-03-19 09:46:50,333 - INFO - 推送成功: 📊 RootData | Top Gainers
-2026-03-19 09:46:50,346 - INFO - Cycle completed. 2026-03-19 09:46:50.346007
+: Top 100 项目
+2026-03-19 10:42:46,672 - INFO -   List: 透明度评分提升榜
+2026-03-19 10:42:49,068 - INFO -   List: 交易所透明度排名
+2026-03-19 10:42:51,509 - INFO -   Calendar Events...
+2026-03-19 10:42:53,970 - INFO -   Calendar Insight Image...
+2026-03-19 10:42:54,240 - INFO -     Clicked calendar insight icon
+2026-03-19 10:42:55,412 - INFO -     Clicked generate share image button
+2026-03-19 10:42:57,923 - INFO -     Clicked download button
+2026-03-19 10:42:57,971 - INFO -     Saved Calendar Image: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-03-19.png
+2026-03-19 10:42:57,971 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-03-19.png
+2026-03-19 10:42:58,429 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
+2026-03-19 10:42:58,431 - INFO -   Market Image...
+2026-03-19 10:43:02,777 - INFO -     Clicked market download icon
+2026-03-19 10:43:13,150 - INFO -     Clicked save button
+2026-03-19 10:43:13,157 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-19.png
+2026-03-19 10:43:13,157 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-19.png
+2026-03-19 10:43:13,664 - INFO - 推送成功: 📊 RootData | Top Gainers
+2026-03-19 10:43:13,678 - INFO - Cycle completed. 2026-03-19 10:43:13.678829

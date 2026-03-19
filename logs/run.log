@@ -1,5 +1,20 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
+  [BlockBeats] 新快讯: 马斯克：下周将推出xAI推荐算法的重大更新，同时将开源
+推送成功: 【BLOCKBEATS - 链上侦探】马斯克：下周将推出xAI推荐算法的重大更新，同时将开源
+已保存到 Markdown: ./output/blockbeats/2026-03-19.md
+  [BlockBeats] 新快讯: 微软推出MAI-Image-2文本生成图像模型
+推送成功: 【BLOCKBEATS - 链上侦探】微软推出MAI-Image-2文本生成图像模型
+已保存到 Markdown: ./output/blockbeats/2026-03-19.md
+  [BlockBeats] 新快讯: 白宫拟于周五向国会提交AI监管框架
+推送成功: 【BLOCKBEATS - 链上侦探】白宫拟于周五向国会提交AI监管框架
+已保存到 Markdown: ./output/blockbeats/2026-03-19.md
+  [BlockBeats] 新快讯: 黄仁勋：AI风险需提醒，但不应引发公众恐慌
+推送成功: 【BLOCKBEATS - 链上侦探】黄仁勋：AI风险需提醒，但不应引发公众恐慌
+已保存到 Markdown: ./output/blockbeats/2026-03-19.md
+  [BlockBeats] 新快讯: OpenAI计划推出桌面「超级应用」，整合Codex、ChatGPT和浏览器
+推送成功: 【BLOCKBEATS - 链上侦探】OpenAI计划推出桌面「超级应用」，整合Codex、ChatGPT和浏览器
+已保存到 Markdown: ./output/blockbeats/2026-03-19.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
   Category: 项目动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1003&is_hot=1
@@ -24,7 +39,7 @@ Scraping RootData...
     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-19.png
     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-19.png
 推送成功: 📊 RootData | Top Gainers
-Cycle completed. 2026-03-19 22:31:55.158696
+Cycle completed. 2026-03-19 23:32:50.567137
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -34,9 +49,15 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
--19 22:31:44,900 - INFO -     Clicked market download icon
-2026-03-19 22:31:54,649 - INFO -     Clicked save button
-2026-03-19 22:31:54,671 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-19.png
-2026-03-19 22:31:54,671 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-19.png
-2026-03-19 22:31:55,147 - INFO - 推送成功: 📊 RootData | Top Gainers
-2026-03-19 22:31:55,158 - INFO - Cycle completed. 2026-03-19 22:31:55.158696
+ button
+2026-03-19 23:32:35,823 - INFO -     Clicked download button
+2026-03-19 23:32:35,871 - INFO -     Saved Calendar Image: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-03-19.png
+2026-03-19 23:32:35,871 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-03-19.png
+2026-03-19 23:32:36,483 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
+2026-03-19 23:32:36,486 - INFO -   Market Image...
+2026-03-19 23:32:40,835 - INFO -     Clicked market download icon
+2026-03-19 23:32:50,121 - INFO -     Clicked save button
+2026-03-19 23:32:50,128 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-19.png
+2026-03-19 23:32:50,128 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-19.png
+2026-03-19 23:32:50,554 - INFO - 推送成功: 📊 RootData | Top Gainers
+2026-03-19 23:32:50,567 - INFO - Cycle completed. 2026-03-19 23:32:50.567137

@@ -1,22 +1,13 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 代币发行预测87.5%胜率账户投入8400美元认为EdgeX本月不会发币
-推送成功: 【BLOCKBEATS - 预测市场】代币发行预测87.5%胜率账户投入8400美元认为EdgeX本月不会发币
+  [BlockBeats] 新快讯: 字节跳动超60亿美元出售沐瞳科技，进一步聚焦AI战略
+推送成功: 【BLOCKBEATS - 链上侦探】字节跳动超60亿美元出售沐瞳科技，进一步聚焦AI战略
 已保存到 Markdown: ./output/blockbeats/2026-03-20.md
-  [BlockBeats] 新快讯: 语音Agent终于能区分「嗯嗯」和真正的打断：LiveKit推出自适应打断检测
-推送成功: 【BLOCKBEATS - 链上侦探】语音Agent终于能区分「嗯嗯」和真正的打断：LiveKit推出自适应打断检测
+  [BlockBeats] 新快讯: 海底捞库比蒂诺门店人形机器人跳舞「失控」，三名员工合力制止，否认故障
+推送成功: 【BLOCKBEATS - 链上侦探】海底捞库比蒂诺门店人形机器人跳舞「失控」，三名员工合力制止，否认故障
 已保存到 Markdown: ./output/blockbeats/2026-03-20.md
-  [BlockBeats] 新快讯: AI Agent自己写完一本7.9万字小说：Nous Research联创CEO「梦想成真」，Karpathy：「这个想法很棒」
-推送成功: 【BLOCKBEATS - 链上侦探】AI Agent自己写完一本7.9万字小说：Nous Research联创CEO「梦想成真」，Karpathy：「这个想法很棒」
-已保存到 Markdown: ./output/blockbeats/2026-03-20.md
-  [BlockBeats] 新快讯: Cloudflare CEO：2027年AI Agent的bot流量将超越人类网络流量，互联网基础设施面临全新挑战
-推送成功: 【BLOCKBEATS - 链上侦探】Cloudflare CEO：2027年AI Agent的bot流量将超越人类网络流量，互联网基础设施面临全新挑战
-已保存到 Markdown: ./output/blockbeats/2026-03-20.md
-  [BlockBeats] 新快讯: DoorDash上线Tasks应用：付费让快递员拍摄日常视频，为AI和机器人模型提供训练数据
-推送成功: 【BLOCKBEATS - 链上侦探】DoorDash上线Tasks应用：付费让快递员拍摄日常视频，为AI和机器人模型提供训练数据
-已保存到 Markdown: ./output/blockbeats/2026-03-20.md
-  [BlockBeats] 新快讯: 某巨鲸昨夜以6.89万美元均价重仓抄底BTC，现持仓回报率已达89%
-推送成功: 【BLOCKBEATS - 融资】某巨鲸昨夜以6.89万美元均价重仓抄底BTC，现持仓回报率已达89%
+  [BlockBeats] 新快讯: 现货黄金延续跌势，「Abraxas Capital」持千万规模空单浮盈190万美元
+推送成功: 【BLOCKBEATS - 融资】现货黄金延续跌势，「Abraxas Capital」持千万规模空单浮盈190万美元
 已保存到 Markdown: ./output/blockbeats/2026-03-20.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -42,7 +33,7 @@ Scraping RootData...
     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-20.png
     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-20.png
 推送成功: 📊 RootData | Top Gainers
-Cycle completed. 2026-03-20 06:59:58.756854
+Cycle completed. 2026-03-20 07:51:44.889216
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -52,16 +43,13 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-    Clicked calendar insight icon
-2026-03-20 06:59:40,043 - INFO -     Clicked generate share image button
-2026-03-20 06:59:41,691 - INFO -     Clicked download button
-2026-03-20 06:59:41,747 - INFO -     Saved Calendar Image: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-03-20.png
-2026-03-20 06:59:41,747 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-03-20.png
-2026-03-20 06:59:42,447 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
-2026-03-20 06:59:42,449 - INFO -   Market Image...
-2026-03-20 06:59:47,170 - INFO -     Clicked market download icon
-2026-03-20 06:59:58,183 - INFO -     Clicked save button
-2026-03-20 06:59:58,191 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-20.png
-2026-03-20 06:59:58,191 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-20.png
-2026-03-20 06:59:58,743 - INFO - 推送成功: 📊 RootData | Top Gainers
-2026-03-20 06:59:58,756 - INFO - Cycle completed. 2026-03-20 06:59:58.756854
+03-20.png
+2026-03-20 07:51:27,903 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-03-20.png
+2026-03-20 07:51:28,684 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
+2026-03-20 07:51:28,686 - INFO -   Market Image...
+2026-03-20 07:51:33,052 - INFO -     Clicked market download icon
+2026-03-20 07:51:43,986 - INFO -     Clicked save button
+2026-03-20 07:51:43,993 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-20.png
+2026-03-20 07:51:43,993 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-20.png
+2026-03-20 07:51:44,876 - INFO - 推送成功: 📊 RootData | Top Gainers
+2026-03-20 07:51:44,889 - INFO - Cycle completed. 2026-03-20 07:51:44.889216

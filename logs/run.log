@@ -1,25 +1,19 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 某地址投入22万美元押注「美国不会确认外星人存在」
-推送成功: 【BLOCKBEATS - 预测市场】某地址投入22万美元押注「美国不会确认外星人存在」
+  [BlockBeats] 新快讯: 日本央行6月维持利率不变概率达59%
+推送成功: 【BLOCKBEATS - 预测市场】日本央行6月维持利率不变概率达59%
 已保存到 Markdown: ./output/blockbeats/2026-03-20.md
-  [BlockBeats] 新快讯: OpenClaw起源：大厂半年没跟进，Steinberger一小时做出原型越陷越深
-推送成功: 【BLOCKBEATS - 链上侦探】OpenClaw起源：大厂半年没跟进，Steinberger一小时做出原型越陷越深
+  [BlockBeats] 新快讯: LangChain将Agent Builder升级为LangSmith Fleet：加入权限管理、双模式身份认证和统一审批收件箱
+推送成功: 【BLOCKBEATS - 链上侦探】LangChain将Agent Builder升级为LangSmith Fleet：加入权限管理、双模式身份认证和统一审批收件箱
 已保存到 Markdown: ./output/blockbeats/2026-03-20.md
-  [BlockBeats] 新快讯: Cursor「自研」Composer 2内藏Kimi K2.5，月之暗面公开指控：未遵守许可证、未支付费用
-推送成功: 【BLOCKBEATS - 链上侦探】Cursor「自研」Composer 2内藏Kimi K2.5，月之暗面公开指控：未遵守许可证、未支付费用
+  [BlockBeats] 新快讯: Perplexity推出AI健康助手：接入病历和Apple Health数据，为美国Pro用户提供个性化医疗建议
+推送成功: 【BLOCKBEATS - 链上侦探】Perplexity推出AI健康助手：接入病历和Apple Health数据，为美国Pro用户提供个性化医疗建议
 已保存到 Markdown: ./output/blockbeats/2026-03-20.md
-  [BlockBeats] 新快讯: 贝莱德向Coinbase Prime转入47,728枚ETH和544枚BTC
-推送成功: 【BLOCKBEATS - 融资】贝莱德向Coinbase Prime转入47,728枚ETH和544枚BTC
+  [BlockBeats] 新快讯: Physical Intelligence发布RLT：15分钟数据让机器人精密操作提速3倍，以太网插线速度超越人类遥操
+推送成功: 【BLOCKBEATS - 链上侦探】Physical Intelligence发布RLT：15分钟数据让机器人精密操作提速3倍，以太网插线速度超越人类遥操
 已保存到 Markdown: ./output/blockbeats/2026-03-20.md
-  [BlockBeats] 新快讯: 某沉寂13.7年比特币巨鲸地址被激活，包含2100枚BTC
-推送成功: 【BLOCKBEATS - 融资】某沉寂13.7年比特币巨鲸地址被激活，包含2100枚BTC
-已保存到 Markdown: ./output/blockbeats/2026-03-20.md
-  [BlockBeats] 新快讯: 某新建钱包从Gate提取139,557枚HYPE，约合549万美元
-推送成功: 【BLOCKBEATS - 融资】某新建钱包从Gate提取139,557枚HYPE，约合549万美元
-已保存到 Markdown: ./output/blockbeats/2026-03-20.md
-  [BlockBeats] 新快讯: WTI原油短线拉升3.2%，链上千万持仓空头悉数落入亏损
-推送成功: 【BLOCKBEATS - 融资】WTI原油短线拉升3.2%，链上千万持仓空头悉数落入亏损
+  [BlockBeats] 新快讯: 主流Perp DEX一览：Hyperliquid交易量持续攀升，Edge交易量近期稳居第二
+推送成功: 【BLOCKBEATS - 融资】主流Perp DEX一览：Hyperliquid交易量持续攀升，Edge交易量近期稳居第二
 已保存到 Markdown: ./output/blockbeats/2026-03-20.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -45,7 +39,7 @@ Scraping RootData...
     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-20.png
     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-20.png
 推送成功: 📊 RootData | Top Gainers
-Cycle completed. 2026-03-20 10:41:09.807466
+Cycle completed. 2026-03-20 11:34:17.437612
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -55,18 +49,15 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-s...
-2026-03-20 10:40:42,749 - INFO -   Calendar Insight Image...
-2026-03-20 10:40:43,053 - INFO -     Clicked calendar insight icon
-2026-03-20 10:40:44,575 - INFO -     Clicked generate share image button
-2026-03-20 10:40:45,990 - INFO -     Clicked download button
-2026-03-20 10:40:46,030 - INFO -     Saved Calendar Image: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-03-20.png
-2026-03-20 10:40:46,031 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-03-20.png
-2026-03-20 10:40:48,198 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
-2026-03-20 10:40:48,201 - INFO -   Market Image...
-2026-03-20 10:40:52,750 - INFO -     Clicked market download icon
-2026-03-20 10:41:09,091 - INFO -     Clicked save button
-2026-03-20 10:41:09,105 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-20.png
-2026-03-20 10:41:09,105 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-20.png
-2026-03-20 10:41:09,793 - INFO - 推送成功: 📊 RootData | Top Gainers
-2026-03-20 10:41:09,807 - INFO - Cycle completed. 2026-03-20 10:41:09.807466
+ button
+2026-03-20 11:34:01,649 - INFO -     Clicked download button
+2026-03-20 11:34:01,708 - INFO -     Saved Calendar Image: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-03-20.png
+2026-03-20 11:34:01,708 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-03-20.png
+2026-03-20 11:34:02,416 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
+2026-03-20 11:34:02,419 - INFO -   Market Image...
+2026-03-20 11:34:07,318 - INFO -     Clicked market download icon
+2026-03-20 11:34:16,749 - INFO -     Clicked save button
+2026-03-20 11:34:16,755 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-20.png
+2026-03-20 11:34:16,756 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-20.png
+2026-03-20 11:34:17,425 - INFO - 推送成功: 📊 RootData | Top Gainers
+2026-03-20 11:34:17,437 - INFO - Cycle completed. 2026-03-20 11:34:17.437612

@@ -1,22 +1,10 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: Palantir人工智能系统获美国防部关键项目地位
-推送成功: 【BLOCKBEATS - 链上侦探】Palantir人工智能系统获美国防部关键项目地位
+  [BlockBeats] 新快讯: 新账户投入超6万美元认为美军将于5月前进入伊朗
+推送成功: 【BLOCKBEATS - 预测市场】新账户投入超6万美元认为美军将于5月前进入伊朗
 已保存到 Markdown: ./output/blockbeats/2026-03-21.md
-  [BlockBeats] 新快讯: xAI推「驻场工程师」白手套服务抢企业客户，已拿下Shift4数百万美元合同
-推送成功: 【BLOCKBEATS - 链上侦探】xAI推「驻场工程师」白手套服务抢企业客户，已拿下Shift4数百万美元合同
-已保存到 Markdown: ./output/blockbeats/2026-03-21.md
-  [BlockBeats] 新快讯: 美团开源560B参数定理证明模型：72次推理通过率97.1%，刷新开源模型SOTA
-推送成功: 【BLOCKBEATS - 链上侦探】美团开源560B参数定理证明模型：72次推理通过率97.1%，刷新开源模型SOTA
-已保存到 Markdown: ./output/blockbeats/2026-03-21.md
-  [BlockBeats] 新快讯: Windsurf：Kimi K2.5向全量用户开放7天免费使用
-推送成功: 【BLOCKBEATS - 链上侦探】Windsurf：Kimi K2.5向全量用户开放7天免费使用
-已保存到 Markdown: ./output/blockbeats/2026-03-21.md
-  [BlockBeats] 新快讯: Erik Voorhees再次增持1.44万枚ETH，总持仓量突破11.7万枚
-推送成功: 【BLOCKBEATS - 融资】Erik Voorhees再次增持1.44万枚ETH，总持仓量突破11.7万枚
-已保存到 Markdown: ./output/blockbeats/2026-03-21.md
-  [BlockBeats] 新快讯: 两巨鲸累计抛售价值1317万美元XAUT代币，合计亏损超170万美元
-推送成功: 【BLOCKBEATS - 融资】两巨鲸累计抛售价值1317万美元XAUT代币，合计亏损超170万美元
+  [BlockBeats] 新快讯: 库克回应OpenClaw带动Mac Mini大卖
+推送成功: 【BLOCKBEATS - 链上侦探】库克回应OpenClaw带动Mac Mini大卖
 已保存到 Markdown: ./output/blockbeats/2026-03-21.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -42,7 +30,7 @@ Scraping RootData...
     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-21.png
     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-21.png
 推送成功: 📊 RootData | Top Gainers
-Cycle completed. 2026-03-21 04:28:38.618322
+Cycle completed. 2026-03-21 05:43:06.761274
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -52,16 +40,12 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-    Clicked calendar insight icon
-2026-03-21 04:28:21,311 - INFO -     Clicked generate share image button
-2026-03-21 04:28:23,246 - INFO -     Clicked download button
-2026-03-21 04:28:23,295 - INFO -     Saved Calendar Image: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-03-21.png
-2026-03-21 04:28:23,295 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-03-21.png
-2026-03-21 04:28:23,912 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
-2026-03-21 04:28:23,914 - INFO -   Market Image...
-2026-03-21 04:28:28,275 - INFO -     Clicked market download icon
-2026-03-21 04:28:38,084 - INFO -     Clicked save button
-2026-03-21 04:28:38,099 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-21.png
-2026-03-21 04:28:38,099 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-21.png
-2026-03-21 04:28:38,605 - INFO - 推送成功: 📊 RootData | Top Gainers
-2026-03-21 04:28:38,618 - INFO - Cycle completed. 2026-03-21 04:28:38.618322
+hts/未来7天加密日历洞察_2026-03-21.png
+2026-03-21 05:42:49,994 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
+2026-03-21 05:42:49,997 - INFO -   Market Image...
+2026-03-21 05:42:55,415 - INFO -     Clicked market download icon
+2026-03-21 05:43:05,854 - INFO -     Clicked save button
+2026-03-21 05:43:05,863 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-21.png
+2026-03-21 05:43:05,863 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-21.png
+2026-03-21 05:43:06,742 - INFO - 推送成功: 📊 RootData | Top Gainers
+2026-03-21 05:43:06,761 - INFO - Cycle completed. 2026-03-21 05:43:06.761274

@@ -9,6 +9,10 @@
 Scraping RootData...
   List: Top 100 项目
   List: 透明度评分提升榜
+  Failed to scrape list 透明度评分提升榜: Page.wait_for_selector: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator("table tr, .list-item") to be visible
+
   List: 交易所透明度排名
   Calendar Events...
   Calendar Insight Image...
@@ -24,7 +28,7 @@ Scraping RootData...
     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-21.png
     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-21.png
 推送成功: 📊 RootData | Top Gainers
-Cycle completed. 2026-03-21 19:27:21.500113
+Cycle completed. 2026-03-21 20:30:30.848069
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -34,9 +38,10 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
--21 19:27:10,568 - INFO -     Clicked market download icon
-2026-03-21 19:27:20,528 - INFO -     Clicked save button
-2026-03-21 19:27:20,536 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-21.png
-2026-03-21 19:27:20,536 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-21.png
-2026-03-21 19:27:21,485 - INFO - 推送成功: 📊 RootData | Top Gainers
-2026-03-21 19:27:21,500 - INFO - Cycle completed. 2026-03-21 19:27:21.500113
+- INFO -   Market Image...
+2026-03-21 20:30:19,179 - INFO -     Clicked market download icon
+2026-03-21 20:30:30,146 - INFO -     Clicked save button
+2026-03-21 20:30:30,154 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-21.png
+2026-03-21 20:30:30,154 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-21.png
+2026-03-21 20:30:30,836 - INFO - 推送成功: 📊 RootData | Top Gainers
+2026-03-21 20:30:30,848 - INFO - Cycle completed. 2026-03-21 20:30:30.848069

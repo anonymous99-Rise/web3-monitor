@@ -1,10 +1,13 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 新账户投入超6万美元认为美军将于5月前进入伊朗
-推送成功: 【BLOCKBEATS - 预测市场】新账户投入超6万美元认为美军将于5月前进入伊朗
+  [BlockBeats] 新快讯: 新账户投入2.18万美元认为伊朗本月将失去哈尔克岛控制权
+推送成功: 【BLOCKBEATS - 预测市场】新账户投入2.18万美元认为伊朗本月将失去哈尔克岛控制权
 已保存到 Markdown: ./output/blockbeats/2026-03-21.md
-  [BlockBeats] 新快讯: 库克回应OpenClaw带动Mac Mini大卖
-推送成功: 【BLOCKBEATS - 链上侦探】库克回应OpenClaw带动Mac Mini大卖
+  [BlockBeats] 新快讯: 巨鲸tummy.hl 3倍做多超13.5万枚HYPE，此前曾抛售价值2000万美元的HYPE
+推送成功: 【BLOCKBEATS - 融资】巨鲸tummy.hl 3倍做多超13.5万枚HYPE，此前曾抛售价值2000万美元的HYPE
+已保存到 Markdown: ./output/blockbeats/2026-03-21.md
+  [BlockBeats] 新快讯: 以太坊OG回归买入：thomasg.eth曾持仓超5亿美元，本周已加仓1950万美元ETH
+推送成功: 【BLOCKBEATS - 融资】以太坊OG回归买入：thomasg.eth曾持仓超5亿美元，本周已加仓1950万美元ETH
 已保存到 Markdown: ./output/blockbeats/2026-03-21.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -30,7 +33,7 @@ Scraping RootData...
     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-21.png
     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-21.png
 推送成功: 📊 RootData | Top Gainers
-Cycle completed. 2026-03-21 05:43:06.761274
+Cycle completed. 2026-03-21 06:48:20.319076
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -40,12 +43,13 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-hts/未来7天加密日历洞察_2026-03-21.png
-2026-03-21 05:42:49,994 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
-2026-03-21 05:42:49,997 - INFO -   Market Image...
-2026-03-21 05:42:55,415 - INFO -     Clicked market download icon
-2026-03-21 05:43:05,854 - INFO -     Clicked save button
-2026-03-21 05:43:05,863 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-21.png
-2026-03-21 05:43:05,863 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-21.png
-2026-03-21 05:43:06,742 - INFO - 推送成功: 📊 RootData | Top Gainers
-2026-03-21 05:43:06,761 - INFO - Cycle completed. 2026-03-21 05:43:06.761274
+03-21.png
+2026-03-21 06:48:02,971 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-03-21.png
+2026-03-21 06:48:03,471 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
+2026-03-21 06:48:03,474 - INFO -   Market Image...
+2026-03-21 06:48:09,822 - INFO -     Clicked market download icon
+2026-03-21 06:48:19,698 - INFO -     Clicked save button
+2026-03-21 06:48:19,706 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-21.png
+2026-03-21 06:48:19,706 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-21.png
+2026-03-21 06:48:20,305 - INFO - 推送成功: 📊 RootData | Top Gainers
+2026-03-21 06:48:20,319 - INFO - Cycle completed. 2026-03-21 06:48:20.319076

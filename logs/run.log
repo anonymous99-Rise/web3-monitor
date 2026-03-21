@@ -11,20 +11,19 @@ Scraping RootData...
   List: 透明度评分提升榜
   List: 交易所透明度排名
   Calendar Events...
+  Calendar events fetch failed: Page.wait_for_selector: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator(".list-table, .list-row") to be visible
+
   Calendar Insight Image...
-    Clicked calendar insight icon
-    Clicked generate share image button
-    Clicked download button
-    Saved Calendar Image: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-03-21.png
-    Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-03-21.png
-推送成功: 📅 RootData | 未来7天加密日历洞察
+    Calendar insight icon not found
   Market Image...
     Clicked market download icon
     Clicked save button
     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-21.png
     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-21.png
 推送成功: 📊 RootData | Top Gainers
-Cycle completed. 2026-03-21 09:35:31.662372
+Cycle completed. 2026-03-21 10:30:36.276653
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -34,9 +33,7 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
--21 09:35:20,480 - INFO -     Clicked market download icon
-2026-03-21 09:35:30,885 - INFO -     Clicked save button
-2026-03-21 09:35:30,893 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-21.png
-2026-03-21 09:35:30,893 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-21.png
-2026-03-21 09:35:31,646 - INFO - 推送成功: 📊 RootData | Top Gainers
-2026-03-21 09:35:31,662 - INFO - Cycle completed. 2026-03-21 09:35:31.662372
+ 10:30:35,676 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-21.png
+2026-03-21 10:30:35,677 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-21.png
+2026-03-21 10:30:36,264 - INFO - 推送成功: 📊 RootData | Top Gainers
+2026-03-21 10:30:36,276 - INFO - Cycle completed. 2026-03-21 10:30:36.276653

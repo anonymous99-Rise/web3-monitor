@@ -1,8 +1,5 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 「长期做空BTC」巨鲸撤销50,525美元「抄底」BTC限价买单
-推送成功: 【BLOCKBEATS - 融资】「长期做空BTC」巨鲸撤销50,525美元「抄底」BTC限价买单
-已保存到 Markdown: ./output/blockbeats/2026-03-21.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
   Category: 项目动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1003&is_hot=1
@@ -27,7 +24,7 @@ Scraping RootData...
     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-21.png
     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-21.png
 推送成功: 📊 RootData | Top Gainers
-Cycle completed. 2026-03-21 16:33:31.004778
+Cycle completed. 2026-03-21 17:28:16.305646
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -37,11 +34,9 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
- RootData | 未来7天加密日历洞察
-2026-03-21 16:33:15,532 - INFO -   Market Image...
-2026-03-21 16:33:20,473 - INFO -     Clicked market download icon
-2026-03-21 16:33:30,478 - INFO -     Clicked save button
-2026-03-21 16:33:30,510 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-21.png
-2026-03-21 16:33:30,511 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-21.png
-2026-03-21 16:33:30,989 - INFO - 推送成功: 📊 RootData | Top Gainers
-2026-03-21 16:33:31,004 - INFO - Cycle completed. 2026-03-21 16:33:31.004778
+-21 17:28:05,620 - INFO -     Clicked market download icon
+2026-03-21 17:28:15,457 - INFO -     Clicked save button
+2026-03-21 17:28:15,465 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-21.png
+2026-03-21 17:28:15,465 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-21.png
+2026-03-21 17:28:16,241 - INFO - 推送成功: 📊 RootData | Top Gainers
+2026-03-21 17:28:16,305 - INFO - Cycle completed. 2026-03-21 17:28:16.305646

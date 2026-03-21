@@ -13,11 +13,22 @@ Scraping RootData...
   Calendar Events...
   Calendar Insight Image...
     Clicked calendar insight icon
-    Clicked generate share image button
-    Clicked download button
-    Saved Calendar Image: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-03-21.png
-    Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-03-21.png
-推送成功: 📅 RootData | 未来7天加密日历洞察
+    Insight capture failed: ElementHandle.click: Timeout 30000ms exceeded.
+Call log:
+  - attempting click action
+    2 × waiting for element to be visible, enabled and stable
+      - element is not stable
+    - retrying click action
+    - waiting 20ms
+    2 × waiting for element to be visible, enabled and stable
+      - element is not stable
+    - retrying click action
+      - waiting 100ms
+    56 × waiting for element to be visible, enabled and stable
+       - element is not enabled
+     - retrying click action
+       - waiting 500ms
+
   Market Image...
 Error in monitor loop: Page.goto: Timeout 30000ms exceeded.
 Call log:
@@ -32,10 +43,8 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-密日历洞察_2026-03-21.png
-2026-03-21 22:28:56,719 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
-2026-03-21 22:28:56,721 - INFO -   Market Image...
-2026-03-21 22:29:26,723 - ERROR - Error in monitor loop: Page.goto: Timeout 30000ms exceeded.
+3-21 23:29:49,182 - INFO -   Market Image...
+2026-03-21 23:30:19,183 - ERROR - Error in monitor loop: Page.goto: Timeout 30000ms exceeded.
 Call log:
   - navigating to "https://cn.rootdata.com/Market", waiting until "load"
 

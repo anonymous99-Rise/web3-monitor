@@ -1,7 +1,10 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 中国AI大模型调用量领跑全球：周调用量达4.69万亿Token，连续两周超越美国
-推送成功: 【BLOCKBEATS - 链上侦探】中国AI大模型调用量领跑全球：周调用量达4.69万亿Token，连续两周超越美国
+  [BlockBeats] 新快讯: 美法院驳回Sam Altman妹妹对其提起的性虐待指控
+推送成功: 【BLOCKBEATS - 链上侦探】美法院驳回Sam Altman妹妹对其提起的性虐待指控
+已保存到 Markdown: ./output/blockbeats/2026-03-22.md
+  [BlockBeats] 新快讯: Resolv攻击者目前已买入11422枚ETH，价值2366万美元
+推送成功: 【BLOCKBEATS - 融资】Resolv攻击者目前已买入11422枚ETH，价值2366万美元
 已保存到 Markdown: ./output/blockbeats/2026-03-22.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -27,7 +30,7 @@ Scraping RootData...
     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-22.png
     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-22.png
 推送成功: 📊 RootData | Top Gainers
-Cycle completed. 2026-03-22 07:41:01.174039
+Cycle completed. 2026-03-22 08:38:14.496336
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -37,11 +40,12 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
- RootData | 未来7天加密日历洞察
-2026-03-22 07:40:36,989 - INFO -   Market Image...
-2026-03-22 07:40:41,611 - INFO -     Clicked market download icon
-2026-03-22 07:41:00,552 - INFO -     Clicked save button
-2026-03-22 07:41:00,557 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-22.png
-2026-03-22 07:41:00,558 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-22.png
-2026-03-22 07:41:01,097 - INFO - 推送成功: 📊 RootData | Top Gainers
-2026-03-22 07:41:01,174 - INFO - Cycle completed. 2026-03-22 07:41:01.174039
+hts/未来7天加密日历洞察_2026-03-22.png
+2026-03-22 08:37:59,082 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
+2026-03-22 08:37:59,084 - INFO -   Market Image...
+2026-03-22 08:38:03,655 - INFO -     Clicked market download icon
+2026-03-22 08:38:14,003 - INFO -     Clicked save button
+2026-03-22 08:38:14,012 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-22.png
+2026-03-22 08:38:14,012 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-22.png
+2026-03-22 08:38:14,482 - INFO - 推送成功: 📊 RootData | Top Gainers
+2026-03-22 08:38:14,496 - INFO - Cycle completed. 2026-03-22 08:38:14.496336

@@ -1,8 +1,5 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: Polymarket上线新市场「特朗普本周会说什么」
-推送成功: 【BLOCKBEATS - 预测市场】Polymarket上线新市场「特朗普本周会说什么」
-已保存到 Markdown: ./output/blockbeats/2026-03-22.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
   Category: 项目动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1003&is_hot=1
@@ -22,12 +19,10 @@ Scraping RootData...
     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-03-22.png
 推送成功: 📅 RootData | 未来7天加密日历洞察
   Market Image...
-    Clicked market download icon
-    Clicked save button
-    Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-22.png
-    Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-22.png
-推送成功: 📊 RootData | Top Gainers
-Cycle completed. 2026-03-22 16:34:27.596820
+Error in monitor loop: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://cn.rootdata.com/Market", waiting until "load"
+
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -37,11 +32,10 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
- RootData | 未来7天加密日历洞察
-2026-03-22 16:34:12,514 - INFO -   Market Image...
-2026-03-22 16:34:16,849 - INFO -     Clicked market download icon
-2026-03-22 16:34:26,723 - INFO -     Clicked save button
-2026-03-22 16:34:26,732 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-22.png
-2026-03-22 16:34:26,732 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-22.png
-2026-03-22 16:34:27,584 - INFO - 推送成功: 📊 RootData | Top Gainers
-2026-03-22 16:34:27,596 - INFO - Cycle completed. 2026-03-22 16:34:27.596820
+密日历洞察_2026-03-22.png
+2026-03-22 17:27:52,710 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
+2026-03-22 17:27:52,712 - INFO -   Market Image...
+2026-03-22 17:28:22,712 - ERROR - Error in monitor loop: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://cn.rootdata.com/Market", waiting until "load"
+

@@ -19,10 +19,12 @@ Scraping RootData...
     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-03-22.png
 推送成功: 📅 RootData | 未来7天加密日历洞察
   Market Image...
-Error in monitor loop: Page.goto: Timeout 30000ms exceeded.
-Call log:
-  - navigating to "https://cn.rootdata.com/Market", waiting until "load"
-
+    Clicked market download icon
+    Clicked save button
+    Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-22.png
+    Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-22.png
+推送成功: 📊 RootData | Top Gainers
+Cycle completed. 2026-03-22 18:41:02.313784
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -32,10 +34,9 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-密日历洞察_2026-03-22.png
-2026-03-22 17:27:52,710 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
-2026-03-22 17:27:52,712 - INFO -   Market Image...
-2026-03-22 17:28:22,712 - ERROR - Error in monitor loop: Page.goto: Timeout 30000ms exceeded.
-Call log:
-  - navigating to "https://cn.rootdata.com/Market", waiting until "load"
-
+-22 18:40:51,850 - INFO -     Clicked market download icon
+2026-03-22 18:41:01,674 - INFO -     Clicked save button
+2026-03-22 18:41:01,682 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-22.png
+2026-03-22 18:41:01,682 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-22.png
+2026-03-22 18:41:02,297 - INFO - 推送成功: 📊 RootData | Top Gainers
+2026-03-22 18:41:02,313 - INFO - Cycle completed. 2026-03-22 18:41:02.313784

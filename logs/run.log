@@ -1,40 +1,13 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: PolyBeats再度成功挖掘以色列发动攻击内幕地址，提前四日发布预告
-推送成功: 【BLOCKBEATS - 预测市场】PolyBeats再度成功挖掘以色列发动攻击内幕地址，提前四日发布预告
+  [BlockBeats] 新快讯: OpenClaw大版本更新：上线ClawHub技能市场，一键导入Claude、Codex、Cursor插件
+推送成功: 【BLOCKBEATS - 链上侦探】OpenClaw大版本更新：上线ClawHub技能市场，一键导入Claude、Codex、Cursor插件
 已保存到 Markdown: ./output/blockbeats/2026-03-23.md
-  [BlockBeats] 新快讯: 两个聪明钱账户投入1.75万美元认为约翰·科宁将赢得2026年得州共和党初选
-推送成功: 【BLOCKBEATS - 预测市场】两个聪明钱账户投入1.75万美元认为约翰·科宁将赢得2026年得州共和党初选
+  [BlockBeats] 新快讯: OpenClaw发布新版本更新，引入ClawHub插件市场
+推送成功: 【BLOCKBEATS - 链上侦探】OpenClaw发布新版本更新，引入ClawHub插件市场
 已保存到 Markdown: ./output/blockbeats/2026-03-23.md
-  [BlockBeats] 新快讯: 小鹏发布自动驾驶世界模型X-World，国内驾驶数据可「零样本迁移」至海外
-推送成功: 【BLOCKBEATS - 链上侦探】小鹏发布自动驾驶世界模型X-World，国内驾驶数据可「零样本迁移」至海外
-已保存到 Markdown: ./output/blockbeats/2026-03-23.md
-  [BlockBeats] 新快讯: 让Agent自己设计Agent：Memento-Skills不改模型参数，靠「失败反思」在HLE上提升116%
-推送成功: 【BLOCKBEATS - 链上侦探】让Agent自己设计Agent：Memento-Skills不改模型参数，靠「失败反思」在HLE上提升116%
-已保存到 Markdown: ./output/blockbeats/2026-03-23.md
-  [BlockBeats] 新快讯: 不用停机不用GPU，OpenClaw Agent也能越用越聪明：MetaClaw从失败中自动进化
-推送成功: 【BLOCKBEATS - 链上侦探】不用停机不用GPU，OpenClaw Agent也能越用越聪明：MetaClaw从失败中自动进化
-已保存到 Markdown: ./output/blockbeats/2026-03-23.md
-  [BlockBeats] 新快讯: 网易云音乐官方入局OpenClaw生态：开源三个Agent Skill，用自然语言听歌管理歌单
-推送成功: 【BLOCKBEATS - 链上侦探】网易云音乐官方入局OpenClaw生态：开源三个Agent Skill，用自然语言听歌管理歌单
-已保存到 Markdown: ./output/blockbeats/2026-03-23.md
-  [BlockBeats] 新快讯: OpenAI正与Altman投资的核聚变公司谈购电：目标2030年5吉瓦，Altman已退出该公司董事会
-推送成功: 【BLOCKBEATS - 链上侦探】OpenAI正与Altman投资的核聚变公司谈购电：目标2030年5吉瓦，Altman已退出该公司董事会
-已保存到 Markdown: ./output/blockbeats/2026-03-23.md
-  [BlockBeats] 新快讯: 千问核心成员离职后阿里首次公开表态：继续开源，现场展示千问万相开源路线图
-推送成功: 【BLOCKBEATS - 链上侦探】千问核心成员离职后阿里首次公开表态：继续开源，现场展示千问万相开源路线图
-已保存到 Markdown: ./output/blockbeats/2026-03-23.md
-  [BlockBeats] 新快讯: 市场突然上涨，James Wynn的比特币空单被完全清算
-推送成功: 【BLOCKBEATS - 融资】市场突然上涨，James Wynn的比特币空单被完全清算
-已保存到 Markdown: ./output/blockbeats/2026-03-23.md
-  [BlockBeats] 新快讯: 周末主流Perp DEX一览：各平台交易量降温，Hyperliquid持仓量小幅收缩
-推送成功: 【BLOCKBEATS - 融资】周末主流Perp DEX一览：各平台交易量降温，Hyperliquid持仓量小幅收缩
-已保存到 Markdown: ./output/blockbeats/2026-03-23.md
-  [BlockBeats] 新快讯: 「重仓布局三大市场」巨鲸平仓美布两油对冲头寸210万美元，或转押WTI相对布伦特走弱
-推送成功: 【BLOCKBEATS - 融资】「重仓布局三大市场」巨鲸平仓美布两油对冲头寸210万美元，或转押WTI相对布伦特走弱
-已保存到 Markdown: ./output/blockbeats/2026-03-23.md
-  [BlockBeats] 新快讯: Meme币「4」市值回涨至900万美元上方，24小时涨幅达20%
-推送成功: 【BLOCKBEATS - 融资】Meme币「4」市值回涨至900万美元上方，24小时涨幅达20%
+  [BlockBeats] 新快讯: 「麻吉」再度充值近25万美元，重启多单加仓
+推送成功: 【BLOCKBEATS - 融资】「麻吉」再度充值近25万美元，重启多单加仓
 已保存到 Markdown: ./output/blockbeats/2026-03-23.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -60,7 +33,7 @@ Scraping RootData...
     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-23.png
     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-23.png
 推送成功: 📊 RootData | Top Gainers
-Cycle completed. 2026-03-23 11:45:54.227413
+Cycle completed. 2026-03-23 13:12:40.238526
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -70,24 +43,13 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-https://www.techflowpost.com/zh-CN/newsletter?articleType=1001&is_hot=1
-2026-03-23 11:45:19,672 - INFO -   Category: 融资动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1000&is_hot=1
-2026-03-23 11:45:20,704 - INFO - Scraping RootData...
-2026-03-23 11:45:20,731 - INFO -   List: Top 100 项目
-2026-03-23 11:45:25,185 - INFO -   List: 透明度评分提升榜
-2026-03-23 11:45:27,768 - INFO -   List: 交易所透明度排名
-2026-03-23 11:45:30,688 - INFO -   Calendar Events...
-2026-03-23 11:45:32,741 - INFO -   Calendar Insight Image...
-2026-03-23 11:45:33,161 - INFO -     Clicked calendar insight icon
-2026-03-23 11:45:34,342 - INFO -     Clicked generate share image button
-2026-03-23 11:45:37,816 - INFO -     Clicked download button
-2026-03-23 11:45:37,882 - INFO -     Saved Calendar Image: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-03-23.png
-2026-03-23 11:45:37,882 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-03-23.png
-2026-03-23 11:45:38,718 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
-2026-03-23 11:45:38,721 - INFO -   Market Image...
-2026-03-23 11:45:43,241 - INFO -     Clicked market download icon
-2026-03-23 11:45:53,606 - INFO -     Clicked save button
-2026-03-23 11:45:53,612 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-23.png
-2026-03-23 11:45:53,613 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-23.png
-2026-03-23 11:45:54,213 - INFO - 推送成功: 📊 RootData | Top Gainers
-2026-03-23 11:45:54,227 - INFO - Cycle completed. 2026-03-23 11:45:54.227413
+03-23.png
+2026-03-23 13:12:24,525 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-03-23.png
+2026-03-23 13:12:25,112 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
+2026-03-23 13:12:25,115 - INFO -   Market Image...
+2026-03-23 13:12:29,019 - INFO -     Clicked market download icon
+2026-03-23 13:12:39,355 - INFO -     Clicked save button
+2026-03-23 13:12:39,363 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-23.png
+2026-03-23 13:12:39,363 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-23.png
+2026-03-23 13:12:40,222 - INFO - 推送成功: 📊 RootData | Top Gainers
+2026-03-23 13:12:40,238 - INFO - Cycle completed. 2026-03-23 13:12:40.238526

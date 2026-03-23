@@ -1,13 +1,13 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: OpenClaw大版本更新：上线ClawHub技能市场，一键导入Claude、Codex、Cursor插件
-推送成功: 【BLOCKBEATS - 链上侦探】OpenClaw大版本更新：上线ClawHub技能市场，一键导入Claude、Codex、Cursor插件
+  [BlockBeats] 新快讯: MoonPay发布面向AI Agent的开源跨链钱包标准
+推送成功: 【BLOCKBEATS - 链上侦探】MoonPay发布面向AI Agent的开源跨链钱包标准
 已保存到 Markdown: ./output/blockbeats/2026-03-23.md
-  [BlockBeats] 新快讯: OpenClaw发布新版本更新，引入ClawHub插件市场
-推送成功: 【BLOCKBEATS - 链上侦探】OpenClaw发布新版本更新，引入ClawHub插件市场
+  [BlockBeats] 新快讯: OpenAI已聘请Meta前高级广告主管担任全球广告解决方案副总裁
+推送成功: 【BLOCKBEATS - 链上侦探】OpenAI已聘请Meta前高级广告主管担任全球广告解决方案副总裁
 已保存到 Markdown: ./output/blockbeats/2026-03-23.md
-  [BlockBeats] 新快讯: 「麻吉」再度充值近25万美元，重启多单加仓
-推送成功: 【BLOCKBEATS - 融资】「麻吉」再度充值近25万美元，重启多单加仓
+  [BlockBeats] 新快讯: Nike数字产品子公司RTFKT前CTO批评OpenClaw创始人刚愎自用
+推送成功: 【BLOCKBEATS - 链上侦探】Nike数字产品子公司RTFKT前CTO批评OpenClaw创始人刚愎自用
 已保存到 Markdown: ./output/blockbeats/2026-03-23.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -33,7 +33,7 @@ Scraping RootData...
     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-23.png
     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-23.png
 推送成功: 📊 RootData | Top Gainers
-Cycle completed. 2026-03-23 13:12:40.238526
+Cycle completed. 2026-03-23 14:58:01.790772
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -44,12 +44,12 @@ Scraping BlockBeats...
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
 03-23.png
-2026-03-23 13:12:24,525 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-03-23.png
-2026-03-23 13:12:25,112 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
-2026-03-23 13:12:25,115 - INFO -   Market Image...
-2026-03-23 13:12:29,019 - INFO -     Clicked market download icon
-2026-03-23 13:12:39,355 - INFO -     Clicked save button
-2026-03-23 13:12:39,363 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-23.png
-2026-03-23 13:12:39,363 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-23.png
-2026-03-23 13:12:40,222 - INFO - 推送成功: 📊 RootData | Top Gainers
-2026-03-23 13:12:40,238 - INFO - Cycle completed. 2026-03-23 13:12:40.238526
+2026-03-23 14:57:45,847 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-03-23.png
+2026-03-23 14:57:46,346 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
+2026-03-23 14:57:46,348 - INFO -   Market Image...
+2026-03-23 14:57:50,652 - INFO -     Clicked market download icon
+2026-03-23 14:58:00,987 - INFO -     Clicked save button
+2026-03-23 14:58:00,994 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-23.png
+2026-03-23 14:58:00,994 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-23.png
+2026-03-23 14:58:01,777 - INFO - 推送成功: 📊 RootData | Top Gainers
+2026-03-23 14:58:01,790 - INFO - Cycle completed. 2026-03-23 14:58:01.790772

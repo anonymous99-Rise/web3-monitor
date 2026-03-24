@@ -24,7 +24,7 @@ Scraping RootData...
     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-24.png
     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-24.png
 推送成功: 📊 RootData | Top Gainers
-Cycle completed. 2026-03-24 22:35:57.780966
+Cycle completed. 2026-03-24 23:35:36.798632
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -34,9 +34,9 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
--24 22:35:47,246 - INFO -     Clicked market download icon
-2026-03-24 22:35:57,258 - INFO -     Clicked save button
-2026-03-24 22:35:57,281 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-24.png
-2026-03-24 22:35:57,282 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-24.png
-2026-03-24 22:35:57,759 - INFO - 推送成功: 📊 RootData | Top Gainers
-2026-03-24 22:35:57,781 - INFO - Cycle completed. 2026-03-24 22:35:57.780966
+-24 23:35:26,193 - INFO -     Clicked market download icon
+2026-03-24 23:35:36,046 - INFO -     Clicked save button
+2026-03-24 23:35:36,054 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-24.png
+2026-03-24 23:35:36,054 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-24.png
+2026-03-24 23:35:36,749 - INFO - 推送成功: 📊 RootData | Top Gainers
+2026-03-24 23:35:36,798 - INFO - Cycle completed. 2026-03-24 23:35:36.798632

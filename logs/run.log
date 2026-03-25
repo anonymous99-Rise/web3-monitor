@@ -1,28 +1,22 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: WordPress 7.0将于4月9日发布，全球43%网站将原生支持AI Agent接入
-推送成功: 【BLOCKBEATS - 链上侦探】WordPress 7.0将于4月9日发布，全球43%网站将原生支持AI Agent接入
+  [BlockBeats] 新快讯: 某新地址投入1.52万美元预测美军会在四月前入境伊朗
+推送成功: 【BLOCKBEATS - 预测市场】某新地址投入1.52万美元预测美军会在四月前入境伊朗
 已保存到 Markdown: ./output/blockbeats/2026-03-25.md
-  [BlockBeats] 新快讯: 一个Transformer同时生成视频和语音：Sand.ai开源150亿参数人像基座模型，单H100两秒出片
-推送成功: 【BLOCKBEATS - 链上侦探】一个Transformer同时生成视频和语音：Sand.ai开源150亿参数人像基座模型，单H100两秒出片
+  [BlockBeats] 新快讯: 「TTS基准已死」：Smallest AI发布对话语音模型Lightning V3，对OpenAI胜率76%
+推送成功: 【BLOCKBEATS - 链上侦探】「TTS基准已死」：Smallest AI发布对话语音模型Lightning V3，对OpenAI胜率76%
 已保存到 Markdown: ./output/blockbeats/2026-03-25.md
-  [BlockBeats] 新快讯: 杨植麟中关村论坛演讲：大模型训练正进入第三阶段，100个Agent并行后执行时间几乎不随复杂度上升
-推送成功: 【BLOCKBEATS - 链上侦探】杨植麟中关村论坛演讲：大模型训练正进入第三阶段，100个Agent并行后执行时间几乎不随复杂度上升
+  [BlockBeats] 新快讯: Linear宣布「Issue tracking已死」，全面转向AI Agent驱动的产品系统
+推送成功: 【BLOCKBEATS - 链上侦探】Linear宣布「Issue tracking已死」，全面转向AI Agent驱动的产品系统
 已保存到 Markdown: ./output/blockbeats/2026-03-25.md
-  [BlockBeats] 新快讯: 中国国家超算互联网单用户免费词元（Tokens）额度升至3000万
-推送成功: 【BLOCKBEATS - 链上侦探】中国国家超算互联网单用户免费词元（Tokens）额度升至3000万
+  [BlockBeats] 新快讯: 某巨鲸日内以236万美元规模开多TAO，计划于351美元上方分批止盈
+推送成功: 【BLOCKBEATS - 融资】某巨鲸日内以236万美元规模开多TAO，计划于351美元上方分批止盈
 已保存到 Markdown: ./output/blockbeats/2026-03-25.md
-  [BlockBeats] 新快讯: 传蚂蚁集团正开发AI眼镜独立App，「看一下支付」将从插件变为入口
-推送成功: 【BLOCKBEATS - 链上侦探】传蚂蚁集团正开发AI眼镜独立App，「看一下支付」将从插件变为入口
+  [BlockBeats] 新快讯: 知名KOL jez关联地址开多ETH与TAO
+推送成功: 【BLOCKBEATS - 融资】知名KOL jez关联地址开多ETH与TAO
 已保存到 Markdown: ./output/blockbeats/2026-03-25.md
-  [BlockBeats] 新快讯: 分析：Anthropic年化营收190亿美元同比涨14倍，但和OpenAI的250亿不是一本账
-推送成功: 【BLOCKBEATS - 链上侦探】分析：Anthropic年化营收190亿美元同比涨14倍，但和OpenAI的250亿不是一本账
-已保存到 Markdown: ./output/blockbeats/2026-03-25.md
-  [BlockBeats] 新快讯: Meta设9万亿美元市值目标留人：IPO以来首发期权，较马斯克方案增幅相当但时间减半
-推送成功: 【BLOCKBEATS - 链上侦探】Meta设9万亿美元市值目标留人：IPO以来首发期权，较马斯克方案增幅相当但时间减半
-已保存到 Markdown: ./output/blockbeats/2026-03-25.md
-  [BlockBeats] 新快讯: 某巨鲸以25倍杠杆追涨开立ETH多单，持仓规模达870万美元
-推送成功: 【BLOCKBEATS - 融资】某巨鲸以25倍杠杆追涨开立ETH多单，持仓规模达870万美元
+  [BlockBeats] 新快讯: 某巨鲸建仓BTC多单后再度激进加仓，短时持仓规模增至1250万美元
+推送成功: 【BLOCKBEATS - 融资】某巨鲸建仓BTC多单后再度激进加仓，短时持仓规模增至1250万美元
 已保存到 Markdown: ./output/blockbeats/2026-03-25.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -48,7 +42,7 @@ Scraping RootData...
     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-25.png
     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-25.png
 推送成功: 📊 RootData | Top Gainers
-Cycle completed. 2026-03-25 08:55:57.060350
+Cycle completed. 2026-03-25 09:57:13.626133
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -58,19 +52,16 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-:28,811 - INFO -   List: 交易所透明度排名
-2026-03-25 08:55:31,519 - INFO -   Calendar Events...
-2026-03-25 08:55:33,519 - INFO -   Calendar Insight Image...
-2026-03-25 08:55:33,733 - INFO -     Clicked calendar insight icon
-2026-03-25 08:55:35,061 - INFO -     Clicked generate share image button
-2026-03-25 08:55:40,298 - INFO -     Clicked download button
-2026-03-25 08:55:40,362 - INFO -     Saved Calendar Image: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-03-25.png
-2026-03-25 08:55:40,362 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-03-25.png
-2026-03-25 08:55:40,798 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
-2026-03-25 08:55:40,801 - INFO -   Market Image...
-2026-03-25 08:55:45,984 - INFO -     Clicked market download icon
-2026-03-25 08:55:56,456 - INFO -     Clicked save button
-2026-03-25 08:55:56,462 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-25.png
-2026-03-25 08:55:56,462 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-25.png
-2026-03-25 08:55:57,047 - INFO - 推送成功: 📊 RootData | Top Gainers
-2026-03-25 08:55:57,060 - INFO - Cycle completed. 2026-03-25 08:55:57.060350
+    Clicked calendar insight icon
+2026-03-25 09:56:53,058 - INFO -     Clicked generate share image button
+2026-03-25 09:56:57,816 - INFO -     Clicked download button
+2026-03-25 09:56:57,886 - INFO -     Saved Calendar Image: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-03-25.png
+2026-03-25 09:56:57,886 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-03-25.png
+2026-03-25 09:56:58,313 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
+2026-03-25 09:56:58,316 - INFO -   Market Image...
+2026-03-25 09:57:02,672 - INFO -     Clicked market download icon
+2026-03-25 09:57:13,012 - INFO -     Clicked save button
+2026-03-25 09:57:13,020 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-25.png
+2026-03-25 09:57:13,020 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-25.png
+2026-03-25 09:57:13,611 - INFO - 推送成功: 📊 RootData | Top Gainers
+2026-03-25 09:57:13,626 - INFO - Cycle completed. 2026-03-25 09:57:13.626133

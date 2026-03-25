@@ -1,19 +1,34 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 中远海运恢复远东至中东航线，美伊月底前停火概率小幅涨至20%
-推送成功: 【BLOCKBEATS - 预测市场】中远海运恢复远东至中东航线，美伊月底前停火概率小幅涨至20%
+  [BlockBeats] 新快讯: 某新地址投入4.8万美元认为特朗普不会在五月前访华
+推送成功: 【BLOCKBEATS - 预测市场】某新地址投入4.8万美元认为特朗普不会在五月前访华
 已保存到 Markdown: ./output/blockbeats/2026-03-25.md
-  [BlockBeats] 新快讯: AI自评全是好评怎么办？Anthropic用GAN思路让Claude连续编程4小时，124美元造出音乐工作站
-推送成功: 【BLOCKBEATS - 链上侦探】AI自评全是好评怎么办？Anthropic用GAN思路让Claude连续编程4小时，124美元造出音乐工作站
+  [BlockBeats] 新快讯: 某华语聪明钱账户投入1.73万美元认为特朗普不会在五月前访华
+推送成功: 【BLOCKBEATS - 预测市场】某华语聪明钱账户投入1.73万美元认为特朗普不会在五月前访华
 已保存到 Markdown: ./output/blockbeats/2026-03-25.md
-  [BlockBeats] 新快讯: Hugging Face开源hf-mount：把云端模型和数据集直接挂载为本地文件夹，按需读取不用下载
-推送成功: 【BLOCKBEATS - 链上侦探】Hugging Face开源hf-mount：把云端模型和数据集直接挂载为本地文件夹，按需读取不用下载
+  [BlockBeats] 新快讯: 两新地址投入7300美元预测美国会在四月前入侵伊朗
+推送成功: 【BLOCKBEATS - 预测市场】两新地址投入7300美元预测美国会在四月前入侵伊朗
 已保存到 Markdown: ./output/blockbeats/2026-03-25.md
-  [BlockBeats] 新快讯: 主流Perp DEX一览：各平台未平仓合约量上行，Hyperliquid持仓量回至70亿美元
-推送成功: 【BLOCKBEATS - 融资】主流Perp DEX一览：各平台未平仓合约量上行，Hyperliquid持仓量回至70亿美元
+  [BlockBeats] 新快讯: 蚂蚁工程师逆向Claude Code源码：Auto Mode四层决策流水线与安全分类器机制曝光
+推送成功: 【BLOCKBEATS - 链上侦探】蚂蚁工程师逆向Claude Code源码：Auto Mode四层决策流水线与安全分类器机制曝光
 已保存到 Markdown: ./output/blockbeats/2026-03-25.md
-  [BlockBeats] 新快讯: BTC若续涨至7.21万美元，链上第二大空头4640万规模持仓将面临部分清算
-推送成功: 【BLOCKBEATS - 融资】BTC若续涨至7.21万美元，链上第二大空头4640万规模持仓将面临部分清算
+  [BlockBeats] 新快讯: 豆包手机助手幕后操盘手：36氪创始人刘成城，其团队在字节内部与抖音平级
+推送成功: 【BLOCKBEATS - 链上侦探】豆包手机助手幕后操盘手：36氪创始人刘成城，其团队在字节内部与抖音平级
+已保存到 Markdown: ./output/blockbeats/2026-03-25.md
+  [BlockBeats] 新快讯: Harness Engineering正在成为AI编程的真正战场
+推送成功: 【BLOCKBEATS - 链上侦探】Harness Engineering正在成为AI编程的真正战场
+已保存到 Markdown: ./output/blockbeats/2026-03-25.md
+  [BlockBeats] 新快讯: 可灵AI年化收入2.4亿美元，快手四成新代码由AI生成
+推送成功: 【BLOCKBEATS - 链上侦探】可灵AI年化收入2.4亿美元，快手四成新代码由AI生成
+已保存到 Markdown: ./output/blockbeats/2026-03-25.md
+  [BlockBeats] 新快讯: DeepSeek新招17岗全押Agent：要求重度使用Claude Code，全栈岗写明Vibe Coding优先
+推送成功: 【BLOCKBEATS - 链上侦探】DeepSeek新招17岗全押Agent：要求重度使用Claude Code，全栈岗写明Vibe Coding优先
+已保存到 Markdown: ./output/blockbeats/2026-03-25.md
+  [BlockBeats] 新快讯: 贝莱德向Coinbase转入11,780枚ETH和634.83枚BTC
+推送成功: 【BLOCKBEATS - 融资】贝莱德向Coinbase转入11,780枚ETH和634.83枚BTC
+已保存到 Markdown: ./output/blockbeats/2026-03-25.md
+  [BlockBeats] 新快讯: Ripple参与新加坡央行项目，测试RLUSD跨境贸易结算
+推送成功: 【BLOCKBEATS - 融资】Ripple参与新加坡央行项目，测试RLUSD跨境贸易结算
 已保存到 Markdown: ./output/blockbeats/2026-03-25.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -39,7 +54,7 @@ Scraping RootData...
     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-25.png
     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-25.png
 推送成功: 📊 RootData | Top Gainers
-Cycle completed. 2026-03-25 10:53:46.042653
+Cycle completed. 2026-03-25 11:44:05.944530
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -49,15 +64,23 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
- button
-2026-03-25 10:53:30,804 - INFO -     Clicked download button
-2026-03-25 10:53:30,868 - INFO -     Saved Calendar Image: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-03-25.png
-2026-03-25 10:53:30,868 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-03-25.png
-2026-03-25 10:53:31,761 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
-2026-03-25 10:53:31,763 - INFO -   Market Image...
-2026-03-25 10:53:36,014 - INFO -     Clicked market download icon
-2026-03-25 10:53:45,310 - INFO -     Clicked save button
-2026-03-25 10:53:45,321 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-25.png
-2026-03-25 10:53:45,322 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-25.png
-2026-03-25 10:53:46,028 - INFO - 推送成功: 📊 RootData | Top Gainers
-2026-03-25 10:53:46,042 - INFO - Cycle completed. 2026-03-25 10:53:46.042653
+hot=1
+2026-03-25 11:43:32,773 - INFO - Scraping RootData...
+2026-03-25 11:43:32,803 - INFO -   List: Top 100 项目
+2026-03-25 11:43:37,048 - INFO -   List: 透明度评分提升榜
+2026-03-25 11:43:39,690 - INFO -   List: 交易所透明度排名
+2026-03-25 11:43:42,593 - INFO -   Calendar Events...
+2026-03-25 11:43:44,459 - INFO -   Calendar Insight Image...
+2026-03-25 11:43:44,872 - INFO -     Clicked calendar insight icon
+2026-03-25 11:43:45,973 - INFO -     Clicked generate share image button
+2026-03-25 11:43:49,676 - INFO -     Clicked download button
+2026-03-25 11:43:49,714 - INFO -     Saved Calendar Image: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-03-25.png
+2026-03-25 11:43:49,714 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-03-25.png
+2026-03-25 11:43:50,202 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
+2026-03-25 11:43:50,205 - INFO -   Market Image...
+2026-03-25 11:43:54,624 - INFO -     Clicked market download icon
+2026-03-25 11:44:04,983 - INFO -     Clicked save button
+2026-03-25 11:44:04,992 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-25.png
+2026-03-25 11:44:04,992 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-25.png
+2026-03-25 11:44:05,928 - INFO - 推送成功: 📊 RootData | Top Gainers
+2026-03-25 11:44:05,944 - INFO - Cycle completed. 2026-03-25 11:44:05.944530

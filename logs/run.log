@@ -1,28 +1,13 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 改一行文档就能投毒AI编程助手：吴恩达Context Hub被曝全链路零审核
-推送成功: 【BLOCKBEATS - 链上侦探】改一行文档就能投毒AI编程助手：吴恩达Context Hub被曝全链路零审核
+  [BlockBeats] 新快讯: 小米MiMo限免加码：Agent框架免费调用延长至4月2日
+推送成功: 【BLOCKBEATS - 链上侦探】小米MiMo限免加码：Agent框架免费调用延长至4月2日
 已保存到 Markdown: ./output/blockbeats/2026-03-26.md
-  [BlockBeats] 新快讯: 人类全通关、AI最高0.37%：ARC-AGI-3用「未知游戏」测Agent真智能
-推送成功: 【BLOCKBEATS - 链上侦探】人类全通关、AI最高0.37%：ARC-AGI-3用「未知游戏」测Agent真智能
+  [BlockBeats] 新快讯: 甲骨文一次发布20多个企业AI Agent，Gartner泼冷水：没有厂商解决了出错谁担责
+推送成功: 【BLOCKBEATS - 链上侦探】甲骨文一次发布20多个企业AI Agent，Gartner泼冷水：没有厂商解决了出错谁担责
 已保存到 Markdown: ./output/blockbeats/2026-03-26.md
-  [BlockBeats] 新快讯: 前千问负责人林俊旸离职后首发长文：AI行业正从「训练模型」转向「训练Agent」
-推送成功: 【BLOCKBEATS - 链上侦探】前千问负责人林俊旸离职后首发长文：AI行业正从「训练模型」转向「训练Agent」
-已保存到 Markdown: ./output/blockbeats/2026-03-26.md
-  [BlockBeats] 新快讯: Spotify首创歌曲上架前审批机制：艺人不点头，AI假冒曲就进不了你的主页
-推送成功: 【BLOCKBEATS - 链上侦探】Spotify首创歌曲上架前审批机制：艺人不点头，AI假冒曲就进不了你的主页
-已保存到 Markdown: ./output/blockbeats/2026-03-26.md
-  [BlockBeats] 新快讯: Cursor云端Agent开放自托管：代码不出企业网络，一条命令接入内部基础设施
-推送成功: 【BLOCKBEATS - 链上侦探】Cursor云端Agent开放自托管：代码不出企业网络，一条命令接入内部基础设施
-已保存到 Markdown: ./output/blockbeats/2026-03-26.md
-  [BlockBeats] 新快讯: 贝莱德向Coinbase存入1133.65枚BTC和15,405枚ETH
-推送成功: 【BLOCKBEATS - 融资】贝莱德向Coinbase存入1133.65枚BTC和15,405枚ETH
-已保存到 Markdown: ./output/blockbeats/2026-03-26.md
-  [BlockBeats] 新快讯: 主流Perp DEX一览：整体交易量有所回落，EdgeX交易量暂居第二
-推送成功: 【BLOCKBEATS - 融资】主流Perp DEX一览：整体交易量有所回落，EdgeX交易量暂居第二
-已保存到 Markdown: ./output/blockbeats/2026-03-26.md
-  [BlockBeats] 新快讯: 某巨鲸止盈黄金白银空单，合计规模达261万美元
-推送成功: 【BLOCKBEATS - 融资】某巨鲸止盈黄金白银空单，合计规模达261万美元
+  [BlockBeats] 新快讯: 色情聊天也不做了：OpenAI无限期搁置成人模式
+推送成功: 【BLOCKBEATS - 链上侦探】色情聊天也不做了：OpenAI无限期搁置成人模式
 已保存到 Markdown: ./output/blockbeats/2026-03-26.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -48,7 +33,7 @@ Scraping RootData...
     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-26.png
     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-26.png
 推送成功: 📊 RootData | Top Gainers
-Cycle completed. 2026-03-26 11:52:38.402125
+Cycle completed. 2026-03-26 13:21:02.539070
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -58,19 +43,13 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-:11,471 - INFO -   List: 交易所透明度排名
-2026-03-26 11:52:14,245 - INFO -   Calendar Events...
-2026-03-26 11:52:16,320 - INFO -   Calendar Insight Image...
-2026-03-26 11:52:16,600 - INFO -     Clicked calendar insight icon
-2026-03-26 11:52:18,271 - INFO -     Clicked generate share image button
-2026-03-26 11:52:23,086 - INFO -     Clicked download button
-2026-03-26 11:52:23,151 - INFO -     Saved Calendar Image: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-03-26.png
-2026-03-26 11:52:23,152 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-03-26.png
-2026-03-26 11:52:23,883 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
-2026-03-26 11:52:23,885 - INFO -   Market Image...
-2026-03-26 11:52:27,967 - INFO -     Clicked market download icon
-2026-03-26 11:52:37,795 - INFO -     Clicked save button
-2026-03-26 11:52:37,802 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-26.png
-2026-03-26 11:52:37,802 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-26.png
-2026-03-26 11:52:38,387 - INFO - 推送成功: 📊 RootData | Top Gainers
-2026-03-26 11:52:38,402 - INFO - Cycle completed. 2026-03-26 11:52:38.402125
+03-26.png
+2026-03-26 13:20:44,833 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-03-26.png
+2026-03-26 13:20:46,889 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
+2026-03-26 13:20:46,892 - INFO -   Market Image...
+2026-03-26 13:20:51,757 - INFO -     Clicked market download icon
+2026-03-26 13:21:01,663 - INFO -     Clicked save button
+2026-03-26 13:21:01,672 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-26.png
+2026-03-26 13:21:01,672 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-26.png
+2026-03-26 13:21:02,523 - INFO - 推送成功: 📊 RootData | Top Gainers
+2026-03-26 13:21:02,539 - INFO - Cycle completed. 2026-03-26 13:21:02.539070

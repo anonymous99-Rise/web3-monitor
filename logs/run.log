@@ -1,28 +1,22 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 英伟达让AI Agent连续写7天CUDA，写出了比cuDNN更快的注意力内核
-推送成功: 【BLOCKBEATS - 链上侦探】英伟达让AI Agent连续写7天CUDA，写出了比cuDNN更快的注意力内核
+  [BlockBeats] 新快讯: 「西方的DeepSeek」：英伟达系开源AI公司Reflection寻求250亿美元估值
+推送成功: 【BLOCKBEATS - 链上侦探】「西方的DeepSeek」：英伟达系开源AI公司Reflection寻求250亿美元估值
 已保存到 Markdown: ./output/blockbeats/2026-03-26.md
-  [BlockBeats] 新快讯: MuleRun创始人：想成为「全球最大的劳动力外包公司」
-推送成功: 【BLOCKBEATS - 链上侦探】MuleRun创始人：想成为「全球最大的劳动力外包公司」
+  [BlockBeats] 新快讯: xAI创始团队11走10，马斯克承认「第一次没建对」正从头重建
+推送成功: 【BLOCKBEATS - 链上侦探】xAI创始团队11走10，马斯克承认「第一次没建对」正从头重建
 已保存到 Markdown: ./output/blockbeats/2026-03-26.md
-  [BlockBeats] 新快讯: 大多数CLI一碰Agent就卡死：Cursor成员总结10条Agent友好设计原则
-推送成功: 【BLOCKBEATS - 链上侦探】大多数CLI一碰Agent就卡死：Cursor成员总结10条Agent友好设计原则
+  [BlockBeats] 新快讯: 长鑫存储去年营收翻倍至550亿元人民币，募资295亿冲刺科创板第二大IPO
+推送成功: 【BLOCKBEATS - 链上侦探】长鑫存储去年营收翻倍至550亿元人民币，募资295亿冲刺科创板第二大IPO
 已保存到 Markdown: ./output/blockbeats/2026-03-26.md
-  [BlockBeats] 新快讯: OpenClaw群聊成员可零认证窃取API密钥，官方一天修复却拒绝定性为漏洞
-推送成功: 【BLOCKBEATS - 链上侦探】OpenClaw群聊成员可零认证窃取API密钥，官方一天修复却拒绝定性为漏洞
+  [BlockBeats] 新快讯: 某巨鲸因BTC下挫殃及标普500仓位，单人包揽近1小时全网标普500逾千万爆仓
+推送成功: 【BLOCKBEATS - 融资】某巨鲸因BTC下挫殃及标普500仓位，单人包揽近1小时全网标普500逾千万爆仓
 已保存到 Markdown: ./output/blockbeats/2026-03-26.md
-  [BlockBeats] 新快讯: 消息人士：月之暗面正考虑在港上市，已与高盛等公司展开磋商
-推送成功: 【BLOCKBEATS - 链上侦探】消息人士：月之暗面正考虑在港上市，已与高盛等公司展开磋商
+  [BlockBeats] 新快讯: 链上某BTC主力多头连遭清算，单日合计爆仓逾1400万美元
+推送成功: 【BLOCKBEATS - 融资】链上某BTC主力多头连遭清算，单日合计爆仓逾1400万美元
 已保存到 Markdown: ./output/blockbeats/2026-03-26.md
-  [BlockBeats] 新快讯: 阿里腾讯Coding Plan持续售罄，200元套餐也抢不到
-推送成功: 【BLOCKBEATS - 链上侦探】阿里腾讯Coding Plan持续售罄，200元套餐也抢不到
-已保存到 Markdown: ./output/blockbeats/2026-03-26.md
-  [BlockBeats] 新快讯: 美股存储板块盘前续跌，SNDK最大多头单日回撤50万美元
-推送成功: 【BLOCKBEATS - 融资】美股存储板块盘前续跌，SNDK最大多头单日回撤50万美元
-已保存到 Markdown: ./output/blockbeats/2026-03-26.md
-  [BlockBeats] 新快讯: 巨鲸平仓价值约933万美元SOL空单后，再度开空并持续加仓
-推送成功: 【BLOCKBEATS - 融资】巨鲸平仓价值约933万美元SOL空单后，再度开空并持续加仓
+  [BlockBeats] 新快讯: 「Abraxas Capital」或看好美伊谈判预期，油价回涨之际大举加仓1600万美元空单
+推送成功: 【BLOCKBEATS - 融资】「Abraxas Capital」或看好美伊谈判预期，油价回涨之际大举加仓1600万美元空单
 已保存到 Markdown: ./output/blockbeats/2026-03-26.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -45,11 +39,10 @@ Scraping RootData...
   Market Image...
     Clicked market download icon
     Clicked save button
-    Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
-=========================== logs ===========================
-waiting for event "download"
-============================================================
-Cycle completed. 2026-03-26 09:00:41.848093
+    Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-26.png
+    Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-26.png
+推送成功: 📊 RootData | Top Gainers
+Cycle completed. 2026-03-26 10:09:45.028804
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -59,20 +52,16 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
- -   List: 交易所透明度排名
-2026-03-26 08:59:52,292 - INFO -   Calendar Events...
-2026-03-26 08:59:54,807 - INFO -   Calendar Insight Image...
-2026-03-26 08:59:55,069 - INFO -     Clicked calendar insight icon
-2026-03-26 08:59:56,240 - INFO -     Clicked generate share image button
-2026-03-26 09:00:00,890 - INFO -     Clicked download button
-2026-03-26 09:00:00,951 - INFO -     Saved Calendar Image: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-03-26.png
-2026-03-26 09:00:00,951 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-03-26.png
-2026-03-26 09:00:01,590 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
-2026-03-26 09:00:01,592 - INFO -   Market Image...
-2026-03-26 09:00:06,804 - INFO -     Clicked market download icon
-2026-03-26 09:00:11,919 - INFO -     Clicked save button
-2026-03-26 09:00:41,837 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
-=========================== logs ===========================
-waiting for event "download"
-============================================================
-2026-03-26 09:00:41,848 - INFO - Cycle completed. 2026-03-26 09:00:41.848093
+    Clicked calendar insight icon
+2026-03-26 10:09:16,447 - INFO -     Clicked generate share image button
+2026-03-26 10:09:20,790 - INFO -     Clicked download button
+2026-03-26 10:09:20,850 - INFO -     Saved Calendar Image: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-03-26.png
+2026-03-26 10:09:20,850 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-03-26.png
+2026-03-26 10:09:21,365 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
+2026-03-26 10:09:21,368 - INFO -   Market Image...
+2026-03-26 10:09:25,942 - INFO -     Clicked market download icon
+2026-03-26 10:09:44,462 - INFO -     Clicked save button
+2026-03-26 10:09:44,473 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-26.png
+2026-03-26 10:09:44,473 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-26.png
+2026-03-26 10:09:45,005 - INFO - 推送成功: 📊 RootData | Top Gainers
+2026-03-26 10:09:45,028 - INFO - Cycle completed. 2026-03-26 10:09:45.028804

@@ -1,17 +1,5 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: USDC Treasury在Solana链上新增铸造2.5亿枚USDC
-推送成功: 【BLOCKBEATS - 融资】USDC Treasury在Solana链上新增铸造2.5亿枚USDC
-已保存到 Markdown: ./output/blockbeats/2026-03-27.md
-  [BlockBeats] 新快讯: 某交易员一小时前开空2700万美元BTC，近期总盈利达865万美元
-推送成功: 【BLOCKBEATS - 融资】某交易员一小时前开空2700万美元BTC，近期总盈利达865万美元
-已保存到 Markdown: ./output/blockbeats/2026-03-27.md
-  [BlockBeats] 新快讯: 某巨鲸逆势买入9,976枚ETH，价值1980万美元
-推送成功: 【BLOCKBEATS - 融资】某巨鲸逆势买入9,976枚ETH，价值1980万美元
-已保存到 Markdown: ./output/blockbeats/2026-03-27.md
-  [BlockBeats] 新快讯: 灰度向Coinbase Prime转入约9787枚ETH与446枚BTC
-推送成功: 【BLOCKBEATS - 融资】灰度向Coinbase Prime转入约9787枚ETH与446枚BTC
-已保存到 Markdown: ./output/blockbeats/2026-03-27.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
   Category: 项目动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1003&is_hot=1
@@ -36,7 +24,7 @@ Scraping RootData...
     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-27.png
     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-27.png
 推送成功: 📊 RootData | Top Gainers
-Cycle completed. 2026-03-27 14:53:09.551256
+Cycle completed. 2026-03-27 15:55:56.163971
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -46,13 +34,9 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
- -     Saved Calendar Image: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-03-27.png
-2026-03-27 14:52:52,372 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-03-27.png
-2026-03-27 14:52:53,102 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
-2026-03-27 14:52:53,105 - INFO -   Market Image...
-2026-03-27 14:52:57,278 - INFO -     Clicked market download icon
-2026-03-27 14:53:08,754 - INFO -     Clicked save button
-2026-03-27 14:53:08,763 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-27.png
-2026-03-27 14:53:08,763 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-27.png
-2026-03-27 14:53:09,536 - INFO - 推送成功: 📊 RootData | Top Gainers
-2026-03-27 14:53:09,551 - INFO - Cycle completed. 2026-03-27 14:53:09.551256
+-27 15:55:47,767 - INFO -     Clicked market download icon
+2026-03-27 15:55:55,434 - INFO -     Clicked save button
+2026-03-27 15:55:55,441 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-27.png
+2026-03-27 15:55:55,442 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-27.png
+2026-03-27 15:55:56,146 - INFO - 推送成功: 📊 RootData | Top Gainers
+2026-03-27 15:55:56,164 - INFO - Cycle completed. 2026-03-27 15:55:56.163971

@@ -1,14 +1,5 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 谷歌TurboQuant论文遭先行算法作者逐条驳斥
-推送成功: 【BLOCKBEATS - 链上侦探】谷歌TurboQuant论文遭先行算法作者逐条驳斥
-已保存到 Markdown: ./output/blockbeats/2026-03-28.md
-  [BlockBeats] 新快讯: Ripple引入AI全面加固XRPL：已发现超10个漏洞，下个版本专注安全修复
-推送成功: 【BLOCKBEATS - 链上侦探】Ripple引入AI全面加固XRPL：已发现超10个漏洞，下个版本专注安全修复
-已保存到 Markdown: ./output/blockbeats/2026-03-28.md
-  [BlockBeats] 新快讯: 从实习生到实验室主任只用8年，华为盘古大模型负责人王云鹤离职创业
-推送成功: 【BLOCKBEATS - 链上侦探】从实习生到实验室主任只用8年，华为盘古大模型负责人王云鹤离职创业
-已保存到 Markdown: ./output/blockbeats/2026-03-28.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
   Category: 项目动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1003&is_hot=1
@@ -33,7 +24,7 @@ Scraping RootData...
     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-28.png
     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-28.png
 推送成功: 📊 RootData | Top Gainers
-Cycle completed. 2026-03-28 08:42:53.985467
+Cycle completed. 2026-03-28 09:40:30.780373
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -43,13 +34,9 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-03-28.png
-2026-03-28 08:42:40,947 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-03-28.png
-2026-03-28 08:42:41,514 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
-2026-03-28 08:42:41,516 - INFO -   Market Image...
-2026-03-28 08:42:45,645 - INFO -     Clicked market download icon
-2026-03-28 08:42:53,384 - INFO -     Clicked save button
-2026-03-28 08:42:53,390 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-28.png
-2026-03-28 08:42:53,390 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-28.png
-2026-03-28 08:42:53,972 - INFO - 推送成功: 📊 RootData | Top Gainers
-2026-03-28 08:42:53,985 - INFO - Cycle completed. 2026-03-28 08:42:53.985467
+-28 09:40:22,412 - INFO -     Clicked market download icon
+2026-03-28 09:40:30,196 - INFO -     Clicked save button
+2026-03-28 09:40:30,203 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-28.png
+2026-03-28 09:40:30,203 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-03-28.png
+2026-03-28 09:40:30,763 - INFO - 推送成功: 📊 RootData | Top Gainers
+2026-03-28 09:40:30,780 - INFO - Cycle completed. 2026-03-28 09:40:30.780373

@@ -1,7 +1,10 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 前Multicoin联创Kyle正通过Kamino平台杠杆循环贷赚取利差
-推送成功: 【BLOCKBEATS - 融资】前Multicoin联创Kyle正通过Kamino平台杠杆循环贷赚取利差
+  [BlockBeats] 新快讯: 通义把Vibe Coding塞进全模态，Qwen3.5-Omni称拿下215项SOTA
+推送成功: 【BLOCKBEATS - 链上侦探】通义把Vibe Coding塞进全模态，Qwen3.5-Omni称拿下215项SOTA
+已保存到 Markdown: ./output/blockbeats/2026-03-30.md
+  [BlockBeats] 新快讯: 阿里千问全模态大模型Qwen3.5-Omni上线
+推送成功: 【BLOCKBEATS - 链上侦探】阿里千问全模态大模型Qwen3.5-Omni上线
 已保存到 Markdown: ./output/blockbeats/2026-03-30.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -28,7 +31,7 @@ Scraping RootData...
 =========================== logs ===========================
 waiting for event "download"
 ============================================================
-Cycle completed. 2026-03-30 13:38:57.559656
+Cycle completed. 2026-03-30 15:07:00.786142
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -38,12 +41,13 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-�来7天加密日历洞察
-2026-03-30 13:38:18,450 - INFO -   Market Image...
-2026-03-30 13:38:22,518 - INFO -     Clicked market download icon
-2026-03-30 13:38:27,607 - INFO -     Clicked save button
-2026-03-30 13:38:57,548 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
+加密日历洞察_2026-03-30.png
+2026-03-30 15:06:21,383 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
+2026-03-30 15:06:21,386 - INFO -   Market Image...
+2026-03-30 15:06:25,723 - INFO -     Clicked market download icon
+2026-03-30 15:06:30,816 - INFO -     Clicked save button
+2026-03-30 15:07:00,767 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
 =========================== logs ===========================
 waiting for event "download"
 ============================================================
-2026-03-30 13:38:57,559 - INFO - Cycle completed. 2026-03-30 13:38:57.559656
+2026-03-30 15:07:00,786 - INFO - Cycle completed. 2026-03-30 15:07:00.786142

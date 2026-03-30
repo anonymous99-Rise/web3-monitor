@@ -1,5 +1,32 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
+  [BlockBeats] 新快讯: 腾讯张军：企业微信CLI开源项目上架GitHub社区
+推送成功: 【BLOCKBEATS - 链上侦探】腾讯张军：企业微信CLI开源项目上架GitHub社区
+已保存到 Markdown: ./output/blockbeats/2026-03-30.md
+  [BlockBeats] 新快讯: 修复后不到一小时再度故障：DeepSeek网页/APP服务异常
+推送成功: 【BLOCKBEATS - 链上侦探】修复后不到一小时再度故障：DeepSeek网页/APP服务异常
+已保存到 Markdown: ./output/blockbeats/2026-03-30.md
+  [BlockBeats] 新快讯: 「Hyperliquid早期贡献者Loracle」连续止盈HYPE多单，累计减持近600万美元
+推送成功: 【BLOCKBEATS - 融资】「Hyperliquid早期贡献者Loracle」连续止盈HYPE多单，累计减持近600万美元
+已保存到 Markdown: ./output/blockbeats/2026-03-30.md
+  [BlockBeats] 新快讯: 「Abraxas Capital」美、布两油空单规模已增持至1.36亿美元，浮亏720万美元
+推送成功: 【BLOCKBEATS - 融资】「Abraxas Capital」美、布两油空单规模已增持至1.36亿美元，浮亏720万美元
+已保存到 Markdown: ./output/blockbeats/2026-03-30.md
+  [BlockBeats] 新快讯: Hyperliquid Labs已解质押33.3万枚HYPE，将于4月6日分发给团队成员
+推送成功: 【BLOCKBEATS - 融资】Hyperliquid Labs已解质押33.3万枚HYPE，将于4月6日分发给团队成员
+已保存到 Markdown: ./output/blockbeats/2026-03-30.md
+  [BlockBeats] 新快讯: 本周解锁数据一览：SUI、EIGEN、ENA等将迎来一次性代币大额解锁
+推送成功: 【BLOCKBEATS - 融资】本周解锁数据一览：SUI、EIGEN、ENA等将迎来一次性代币大额解锁
+已保存到 Markdown: ./output/blockbeats/2026-03-30.md
+  [BlockBeats] 新快讯: 某巨鲸花费1000万美元增持5039枚ETH
+推送成功: 【BLOCKBEATS - 融资】某巨鲸花费1000万美元增持5039枚ETH
+已保存到 Markdown: ./output/blockbeats/2026-03-30.md
+  [BlockBeats] 新快讯: 「麻吉」仓位再遭清算，累计亏损3130万美元
+推送成功: 【BLOCKBEATS - 融资】「麻吉」仓位再遭清算，累计亏损3130万美元
+已保存到 Markdown: ./output/blockbeats/2026-03-30.md
+  [BlockBeats] 新快讯: 某鲸鱼结束数月囤币，将浮亏332万美元3246枚ETH转至CEX
+推送成功: 【BLOCKBEATS - 融资】某鲸鱼结束数月囤币，将浮亏332万美元3246枚ETH转至CEX
+已保存到 Markdown: ./output/blockbeats/2026-03-30.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
   Category: 项目动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1003&is_hot=1
@@ -8,24 +35,10 @@
   Category: 融资动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1000&is_hot=1
 Scraping RootData...
   List: Top 100 项目
-  List: 透明度评分提升榜
-  List: 交易所透明度排名
-  Calendar Events...
-  Calendar Insight Image...
-    Clicked calendar insight icon
-    Clicked generate share image button
-    Clicked download button
-    Saved Calendar Image: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-03-29.png
-    Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-03-29.png
-推送成功: 📅 RootData | 未来7天加密日历洞察
-  Market Image...
-    Clicked market download icon
-    Clicked save button
-    Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
-=========================== logs ===========================
-waiting for event "download"
-============================================================
-Cycle completed. 2026-03-29 23:36:24.905343
+Error in monitor loop: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://cn.rootdata.com/rootdatalist/2025/top-projects", waiting until "load"
+
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -35,10 +48,14 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-42 - INFO -     Clicked market download icon
-2026-03-29 23:35:54,955 - INFO -     Clicked save button
-2026-03-29 23:36:24,889 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
-=========================== logs ===========================
-waiting for event "download"
-============================================================
-2026-03-29 23:36:24,905 - INFO - Cycle completed. 2026-03-29 23:36:24.905343
+CN/newsletter?articleType=1004&is_hot=1
+2026-03-30 02:38:55,112 - INFO -   Category: 项目动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1003&is_hot=1
+2026-03-30 02:38:55,771 - INFO -   Category: 市场观点 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1002&is_hot=1
+2026-03-30 02:38:56,877 - INFO -   Category: 链上数据 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1001&is_hot=1
+2026-03-30 02:38:57,995 - INFO -   Category: 融资动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1000&is_hot=1
+2026-03-30 02:38:58,667 - INFO - Scraping RootData...
+2026-03-30 02:38:58,713 - INFO -   List: Top 100 项目
+2026-03-30 02:39:28,716 - ERROR - Error in monitor loop: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://cn.rootdata.com/rootdatalist/2025/top-projects", waiting until "load"
+

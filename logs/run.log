@@ -1,31 +1,7 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 微软开源三档Harrier文本嵌入模型，27B版登上多语言MTEB v2榜首
-推送成功: 【BLOCKBEATS - 链上侦探】微软开源三档Harrier文本嵌入模型，27B版登上多语言MTEB v2榜首
-已保存到 Markdown: ./output/blockbeats/2026-03-30.md
-  [BlockBeats] 新快讯: 前特斯拉总裁：Altman正按「反马斯克」路线行事，Anthropic也不认同其伦理观
-推送成功: 【BLOCKBEATS - 链上侦探】前特斯拉总裁：Altman正按「反马斯克」路线行事，Anthropic也不认同其伦理观
-已保存到 Markdown: ./output/blockbeats/2026-03-30.md
-  [BlockBeats] 新快讯: Kimi K2.5上线一个月后ARR破1亿美元，API额度紧到客户愿预付千万美元抢单
-推送成功: 【BLOCKBEATS - 链上侦探】Kimi K2.5上线一个月后ARR破1亿美元，API额度紧到客户愿预付千万美元抢单
-已保存到 Markdown: ./output/blockbeats/2026-03-30.md
-  [BlockBeats] 新快讯: 更新即崩：谷歌Antigravity全线模型容量告急，三月以来投诉不断
-推送成功: 【BLOCKBEATS - 链上侦探】更新即崩：谷歌Antigravity全线模型容量告急，三月以来投诉不断
-已保存到 Markdown: ./output/blockbeats/2026-03-30.md
-  [BlockBeats] 新快讯: 主流Perp DEX一览：周末流动性较低，Hyperliquid交易量周环比回落43%
-推送成功: 【BLOCKBEATS - 融资】主流Perp DEX一览：周末流动性较低，Hyperliquid交易量周环比回落43%
-已保存到 Markdown: ./output/blockbeats/2026-03-30.md
-  [BlockBeats] 新快讯: Abraxas Capital建立规模高达1.35亿美元的原油期货空头头寸
-推送成功: 【BLOCKBEATS - 融资】Abraxas Capital建立规模高达1.35亿美元的原油期货空头头寸
-已保存到 Markdown: ./output/blockbeats/2026-03-30.md
-  [BlockBeats] 新快讯: 「白银铁头空军」短时开立BTC、ETH空单，挂单预开立仓位规模达2900万美元
-推送成功: 【BLOCKBEATS - 融资】「白银铁头空军」短时开立BTC、ETH空单，挂单预开立仓位规模达2900万美元
-已保存到 Markdown: ./output/blockbeats/2026-03-30.md
-  [BlockBeats] 新快讯: 黄金波段巨鲸再以4684美元均价增持价值338.8万美元PAXG
-推送成功: 【BLOCKBEATS - 融资】黄金波段巨鲸再以4684美元均价增持价值338.8万美元PAXG
-已保存到 Markdown: ./output/blockbeats/2026-03-30.md
-  [BlockBeats] 新快讯: 对冲巨鲸以4800万持仓看涨BTC跑赢HYPE，日内盈利达128万美元
-推送成功: 【BLOCKBEATS - 融资】对冲巨鲸以4800万持仓看涨BTC跑赢HYPE，日内盈利达128万美元
+  [BlockBeats] 新快讯: 前Multicoin联创Kyle正通过Kamino平台杠杆循环贷赚取利差
+推送成功: 【BLOCKBEATS - 融资】前Multicoin联创Kyle正通过Kamino平台杠杆循环贷赚取利差
 已保存到 Markdown: ./output/blockbeats/2026-03-30.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -52,7 +28,7 @@ Scraping RootData...
 =========================== logs ===========================
 waiting for event "download"
 ============================================================
-Cycle completed. 2026-03-30 11:05:20.072788
+Cycle completed. 2026-03-30 13:38:57.559656
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -62,22 +38,12 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-��
-2026-03-30 11:04:26,759 - INFO -   List: 透明度评分提升榜
-2026-03-30 11:04:29,501 - INFO -   List: 交易所透明度排名
-2026-03-30 11:04:32,241 - INFO -   Calendar Events...
-2026-03-30 11:04:34,147 - INFO -   Calendar Insight Image...
-2026-03-30 11:04:34,419 - INFO -     Clicked calendar insight icon
-2026-03-30 11:04:35,859 - INFO -     Clicked generate share image button
-2026-03-30 11:04:40,072 - INFO -     Clicked download button
-2026-03-30 11:04:40,135 - INFO -     Saved Calendar Image: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-03-30.png
-2026-03-30 11:04:40,135 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-03-30.png
-2026-03-30 11:04:40,657 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
-2026-03-30 11:04:40,659 - INFO -   Market Image...
-2026-03-30 11:04:45,028 - INFO -     Clicked market download icon
-2026-03-30 11:04:50,120 - INFO -     Clicked save button
-2026-03-30 11:05:20,061 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
+�来7天加密日历洞察
+2026-03-30 13:38:18,450 - INFO -   Market Image...
+2026-03-30 13:38:22,518 - INFO -     Clicked market download icon
+2026-03-30 13:38:27,607 - INFO -     Clicked save button
+2026-03-30 13:38:57,548 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
 =========================== logs ===========================
 waiting for event "download"
 ============================================================
-2026-03-30 11:05:20,072 - INFO - Cycle completed. 2026-03-30 11:05:20.072788
+2026-03-30 13:38:57,559 - INFO - Cycle completed. 2026-03-30 13:38:57.559656

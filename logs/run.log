@@ -1,16 +1,7 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 不藏着掖着做预训练：3B模型跑出7B成绩，200+实验全公开
-推送成功: 【BLOCKBEATS - 链上侦探】不藏着掖着做预训练：3B模型跑出7B成绩，200+实验全公开
-已保存到 Markdown: ./output/blockbeats/2026-03-31.md
-  [BlockBeats] 新快讯: 小米MiMo-V2-Pro冲上OpenRouter三榜第一：半个月耗掉6万亿Token
-推送成功: 【BLOCKBEATS - 链上侦探】小米MiMo-V2-Pro冲上OpenRouter三榜第一：半个月耗掉6万亿Token
-已保存到 Markdown: ./output/blockbeats/2026-03-31.md
-  [BlockBeats] 新快讯: 美光盘前再度回落：花旗集团大幅下调目标价，链上最大多仓距清算2.2%
-推送成功: 【BLOCKBEATS - 融资】美光盘前再度回落：花旗集团大幅下调目标价，链上最大多仓距清算2.2%
-已保存到 Markdown: ./output/blockbeats/2026-03-31.md
-  [BlockBeats] 新快讯: 某新建钱包向HyperLiquid存入960万枚USDC，高杠杆开多原油
-推送成功: 【BLOCKBEATS - 融资】某新建钱包向HyperLiquid存入960万枚USDC，高杠杆开多原油
+  [BlockBeats] 新快讯: 20倍做多石油神秘鲸鱼持续加仓，仓位价值升至1200万美元
+推送成功: 【BLOCKBEATS - 融资】20倍做多石油神秘鲸鱼持续加仓，仓位价值升至1200万美元
 已保存到 Markdown: ./output/blockbeats/2026-03-31.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -37,7 +28,7 @@ Scraping RootData...
 =========================== logs ===========================
 waiting for event "download"
 ============================================================
-Cycle completed. 2026-03-31 11:53:24.048972
+Cycle completed. 2026-03-31 13:24:30.161413
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -47,14 +38,12 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-alendar Image: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-03-31.png
-2026-03-31 11:52:44,129 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-03-31.png
-2026-03-31 11:52:44,812 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
-2026-03-31 11:52:44,814 - INFO -   Market Image...
-2026-03-31 11:52:48,983 - INFO -     Clicked market download icon
-2026-03-31 11:52:54,097 - INFO -     Clicked save button
-2026-03-31 11:53:24,030 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
+�来7天加密日历洞察
+2026-03-31 13:23:49,920 - INFO -   Market Image...
+2026-03-31 13:23:55,024 - INFO -     Clicked market download icon
+2026-03-31 13:24:00,215 - INFO -     Clicked save button
+2026-03-31 13:24:30,149 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
 =========================== logs ===========================
 waiting for event "download"
 ============================================================
-2026-03-31 11:53:24,049 - INFO - Cycle completed. 2026-03-31 11:53:24.048972
+2026-03-31 13:24:30,161 - INFO - Cycle completed. 2026-03-31 13:24:30.161413

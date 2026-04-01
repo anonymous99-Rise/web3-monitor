@@ -1,8 +1,5 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 华尔街评智谱财报：ARR爆发是最大惊喜，Token量价齐升意味已有实质定价权
-推送成功: 【BLOCKBEATS - 链上侦探】华尔街评智谱财报：ARR爆发是最大惊喜，Token量价齐升意味已有实质定价权
-已保存到 Markdown: ./output/blockbeats/2026-04-01.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
   Category: 项目动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1003&is_hot=1
@@ -28,7 +25,7 @@ Scraping RootData...
 =========================== logs ===========================
 waiting for event "download"
 ============================================================
-Cycle completed. 2026-04-01 13:51:55.594693
+Cycle completed. 2026-04-01 15:07:46.581880
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -38,12 +35,10 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-�来7天加密日历洞察
-2026-04-01 13:51:15,591 - INFO -   Market Image...
-2026-04-01 13:51:20,509 - INFO -     Clicked market download icon
-2026-04-01 13:51:25,757 - INFO -     Clicked save button
-2026-04-01 13:51:55,576 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
+28 - INFO -     Clicked market download icon
+2026-04-01 15:07:16,632 - INFO -     Clicked save button
+2026-04-01 15:07:46,569 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
 =========================== logs ===========================
 waiting for event "download"
 ============================================================
-2026-04-01 13:51:55,594 - INFO - Cycle completed. 2026-04-01 13:51:55.594693
+2026-04-01 15:07:46,581 - INFO - Cycle completed. 2026-04-01 15:07:46.581880

@@ -1,5 +1,32 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
+  [BlockBeats] 新快讯: 港股OpenClaw概念股多数下跌，智谱跌超15%
+推送成功: 【BLOCKBEATS - 链上侦探】港股OpenClaw概念股多数下跌，智谱跌超15%
+已保存到 Markdown: ./output/blockbeats/2026-04-02.md
+  [BlockBeats] 新快讯: OpenClaw连续两日发布大版本：紧急修复回归与执行审批漏洞，稳定性与安全性集中补强
+推送成功: 【BLOCKBEATS - 链上侦探】OpenClaw连续两日发布大版本：紧急修复回归与执行审批漏洞，稳定性与安全性集中补强
+已保存到 Markdown: ./output/blockbeats/2026-04-02.md
+  [BlockBeats] 新快讯: Claude Code v2.1.90修复缓存回归和auto越界
+推送成功: 【BLOCKBEATS - 链上侦探】Claude Code v2.1.90修复缓存回归和auto越界
+已保存到 Markdown: ./output/blockbeats/2026-04-02.md
+  [BlockBeats] 新快讯: Claude Code上线全屏渲染模式，彻底解决闪烁和内存膨胀
+推送成功: 【BLOCKBEATS - 链上侦探】Claude Code上线全屏渲染模式，彻底解决闪烁和内存膨胀
+已保存到 Markdown: ./output/blockbeats/2026-04-02.md
+  [BlockBeats] 新快讯: 智谱发布其首个多模态编程基座模型GLM-5V-Turbo
+推送成功: 【BLOCKBEATS - 链上侦探】智谱发布其首个多模态编程基座模型GLM-5V-Turbo
+已保存到 Markdown: ./output/blockbeats/2026-04-02.md
+  [BlockBeats] 新快讯: 6亿美元OpenAI股份无人接盘，买家带20亿美元现金排队抢Anthropic
+推送成功: 【BLOCKBEATS - 链上侦探】6亿美元OpenAI股份无人接盘，买家带20亿美元现金排队抢Anthropic
+已保存到 Markdown: ./output/blockbeats/2026-04-02.md
+  [BlockBeats] 新快讯: 持仓10年ETH巨鲸几乎清仓，将3915枚ETH和2.4万枚AAVE存入CEX
+推送成功: 【BLOCKBEATS - 融资】持仓10年ETH巨鲸几乎清仓，将3915枚ETH和2.4万枚AAVE存入CEX
+已保存到 Markdown: ./output/blockbeats/2026-04-02.md
+  [BlockBeats] 新快讯: 某巨鲸3倍做空2万枚ETH，同时追加BTC空单至750枚
+推送成功: 【BLOCKBEATS - 融资】某巨鲸3倍做空2万枚ETH，同时追加BTC空单至750枚
+已保存到 Markdown: ./output/blockbeats/2026-04-02.md
+  [BlockBeats] 新快讯: Drift黑客已将2.85亿美元资产兑换为12.9万枚ETH
+推送成功: 【BLOCKBEATS - 融资】Drift黑客已将2.85亿美元资产兑换为12.9万枚ETH
+已保存到 Markdown: ./output/blockbeats/2026-04-02.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
   Category: 项目动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1003&is_hot=1
@@ -8,15 +35,30 @@
   Category: 融资动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1000&is_hot=1
 Scraping RootData...
   List: Top 100 项目
+  [RootData] 新榜单: Top 100 项目
+推送成功: 【RootData - Top 100 项目】
+推送成功: 【RootData - Top 100 项目】 (续)
+已保存到 Markdown: ./output/rootdata/2026-04-02.md
   List: 透明度评分提升榜
+  [RootData] 新榜单: 透明度评分提升榜
+推送成功: 【RootData - 透明度评分提升榜】
+推送成功: 【RootData - 透明度评分提升榜】 (续)
+已保存到 Markdown: ./output/rootdata/2026-04-02.md
   List: 交易所透明度排名
+  [RootData] 新榜单: 交易所透明度排名
+推送成功: 【RootData - 交易所透明度排名】
+推送成功: 【RootData - 交易所透明度排名】 (续)
+已保存到 Markdown: ./output/rootdata/2026-04-02.md
   Calendar Events...
+  [RootData] 日历事件: 10 条
+推送成功: 📅 RootData | 今日日历事件
+已保存到 Markdown: ./output/rootdata/2026-04-02.md
   Calendar Insight Image...
     Clicked calendar insight icon
     Clicked generate share image button
     Clicked download button
-    Saved Calendar Image: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-04-01.png
-    Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-04-01.png
+    Saved Calendar Image: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-04-02.png
+    Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-04-02.png
 推送成功: 📅 RootData | 未来7天加密日历洞察
   Market Image...
     Clicked market download icon
@@ -25,7 +67,7 @@ Scraping RootData...
 =========================== logs ===========================
 waiting for event "download"
 ============================================================
-Cycle completed. 2026-04-01 23:39:32.982177
+Cycle completed. 2026-04-02 02:31:09.237364
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -35,10 +77,27 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-32 - INFO -     Clicked market download icon
-2026-04-01 23:39:03,021 - INFO -     Clicked save button
-2026-04-01 23:39:32,971 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
+NFO -   List: 交易所透明度排名
+2026-04-02 02:30:20,472 - INFO -   [RootData] 新榜单: 交易所透明度排名
+2026-04-02 02:30:20,808 - INFO - 推送成功: 【RootData - 交易所透明度排名】
+2026-04-02 02:30:22,379 - INFO - 推送成功: 【RootData - 交易所透明度排名】 (续)
+2026-04-02 02:30:22,380 - INFO - 已保存到 Markdown: ./output/rootdata/2026-04-02.md
+2026-04-02 02:30:22,380 - INFO -   Calendar Events...
+2026-04-02 02:30:24,281 - INFO -   [RootData] 日历事件: 10 条
+2026-04-02 02:30:24,731 - INFO - 推送成功: 📅 RootData | 今日日历事件
+2026-04-02 02:30:24,733 - INFO - 已保存到 Markdown: ./output/rootdata/2026-04-02.md
+2026-04-02 02:30:24,733 - INFO -   Calendar Insight Image...
+2026-04-02 02:30:24,853 - INFO -     Clicked calendar insight icon
+2026-04-02 02:30:26,493 - INFO -     Clicked generate share image button
+2026-04-02 02:30:27,559 - INFO -     Clicked download button
+2026-04-02 02:30:27,582 - INFO -     Saved Calendar Image: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-04-02.png
+2026-04-02 02:30:27,582 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-04-02.png
+2026-04-02 02:30:29,217 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
+2026-04-02 02:30:29,219 - INFO -   Market Image...
+2026-04-02 02:30:34,089 - INFO -     Clicked market download icon
+2026-04-02 02:30:39,284 - INFO -     Clicked save button
+2026-04-02 02:31:09,221 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
 =========================== logs ===========================
 waiting for event "download"
 ============================================================
-2026-04-01 23:39:32,982 - INFO - Cycle completed. 2026-04-01 23:39:32.982177
+2026-04-02 02:31:09,237 - INFO - Cycle completed. 2026-04-02 02:31:09.237364

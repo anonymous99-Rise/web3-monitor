@@ -1,13 +1,7 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 特朗普政府就联邦法官阻止禁用Anthropic裁决提起上诉
-推送成功: 【BLOCKBEATS - 链上侦探】特朗普政府就联邦法官阻止禁用Anthropic裁决提起上诉
-已保存到 Markdown: ./output/blockbeats/2026-04-02.md
-  [BlockBeats] 新快讯: 两新建钱包从Binance提取6,328枚ETH
-推送成功: 【BLOCKBEATS - 融资】两新建钱包从Binance提取6,328枚ETH
-已保存到 Markdown: ./output/blockbeats/2026-04-02.md
-  [BlockBeats] 新快讯: 某巨鲸将45万HYPE转入HyperCore并开始抛售
-推送成功: 【BLOCKBEATS - 融资】某巨鲸将45万HYPE转入HyperCore并开始抛售
+  [BlockBeats] 新快讯: Riot Platforms再次转移500枚BTC，疑似将进行出售
+推送成功: 【BLOCKBEATS - 融资】Riot Platforms再次转移500枚BTC，疑似将进行出售
 已保存到 Markdown: ./output/blockbeats/2026-04-02.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -34,7 +28,7 @@ Scraping RootData...
 =========================== logs ===========================
 waiting for event "download"
 ============================================================
-Cycle completed. 2026-04-02 14:59:31.684137
+Cycle completed. 2026-04-02 16:08:06.541112
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -44,13 +38,12 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
--04-02 14:58:51,089 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-04-02.png
-2026-04-02 14:58:51,724 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
-2026-04-02 14:58:51,726 - INFO -   Market Image...
-2026-04-02 14:58:56,621 - INFO -     Clicked market download icon
-2026-04-02 14:59:01,731 - INFO -     Clicked save button
-2026-04-02 14:59:31,667 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
+�来7天加密日历洞察
+2026-04-02 16:07:26,900 - INFO -   Market Image...
+2026-04-02 16:07:31,465 - INFO -     Clicked market download icon
+2026-04-02 16:07:36,589 - INFO -     Clicked save button
+2026-04-02 16:08:06,521 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
 =========================== logs ===========================
 waiting for event "download"
 ============================================================
-2026-04-02 14:59:31,684 - INFO - Cycle completed. 2026-04-02 14:59:31.684137
+2026-04-02 16:08:06,541 - INFO - Cycle completed. 2026-04-02 16:08:06.541112

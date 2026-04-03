@@ -1,22 +1,16 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 200美元让AI自己做科研：摩根士丹利Agent写出比PyTorch快91倍的GPU代码，GPT和Claude各有独到发现
-推送成功: 【BLOCKBEATS - 链上侦探】200美元让AI自己做科研：摩根士丹利Agent写出比PyTorch快91倍的GPU代码，GPT和Claude各有独到发现
+  [BlockBeats] 新快讯: 遗留代码基准Legacy-Bench发布：AI编程Agent在银行老代码上通过率最高42.5%，97%失败不自知
+推送成功: 【BLOCKBEATS - 链上侦探】遗留代码基准Legacy-Bench发布：AI编程Agent在银行老代码上通过率最高42.5%，97%失败不自知
 已保存到 Markdown: ./output/blockbeats/2026-04-03.md
-  [BlockBeats] 新快讯: ProducerAI纳入谷歌AI订阅计划，三档付费用户免费获对应音乐创作权益
-推送成功: 【BLOCKBEATS - 链上侦探】ProducerAI纳入谷歌AI订阅计划，三档付费用户免费获对应音乐创作权益
+  [BlockBeats] 新快讯: Ramp Labs开放AI可解释性玩具Steer AI：往Qwen里注入「pizza」概念，它会突然说中文
+推送成功: 【BLOCKBEATS - 链上侦探】Ramp Labs开放AI可解释性玩具Steer AI：往Qwen里注入「pizza」概念，它会突然说中文
 已保存到 Markdown: ./output/blockbeats/2026-04-03.md
-  [BlockBeats] 新快讯: 短期实物需求推升美油涨超布油：链上巨鲸清仓1340万美元布油多单，全仓转投美油
-推送成功: 【BLOCKBEATS - 融资】短期实物需求推升美油涨超布油：链上巨鲸清仓1340万美元布油多单，全仓转投美油
+  [BlockBeats] 新快讯: Orchestra发布首个AI原生研究IDE：人机协同取代全自主，免费开放
+推送成功: 【BLOCKBEATS - 链上侦探】Orchestra发布首个AI原生研究IDE：人机协同取代全自主，免费开放
 已保存到 Markdown: ./output/blockbeats/2026-04-03.md
-  [BlockBeats] 新快讯: Trade.xyz传统资产持仓量达21.6亿续创新高，WTI原油日内成交量反超ETH
-推送成功: 【BLOCKBEATS - 融资】Trade.xyz传统资产持仓量达21.6亿续创新高，WTI原油日内成交量反超ETH
-已保存到 Markdown: ./output/blockbeats/2026-04-03.md
-  [BlockBeats] 新快讯: 某巨鲸向Binance存入689.34枚BTC，约合4617万美元
-推送成功: 【BLOCKBEATS - 融资】某巨鲸向Binance存入689.34枚BTC，约合4617万美元
-已保存到 Markdown: ./output/blockbeats/2026-04-03.md
-  [BlockBeats] 新快讯: 某巨鲸短时开立1020万规模BTC空单，计划于67102美元处执行止盈
-推送成功: 【BLOCKBEATS - 融资】某巨鲸短时开立1020万规模BTC空单，计划于67102美元处执行止盈
+  [BlockBeats] 新快讯: 蚂蚁数科：专业龙虾产品DTClaw开启内测
+推送成功: 【BLOCKBEATS - 链上侦探】蚂蚁数科：专业龙虾产品DTClaw开启内测
 已保存到 Markdown: ./output/blockbeats/2026-04-03.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -43,7 +37,7 @@ Scraping RootData...
 =========================== logs ===========================
 waiting for event "download"
 ============================================================
-Cycle completed. 2026-04-03 09:58:29.821759
+Cycle completed. 2026-04-03 10:51:35.637569
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -53,17 +47,14 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-lendar insight icon
-2026-04-03 09:57:49,291 - INFO -     Clicked generate share image button
-2026-04-03 09:57:49,704 - INFO -     Clicked download button
-2026-04-03 09:57:49,741 - INFO -     Saved Calendar Image: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-04-03.png
-2026-04-03 09:57:49,741 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-04-03.png
-2026-04-03 09:57:50,415 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
-2026-04-03 09:57:50,417 - INFO -   Market Image...
-2026-04-03 09:57:54,740 - INFO -     Clicked market download icon
-2026-04-03 09:57:59,872 - INFO -     Clicked save button
-2026-04-03 09:58:29,809 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
+alendar Image: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-04-03.png
+2026-04-03 10:50:55,094 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-04-03.png
+2026-04-03 10:50:55,909 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
+2026-04-03 10:50:55,912 - INFO -   Market Image...
+2026-04-03 10:51:00,568 - INFO -     Clicked market download icon
+2026-04-03 10:51:05,686 - INFO -     Clicked save button
+2026-04-03 10:51:35,621 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
 =========================== logs ===========================
 waiting for event "download"
 ============================================================
-2026-04-03 09:58:29,821 - INFO - Cycle completed. 2026-04-03 09:58:29.821759
+2026-04-03 10:51:35,637 - INFO - Cycle completed. 2026-04-03 10:51:35.637569

@@ -1,5 +1,38 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
+  [BlockBeats] 新快讯: Anthropic回应Claude Code限额危机：建议不使用Opus并关闭100万上下文，未提及补偿
+推送成功: 【BLOCKBEATS - 链上侦探】Anthropic回应Claude Code限额危机：建议不使用Opus并关闭100万上下文，未提及补偿
+已保存到 Markdown: ./output/blockbeats/2026-04-03.md
+  [BlockBeats] 新快讯: OpenAI首次收购媒体公司，买下科技直播节目TBPN
+推送成功: 【BLOCKBEATS - 链上侦探】OpenAI首次收购媒体公司，买下科技直播节目TBPN
+已保存到 Markdown: ./output/blockbeats/2026-04-03.md
+  [BlockBeats] 新快讯: 微软发布三款自研MAI模型，称10人团队用一半GPU做到语音转录最佳
+推送成功: 【BLOCKBEATS - 链上侦探】微软发布三款自研MAI模型，称10人团队用一半GPU做到语音转录最佳
+已保存到 Markdown: ./output/blockbeats/2026-04-03.md
+  [BlockBeats] 新快讯: 年化收入半年翻5倍至5000万美元，AI模型路由平台OpenRouter估值逼近13亿
+推送成功: 【BLOCKBEATS - 链上侦探】年化收入半年翻5倍至5000万美元，AI模型路由平台OpenRouter估值逼近13亿
+已保存到 Markdown: ./output/blockbeats/2026-04-03.md
+  [BlockBeats] 新快讯: 谷歌Gemma 4正式发布：4款尺寸首次Apache 2.0许可，31B全球开源第三
+推送成功: 【BLOCKBEATS - 链上侦探】谷歌Gemma 4正式发布：4款尺寸首次Apache 2.0许可，31B全球开源第三
+已保存到 Markdown: ./output/blockbeats/2026-04-03.md
+  [BlockBeats] 新快讯: Cursor 3发布：围绕Agent从零重建界面，不再只是VS Code分叉
+推送成功: 【BLOCKBEATS - 链上侦探】Cursor 3发布：围绕Agent从零重建界面，不再只是VS Code分叉
+已保存到 Markdown: ./output/blockbeats/2026-04-03.md
+  [BlockBeats] 新快讯: OpenClaw 2026.4.2集中收紧供应商HTTP安全链路，安卓接入Google Assistant
+推送成功: 【BLOCKBEATS - 链上侦探】OpenClaw 2026.4.2集中收紧供应商HTTP安全链路，安卓接入Google Assistant
+已保存到 Markdown: ./output/blockbeats/2026-04-03.md
+  [BlockBeats] 新快讯: 交易员loracle.hl正在抛售45万枚HYPE，价值1598万美元
+推送成功: 【BLOCKBEATS - 融资】交易员loracle.hl正在抛售45万枚HYPE，价值1598万美元
+已保存到 Markdown: ./output/blockbeats/2026-04-03.md
+  [BlockBeats] 新快讯: Solana生态代币PUMPCADE市值短时突破2000万美元，24小时涨幅45%
+推送成功: 【BLOCKBEATS - 融资】Solana生态代币PUMPCADE市值短时突破2000万美元，24小时涨幅45%
+已保存到 Markdown: ./output/blockbeats/2026-04-03.md
+  [BlockBeats] 新快讯: 两地址囤积1,781枚BTC，价值1.1892亿美元
+推送成功: 【BLOCKBEATS - 融资】两地址囤积1,781枚BTC，价值1.1892亿美元
+已保存到 Markdown: ./output/blockbeats/2026-04-03.md
+  [BlockBeats] 新快讯: 某新地址囤积488,599枚HYPE，价值1718万美元
+推送成功: 【BLOCKBEATS - 融资】某新地址囤积488,599枚HYPE，价值1718万美元
+已保存到 Markdown: ./output/blockbeats/2026-04-03.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
   Category: 项目动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1003&is_hot=1
@@ -8,15 +41,30 @@
   Category: 融资动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1000&is_hot=1
 Scraping RootData...
   List: Top 100 项目
+  [RootData] 新榜单: Top 100 项目
+推送成功: 【RootData - Top 100 项目】
+推送成功: 【RootData - Top 100 项目】 (续)
+已保存到 Markdown: ./output/rootdata/2026-04-03.md
   List: 透明度评分提升榜
+  [RootData] 新榜单: 透明度评分提升榜
+推送成功: 【RootData - 透明度评分提升榜】
+推送成功: 【RootData - 透明度评分提升榜】 (续)
+已保存到 Markdown: ./output/rootdata/2026-04-03.md
   List: 交易所透明度排名
+  [RootData] 新榜单: 交易所透明度排名
+推送成功: 【RootData - 交易所透明度排名】
+推送成功: 【RootData - 交易所透明度排名】 (续)
+已保存到 Markdown: ./output/rootdata/2026-04-03.md
   Calendar Events...
+  [RootData] 日历事件: 10 条
+推送成功: 📅 RootData | 今日日历事件
+已保存到 Markdown: ./output/rootdata/2026-04-03.md
   Calendar Insight Image...
     Clicked calendar insight icon
     Clicked generate share image button
     Clicked download button
-    Saved Calendar Image: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-04-02.png
-    Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-04-02.png
+    Saved Calendar Image: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-04-03.png
+    Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-04-03.png
 推送成功: 📅 RootData | 未来7天加密日历洞察
   Market Image...
     Clicked market download icon
@@ -25,7 +73,7 @@ Scraping RootData...
 =========================== logs ===========================
 waiting for event "download"
 ============================================================
-Cycle completed. 2026-04-02 23:38:43.670459
+Cycle completed. 2026-04-03 02:32:48.901184
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -35,10 +83,29 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-14 - INFO -     Clicked market download icon
-2026-04-02 23:38:13,718 - INFO -     Clicked save button
-2026-04-02 23:38:43,659 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
+2:31:58,913 - INFO - 推送成功: 【RootData - 透明度评分提升榜】 (续)
+2026-04-03 02:31:58,914 - INFO - 已保存到 Markdown: ./output/rootdata/2026-04-03.md
+2026-04-03 02:31:58,914 - INFO -   List: 交易所透明度排名
+2026-04-03 02:32:02,043 - INFO -   [RootData] 新榜单: 交易所透明度排名
+2026-04-03 02:32:02,303 - INFO - 推送成功: 【RootData - 交易所透明度排名】
+2026-04-03 02:32:04,003 - INFO - 推送成功: 【RootData - 交易所透明度排名】 (续)
+2026-04-03 02:32:04,004 - INFO - 已保存到 Markdown: ./output/rootdata/2026-04-03.md
+2026-04-03 02:32:04,004 - INFO -   Calendar Events...
+2026-04-03 02:32:06,383 - INFO -   [RootData] 日历事件: 10 条
+2026-04-03 02:32:06,690 - INFO - 推送成功: 📅 RootData | 今日日历事件
+2026-04-03 02:32:06,691 - INFO - 已保存到 Markdown: ./output/rootdata/2026-04-03.md
+2026-04-03 02:32:06,691 - INFO -   Calendar Insight Image...
+2026-04-03 02:32:06,797 - INFO -     Clicked calendar insight icon
+2026-04-03 02:32:08,029 - INFO -     Clicked generate share image button
+2026-04-03 02:32:08,546 - INFO -     Clicked download button
+2026-04-03 02:32:08,609 - INFO -     Saved Calendar Image: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-04-03.png
+2026-04-03 02:32:08,610 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-04-03.png
+2026-04-03 02:32:09,319 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
+2026-04-03 02:32:09,321 - INFO -   Market Image...
+2026-04-03 02:32:13,854 - INFO -     Clicked market download icon
+2026-04-03 02:32:18,949 - INFO -     Clicked save button
+2026-04-03 02:32:48,889 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
 =========================== logs ===========================
 waiting for event "download"
 ============================================================
-2026-04-02 23:38:43,670 - INFO - Cycle completed. 2026-04-02 23:38:43.670459
+2026-04-03 02:32:48,901 - INFO - Cycle completed. 2026-04-03 02:32:48.901184

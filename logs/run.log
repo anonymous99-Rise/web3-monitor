@@ -1,10 +1,7 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 推特联创Dorsey推荐mesh-llm：把闲置GPU拼成去中心化推理网络
-推送成功: 【BLOCKBEATS - 链上侦探】推特联创Dorsey推荐mesh-llm：把闲置GPU拼成去中心化推理网络
-已保存到 Markdown: ./output/blockbeats/2026-04-03.md
-  [BlockBeats] 新快讯: 英伟达CEO：中国电机磁铁「全球最佳」，美国人形机器人大量依赖中国供应链
-推送成功: 【BLOCKBEATS - 链上侦探】英伟达CEO：中国电机磁铁「全球最佳」，美国人形机器人大量依赖中国供应链
+  [BlockBeats] 新快讯: 「麻吉」加仓ETH多单至7171枚，浮亏15.7万美元
+推送成功: 【BLOCKBEATS - 融资】「麻吉」加仓ETH多单至7171枚，浮亏15.7万美元
 已保存到 Markdown: ./output/blockbeats/2026-04-03.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -31,7 +28,7 @@ Scraping RootData...
 =========================== logs ===========================
 waiting for event "download"
 ============================================================
-Cycle completed. 2026-04-03 11:40:12.438481
+Cycle completed. 2026-04-03 13:09:04.627617
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -41,13 +38,12 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-加密日历洞察_2026-04-03.png
-2026-04-03 11:39:31,845 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
-2026-04-03 11:39:31,848 - INFO -   Market Image...
-2026-04-03 11:39:37,377 - INFO -     Clicked market download icon
-2026-04-03 11:39:42,469 - INFO -     Clicked save button
-2026-04-03 11:40:12,421 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
+�来7天加密日历洞察
+2026-04-03 13:08:24,149 - INFO -   Market Image...
+2026-04-03 13:08:29,564 - INFO -     Clicked market download icon
+2026-04-03 13:08:34,674 - INFO -     Clicked save button
+2026-04-03 13:09:04,614 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
 =========================== logs ===========================
 waiting for event "download"
 ============================================================
-2026-04-03 11:40:12,438 - INFO - Cycle completed. 2026-04-03 11:40:12.438481
+2026-04-03 13:09:04,627 - INFO - Cycle completed. 2026-04-03 13:09:04.627617

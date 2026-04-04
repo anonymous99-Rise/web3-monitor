@@ -1,11 +1,5 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 中国上海出台「游戏沪十条」：支持电竞企业在AI、区块链等方面研发与应用
-推送成功: 【BLOCKBEATS - 链上侦探】中国上海出台「游戏沪十条」：支持电竞企业在AI、区块链等方面研发与应用
-已保存到 Markdown: ./output/blockbeats/2026-04-04.md
-  [BlockBeats] 新快讯: 国家网信办拟加强数字虚拟人信息服务管理
-推送成功: 【BLOCKBEATS - 链上侦探】国家网信办拟加强数字虚拟人信息服务管理
-已保存到 Markdown: ./output/blockbeats/2026-04-04.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
   Category: 项目动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1003&is_hot=1
@@ -31,7 +25,7 @@ Scraping RootData...
 =========================== logs ===========================
 waiting for event "download"
 ============================================================
-Cycle completed. 2026-04-04 09:41:39.326376
+Cycle completed. 2026-04-04 10:37:51.511919
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -41,13 +35,10 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-加密日历洞察_2026-04-04.png
-2026-04-04 09:40:59,596 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
-2026-04-04 09:40:59,599 - INFO -   Market Image...
-2026-04-04 09:41:04,279 - INFO -     Clicked market download icon
-2026-04-04 09:41:09,372 - INFO -     Clicked save button
-2026-04-04 09:41:39,313 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
+57 - INFO -     Clicked market download icon
+2026-04-04 10:37:21,558 - INFO -     Clicked save button
+2026-04-04 10:37:51,498 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
 =========================== logs ===========================
 waiting for event "download"
 ============================================================
-2026-04-04 09:41:39,326 - INFO - Cycle completed. 2026-04-04 09:41:39.326376
+2026-04-04 10:37:51,511 - INFO - Cycle completed. 2026-04-04 10:37:51.511919

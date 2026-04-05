@@ -1,7 +1,13 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 一新地址建仓2015枚ETH，约413万美元
-推送成功: 【BLOCKBEATS - 融资】一新地址建仓2015枚ETH，约413万美元
+  [BlockBeats] 新快讯: 英国寻求吸引Anthropic扩大在英业务
+推送成功: 【BLOCKBEATS - 链上侦探】英国寻求吸引Anthropic扩大在英业务
+已保存到 Markdown: ./output/blockbeats/2026-04-05.md
+  [BlockBeats] 新快讯: 好莱坞演员Ashton Kutcher推出的基金对OpenAI投资已实现43倍账面回报
+推送成功: 【BLOCKBEATS - 链上侦探】好莱坞演员Ashton Kutcher推出的基金对OpenAI投资已实现43倍账面回报
+已保存到 Markdown: ./output/blockbeats/2026-04-05.md
+  [BlockBeats] 新快讯: GPT Image 2疑已悄然全量部署ChatGPT，OpenAI尚未官宣
+推送成功: 【BLOCKBEATS - 链上侦探】GPT Image 2疑已悄然全量部署ChatGPT，OpenAI尚未官宣
 已保存到 Markdown: ./output/blockbeats/2026-04-05.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -11,24 +17,9 @@
   Category: 融资动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1000&is_hot=1
 Scraping RootData...
   List: Top 100 项目
-  [RootData] 新榜单: Top 100 项目
-推送成功: 【RootData - Top 100 项目】
-推送成功: 【RootData - Top 100 项目】 (续)
-已保存到 Markdown: ./output/rootdata/2026-04-05.md
   List: 透明度评分提升榜
-  [RootData] 新榜单: 透明度评分提升榜
-推送成功: 【RootData - 透明度评分提升榜】
-推送成功: 【RootData - 透明度评分提升榜】 (续)
-已保存到 Markdown: ./output/rootdata/2026-04-05.md
   List: 交易所透明度排名
-  [RootData] 新榜单: 交易所透明度排名
-推送成功: 【RootData - 交易所透明度排名】
-推送成功: 【RootData - 交易所透明度排名】 (续)
-已保存到 Markdown: ./output/rootdata/2026-04-05.md
   Calendar Events...
-  [RootData] 日历事件: 10 条
-推送成功: 📅 RootData | 今日日历事件
-已保存到 Markdown: ./output/rootdata/2026-04-05.md
   Calendar Insight Image...
     Clicked calendar insight icon
     Clicked generate share image button
@@ -43,7 +34,7 @@ Scraping RootData...
 =========================== logs ===========================
 waiting for event "download"
 ============================================================
-Cycle completed. 2026-04-05 02:39:35.249124
+Cycle completed. 2026-04-05 05:15:08.618673
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -53,17 +44,13 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-lendar insight icon
-2026-04-05 02:38:53,803 - INFO -     Clicked generate share image button
-2026-04-05 02:38:54,341 - INFO -     Clicked download button
-2026-04-05 02:38:54,380 - INFO -     Saved Calendar Image: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-04-05.png
-2026-04-05 02:38:54,381 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-04-05.png
-2026-04-05 02:38:55,116 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
-2026-04-05 02:38:55,119 - INFO -   Market Image...
-2026-04-05 02:39:00,184 - INFO -     Clicked market download icon
-2026-04-05 02:39:05,316 - INFO -     Clicked save button
-2026-04-05 02:39:35,235 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
+-04-05 05:14:27,994 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-04-05.png
+2026-04-05 05:14:28,549 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
+2026-04-05 05:14:28,552 - INFO -   Market Image...
+2026-04-05 05:14:33,572 - INFO -     Clicked market download icon
+2026-04-05 05:14:38,665 - INFO -     Clicked save button
+2026-04-05 05:15:08,605 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
 =========================== logs ===========================
 waiting for event "download"
 ============================================================
-2026-04-05 02:39:35,249 - INFO - Cycle completed. 2026-04-05 02:39:35.249124
+2026-04-05 05:15:08,618 - INFO - Cycle completed. 2026-04-05 05:15:08.618673

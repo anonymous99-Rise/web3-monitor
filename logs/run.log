@@ -1,5 +1,8 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
+  [BlockBeats] 新快讯: OpenCLI作者就「指控港大刷Star」道歉，承认受小红书误导未能客观判断
+推送成功: 【BLOCKBEATS - 链上侦探】OpenCLI作者就「指控港大刷Star」道歉，承认受小红书误导未能客观判断
+已保存到 Markdown: ./output/blockbeats/2026-04-05.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
   Category: 项目动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1003&is_hot=1
@@ -25,7 +28,7 @@ Scraping RootData...
 =========================== logs ===========================
 waiting for event "download"
 ============================================================
-Cycle completed. 2026-04-05 09:42:16.627840
+Cycle completed. 2026-04-05 10:37:53.640207
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -35,10 +38,12 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-72 - INFO -     Clicked market download icon
-2026-04-05 09:41:46,677 - INFO -     Clicked save button
-2026-04-05 09:42:16,614 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
+�来7天加密日历洞察
+2026-04-05 10:37:13,824 - INFO -   Market Image...
+2026-04-05 10:37:18,591 - INFO -     Clicked market download icon
+2026-04-05 10:37:23,686 - INFO -     Clicked save button
+2026-04-05 10:37:53,628 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
 =========================== logs ===========================
 waiting for event "download"
 ============================================================
-2026-04-05 09:42:16,627 - INFO - Cycle completed. 2026-04-05 09:42:16.627840
+2026-04-05 10:37:53,640 - INFO - Cycle completed. 2026-04-05 10:37:53.640207

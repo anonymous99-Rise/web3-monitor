@@ -1,10 +1,10 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 印度AI初创公司Sarvam AI接近完成一轮3亿至3.5亿美元融资
-推送成功: 【BLOCKBEATS - 链上侦探】印度AI初创公司Sarvam AI接近完成一轮3亿至3.5亿美元融资
+  [BlockBeats] 新快讯: 某巨鲸疑似卖出1856枚ETH，亏损189万美元
+推送成功: 【BLOCKBEATS - 融资】某巨鲸疑似卖出1856枚ETH，亏损189万美元
 已保存到 Markdown: ./output/blockbeats/2026-04-05.md
-  [BlockBeats] 新快讯: 「麻吉」加仓ETH多单至7500枚，浮亏30.6万美元
-推送成功: 【BLOCKBEATS - 融资】「麻吉」加仓ETH多单至7500枚，浮亏30.6万美元
+  [BlockBeats] 新快讯: Dragonfly向Bybit转移212万美元MNT
+推送成功: 【BLOCKBEATS - 融资】Dragonfly向Bybit转移212万美元MNT
 已保存到 Markdown: ./output/blockbeats/2026-04-05.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -31,7 +31,7 @@ Scraping RootData...
 =========================== logs ===========================
 waiting for event "download"
 ============================================================
-Cycle completed. 2026-04-05 07:10:46.832165
+Cycle completed. 2026-04-05 08:47:29.157975
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -42,12 +42,12 @@ Scraping BlockBeats...
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
 加密日历洞察_2026-04-05.png
-2026-04-05 07:10:06,521 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
-2026-04-05 07:10:06,524 - INFO -   Market Image...
-2026-04-05 07:10:11,779 - INFO -     Clicked market download icon
-2026-04-05 07:10:16,880 - INFO -     Clicked save button
-2026-04-05 07:10:46,818 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
+2026-04-05 08:46:48,748 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
+2026-04-05 08:46:48,751 - INFO -   Market Image...
+2026-04-05 08:46:54,097 - INFO -     Clicked market download icon
+2026-04-05 08:46:59,290 - INFO -     Clicked save button
+2026-04-05 08:47:29,139 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
 =========================== logs ===========================
 waiting for event "download"
 ============================================================
-2026-04-05 07:10:46,832 - INFO - Cycle completed. 2026-04-05 07:10:46.832165
+2026-04-05 08:47:29,158 - INFO - Cycle completed. 2026-04-05 08:47:29.157975

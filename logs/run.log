@@ -1,14 +1,5 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: OpenAI发布文章，提出AI时代产业政策建议
-推送成功: 【BLOCKBEATS - 链上侦探】OpenAI发布文章，提出AI时代产业政策建议
-已保存到 Markdown: ./output/blockbeats/2026-04-06.md
-  [BlockBeats] 新快讯: 某新建地址从Binance提取1000万枚ASTER，价值670万美元
-推送成功: 【BLOCKBEATS - 融资】某新建地址从Binance提取1000万枚ASTER，价值670万美元
-已保存到 Markdown: ./output/blockbeats/2026-04-06.md
-  [BlockBeats] 新快讯: 巨鲸「先定10个大目标」的BTC多单已浮盈552万美元
-推送成功: 【BLOCKBEATS - 融资】巨鲸「先定10个大目标」的BTC多单已浮盈552万美元
-已保存到 Markdown: ./output/blockbeats/2026-04-06.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
   Category: 项目动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1003&is_hot=1
@@ -34,7 +25,7 @@ Scraping RootData...
 =========================== logs ===========================
 waiting for event "download"
 ============================================================
-Cycle completed. 2026-04-06 10:59:56.280584
+Cycle completed. 2026-04-06 11:56:21.726885
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -44,13 +35,10 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
--04-06 10:59:15,819 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-04-06.png
-2026-04-06 10:59:16,360 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
-2026-04-06 10:59:16,363 - INFO -   Market Image...
-2026-04-06 10:59:21,222 - INFO -     Clicked market download icon
-2026-04-06 10:59:26,310 - INFO -     Clicked save button
-2026-04-06 10:59:56,263 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
+81 - INFO -     Clicked market download icon
+2026-04-06 11:55:51,775 - INFO -     Clicked save button
+2026-04-06 11:56:21,715 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
 =========================== logs ===========================
 waiting for event "download"
 ============================================================
-2026-04-06 10:59:56,280 - INFO - Cycle completed. 2026-04-06 10:59:56.280584
+2026-04-06 11:56:21,726 - INFO - Cycle completed. 2026-04-06 11:56:21.726885

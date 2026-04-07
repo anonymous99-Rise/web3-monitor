@@ -1,25 +1,13 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 新石器无人车发布AI智能体NeoClaw，可一句话管理车队
-推送成功: 【BLOCKBEATS - 链上侦探】新石器无人车发布AI智能体NeoClaw，可一句话管理车队
+  [BlockBeats] 新快讯: 360最新发现OpenClaw三大漏洞：涉1个高危、2个中危
+推送成功: 【BLOCKBEATS - 链上侦探】360最新发现OpenClaw三大漏洞：涉1个高危、2个中危
 已保存到 Markdown: ./output/blockbeats/2026-04-07.md
-  [BlockBeats] 新快讯: Claude Code更新后「翻车」，思考深度骤降67%，无法再信任其处理复杂工程任务
-推送成功: 【BLOCKBEATS - 链上侦探】Claude Code更新后「翻车」，思考深度骤降67%，无法再信任其处理复杂工程任务
+  [BlockBeats] 新快讯: 《生化危机》女主角用Claude写了个AI记忆系统，LongMemEval基准满分
+推送成功: 【BLOCKBEATS - 链上侦探】《生化危机》女主角用Claude写了个AI记忆系统，LongMemEval基准满分
 已保存到 Markdown: ./output/blockbeats/2026-04-07.md
-  [BlockBeats] 新快讯: 某巨鲸20倍做空9395.67枚ETH，名义价值1970万美元
-推送成功: 【BLOCKBEATS - 融资】某巨鲸20倍做空9395.67枚ETH，名义价值1970万美元
-已保存到 Markdown: ./output/blockbeats/2026-04-07.md
-  [BlockBeats] 新快讯: 链上BTC及ETH两名巨鲸同时平仓空单，规模均达1400万美元
-推送成功: 【BLOCKBEATS - 融资】链上BTC及ETH两名巨鲸同时平仓空单，规模均达1400万美元
-已保存到 Markdown: ./output/blockbeats/2026-04-07.md
-  [BlockBeats] 新快讯: 疑似Etherfi投资人地址收到601万美元ETHFI
-推送成功: 【BLOCKBEATS - 融资】疑似Etherfi投资人地址收到601万美元ETHFI
-已保存到 Markdown: ./output/blockbeats/2026-04-07.md
-  [BlockBeats] 新快讯: 某巨鲸开立15倍杠杆WTI原油多单，清算价106.98美元
-推送成功: 【BLOCKBEATS - 融资】某巨鲸开立15倍杠杆WTI原油多单，清算价106.98美元
-已保存到 Markdown: ./output/blockbeats/2026-04-07.md
-  [BlockBeats] 新快讯: 某巨鲸向Binance存入302.4枚比特币，全仓浮亏约856万美元
-推送成功: 【BLOCKBEATS - 融资】某巨鲸向Binance存入302.4枚比特币，全仓浮亏约856万美元
+  [BlockBeats] 新快讯: 主流Perp DEX一览：仅TradeXYZ交易量已超其余平台，约占Hyperliquid整体交易量的34%
+推送成功: 【BLOCKBEATS - 融资】主流Perp DEX一览：仅TradeXYZ交易量已超其余平台，约占Hyperliquid整体交易量的34%
 已保存到 Markdown: ./output/blockbeats/2026-04-07.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -46,7 +34,7 @@ Scraping RootData...
 =========================== logs ===========================
 waiting for event "download"
 ============================================================
-Cycle completed. 2026-04-07 10:58:55.502620
+Cycle completed. 2026-04-07 11:57:55.389614
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -56,18 +44,13 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-7 10:58:10,454 - INFO -   Calendar Insight Image...
-2026-04-07 10:58:10,745 - INFO -     Clicked calendar insight icon
-2026-04-07 10:58:12,598 - INFO -     Clicked generate share image button
-2026-04-07 10:58:13,150 - INFO -     Clicked download button
-2026-04-07 10:58:13,192 - INFO -     Saved Calendar Image: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-04-07.png
-2026-04-07 10:58:13,192 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-04-07.png
-2026-04-07 10:58:13,891 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
-2026-04-07 10:58:13,893 - INFO -   Market Image...
-2026-04-07 10:58:20,453 - INFO -     Clicked market download icon
-2026-04-07 10:58:25,548 - INFO -     Clicked save button
-2026-04-07 10:58:55,491 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
+-04-07 11:57:15,193 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-04-07.png
+2026-04-07 11:57:15,803 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
+2026-04-07 11:57:15,806 - INFO -   Market Image...
+2026-04-07 11:57:20,321 - INFO -     Clicked market download icon
+2026-04-07 11:57:25,439 - INFO -     Clicked save button
+2026-04-07 11:57:55,376 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
 =========================== logs ===========================
 waiting for event "download"
 ============================================================
-2026-04-07 10:58:55,502 - INFO - Cycle completed. 2026-04-07 10:58:55.502620
+2026-04-07 11:57:55,389 - INFO - Cycle completed. 2026-04-07 11:57:55.389614

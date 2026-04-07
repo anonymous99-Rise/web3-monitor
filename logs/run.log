@@ -1,31 +1,25 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 英伟达收购SchedMD引发AI圈担忧，或致其他品牌芯片出现性能惩罚
-推送成功: 【BLOCKBEATS - 链上侦探】英伟达收购SchedMD引发AI圈担忧，或致其他品牌芯片出现性能惩罚
+  [BlockBeats] 新快讯: 新石器无人车发布AI智能体NeoClaw，可一句话管理车队
+推送成功: 【BLOCKBEATS - 链上侦探】新石器无人车发布AI智能体NeoClaw，可一句话管理车队
 已保存到 Markdown: ./output/blockbeats/2026-04-07.md
-  [BlockBeats] 新快讯: 字节旗下红果进行AI短剧专项治理：核查1.5万部作品，处置违规作品670部
-推送成功: 【BLOCKBEATS - 链上侦探】字节旗下红果进行AI短剧专项治理：核查1.5万部作品，处置违规作品670部
+  [BlockBeats] 新快讯: Claude Code更新后「翻车」，思考深度骤降67%，无法再信任其处理复杂工程任务
+推送成功: 【BLOCKBEATS - 链上侦探】Claude Code更新后「翻车」，思考深度骤降67%，无法再信任其处理复杂工程任务
 已保存到 Markdown: ./output/blockbeats/2026-04-07.md
-  [BlockBeats] 新快讯: 中国国家人工智能产投基金入股中电信人工智能公司
-推送成功: 【BLOCKBEATS - 链上侦探】中国国家人工智能产投基金入股中电信人工智能公司
+  [BlockBeats] 新快讯: 某巨鲸20倍做空9395.67枚ETH，名义价值1970万美元
+推送成功: 【BLOCKBEATS - 融资】某巨鲸20倍做空9395.67枚ETH，名义价值1970万美元
 已保存到 Markdown: ./output/blockbeats/2026-04-07.md
-  [BlockBeats] 新快讯: 彭博社：Altman患上「扎克伯格综合征」，IPO真正的王牌是微软不是超级应用
-推送成功: 【BLOCKBEATS - 链上侦探】彭博社：Altman患上「扎克伯格综合征」，IPO真正的王牌是微软不是超级应用
+  [BlockBeats] 新快讯: 链上BTC及ETH两名巨鲸同时平仓空单，规模均达1400万美元
+推送成功: 【BLOCKBEATS - 融资】链上BTC及ETH两名巨鲸同时平仓空单，规模均达1400万美元
 已保存到 Markdown: ./output/blockbeats/2026-04-07.md
-  [BlockBeats] 新快讯: 腾讯新闻宣布上线CLI，用户可通过终端获取7×24小时全天候资讯
-推送成功: 【BLOCKBEATS - 链上侦探】腾讯新闻宣布上线CLI，用户可通过终端获取7×24小时全天候资讯
+  [BlockBeats] 新快讯: 疑似Etherfi投资人地址收到601万美元ETHFI
+推送成功: 【BLOCKBEATS - 融资】疑似Etherfi投资人地址收到601万美元ETHFI
 已保存到 Markdown: ./output/blockbeats/2026-04-07.md
-  [BlockBeats] 新快讯: 字节旗下智能体平台Coze上线2.5版本，打造「Agent World」全新生态系统
-推送成功: 【BLOCKBEATS - 链上侦探】字节旗下智能体平台Coze上线2.5版本，打造「Agent World」全新生态系统
+  [BlockBeats] 新快讯: 某巨鲸开立15倍杠杆WTI原油多单，清算价106.98美元
+推送成功: 【BLOCKBEATS - 融资】某巨鲸开立15倍杠杆WTI原油多单，清算价106.98美元
 已保存到 Markdown: ./output/blockbeats/2026-04-07.md
-  [BlockBeats] 新快讯: 伊朗威胁打击「星际之门」人工智能数据中心
-推送成功: 【BLOCKBEATS - 链上侦探】伊朗威胁打击「星际之门」人工智能数据中心
-已保存到 Markdown: ./output/blockbeats/2026-04-07.md
-  [BlockBeats] 新快讯: 上轮做多黄金盈利42万美元的巨鲸再度入场，多仓规模达1320万美元
-推送成功: 【BLOCKBEATS - 融资】上轮做多黄金盈利42万美元的巨鲸再度入场，多仓规模达1320万美元
-已保存到 Markdown: ./output/blockbeats/2026-04-07.md
-  [BlockBeats] 新快讯: 某巨鲸同时布空BTC及ETH，空单规模达1590万美元
-推送成功: 【BLOCKBEATS - 融资】某巨鲸同时布空BTC及ETH，空单规模达1590万美元
+  [BlockBeats] 新快讯: 某巨鲸向Binance存入302.4枚比特币，全仓浮亏约856万美元
+推送成功: 【BLOCKBEATS - 融资】某巨鲸向Binance存入302.4枚比特币，全仓浮亏约856万美元
 已保存到 Markdown: ./output/blockbeats/2026-04-07.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -52,7 +46,7 @@ Scraping RootData...
 =========================== logs ===========================
 waiting for event "download"
 ============================================================
-Cycle completed. 2026-04-07 09:06:40.574067
+Cycle completed. 2026-04-07 10:58:55.502620
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -62,22 +56,18 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-��
-2026-04-07 09:05:46,693 - INFO -   List: 透明度评分提升榜
-2026-04-07 09:05:49,388 - INFO -   List: 交易所透明度排名
-2026-04-07 09:05:55,646 - INFO -   Calendar Events...
-2026-04-07 09:05:58,364 - INFO -   Calendar Insight Image...
-2026-04-07 09:05:58,785 - INFO -     Clicked calendar insight icon
-2026-04-07 09:06:00,054 - INFO -     Clicked generate share image button
-2026-04-07 09:06:00,607 - INFO -     Clicked download button
-2026-04-07 09:06:00,649 - INFO -     Saved Calendar Image: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-04-07.png
-2026-04-07 09:06:00,649 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-04-07.png
-2026-04-07 09:06:01,338 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
-2026-04-07 09:06:01,341 - INFO -   Market Image...
-2026-04-07 09:06:05,523 - INFO -     Clicked market download icon
-2026-04-07 09:06:10,613 - INFO -     Clicked save button
-2026-04-07 09:06:40,561 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
+7 10:58:10,454 - INFO -   Calendar Insight Image...
+2026-04-07 10:58:10,745 - INFO -     Clicked calendar insight icon
+2026-04-07 10:58:12,598 - INFO -     Clicked generate share image button
+2026-04-07 10:58:13,150 - INFO -     Clicked download button
+2026-04-07 10:58:13,192 - INFO -     Saved Calendar Image: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-04-07.png
+2026-04-07 10:58:13,192 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-04-07.png
+2026-04-07 10:58:13,891 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
+2026-04-07 10:58:13,893 - INFO -   Market Image...
+2026-04-07 10:58:20,453 - INFO -     Clicked market download icon
+2026-04-07 10:58:25,548 - INFO -     Clicked save button
+2026-04-07 10:58:55,491 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
 =========================== logs ===========================
 waiting for event "download"
 ============================================================
-2026-04-07 09:06:40,574 - INFO - Cycle completed. 2026-04-07 09:06:40.574067
+2026-04-07 10:58:55,502 - INFO - Cycle completed. 2026-04-07 10:58:55.502620

@@ -1,35 +1,5 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 开源音乐模型ACE-Step1.5XL发布，评测全面超Suno v5，消费级显卡可跑
-推送成功: 【BLOCKBEATS - 链上侦探】开源音乐模型ACE-Step1.5XL发布，评测全面超Suno v5，消费级显卡可跑
-已保存到 Markdown: ./output/blockbeats/2026-04-08.md
-  [BlockBeats] 新快讯: HappyHorse匿名登顶AI视频盲测，阿里淘天和Sand.ai均被怀疑
-推送成功: 【BLOCKBEATS - 链上侦探】HappyHorse匿名登顶AI视频盲测，阿里淘天和Sand.ai均被怀疑
-已保存到 Markdown: ./output/blockbeats/2026-04-08.md
-  [BlockBeats] 新快讯: Seedance2.0登陆美国，此前因好莱坞版权争议被排除在全球推广之外
-推送成功: 【BLOCKBEATS - 链上侦探】Seedance2.0登陆美国，此前因好莱坞版权争议被排除在全球推广之外
-已保存到 Markdown: ./output/blockbeats/2026-04-08.md
-  [BlockBeats] 新快讯: OpenAI即将限定发布一款Claude Mythos同级别模型
-推送成功: 【BLOCKBEATS - 链上侦探】OpenAI即将限定发布一款Claude Mythos同级别模型
-已保存到 Markdown: ./output/blockbeats/2026-04-08.md
-  [BlockBeats] 新快讯: 阿里云真武芯片万卡集群在韶关上线，支持DeepSeek-V3.2单机部署，计划扩至十万卡
-推送成功: 【BLOCKBEATS - 链上侦探】阿里云真武芯片万卡集群在韶关上线，支持DeepSeek-V3.2单机部署，计划扩至十万卡
-已保存到 Markdown: ./output/blockbeats/2026-04-08.md
-  [BlockBeats] 新快讯: 阿里设立技术委员会，吴泳铭任组长
-推送成功: 【BLOCKBEATS - 链上侦探】阿里设立技术委员会，吴泳铭任组长
-已保存到 Markdown: ./output/blockbeats/2026-04-08.md
-  [BlockBeats] 新快讯: Meme币GIGGLE市值短时拉涨10%，市值暂报2750万美元
-推送成功: 【BLOCKBEATS - 融资】Meme币GIGGLE市值短时拉涨10%，市值暂报2750万美元
-已保存到 Markdown: ./output/blockbeats/2026-04-08.md
-  [BlockBeats] 新快讯: 盘前美光科技以10%领涨存储板块，链上最大多头浮盈已达190万美元
-推送成功: 【BLOCKBEATS - 融资】盘前美光科技以10%领涨存储板块，链上最大多头浮盈已达190万美元
-已保存到 Markdown: ./output/blockbeats/2026-04-08.md
-  [BlockBeats] 新快讯: 交易员「Loracle」新建10倍杠杆WTI原油空单，持仓规模1780万美元
-推送成功: 【BLOCKBEATS - 融资】交易员「Loracle」新建10倍杠杆WTI原油空单，持仓规模1780万美元
-已保存到 Markdown: ./output/blockbeats/2026-04-08.md
-  [BlockBeats] 新快讯: 两鲸鱼追高买入数百万美元HYPE
-推送成功: 【BLOCKBEATS - 融资】两鲸鱼追高买入数百万美元HYPE
-已保存到 Markdown: ./output/blockbeats/2026-04-08.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
   Category: 项目动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1003&is_hot=1
@@ -55,7 +25,7 @@ Scraping RootData...
 =========================== logs ===========================
 waiting for event "download"
 ============================================================
-Cycle completed. 2026-04-08 11:00:14.047129
+Cycle completed. 2026-04-08 12:00:26.364567
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -65,23 +35,10 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-08 10:59:17,815 - INFO - Scraping RootData...
-2026-04-08 10:59:17,844 - INFO -   List: Top 100 项目
-2026-04-08 10:59:21,865 - INFO -   List: 透明度评分提升榜
-2026-04-08 10:59:24,289 - INFO -   List: 交易所透明度排名
-2026-04-08 10:59:27,197 - INFO -   Calendar Events...
-2026-04-08 10:59:29,492 - INFO -   Calendar Insight Image...
-2026-04-08 10:59:29,757 - INFO -     Clicked calendar insight icon
-2026-04-08 10:59:31,669 - INFO -     Clicked generate share image button
-2026-04-08 10:59:32,145 - INFO -     Clicked download button
-2026-04-08 10:59:32,191 - INFO -     Saved Calendar Image: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-04-08.png
-2026-04-08 10:59:32,191 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-04-08.png
-2026-04-08 10:59:34,423 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
-2026-04-08 10:59:34,426 - INFO -   Market Image...
-2026-04-08 10:59:39,001 - INFO -     Clicked market download icon
-2026-04-08 10:59:44,093 - INFO -     Clicked save button
-2026-04-08 11:00:14,035 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
+18 - INFO -     Clicked market download icon
+2026-04-08 11:59:56,411 - INFO -     Clicked save button
+2026-04-08 12:00:26,352 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
 =========================== logs ===========================
 waiting for event "download"
 ============================================================
-2026-04-08 11:00:14,047 - INFO - Cycle completed. 2026-04-08 11:00:14.047129
+2026-04-08 12:00:26,364 - INFO - Cycle completed. 2026-04-08 12:00:26.364567

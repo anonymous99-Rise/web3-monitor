@@ -1,8 +1,5 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 亚马逊考虑向其他企业出售其AI芯片
-推送成功: 【BLOCKBEATS - 链上侦探】亚马逊考虑向其他企业出售其AI芯片
-已保存到 Markdown: ./output/blockbeats/2026-04-09.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
   Category: 项目动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1003&is_hot=1
@@ -28,7 +25,7 @@ Scraping RootData...
 =========================== logs ===========================
 waiting for event "download"
 ============================================================
-Cycle completed. 2026-04-09 18:01:25.296190
+Cycle completed. 2026-04-09 19:23:19.509739
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -38,12 +35,10 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-�来7天加密日历洞察
-2026-04-09 18:00:45,782 - INFO -   Market Image...
-2026-04-09 18:00:50,246 - INFO -     Clicked market download icon
-2026-04-09 18:00:55,344 - INFO -     Clicked save button
-2026-04-09 18:01:25,284 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
+67 - INFO -     Clicked market download icon
+2026-04-09 19:22:49,557 - INFO -     Clicked save button
+2026-04-09 19:23:19,498 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
 =========================== logs ===========================
 waiting for event "download"
 ============================================================
-2026-04-09 18:01:25,296 - INFO - Cycle completed. 2026-04-09 18:01:25.296190
+2026-04-09 19:23:19,509 - INFO - Cycle completed. 2026-04-09 19:23:19.509739

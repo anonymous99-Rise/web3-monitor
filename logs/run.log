@@ -1,31 +1,22 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: MiniMax发布 MMX-CLI：为 Agent 设计的全模态命令行工具
-推送成功: 【BLOCKBEATS - 链上侦探】MiniMax发布 MMX-CLI：为 Agent 设计的全模态命令行工具
+  [BlockBeats] 新快讯: 字节跳动发布全双工语音大模型Seeduplex，AI语音交互迈入「边听边说」时代
+推送成功: 【BLOCKBEATS - 链上侦探】字节跳动发布全双工语音大模型Seeduplex，AI语音交互迈入「边听边说」时代
 已保存到 Markdown: ./output/blockbeats/2026-04-09.md
-  [BlockBeats] 新快讯: Liquid AI发布新视觉语言模型，专为三星S25 Ultra等前沿设备设计
-推送成功: 【BLOCKBEATS - 链上侦探】Liquid AI发布新视觉语言模型，专为三星S25 Ultra等前沿设备设计
+  [BlockBeats] 新快讯: 阿里云百炼上线「记忆库」功能，AI Agent实现跨会话长期记忆
+推送成功: 【BLOCKBEATS - 链上侦探】阿里云百炼上线「记忆库」功能，AI Agent实现跨会话长期记忆
 已保存到 Markdown: ./output/blockbeats/2026-04-09.md
-  [BlockBeats] 新快讯: SpaceX上市在即，xAI紧急重组工程团队以提升竞争力
-推送成功: 【BLOCKBEATS - 链上侦探】SpaceX上市在即，xAI紧急重组工程团队以提升竞争力
+  [BlockBeats] 新快讯: Avalanche团队近6个月累计向Coinbase充值约1.8亿美元AVAX代币
+推送成功: 【BLOCKBEATS - 融资】Avalanche团队近6个月累计向Coinbase充值约1.8亿美元AVAX代币
 已保存到 Markdown: ./output/blockbeats/2026-04-09.md
-  [BlockBeats] 新快讯: OpenClaw发布版本更新，Agent可回放用户笔记形成记忆
-推送成功: 【BLOCKBEATS - 链上侦探】OpenClaw发布版本更新，Agent可回放用户笔记形成记忆
+  [BlockBeats] 新快讯: 「重仓布局三大市场」止损1400万规模两油多单后反手开空，已录得亏损超390万美元
+推送成功: 【BLOCKBEATS - 融资】「重仓布局三大市场」止损1400万规模两油多单后反手开空，已录得亏损超390万美元
 已保存到 Markdown: ./output/blockbeats/2026-04-09.md
-  [BlockBeats] 新快讯: Anthropic收入超过OpenAI，引发投资者对于OpenAI估值质疑
-推送成功: 【BLOCKBEATS - 链上侦探】Anthropic收入超过OpenAI，引发投资者对于OpenAI估值质疑
+  [BlockBeats] 新快讯: Continue Capital解除质押60.3万枚HYPE，价值约2330万美元
+推送成功: 【BLOCKBEATS - 融资】Continue Capital解除质押60.3万枚HYPE，价值约2330万美元
 已保存到 Markdown: ./output/blockbeats/2026-04-09.md
-  [BlockBeats] 新快讯: 某巨鲸开立430万规模ETH多单，计划于2220美元处止盈
-推送成功: 【BLOCKBEATS - 融资】某巨鲸开立430万规模ETH多单，计划于2220美元处止盈
-已保存到 Markdown: ./output/blockbeats/2026-04-09.md
-  [BlockBeats] 新快讯: Meme币Freedom of Money日回落近40%，回吐CZ新书发布消息后多数涨幅
-推送成功: 【BLOCKBEATS - 融资】Meme币Freedom of Money日回落近40%，回吐CZ新书发布消息后多数涨幅
-已保存到 Markdown: ./output/blockbeats/2026-04-09.md
-  [BlockBeats] 新快讯: 某巨鲸开立40倍杠杆BTC多单，止损位70800美元
-推送成功: 【BLOCKBEATS - 融资】某巨鲸开立40倍杠杆BTC多单，止损位70800美元
-已保存到 Markdown: ./output/blockbeats/2026-04-09.md
-  [BlockBeats] 新快讯: FARTCOIN涨后瞬时跌落26%：链上多头巨鲸爆仓合超3888万，疑为XPL闪崩同一操盘团队
-推送成功: 【BLOCKBEATS - 融资】FARTCOIN涨后瞬时跌落26%：链上多头巨鲸爆仓合超3888万，疑为XPL闪崩同一操盘团队
+  [BlockBeats] 新快讯: 「Strategy对手盘」摊平增持BTC空单超520万美元，总持仓规模升至7520万美元
+推送成功: 【BLOCKBEATS - 融资】「Strategy对手盘」摊平增持BTC空单超520万美元，总持仓规模升至7520万美元
 已保存到 Markdown: ./output/blockbeats/2026-04-09.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -52,7 +43,7 @@ Scraping RootData...
 =========================== logs ===========================
 waiting for event "download"
 ============================================================
-Cycle completed. 2026-04-09 05:13:07.702003
+Cycle completed. 2026-04-09 07:27:00.335916
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -62,22 +53,17 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-��
-2026-04-09 05:12:16,466 - INFO -   List: 透明度评分提升榜
-2026-04-09 05:12:19,195 - INFO -   List: 交易所透明度排名
-2026-04-09 05:12:22,480 - INFO -   Calendar Events...
-2026-04-09 05:12:24,670 - INFO -   Calendar Insight Image...
-2026-04-09 05:12:25,027 - INFO -     Clicked calendar insight icon
-2026-04-09 05:12:26,789 - INFO -     Clicked generate share image button
-2026-04-09 05:12:27,250 - INFO -     Clicked download button
-2026-04-09 05:12:27,322 - INFO -     Saved Calendar Image: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-04-09.png
-2026-04-09 05:12:27,323 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-04-09.png
-2026-04-09 05:12:27,854 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
-2026-04-09 05:12:27,856 - INFO -   Market Image...
-2026-04-09 05:12:32,646 - INFO -     Clicked market download icon
-2026-04-09 05:12:37,752 - INFO -     Clicked save button
-2026-04-09 05:13:07,689 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
+lendar insight icon
+2026-04-09 07:26:19,641 - INFO -     Clicked generate share image button
+2026-04-09 07:26:20,168 - INFO -     Clicked download button
+2026-04-09 07:26:20,222 - INFO -     Saved Calendar Image: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-04-09.png
+2026-04-09 07:26:20,222 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-04-09.png
+2026-04-09 07:26:20,686 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
+2026-04-09 07:26:20,689 - INFO -   Market Image...
+2026-04-09 07:26:25,265 - INFO -     Clicked market download icon
+2026-04-09 07:26:30,383 - INFO -     Clicked save button
+2026-04-09 07:27:00,322 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
 =========================== logs ===========================
 waiting for event "download"
 ============================================================
-2026-04-09 05:13:07,702 - INFO - Cycle completed. 2026-04-09 05:13:07.702003
+2026-04-09 07:27:00,335 - INFO - Cycle completed. 2026-04-09 07:27:00.335916

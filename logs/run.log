@@ -1,16 +1,13 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: OpenAI计划推出面向网络安全的新产品
-推送成功: 【BLOCKBEATS - 链上侦探】OpenAI计划推出面向网络安全的新产品
+  [BlockBeats] 新快讯: 谷歌：Gemini应用程序现已能够生成交互式模拟和模型
+推送成功: 【BLOCKBEATS - 链上侦探】谷歌：Gemini应用程序现已能够生成交互式模拟和模型
 已保存到 Markdown: ./output/blockbeats/2026-04-09.md
-  [BlockBeats] 新快讯: 谷歌承诺未来采用英特尔下一代Xeon处理器及其他芯片
-推送成功: 【BLOCKBEATS - 链上侦探】谷歌承诺未来采用英特尔下一代Xeon处理器及其他芯片
+  [BlockBeats] 新快讯: CNBC：缅因州将成为美国首个禁止数据中心建设的州
+推送成功: 【BLOCKBEATS - 链上侦探】CNBC：缅因州将成为美国首个禁止数据中心建设的州
 已保存到 Markdown: ./output/blockbeats/2026-04-09.md
-  [BlockBeats] 新快讯: 芯片初创公司SiFive完成4亿美元融资，Atreides Management领投
-推送成功: 【BLOCKBEATS - 链上侦探】芯片初创公司SiFive完成4亿美元融资，Atreides Management领投
-已保存到 Markdown: ./output/blockbeats/2026-04-09.md
-  [BlockBeats] 新快讯: Tether发布QVAC SDK作为AI通用构建模块
-推送成功: 【BLOCKBEATS - 链上侦探】Tether发布QVAC SDK作为AI通用构建模块
+  [BlockBeats] 新快讯: 亚马逊计划在密西西比州投资250亿美元建设数据中心
+推送成功: 【BLOCKBEATS - 链上侦探】亚马逊计划在密西西比州投资250亿美元建设数据中心
 已保存到 Markdown: ./output/blockbeats/2026-04-09.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -37,7 +34,7 @@ Scraping RootData...
 =========================== logs ===========================
 waiting for event "download"
 ============================================================
-Cycle completed. 2026-04-09 14:56:06.758996
+Cycle completed. 2026-04-09 16:21:17.534003
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -47,14 +44,13 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-alendar Image: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-04-09.png
-2026-04-09 14:55:26,642 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-04-09.png
-2026-04-09 14:55:27,437 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
-2026-04-09 14:55:27,440 - INFO -   Market Image...
-2026-04-09 14:55:31,709 - INFO -     Clicked market download icon
-2026-04-09 14:55:36,806 - INFO -     Clicked save button
-2026-04-09 14:56:06,746 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
+-04-09 16:20:37,012 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-04-09.png
+2026-04-09 16:20:37,773 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
+2026-04-09 16:20:37,777 - INFO -   Market Image...
+2026-04-09 16:20:42,467 - INFO -     Clicked market download icon
+2026-04-09 16:20:47,727 - INFO -     Clicked save button
+2026-04-09 16:21:17,521 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
 =========================== logs ===========================
 waiting for event "download"
 ============================================================
-2026-04-09 14:56:06,759 - INFO - Cycle completed. 2026-04-09 14:56:06.758996
+2026-04-09 16:21:17,534 - INFO - Cycle completed. 2026-04-09 16:21:17.534003

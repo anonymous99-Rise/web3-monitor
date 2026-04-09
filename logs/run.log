@@ -1,13 +1,16 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 亚马逊：芯片业务的年化收入现已超过200亿美元
-推送成功: 【BLOCKBEATS - 链上侦探】亚马逊：芯片业务的年化收入现已超过200亿美元
+  [BlockBeats] 新快讯: OpenAI计划推出面向网络安全的新产品
+推送成功: 【BLOCKBEATS - 链上侦探】OpenAI计划推出面向网络安全的新产品
 已保存到 Markdown: ./output/blockbeats/2026-04-09.md
-  [BlockBeats] 新快讯: Galaxy发布首份上市年报：全面转向布局数字经济与AI基础设施
-推送成功: 【BLOCKBEATS - 链上侦探】Galaxy发布首份上市年报：全面转向布局数字经济与AI基础设施
+  [BlockBeats] 新快讯: 谷歌承诺未来采用英特尔下一代Xeon处理器及其他芯片
+推送成功: 【BLOCKBEATS - 链上侦探】谷歌承诺未来采用英特尔下一代Xeon处理器及其他芯片
 已保存到 Markdown: ./output/blockbeats/2026-04-09.md
-  [BlockBeats] 新快讯: Meta承诺向CoreWeave追加投资210亿美元
-推送成功: 【BLOCKBEATS - 链上侦探】Meta承诺向CoreWeave追加投资210亿美元
+  [BlockBeats] 新快讯: 芯片初创公司SiFive完成4亿美元融资，Atreides Management领投
+推送成功: 【BLOCKBEATS - 链上侦探】芯片初创公司SiFive完成4亿美元融资，Atreides Management领投
+已保存到 Markdown: ./output/blockbeats/2026-04-09.md
+  [BlockBeats] 新快讯: Tether发布QVAC SDK作为AI通用构建模块
+推送成功: 【BLOCKBEATS - 链上侦探】Tether发布QVAC SDK作为AI通用构建模块
 已保存到 Markdown: ./output/blockbeats/2026-04-09.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -34,7 +37,7 @@ Scraping RootData...
 =========================== logs ===========================
 waiting for event "download"
 ============================================================
-Cycle completed. 2026-04-09 12:02:18.672355
+Cycle completed. 2026-04-09 14:56:06.758996
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -44,13 +47,14 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
--04-09 12:01:38,454 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-04-09.png
-2026-04-09 12:01:39,030 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
-2026-04-09 12:01:39,033 - INFO -   Market Image...
-2026-04-09 12:01:43,623 - INFO -     Clicked market download icon
-2026-04-09 12:01:48,720 - INFO -     Clicked save button
-2026-04-09 12:02:18,659 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
+alendar Image: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-04-09.png
+2026-04-09 14:55:26,642 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-04-09.png
+2026-04-09 14:55:27,437 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
+2026-04-09 14:55:27,440 - INFO -   Market Image...
+2026-04-09 14:55:31,709 - INFO -     Clicked market download icon
+2026-04-09 14:55:36,806 - INFO -     Clicked save button
+2026-04-09 14:56:06,746 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
 =========================== logs ===========================
 waiting for event "download"
 ============================================================
-2026-04-09 12:02:18,672 - INFO - Cycle completed. 2026-04-09 12:02:18.672355
+2026-04-09 14:56:06,759 - INFO - Cycle completed. 2026-04-09 14:56:06.758996

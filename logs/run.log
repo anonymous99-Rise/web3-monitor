@@ -1,16 +1,13 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: V社被曝开发内部AI工具「SteamGPT」，提升客服与运营效率
-推送成功: 【BLOCKBEATS - 链上侦探】V社被曝开发内部AI工具「SteamGPT」，提升客服与运营效率
+  [BlockBeats] 新快讯: 亚马逊：芯片业务的年化收入现已超过200亿美元
+推送成功: 【BLOCKBEATS - 链上侦探】亚马逊：芯片业务的年化收入现已超过200亿美元
 已保存到 Markdown: ./output/blockbeats/2026-04-09.md
-  [BlockBeats] 新快讯: 主流Perp DEX一览：TradeXYZ交易量昨日大涨后有所回落，规模仍占Hyperliquid整体45.7%
-推送成功: 【BLOCKBEATS - 融资】主流Perp DEX一览：TradeXYZ交易量昨日大涨后有所回落，规模仍占Hyperliquid整体45.7%
+  [BlockBeats] 新快讯: Galaxy发布首份上市年报：全面转向布局数字经济与AI基础设施
+推送成功: 【BLOCKBEATS - 链上侦探】Galaxy发布首份上市年报：全面转向布局数字经济与AI基础设施
 已保存到 Markdown: ./output/blockbeats/2026-04-09.md
-  [BlockBeats] 新快讯: 某ETH主力空头止盈离场，3294万规模空单一次性平仓
-推送成功: 【BLOCKBEATS - 融资】某ETH主力空头止盈离场，3294万规模空单一次性平仓
-已保存到 Markdown: ./output/blockbeats/2026-04-09.md
-  [BlockBeats] 新快讯: 某近期大亏巨鲸开立3020万美元BTC空单，以极窄清算线设于71,941美元
-推送成功: 【BLOCKBEATS - 融资】某近期大亏巨鲸开立3020万美元BTC空单，以极窄清算线设于71,941美元
+  [BlockBeats] 新快讯: Meta承诺向CoreWeave追加投资210亿美元
+推送成功: 【BLOCKBEATS - 链上侦探】Meta承诺向CoreWeave追加投资210亿美元
 已保存到 Markdown: ./output/blockbeats/2026-04-09.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -37,7 +34,7 @@ Scraping RootData...
 =========================== logs ===========================
 waiting for event "download"
 ============================================================
-Cycle completed. 2026-04-09 11:02:07.057767
+Cycle completed. 2026-04-09 12:02:18.672355
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -47,14 +44,13 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-alendar Image: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-04-09.png
-2026-04-09 11:01:25,968 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-04-09.png
-2026-04-09 11:01:26,960 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
-2026-04-09 11:01:26,963 - INFO -   Market Image...
-2026-04-09 11:01:32,011 - INFO -     Clicked market download icon
-2026-04-09 11:01:37,105 - INFO -     Clicked save button
-2026-04-09 11:02:07,046 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
+-04-09 12:01:38,454 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-04-09.png
+2026-04-09 12:01:39,030 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
+2026-04-09 12:01:39,033 - INFO -   Market Image...
+2026-04-09 12:01:43,623 - INFO -     Clicked market download icon
+2026-04-09 12:01:48,720 - INFO -     Clicked save button
+2026-04-09 12:02:18,659 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
 =========================== logs ===========================
 waiting for event "download"
 ============================================================
-2026-04-09 11:02:07,057 - INFO - Cycle completed. 2026-04-09 11:02:07.057767
+2026-04-09 12:02:18,672 - INFO - Cycle completed. 2026-04-09 12:02:18.672355

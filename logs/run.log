@@ -1,14 +1,5 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 美国政府向Coinbase Prime转入2.44枚BTC
-推送成功: 【BLOCKBEATS - 融资】美国政府向Coinbase Prime转入2.44枚BTC
-已保存到 Markdown: ./output/blockbeats/2026-04-10.md
-  [BlockBeats] 新快讯: Circle过去一个月已在Solana上累计铸造105亿枚USDC
-推送成功: 【BLOCKBEATS - 融资】Circle过去一个月已在Solana上累计铸造105亿枚USDC
-已保存到 Markdown: ./output/blockbeats/2026-04-10.md
-  [BlockBeats] 新快讯: 贝莱德从Coinbase提取2700枚BTC和30,000枚ETH
-推送成功: 【BLOCKBEATS - 融资】贝莱德从Coinbase提取2700枚BTC和30,000枚ETH
-已保存到 Markdown: ./output/blockbeats/2026-04-10.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
   Category: 项目动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1003&is_hot=1
@@ -34,7 +25,7 @@ Scraping RootData...
 =========================== logs ===========================
 waiting for event "download"
 ============================================================
-Cycle completed. 2026-04-10 15:57:03.658201
+Cycle completed. 2026-04-10 16:55:40.205238
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -44,13 +35,10 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
--04-10 15:56:23,483 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-04-10.png
-2026-04-10 15:56:23,994 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
-2026-04-10 15:56:23,997 - INFO -   Market Image...
-2026-04-10 15:56:28,587 - INFO -     Clicked market download icon
-2026-04-10 15:56:33,729 - INFO -     Clicked save button
-2026-04-10 15:57:03,641 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
+36 - INFO -     Clicked market download icon
+2026-04-10 16:55:10,242 - INFO -     Clicked save button
+2026-04-10 16:55:40,188 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
 =========================== logs ===========================
 waiting for event "download"
 ============================================================
-2026-04-10 15:57:03,658 - INFO - Cycle completed. 2026-04-10 15:57:03.658201
+2026-04-10 16:55:40,205 - INFO - Cycle completed. 2026-04-10 16:55:40.205238

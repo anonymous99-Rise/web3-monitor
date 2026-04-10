@@ -10,10 +10,22 @@ Scraping RootData...
   List: Top 100 项目
   List: 透明度评分提升榜
   List: 交易所透明度排名
-Error in monitor loop: Page.goto: net::ERR_FAILED at https://cn.rootdata.com/exchanges/ranking
-Call log:
-  - navigating to "https://cn.rootdata.com/exchanges/ranking", waiting until "load"
-
+  Calendar Events...
+  Calendar Insight Image...
+    Clicked calendar insight icon
+    Clicked generate share image button
+    Clicked download button
+    Saved Calendar Image: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-04-10.png
+    Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-04-10.png
+推送成功: 📅 RootData | 未来7天加密日历洞察
+  Market Image...
+    Clicked market download icon
+    Clicked save button
+    Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
+=========================== logs ===========================
+waiting for event "download"
+============================================================
+Cycle completed. 2026-04-10 20:41:24.822740
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -23,5 +35,10 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-rootdata.com/exchanges/ranking", waiting until "load"
-
+71 - INFO -     Clicked market download icon
+2026-04-10 20:40:54,873 - INFO -     Clicked save button
+2026-04-10 20:41:24,810 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
+=========================== logs ===========================
+waiting for event "download"
+============================================================
+2026-04-10 20:41:24,822 - INFO - Cycle completed. 2026-04-10 20:41:24.822740

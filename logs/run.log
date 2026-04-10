@@ -1,13 +1,13 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: Coreweave涨超7%，此前宣布与Anthropic达成数据中心租用协议
-推送成功: 【BLOCKBEATS - 链上侦探】Coreweave涨超7%，此前宣布与Anthropic达成数据中心租用协议
+  [BlockBeats] 新快讯: 美国政府向Coinbase Prime转入2.44枚BTC
+推送成功: 【BLOCKBEATS - 融资】美国政府向Coinbase Prime转入2.44枚BTC
 已保存到 Markdown: ./output/blockbeats/2026-04-10.md
-  [BlockBeats] 新快讯: 持有NOM至少59%流通量的地址集过去1小时将6.74亿枚NOM转入Binance
-推送成功: 【BLOCKBEATS - 融资】持有NOM至少59%流通量的地址集过去1小时将6.74亿枚NOM转入Binance
+  [BlockBeats] 新快讯: Circle过去一个月已在Solana上累计铸造105亿枚USDC
+推送成功: 【BLOCKBEATS - 融资】Circle过去一个月已在Solana上累计铸造105亿枚USDC
 已保存到 Markdown: ./output/blockbeats/2026-04-10.md
-  [BlockBeats] 新快讯: 某多签地址过去7小时从Bitget累计提出2978万枚RAVE，约合3368万美元
-推送成功: 【BLOCKBEATS - 融资】某多签地址过去7小时从Bitget累计提出2978万枚RAVE，约合3368万美元
+  [BlockBeats] 新快讯: 贝莱德从Coinbase提取2700枚BTC和30,000枚ETH
+推送成功: 【BLOCKBEATS - 融资】贝莱德从Coinbase提取2700枚BTC和30,000枚ETH
 已保存到 Markdown: ./output/blockbeats/2026-04-10.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -34,7 +34,7 @@ Scraping RootData...
 =========================== logs ===========================
 waiting for event "download"
 ============================================================
-Cycle completed. 2026-04-10 14:51:38.999229
+Cycle completed. 2026-04-10 15:57:03.658201
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -44,13 +44,13 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
--04-10 14:50:58,886 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-04-10.png
-2026-04-10 14:50:59,500 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
-2026-04-10 14:50:59,502 - INFO -   Market Image...
-2026-04-10 14:51:03,944 - INFO -     Clicked market download icon
-2026-04-10 14:51:09,046 - INFO -     Clicked save button
-2026-04-10 14:51:38,986 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
+-04-10 15:56:23,483 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-04-10.png
+2026-04-10 15:56:23,994 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
+2026-04-10 15:56:23,997 - INFO -   Market Image...
+2026-04-10 15:56:28,587 - INFO -     Clicked market download icon
+2026-04-10 15:56:33,729 - INFO -     Clicked save button
+2026-04-10 15:57:03,641 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
 =========================== logs ===========================
 waiting for event "download"
 ============================================================
-2026-04-10 14:51:38,999 - INFO - Cycle completed. 2026-04-10 14:51:38.999229
+2026-04-10 15:57:03,658 - INFO - Cycle completed. 2026-04-10 15:57:03.658201

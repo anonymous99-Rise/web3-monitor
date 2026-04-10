@@ -1,10 +1,13 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 1.6亿规模原油空头「Abraxas Capital」止盈清仓，录得盈利1015万美元
-推送成功: 【BLOCKBEATS - 融资】1.6亿规模原油空头「Abraxas Capital」止盈清仓，录得盈利1015万美元
+  [BlockBeats] 新快讯: 腾讯混元发布HY-Embodied-0.5系列具身智能基础模型
+推送成功: 【BLOCKBEATS - 链上侦探】腾讯混元发布HY-Embodied-0.5系列具身智能基础模型
 已保存到 Markdown: ./output/blockbeats/2026-04-10.md
-  [BlockBeats] 新快讯: 某日内追涨BTC巨鲸止损1760万规模多单，平仓价71,463美元
-推送成功: 【BLOCKBEATS - 融资】某日内追涨BTC巨鲸止损1760万规模多单，平仓价71,463美元
+  [BlockBeats] 新快讯: GLM-5.1获LMArena代码榜开源第一、全球第三
+推送成功: 【BLOCKBEATS - 链上侦探】GLM-5.1获LMArena代码榜开源第一、全球第三
+已保存到 Markdown: ./output/blockbeats/2026-04-10.md
+  [BlockBeats] 新快讯: 今日Hyperliquid上共14位巨鲸开立百万级原油头寸，悉数为多单
+推送成功: 【BLOCKBEATS - 融资】今日Hyperliquid上共14位巨鲸开立百万级原油头寸，悉数为多单
 已保存到 Markdown: ./output/blockbeats/2026-04-10.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -31,7 +34,7 @@ Scraping RootData...
 =========================== logs ===========================
 waiting for event "download"
 ============================================================
-Cycle completed. 2026-04-10 09:13:54.661491
+Cycle completed. 2026-04-10 10:58:07.552415
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -41,13 +44,13 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-加密日历洞察_2026-04-10.png
-2026-04-10 09:13:14,914 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
-2026-04-10 09:13:14,917 - INFO -   Market Image...
-2026-04-10 09:13:19,609 - INFO -     Clicked market download icon
-2026-04-10 09:13:24,698 - INFO -     Clicked save button
-2026-04-10 09:13:54,649 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
+-04-10 10:57:27,000 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-04-10.png
+2026-04-10 10:57:27,901 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
+2026-04-10 10:57:27,904 - INFO -   Market Image...
+2026-04-10 10:57:32,505 - INFO -     Clicked market download icon
+2026-04-10 10:57:37,600 - INFO -     Clicked save button
+2026-04-10 10:58:07,539 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
 =========================== logs ===========================
 waiting for event "download"
 ============================================================
-2026-04-10 09:13:54,661 - INFO - Cycle completed. 2026-04-10 09:13:54.661491
+2026-04-10 10:58:07,552 - INFO - Cycle completed. 2026-04-10 10:58:07.552415

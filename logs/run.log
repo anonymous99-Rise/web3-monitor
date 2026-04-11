@@ -1,10 +1,7 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 蔡浩宇旗下AI公司Anuttacon发布首个视频大模型LPM1.0
-推送成功: 【BLOCKBEATS - 链上侦探】蔡浩宇旗下AI公司Anuttacon发布首个视频大模型LPM1.0
-已保存到 Markdown: ./output/blockbeats/2026-04-11.md
-  [BlockBeats] 新快讯: Ramp Labs提出多智能体记忆共享新方案，Token消耗最高降低65%
-推送成功: 【BLOCKBEATS - 链上侦探】Ramp Labs提出多智能体记忆共享新方案，Token消耗最高降低65%
+  [BlockBeats] 新快讯: OpenClaw发布v2026.4.10，主推主动记忆子代理与Codex深度集成
+推送成功: 【BLOCKBEATS - 链上侦探】OpenClaw发布v2026.4.10，主推主动记忆子代理与Codex深度集成
 已保存到 Markdown: ./output/blockbeats/2026-04-11.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -31,7 +28,7 @@ Scraping RootData...
 =========================== logs ===========================
 waiting for event "download"
 ============================================================
-Cycle completed. 2026-04-11 06:04:51.841165
+Cycle completed. 2026-04-11 07:52:08.724505
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -41,13 +38,12 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-加密日历洞察_2026-04-11.png
-2026-04-11 06:04:12,135 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
-2026-04-11 06:04:12,138 - INFO -   Market Image...
-2026-04-11 06:04:16,793 - INFO -     Clicked market download icon
-2026-04-11 06:04:34,664 - INFO -     Clicked save button
-2026-04-11 06:04:51,828 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
+�来7天加密日历洞察
+2026-04-11 07:51:28,969 - INFO -   Market Image...
+2026-04-11 07:51:33,657 - INFO -     Clicked market download icon
+2026-04-11 07:51:38,761 - INFO -     Clicked save button
+2026-04-11 07:52:08,707 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
 =========================== logs ===========================
 waiting for event "download"
 ============================================================
-2026-04-11 06:04:51,841 - INFO - Cycle completed. 2026-04-11 06:04:51.841165
+2026-04-11 07:52:08,724 - INFO - Cycle completed. 2026-04-11 07:52:08.724505

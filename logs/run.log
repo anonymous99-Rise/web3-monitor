@@ -1,11 +1,5 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 某鲸鱼3小时前从Binance提取价值238万美元LINK
-推送成功: 【BLOCKBEATS - 融资】某鲸鱼3小时前从Binance提取价值238万美元LINK
-已保存到 Markdown: ./output/blockbeats/2026-04-11.md
-  [BlockBeats] 新快讯: 「麻吉」渐入佳境，多单持仓稳增至4217万美元，一通高抛低吸月度战绩已扭亏
-推送成功: 【BLOCKBEATS - 融资】「麻吉」渐入佳境，多单持仓稳增至4217万美元，一通高抛低吸月度战绩已扭亏
-已保存到 Markdown: ./output/blockbeats/2026-04-11.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
   Category: 项目动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1003&is_hot=1
@@ -31,7 +25,7 @@ Scraping RootData...
 =========================== logs ===========================
 waiting for event "download"
 ============================================================
-Cycle completed. 2026-04-11 09:43:22.115019
+Cycle completed. 2026-04-11 10:37:41.999912
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -41,13 +35,10 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-加密日历洞察_2026-04-11.png
-2026-04-11 09:42:41,788 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
-2026-04-11 09:42:41,792 - INFO -   Market Image...
-2026-04-11 09:42:47,066 - INFO -     Clicked market download icon
-2026-04-11 09:42:52,160 - INFO -     Clicked save button
-2026-04-11 09:43:22,101 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
+44 - INFO -     Clicked market download icon
+2026-04-11 10:37:12,042 - INFO -     Clicked save button
+2026-04-11 10:37:41,989 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
 =========================== logs ===========================
 waiting for event "download"
 ============================================================
-2026-04-11 09:43:22,115 - INFO - Cycle completed. 2026-04-11 09:43:22.115019
+2026-04-11 10:37:41,999 - INFO - Cycle completed. 2026-04-11 10:37:41.999912

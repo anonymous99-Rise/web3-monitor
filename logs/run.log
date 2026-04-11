@@ -6,10 +6,25 @@
   Category: 市场观点 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1002&is_hot=1
   Category: 链上数据 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1001&is_hot=1
   Category: 融资动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1000&is_hot=1
-Error in monitor loop: Page.goto: Timeout 30000ms exceeded.
-Call log:
-  - navigating to "https://www.techflowpost.com/zh-CN/newsletter?articleType=1000&is_hot=1", waiting until "load"
-
+Scraping RootData...
+  List: Top 100 项目
+  List: 透明度评分提升榜
+  List: 交易所透明度排名
+  Calendar Events...
+  Calendar Insight Image...
+    Clicked calendar insight icon
+    Clicked generate share image button
+    Clicked download button
+    Saved Calendar Image: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-04-11.png
+    Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-04-11.png
+推送成功: 📅 RootData | 未来7天加密日历洞察
+  Market Image...
+    Clicked market download icon
+    Clicked save button
+    Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-04-11.png
+    Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-04-11.png
+推送成功: 📊 RootData | Top Gainers
+Cycle completed. 2026-04-11 21:36:28.115820
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -19,3 +34,9 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
+-11 21:36:20,458 - INFO -     Clicked market download icon
+2026-04-11 21:36:27,728 - INFO -     Clicked save button
+2026-04-11 21:36:27,737 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-04-11.png
+2026-04-11 21:36:27,737 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-04-11.png
+2026-04-11 21:36:28,101 - INFO - 推送成功: 📊 RootData | Top Gainers
+2026-04-11 21:36:28,115 - INFO - Cycle completed. 2026-04-11 21:36:28.115820

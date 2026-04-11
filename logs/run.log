@@ -1,22 +1,10 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: OpenAI披露第三方库安全事件：未发现用户数据泄露，要求macOS用户更新应用
-推送成功: 【BLOCKBEATS - 链上侦探】OpenAI披露第三方库安全事件：未发现用户数据泄露，要求macOS用户更新应用
+  [BlockBeats] 新快讯: 蔡浩宇旗下AI公司Anuttacon发布首个视频大模型LPM1.0
+推送成功: 【BLOCKBEATS - 链上侦探】蔡浩宇旗下AI公司Anuttacon发布首个视频大模型LPM1.0
 已保存到 Markdown: ./output/blockbeats/2026-04-11.md
-  [BlockBeats] 新快讯: AI基础设施平台Modal完成对AI智能体初创公司Butter的收购
-推送成功: 【BLOCKBEATS - 链上侦探】AI基础设施平台Modal完成对AI智能体初创公司Butter的收购
-已保存到 Markdown: ./output/blockbeats/2026-04-11.md
-  [BlockBeats] 新快讯: OpenAI数据中心高层动荡：多名核心负责人离职，战略再生变数
-推送成功: 【BLOCKBEATS - 链上侦探】OpenAI数据中心高层动荡：多名核心负责人离职，战略再生变数
-已保存到 Markdown: ./output/blockbeats/2026-04-11.md
-  [BlockBeats] 新快讯: NOM 24小时跌近40%，超14.42亿枚NOM遭「大庄」充入CEX
-推送成功: 【BLOCKBEATS - 融资】NOM 24小时跌近40%，超14.42亿枚NOM遭「大庄」充入CEX
-已保存到 Markdown: ./output/blockbeats/2026-04-11.md
-  [BlockBeats] 新快讯: Cumberland关联地址从CEX增持2.65万枚ETH，价值约5952万美元
-推送成功: 【BLOCKBEATS - 融资】Cumberland关联地址从CEX增持2.65万枚ETH，价值约5952万美元
-已保存到 Markdown: ./output/blockbeats/2026-04-11.md
-  [BlockBeats] 新快讯: WLFI于Dolomite偿还2500万枚USD1借款，存款利率恢复至10.43%
-推送成功: 【BLOCKBEATS - 融资】WLFI于Dolomite偿还2500万枚USD1借款，存款利率恢复至10.43%
+  [BlockBeats] 新快讯: Ramp Labs提出多智能体记忆共享新方案，Token消耗最高降低65%
+推送成功: 【BLOCKBEATS - 链上侦探】Ramp Labs提出多智能体记忆共享新方案，Token消耗最高降低65%
 已保存到 Markdown: ./output/blockbeats/2026-04-11.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -43,7 +31,7 @@ Scraping RootData...
 =========================== logs ===========================
 waiting for event "download"
 ============================================================
-Cycle completed. 2026-04-11 04:58:20.500936
+Cycle completed. 2026-04-11 06:04:51.841165
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -53,17 +41,13 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-lendar insight icon
-2026-04-11 04:57:39,865 - INFO -     Clicked generate share image button
-2026-04-11 04:57:40,377 - INFO -     Clicked download button
-2026-04-11 04:57:40,412 - INFO -     Saved Calendar Image: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-04-11.png
-2026-04-11 04:57:40,412 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-04-11.png
-2026-04-11 04:57:41,112 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
-2026-04-11 04:57:41,115 - INFO -   Market Image...
-2026-04-11 04:57:45,448 - INFO -     Clicked market download icon
-2026-04-11 04:57:50,549 - INFO -     Clicked save button
-2026-04-11 04:58:20,487 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
+加密日历洞察_2026-04-11.png
+2026-04-11 06:04:12,135 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
+2026-04-11 06:04:12,138 - INFO -   Market Image...
+2026-04-11 06:04:16,793 - INFO -     Clicked market download icon
+2026-04-11 06:04:34,664 - INFO -     Clicked save button
+2026-04-11 06:04:51,828 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
 =========================== logs ===========================
 waiting for event "download"
 ============================================================
-2026-04-11 04:58:20,500 - INFO - Cycle completed. 2026-04-11 04:58:20.500936
+2026-04-11 06:04:51,841 - INFO - Cycle completed. 2026-04-11 06:04:51.841165

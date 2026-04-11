@@ -1,5 +1,26 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
+  [BlockBeats] 新快讯: Sam Altman长文回应燃烧瓶攻击：理解公众对AI的恐惧，呼吁技术权力分散
+推送成功: 【BLOCKBEATS - 链上侦探】Sam Altman长文回应燃烧瓶攻击：理解公众对AI的恐惧，呼吁技术权力分散
+已保存到 Markdown: ./output/blockbeats/2026-04-11.md
+  [BlockBeats] 新快讯: 中科院团队提出超图记忆架构HyperMem，长对话AI记忆能力获突破
+推送成功: 【BLOCKBEATS - 链上侦探】中科院团队提出超图记忆架构HyperMem，长对话AI记忆能力获突破
+已保存到 Markdown: ./output/blockbeats/2026-04-11.md
+  [BlockBeats] 新快讯: Claude Code推出新功能Ultraplan，支持云端生成实施方案
+推送成功: 【BLOCKBEATS - 链上侦探】Claude Code推出新功能Ultraplan，支持云端生成实施方案
+已保存到 Markdown: ./output/blockbeats/2026-04-11.md
+  [BlockBeats] 新快讯: Anthropic推出Word文档AI助手，支持三款Office应用协同
+推送成功: 【BLOCKBEATS - 链上侦探】Anthropic推出Word文档AI助手，支持三款Office应用协同
+已保存到 Markdown: ./output/blockbeats/2026-04-11.md
+  [BlockBeats] 新快讯: OpenAI创始人Sam Altman住所遭燃烧瓶袭击
+推送成功: 【BLOCKBEATS - 链上侦探】OpenAI创始人Sam Altman住所遭燃烧瓶袭击
+已保存到 Markdown: ./output/blockbeats/2026-04-11.md
+  [BlockBeats] 新快讯: FF今晨短时暴涨137%，随后1.15亿枚FF从BitGo托管钱包转出
+推送成功: 【BLOCKBEATS - 融资】FF今晨短时暴涨137%，随后1.15亿枚FF从BitGo托管钱包转出
+已保存到 Markdown: ./output/blockbeats/2026-04-11.md
+  [BlockBeats] 新快讯: 以太坊基金会以2,221美元均价出售5,000枚ETH
+推送成功: 【BLOCKBEATS - 融资】以太坊基金会以2,221美元均价出售5,000枚ETH
+已保存到 Markdown: ./output/blockbeats/2026-04-11.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
   Category: 项目动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1003&is_hot=1
@@ -8,15 +29,30 @@
   Category: 融资动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1000&is_hot=1
 Scraping RootData...
   List: Top 100 项目
+  [RootData] 新榜单: Top 100 项目
+推送成功: 【RootData - Top 100 项目】
+推送成功: 【RootData - Top 100 项目】 (续)
+已保存到 Markdown: ./output/rootdata/2026-04-11.md
   List: 透明度评分提升榜
+  [RootData] 新榜单: 透明度评分提升榜
+推送成功: 【RootData - 透明度评分提升榜】
+推送成功: 【RootData - 透明度评分提升榜】 (续)
+已保存到 Markdown: ./output/rootdata/2026-04-11.md
   List: 交易所透明度排名
+  [RootData] 新榜单: 交易所透明度排名
+推送成功: 【RootData - 交易所透明度排名】
+推送成功: 【RootData - 交易所透明度排名】 (续)
+已保存到 Markdown: ./output/rootdata/2026-04-11.md
   Calendar Events...
+  [RootData] 日历事件: 10 条
+推送成功: 📅 RootData | 今日日历事件
+已保存到 Markdown: ./output/rootdata/2026-04-11.md
   Calendar Insight Image...
     Clicked calendar insight icon
     Clicked generate share image button
     Clicked download button
-    Saved Calendar Image: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-04-10.png
-    Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-04-10.png
+    Saved Calendar Image: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-04-11.png
+    Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-04-11.png
 推送成功: 📅 RootData | 未来7天加密日历洞察
   Market Image...
     Clicked market download icon
@@ -25,7 +61,7 @@ Scraping RootData...
 =========================== logs ===========================
 waiting for event "download"
 ============================================================
-Cycle completed. 2026-04-10 23:38:48.098851
+Cycle completed. 2026-04-11 02:28:17.431677
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -35,10 +71,25 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-53 - INFO -     Clicked market download icon
-2026-04-10 23:38:18,145 - INFO -     Clicked save button
-2026-04-10 23:38:48,085 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
+��排名】
+2026-04-11 02:27:31,628 - INFO - 推送成功: 【RootData - 交易所透明度排名】 (续)
+2026-04-11 02:27:31,630 - INFO - 已保存到 Markdown: ./output/rootdata/2026-04-11.md
+2026-04-11 02:27:31,630 - INFO -   Calendar Events...
+2026-04-11 02:27:33,882 - INFO -   [RootData] 日历事件: 10 条
+2026-04-11 02:27:34,104 - INFO - 推送成功: 📅 RootData | 今日日历事件
+2026-04-11 02:27:34,105 - INFO - 已保存到 Markdown: ./output/rootdata/2026-04-11.md
+2026-04-11 02:27:34,105 - INFO -   Calendar Insight Image...
+2026-04-11 02:27:34,263 - INFO -     Clicked calendar insight icon
+2026-04-11 02:27:36,070 - INFO -     Clicked generate share image button
+2026-04-11 02:27:36,585 - INFO -     Clicked download button
+2026-04-11 02:27:36,642 - INFO -     Saved Calendar Image: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-04-11.png
+2026-04-11 02:27:36,642 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-04-11.png
+2026-04-11 02:27:37,149 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
+2026-04-11 02:27:37,152 - INFO -   Market Image...
+2026-04-11 02:27:42,366 - INFO -     Clicked market download icon
+2026-04-11 02:27:47,583 - INFO -     Clicked save button
+2026-04-11 02:28:17,416 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
 =========================== logs ===========================
 waiting for event "download"
 ============================================================
-2026-04-10 23:38:48,098 - INFO - Cycle completed. 2026-04-10 23:38:48.098851
+2026-04-11 02:28:17,431 - INFO - Cycle completed. 2026-04-11 02:28:17.431677

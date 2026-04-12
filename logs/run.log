@@ -5,12 +5,9 @@
   Category: 项目动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1003&is_hot=1
   Category: 市场观点 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1002&is_hot=1
   Category: 链上数据 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1001&is_hot=1
-  Category: 融资动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1000&is_hot=1
-Scraping RootData...
-  List: Top 100 项目
 Error in monitor loop: Page.goto: Timeout 30000ms exceeded.
 Call log:
-  - navigating to "https://cn.rootdata.com/rootdatalist/2025/top-projects", waiting until "load"
+  - navigating to "https://www.techflowpost.com/zh-CN/newsletter?articleType=1001&is_hot=1", waiting until "load"
 
   Database initialized: data.db
   Loaded BlockBeats cookies

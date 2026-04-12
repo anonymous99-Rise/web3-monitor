@@ -1,13 +1,10 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 宇树科技H1机器人刷新人形机器人百米速度世界纪录
-推送成功: 【BLOCKBEATS - 链上侦探】宇树科技H1机器人刷新人形机器人百米速度世界纪录
+  [BlockBeats] 新快讯: Gary Marcus：Claude Code是LLM以来AI最大进步，核心依靠神经符号混合而非纯深度学习
+推送成功: 【BLOCKBEATS - 链上侦探】Gary Marcus：Claude Code是LLM以来AI最大进步，核心依靠神经符号混合而非纯深度学习
 已保存到 Markdown: ./output/blockbeats/2026-04-12.md
-  [BlockBeats] 新快讯: 英国金融监管机构紧急评估Anthropic最新AI模型风险
-推送成功: 【BLOCKBEATS - 链上侦探】英国金融监管机构紧急评估Anthropic最新AI模型风险
-已保存到 Markdown: ./output/blockbeats/2026-04-12.md
-  [BlockBeats] 新快讯: 某巨鲸平仓白银多单，建仓价值900万美元原油多单
-推送成功: 【BLOCKBEATS - 融资】某巨鲸平仓白银多单，建仓价值900万美元原油多单
+  [BlockBeats] 新快讯: 巨鲸「先定10个大目标」空单已浮盈321万美元，BTC开仓价71554.61美元
+推送成功: 【BLOCKBEATS - 融资】巨鲸「先定10个大目标」空单已浮盈321万美元，BTC开仓价71554.61美元
 已保存到 Markdown: ./output/blockbeats/2026-04-12.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -33,7 +30,7 @@ Scraping RootData...
     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-04-12.png
     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-04-12.png
 推送成功: 📊 RootData | Top Gainers
-Cycle completed. 2026-04-12 13:05:55.118593
+Cycle completed. 2026-04-12 14:41:51.887027
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -43,13 +40,12 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-04-12.png
-2026-04-12 13:05:41,273 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-04-12.png
-2026-04-12 13:05:42,534 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
-2026-04-12 13:05:42,537 - INFO -   Market Image...
-2026-04-12 13:05:47,178 - INFO -     Clicked market download icon
-2026-04-12 13:05:54,307 - INFO -     Clicked save button
-2026-04-12 13:05:54,315 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-04-12.png
-2026-04-12 13:05:54,315 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-04-12.png
-2026-04-12 13:05:55,104 - INFO - 推送成功: 📊 RootData | Top Gainers
-2026-04-12 13:05:55,118 - INFO - Cycle completed. 2026-04-12 13:05:55.118593
+hts/未来7天加密日历洞察_2026-04-12.png
+2026-04-12 14:41:39,376 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
+2026-04-12 14:41:39,379 - INFO -   Market Image...
+2026-04-12 14:41:43,641 - INFO -     Clicked market download icon
+2026-04-12 14:41:51,322 - INFO -     Clicked save button
+2026-04-12 14:41:51,329 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-04-12.png
+2026-04-12 14:41:51,329 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-04-12.png
+2026-04-12 14:41:51,872 - INFO - 推送成功: 📊 RootData | Top Gainers
+2026-04-12 14:41:51,887 - INFO - Cycle completed. 2026-04-12 14:41:51.887027

@@ -1,5 +1,20 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
+  [BlockBeats] 新快讯: Cloudflare启动「Agents Week」，押注V8隔离体取代容器成为Agent基础设施
+推送成功: 【BLOCKBEATS - 链上侦探】Cloudflare启动「Agents Week」，押注V8隔离体取代容器成为Agent基础设施
+已保存到 Markdown: ./output/blockbeats/2026-04-13.md
+  [BlockBeats] 新快讯: MiniMax M2.7「号称开源实则禁止商用」，引发开源社区强烈不满
+推送成功: 【BLOCKBEATS - 链上侦探】MiniMax M2.7「号称开源实则禁止商用」，引发开源社区强烈不满
+已保存到 Markdown: ./output/blockbeats/2026-04-13.md
+  [BlockBeats] 新快讯: 前白宫AI沙皇称Anthropic正成为AI行业「狼来了少年」，Tom's Hardware拆解Mythos漏洞数据
+推送成功: 【BLOCKBEATS - 链上侦探】前白宫AI沙皇称Anthropic正成为AI行业「狼来了少年」，Tom's Hardware拆解Mythos漏洞数据
+已保存到 Markdown: ./output/blockbeats/2026-04-13.md
+  [BlockBeats] 新快讯: Sam Altman旧金山住宅两天内遭燃烧瓶和枪击袭击，三人被捕
+推送成功: 【BLOCKBEATS - 链上侦探】Sam Altman旧金山住宅两天内遭燃烧瓶和枪击袭击，三人被捕
+已保存到 Markdown: ./output/blockbeats/2026-04-13.md
+  [BlockBeats] 新快讯: 苹果首款智能眼镜将有至少四种镜框，计划2027年发售
+推送成功: 【BLOCKBEATS - 链上侦探】苹果首款智能眼镜将有至少四种镜框，计划2027年发售
+已保存到 Markdown: ./output/blockbeats/2026-04-13.md
   [BlockBeats] 新快讯: 软银、NEC、本田、索尼四家日企牵头成立「日本AI基础模型开发」公司
 推送成功: 【BLOCKBEATS - 链上侦探】软银、NEC、本田、索尼四家日企牵头成立「日本AI基础模型开发」公司
 已保存到 Markdown: ./output/blockbeats/2026-04-13.md
@@ -8,6 +23,15 @@
 已保存到 Markdown: ./output/blockbeats/2026-04-13.md
   [BlockBeats] 新快讯: 荣耀与字节接洽「豆包手机」合作，Agent任务执行能力成为智能手机下一核心赛点
 推送成功: 【BLOCKBEATS - 链上侦探】荣耀与字节接洽「豆包手机」合作，Agent任务执行能力成为智能手机下一核心赛点
+已保存到 Markdown: ./output/blockbeats/2026-04-13.md
+  [BlockBeats] 新快讯: 「币安人生」半月录六倍涨幅，疑似控盘者昨夜提出937万美元代币
+推送成功: 【BLOCKBEATS - 融资】「币安人生」半月录六倍涨幅，疑似控盘者昨夜提出937万美元代币
+已保存到 Markdown: ./output/blockbeats/2026-04-13.md
+  [BlockBeats] 新快讯: 受Shib官推互动关注，Meme币bull市值短时涨至1000万美元
+推送成功: 【BLOCKBEATS - 融资】受Shib官推互动关注，Meme币bull市值短时涨至1000万美元
+已保存到 Markdown: ./output/blockbeats/2026-04-13.md
+  [BlockBeats] 新快讯: 涨9美元即爆仓！高杠杆地址25倍做空6700枚ETH
+推送成功: 【BLOCKBEATS - 融资】涨9美元即爆仓！高杠杆地址25倍做空6700枚ETH
 已保存到 Markdown: ./output/blockbeats/2026-04-13.md
   [BlockBeats] 新快讯: 押注BTC跑赢HYPE的巨鲸再录亏损，HYPE回涨致其周亏超190万美元
 推送成功: 【BLOCKBEATS - 融资】押注BTC跑赢HYPE的巨鲸再录亏损，HYPE回涨致其周亏超190万美元
@@ -30,9 +54,6 @@
   [BlockBeats] 新快讯: FTX/Alameda地址将198,426枚SOL解除质押，价值1621万美元
 推送成功: 【BLOCKBEATS - 融资】FTX/Alameda地址将198,426枚SOL解除质押，价值1621万美元
 已保存到 Markdown: ./output/blockbeats/2026-04-13.md
-  [BlockBeats] 新快讯: 两地址今日合计质押超2.3万枚ETH，价值约5074万美元
-推送成功: 【BLOCKBEATS - 融资】两地址今日合计质押超2.3万枚ETH，价值约5074万美元
-已保存到 Markdown: ./output/blockbeats/2026-04-13.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
   Category: 项目动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1003&is_hot=1
@@ -41,10 +62,38 @@
   Category: 融资动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1000&is_hot=1
 Scraping RootData...
   List: Top 100 项目
-Error in monitor loop: Page.goto: Timeout 30000ms exceeded.
-Call log:
-  - navigating to "https://cn.rootdata.com/rootdatalist/2025/top-projects", waiting until "load"
-
+  [RootData] 新榜单: Top 100 项目
+推送成功: 【RootData - Top 100 项目】
+推送成功: 【RootData - Top 100 项目】 (续)
+已保存到 Markdown: ./output/rootdata/2026-04-13.md
+  List: 透明度评分提升榜
+  [RootData] 新榜单: 透明度评分提升榜
+推送成功: 【RootData - 透明度评分提升榜】
+推送成功: 【RootData - 透明度评分提升榜】 (续)
+已保存到 Markdown: ./output/rootdata/2026-04-13.md
+  List: 交易所透明度排名
+  [RootData] 新榜单: 交易所透明度排名
+推送成功: 【RootData - 交易所透明度排名】
+推送成功: 【RootData - 交易所透明度排名】 (续)
+已保存到 Markdown: ./output/rootdata/2026-04-13.md
+  Calendar Events...
+  [RootData] 日历事件: 10 条
+推送成功: 📅 RootData | 今日日历事件
+已保存到 Markdown: ./output/rootdata/2026-04-13.md
+  Calendar Insight Image...
+    Clicked calendar insight icon
+    Clicked generate share image button
+    Clicked download button
+    Saved Calendar Image: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-04-13.png
+    Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-04-13.png
+推送成功: 📅 RootData | 未来7天加密日历洞察
+  Market Image...
+    Clicked market download icon
+    Clicked save button
+    Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-04-13.png
+    Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-04-13.png
+推送成功: 📊 RootData | Top Gainers
+Cycle completed. 2026-04-13 05:45:29.058219
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -54,15 +103,38 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-1 - INFO -   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
-2026-04-13 02:50:47,612 - INFO -   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
-2026-04-13 02:50:59,866 - INFO -   Category: 项目动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1003&is_hot=1
-2026-04-13 02:51:13,887 - INFO -   Category: 市场观点 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1002&is_hot=1
-2026-04-13 02:51:27,150 - INFO -   Category: 链上数据 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1001&is_hot=1
-2026-04-13 02:51:40,663 - INFO -   Category: 融资动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1000&is_hot=1
-2026-04-13 02:51:54,678 - INFO - Scraping RootData...
-2026-04-13 02:51:54,701 - INFO -   List: Top 100 项目
-2026-04-13 02:52:24,701 - ERROR - Error in monitor loop: Page.goto: Timeout 30000ms exceeded.
-Call log:
-  - navigating to "https://cn.rootdata.com/rootdatalist/2025/top-projects", waiting until "load"
-
+ticleType=1000&is_hot=1
+2026-04-13 05:44:54,659 - INFO - Scraping RootData...
+2026-04-13 05:44:54,693 - INFO -   List: Top 100 项目
+2026-04-13 05:44:58,799 - INFO -   [RootData] 新榜单: Top 100 项目
+2026-04-13 05:44:59,092 - INFO - 推送成功: 【RootData - Top 100 项目】
+2026-04-13 05:45:00,645 - INFO - 推送成功: 【RootData - Top 100 项目】 (续)
+2026-04-13 05:45:00,647 - INFO - 已保存到 Markdown: ./output/rootdata/2026-04-13.md
+2026-04-13 05:45:00,647 - INFO -   List: 透明度评分提升榜
+2026-04-13 05:45:03,086 - INFO -   [RootData] 新榜单: 透明度评分提升榜
+2026-04-13 05:45:03,363 - INFO - 推送成功: 【RootData - 透明度评分提升榜】
+2026-04-13 05:45:04,720 - INFO - 推送成功: 【RootData - 透明度评分提升榜】 (续)
+2026-04-13 05:45:04,722 - INFO - 已保存到 Markdown: ./output/rootdata/2026-04-13.md
+2026-04-13 05:45:04,722 - INFO -   List: 交易所透明度排名
+2026-04-13 05:45:07,953 - INFO -   [RootData] 新榜单: 交易所透明度排名
+2026-04-13 05:45:08,257 - INFO - 推送成功: 【RootData - 交易所透明度排名】
+2026-04-13 05:45:09,493 - INFO - 推送成功: 【RootData - 交易所透明度排名】 (续)
+2026-04-13 05:45:09,494 - INFO - 已保存到 Markdown: ./output/rootdata/2026-04-13.md
+2026-04-13 05:45:09,494 - INFO -   Calendar Events...
+2026-04-13 05:45:11,885 - INFO -   [RootData] 日历事件: 10 条
+2026-04-13 05:45:12,155 - INFO - 推送成功: 📅 RootData | 今日日历事件
+2026-04-13 05:45:12,157 - INFO - 已保存到 Markdown: ./output/rootdata/2026-04-13.md
+2026-04-13 05:45:12,157 - INFO -   Calendar Insight Image...
+2026-04-13 05:45:12,269 - INFO -     Clicked calendar insight icon
+2026-04-13 05:45:13,942 - INFO -     Clicked generate share image button
+2026-04-13 05:45:14,453 - INFO -     Clicked download button
+2026-04-13 05:45:14,505 - INFO -     Saved Calendar Image: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-04-13.png
+2026-04-13 05:45:14,505 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-04-13.png
+2026-04-13 05:45:16,822 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
+2026-04-13 05:45:16,825 - INFO -   Market Image...
+2026-04-13 05:45:21,275 - INFO -     Clicked market download icon
+2026-04-13 05:45:28,421 - INFO -     Clicked save button
+2026-04-13 05:45:28,430 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-04-13.png
+2026-04-13 05:45:28,430 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-04-13.png
+2026-04-13 05:45:29,042 - INFO - 推送成功: 📊 RootData | Top Gainers
+2026-04-13 05:45:29,058 - INFO - Cycle completed. 2026-04-13 05:45:29.058219

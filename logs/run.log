@@ -17,6 +17,7 @@ Scraping RootData...
     Clicked download button
     Saved Calendar Image: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-04-13.png
     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-04-13.png
+Discord 推送失败 (尝试 1/3): 503 Server Error: Service Unavailable for url: https://discord.com/api/webhooks/1458679319911202919/do6RRCOypbkhP4RjKEvlSnG0h3RjwBnClgncbMCY95fJe6QpOdFcBSTvBw4rLmddLFL-
 推送成功: 📅 RootData | 未来7天加密日历洞察
   Market Image...
     Clicked market download icon
@@ -24,7 +25,7 @@ Scraping RootData...
     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-04-13.png
     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-04-13.png
 推送成功: 📊 RootData | Top Gainers
-Cycle completed. 2026-04-13 20:07:44.335225
+Cycle completed. 2026-04-13 21:53:35.607306
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -34,9 +35,10 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
--13 20:07:36,579 - INFO -     Clicked market download icon
-2026-04-13 20:07:43,842 - INFO -     Clicked save button
-2026-04-13 20:07:43,849 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-04-13.png
-2026-04-13 20:07:43,849 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-04-13.png
-2026-04-13 20:07:44,321 - INFO - 推送成功: 📊 RootData | Top Gainers
-2026-04-13 20:07:44,335 - INFO - Cycle completed. 2026-04-13 20:07:44.335225
+- INFO -   Market Image...
+2026-04-13 21:53:27,068 - INFO -     Clicked market download icon
+2026-04-13 21:53:34,761 - INFO -     Clicked save button
+2026-04-13 21:53:34,786 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-04-13.png
+2026-04-13 21:53:34,787 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-04-13.png
+2026-04-13 21:53:35,594 - INFO - 推送成功: 📊 RootData | Top Gainers
+2026-04-13 21:53:35,607 - INFO - Cycle completed. 2026-04-13 21:53:35.607306

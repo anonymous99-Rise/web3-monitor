@@ -1,5 +1,38 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
+  [BlockBeats] 新快讯: 软银、NEC、本田、索尼四家日企牵头成立「日本AI基础模型开发」公司
+推送成功: 【BLOCKBEATS - 链上侦探】软银、NEC、本田、索尼四家日企牵头成立「日本AI基础模型开发」公司
+已保存到 Markdown: ./output/blockbeats/2026-04-13.md
+  [BlockBeats] 新快讯: 阿里云调整标准版、专业版用户API免费额度并支持按量付费
+推送成功: 【BLOCKBEATS - 链上侦探】阿里云调整标准版、专业版用户API免费额度并支持按量付费
+已保存到 Markdown: ./output/blockbeats/2026-04-13.md
+  [BlockBeats] 新快讯: 荣耀与字节接洽「豆包手机」合作，Agent任务执行能力成为智能手机下一核心赛点
+推送成功: 【BLOCKBEATS - 链上侦探】荣耀与字节接洽「豆包手机」合作，Agent任务执行能力成为智能手机下一核心赛点
+已保存到 Markdown: ./output/blockbeats/2026-04-13.md
+  [BlockBeats] 新快讯: 押注BTC跑赢HYPE的巨鲸再录亏损，HYPE回涨致其周亏超190万美元
+推送成功: 【BLOCKBEATS - 融资】押注BTC跑赢HYPE的巨鲸再录亏损，HYPE回涨致其周亏超190万美元
+已保存到 Markdown: ./output/blockbeats/2026-04-13.md
+  [BlockBeats] 新快讯: BSC链中文Meme币行情回暖，「龙虾」、「哈基米」等均录超20%涨幅
+推送成功: 【BLOCKBEATS - 融资】BSC链中文Meme币行情回暖，「龙虾」、「哈基米」等均录超20%涨幅
+已保存到 Markdown: ./output/blockbeats/2026-04-13.md
+  [BlockBeats] 新快讯: 某巨鲸平多千万规模BTC，并挂单计划于43.5美元上方止盈HYPE多仓
+推送成功: 【BLOCKBEATS - 融资】某巨鲸平多千万规模BTC，并挂单计划于43.5美元上方止盈HYPE多仓
+已保存到 Markdown: ./output/blockbeats/2026-04-13.md
+  [BlockBeats] 新快讯: 1985美元建仓ETH的波段巨鲸正获利了结，浮盈108.5万美元
+推送成功: 【BLOCKBEATS - 融资】1985美元建仓ETH的波段巨鲸正获利了结，浮盈108.5万美元
+已保存到 Markdown: ./output/blockbeats/2026-04-13.md
+  [BlockBeats] 新快讯: 某地址开出1475万美元ETH空单，清算空间仅9.3美元
+推送成功: 【BLOCKBEATS - 融资】某地址开出1475万美元ETH空单，清算空间仅9.3美元
+已保存到 Markdown: ./output/blockbeats/2026-04-13.md
+  [BlockBeats] 新快讯: 「币安人生」今晨市值触及2亿美元，24小时涨幅35%
+推送成功: 【BLOCKBEATS - 融资】「币安人生」今晨市值触及2亿美元，24小时涨幅35%
+已保存到 Markdown: ./output/blockbeats/2026-04-13.md
+  [BlockBeats] 新快讯: FTX/Alameda地址将198,426枚SOL解除质押，价值1621万美元
+推送成功: 【BLOCKBEATS - 融资】FTX/Alameda地址将198,426枚SOL解除质押，价值1621万美元
+已保存到 Markdown: ./output/blockbeats/2026-04-13.md
+  [BlockBeats] 新快讯: 两地址今日合计质押超2.3万枚ETH，价值约5074万美元
+推送成功: 【BLOCKBEATS - 融资】两地址今日合计质押超2.3万枚ETH，价值约5074万美元
+已保存到 Markdown: ./output/blockbeats/2026-04-13.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
   Category: 项目动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1003&is_hot=1
@@ -8,23 +41,10 @@
   Category: 融资动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1000&is_hot=1
 Scraping RootData...
   List: Top 100 项目
-  List: 透明度评分提升榜
-  List: 交易所透明度排名
-  Calendar Events...
-  Calendar Insight Image...
-    Clicked calendar insight icon
-    Clicked generate share image button
-    Clicked download button
-    Saved Calendar Image: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-04-12.png
-    Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-04-12.png
-推送成功: 📅 RootData | 未来7天加密日历洞察
-  Market Image...
-    Clicked market download icon
-    Clicked save button
-    Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-04-12.png
-    Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-04-12.png
-推送成功: 📊 RootData | Top Gainers
-Cycle completed. 2026-04-12 23:39:05.042245
+Error in monitor loop: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://cn.rootdata.com/rootdatalist/2025/top-projects", waiting until "load"
+
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -34,9 +54,15 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
--12 23:38:56,063 - INFO -     Clicked market download icon
-2026-04-12 23:39:03,778 - INFO -     Clicked save button
-2026-04-12 23:39:03,786 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-04-12.png
-2026-04-12 23:39:03,786 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-04-12.png
-2026-04-12 23:39:05,025 - INFO - 推送成功: 📊 RootData | Top Gainers
-2026-04-12 23:39:05,042 - INFO - Cycle completed. 2026-04-12 23:39:05.042245
+1 - INFO -   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
+2026-04-13 02:50:47,612 - INFO -   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
+2026-04-13 02:50:59,866 - INFO -   Category: 项目动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1003&is_hot=1
+2026-04-13 02:51:13,887 - INFO -   Category: 市场观点 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1002&is_hot=1
+2026-04-13 02:51:27,150 - INFO -   Category: 链上数据 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1001&is_hot=1
+2026-04-13 02:51:40,663 - INFO -   Category: 融资动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1000&is_hot=1
+2026-04-13 02:51:54,678 - INFO - Scraping RootData...
+2026-04-13 02:51:54,701 - INFO -   List: Top 100 项目
+2026-04-13 02:52:24,701 - ERROR - Error in monitor loop: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://cn.rootdata.com/rootdatalist/2025/top-projects", waiting until "load"
+

@@ -1,37 +1,7 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: OpenAI计划为ChatGPT广告推出新定价，并探索其他升级方案
-推送成功: 【BLOCKBEATS - 链上侦探】OpenAI计划为ChatGPT广告推出新定价，并探索其他升级方案
-已保存到 Markdown: ./output/blockbeats/2026-04-15.md
-  [BlockBeats] 新快讯: 人工智能初创公司Hilbert完成2800万美元A轮融资，Andreessen Horowitz领投
-推送成功: 【BLOCKBEATS - 链上侦探】人工智能初创公司Hilbert完成2800万美元A轮融资，Andreessen Horowitz领投
-已保存到 Markdown: ./output/blockbeats/2026-04-15.md
-  [BlockBeats] 新快讯: EvoMap逐模块举证指控Hermes Agent架构抄袭，Nous Research只回了句「删号」
-推送成功: 【BLOCKBEATS - 链上侦探】EvoMap逐模块举证指控Hermes Agent架构抄袭，Nous Research只回了句「删号」
-已保存到 Markdown: ./output/blockbeats/2026-04-15.md
-  [BlockBeats] 新快讯: OpenClaw维护者回应负面攻击：我们不帮人拉盘，开源的中立方反遭抹黑
-推送成功: 【BLOCKBEATS - 链上侦探】OpenClaw维护者回应负面攻击：我们不帮人拉盘，开源的中立方反遭抹黑
-已保存到 Markdown: ./output/blockbeats/2026-04-15.md
-  [BlockBeats] 新快讯: CMU教授开源Agent框架Motus，多模型编排SWE-bench跑到79%且成本减半
-推送成功: 【BLOCKBEATS - 链上侦探】CMU教授开源Agent框架Motus，多模型编排SWE-bench跑到79%且成本减半
-已保存到 Markdown: ./output/blockbeats/2026-04-15.md
-  [BlockBeats] 新快讯: Cursor多智能体三周优化235个英伟达GPU算子，最佳成绩逼近硬件极限
-推送成功: 【BLOCKBEATS - 链上侦探】Cursor多智能体三周优化235个英伟达GPU算子，最佳成绩逼近硬件极限
-已保存到 Markdown: ./output/blockbeats/2026-04-15.md
-  [BlockBeats] 新快讯: Windsurf用RL训练专门抓Bug的小模型，分内评测已追平Claude Opus 4.6
-推送成功: 【BLOCKBEATS - 链上侦探】Windsurf用RL训练专门抓Bug的小模型，分内评测已追平Claude Opus 4.6
-已保存到 Markdown: ./output/blockbeats/2026-04-15.md
-  [BlockBeats] 新快讯: 特朗普：Anthropic的威胁并非系统性的，将会被解决
-推送成功: 【BLOCKBEATS - 链上侦探】特朗普：Anthropic的威胁并非系统性的，将会被解决
-已保存到 Markdown: ./output/blockbeats/2026-04-15.md
-  [BlockBeats] 新快讯: OpenRouter上线重排序模型，开发者用同一接口即可给RAG加精排
-推送成功: 【BLOCKBEATS - 链上侦探】OpenRouter上线重排序模型，开发者用同一接口即可给RAG加精排
-已保存到 Markdown: ./output/blockbeats/2026-04-15.md
-  [BlockBeats] 新快讯: 阿里云：对大模型服务平台百炼部分MU模型单元的服务价格进行上调
-推送成功: 【BLOCKBEATS - 链上侦探】阿里云：对大模型服务平台百炼部分MU模型单元的服务价格进行上调
-已保存到 Markdown: ./output/blockbeats/2026-04-15.md
-  [BlockBeats] 新快讯: 贝莱德旗下ETF向Coinbase Prime转入15101枚ETH与566.753枚BTC
-推送成功: 【BLOCKBEATS - 融资】贝莱德旗下ETF向Coinbase Prime转入15101枚ETH与566.753枚BTC
+  [BlockBeats] 新快讯: 中国国家数据局：拟探索词元交易等新型交易模式
+推送成功: 【BLOCKBEATS - 链上侦探】中国国家数据局：拟探索词元交易等新型交易模式
 已保存到 Markdown: ./output/blockbeats/2026-04-15.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -67,7 +37,7 @@ Call log:
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-Cycle completed. 2026-04-15 13:43:10.061756
+Cycle completed. 2026-04-15 15:07:56.498848
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -78,30 +48,11 @@ Scraping BlockBeats...
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
 
-2026-04-15 13:42:13,419 - ERROR -   Failed to scrape list Top 100 项目: Page.wait_for_selector: Timeout 15000ms exceeded.
-Call log:
-  - waiting for locator("table tr, .list-item") to be visible
-
-2026-04-15 13:42:13,420 - INFO -   List: 透明度评分提升榜
-2026-04-15 13:42:28,834 - ERROR -   Failed to scrape list 透明度评分提升榜: Page.wait_for_selector: Timeout 15000ms exceeded.
-Call log:
-  - waiting for locator("table tr, .list-item") to be visible
-
-2026-04-15 13:42:28,835 - INFO -   List: 交易所透明度排名
-2026-04-15 13:42:44,150 - ERROR -   Failed to scrape list 交易所透明度排名: Page.wait_for_selector: Timeout 15000ms exceeded.
-Call log:
-  - waiting for locator("table tr, .list-item") to be visible
-
-2026-04-15 13:42:44,150 - INFO -   Calendar Events...
-2026-04-15 13:42:59,764 - WARNING -   Calendar events fetch failed: Page.wait_for_selector: Timeout 15000ms exceeded.
-Call log:
-  - waiting for locator(".list-table, .list-row") to be visible
-
-2026-04-15 13:42:59,764 - INFO -   Calendar Insight Image...
-2026-04-15 13:42:59,767 - WARNING -     Calendar insight icon not found
-2026-04-15 13:42:59,767 - INFO -   Market Image...
-2026-04-15 13:43:10,051 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+2026-04-15 15:07:46,216 - INFO -   Calendar Insight Image...
+2026-04-15 15:07:46,218 - WARNING -     Calendar insight icon not found
+2026-04-15 15:07:46,218 - INFO -   Market Image...
+2026-04-15 15:07:56,489 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-2026-04-15 13:43:10,061 - INFO - Cycle completed. 2026-04-15 13:43:10.061756
+2026-04-15 15:07:56,498 - INFO - Cycle completed. 2026-04-15 15:07:56.498848

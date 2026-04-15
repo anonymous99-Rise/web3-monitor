@@ -1,5 +1,44 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
+  [BlockBeats] 新快讯: MiniMax更新M2.7许可证，个人用途明确写入免费条款，商用限制不变
+推送成功: 【BLOCKBEATS - 链上侦探】MiniMax更新M2.7许可证，个人用途明确写入免费条款，商用限制不变
+已保存到 Markdown: ./output/blockbeats/2026-04-15.md
+  [BlockBeats] 新快讯: 加密行业争抢Mythos测试权限，并用现有AI排查系统漏洞
+推送成功: 【BLOCKBEATS - 链上侦探】加密行业争抢Mythos测试权限，并用现有AI排查系统漏洞
+已保存到 Markdown: ./output/blockbeats/2026-04-15.md
+  [BlockBeats] 新快讯: 李飞飞World Labs开源Spark 2.0，浏览器内流式渲染超1亿个3D高斯点
+推送成功: 【BLOCKBEATS - 链上侦探】李飞飞World Labs开源Spark 2.0，浏览器内流式渲染超1亿个3D高斯点
+已保存到 Markdown: ./output/blockbeats/2026-04-15.md
+  [BlockBeats] 新快讯: 传Anthropic本周将推下一代旗舰模型Claude Opus 4.7和AI网页设计工具，Adobe、Figma、Wix股价跌超2%
+推送成功: 【BLOCKBEATS - 链上侦探】传Anthropic本周将推下一代旗舰模型Claude Opus 4.7和AI网页设计工具，Adobe、Figma、Wix股价跌超2%
+已保存到 Markdown: ./output/blockbeats/2026-04-15.md
+  [BlockBeats] 新快讯: Claude Code上线Routines，编程代理可在云端按计划或事件自动运行
+推送成功: 【BLOCKBEATS - 链上侦探】Claude Code上线Routines，编程代理可在云端按计划或事件自动运行
+已保存到 Markdown: ./output/blockbeats/2026-04-15.md
+  [BlockBeats] 新快讯: 谷歌Windows桌面AI搜索应用全球上线，Alt+Space唤起，无需打开浏览器
+推送成功: 【BLOCKBEATS - 链上侦探】谷歌Windows桌面AI搜索应用全球上线，Alt+Space唤起，无需打开浏览器
+已保存到 Markdown: ./output/blockbeats/2026-04-15.md
+  [BlockBeats] 新快讯: Anthropic企业版改按用量计费，重度用户成本或翻两三倍
+推送成功: 【BLOCKBEATS - 链上侦探】Anthropic企业版改按用量计费，重度用户成本或翻两三倍
+已保存到 Markdown: ./output/blockbeats/2026-04-15.md
+  [BlockBeats] 新快讯: Claude Code桌面版重设计，多会话并行、内置终端和文件编辑器
+推送成功: 【BLOCKBEATS - 链上侦探】Claude Code桌面版重设计，多会话并行、内置终端和文件编辑器
+已保存到 Markdown: ./output/blockbeats/2026-04-15.md
+  [BlockBeats] 新快讯: 谷歌Chrome上线Skills功能，AI提示词可保存为一键工具重复使用
+推送成功: 【BLOCKBEATS - 链上侦探】谷歌Chrome上线Skills功能，AI提示词可保存为一键工具重复使用
+已保存到 Markdown: ./output/blockbeats/2026-04-15.md
+  [BlockBeats] 新快讯: Anthropic因Claude Code性能下降引发用户强烈不满
+推送成功: 【BLOCKBEATS - 链上侦探】Anthropic因Claude Code性能下降引发用户强烈不满
+已保存到 Markdown: ./output/blockbeats/2026-04-15.md
+  [BlockBeats] 新快讯: 英伟达十日涨近19%，NVDA最大多头「Continue Capital」苦守5个月后今保本离场
+推送成功: 【BLOCKBEATS - 融资】英伟达十日涨近19%，NVDA最大多头「Continue Capital」苦守5个月后今保本离场
+已保存到 Markdown: ./output/blockbeats/2026-04-15.md
+  [BlockBeats] 新快讯: 某巨鲸开设42个山寨仓位，已浮亏622万美元
+推送成功: 【BLOCKBEATS - 融资】某巨鲸开设42个山寨仓位，已浮亏622万美元
+已保存到 Markdown: ./output/blockbeats/2026-04-15.md
+  [BlockBeats] 新快讯: Matrixport已平仓1150枚BTC和95,000枚ETH多单，实现盈利4819万美元
+推送成功: 【BLOCKBEATS - 融资】Matrixport已平仓1150枚BTC和95,000枚ETH多单，实现盈利4819万美元
+已保存到 Markdown: ./output/blockbeats/2026-04-15.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
   Category: 项目动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1003&is_hot=1
@@ -34,7 +73,7 @@ Call log:
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-Cycle completed. 2026-04-14 23:45:03.126353
+Cycle completed. 2026-04-15 02:41:22.058990
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -44,10 +83,33 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-   Calendar insight icon not found
-2026-04-14 23:44:52,788 - INFO -   Market Image...
-2026-04-14 23:45:03,116 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+: 融资动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1000&is_hot=1
+2026-04-15 02:40:07,643 - INFO - Scraping RootData...
+2026-04-15 02:40:07,676 - INFO -   List: Top 100 项目
+2026-04-15 02:40:25,542 - ERROR -   Failed to scrape list Top 100 项目: Page.wait_for_selector: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator("table tr, .list-item") to be visible
+
+2026-04-15 02:40:25,542 - INFO -   List: 透明度评分提升榜
+2026-04-15 02:40:40,852 - ERROR -   Failed to scrape list 透明度评分提升榜: Page.wait_for_selector: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator("table tr, .list-item") to be visible
+
+2026-04-15 02:40:40,852 - INFO -   List: 交易所透明度排名
+2026-04-15 02:40:56,479 - ERROR -   Failed to scrape list 交易所透明度排名: Page.wait_for_selector: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator("table tr, .list-item") to be visible
+
+2026-04-15 02:40:56,479 - INFO -   Calendar Events...
+2026-04-15 02:41:11,758 - WARNING -   Calendar events fetch failed: Page.wait_for_selector: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator(".list-table, .list-row") to be visible
+
+2026-04-15 02:41:11,758 - INFO -   Calendar Insight Image...
+2026-04-15 02:41:11,761 - WARNING -     Calendar insight icon not found
+2026-04-15 02:41:11,761 - INFO -   Market Image...
+2026-04-15 02:41:22,049 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-2026-04-14 23:45:03,126 - INFO - Cycle completed. 2026-04-14 23:45:03.126353
+2026-04-15 02:41:22,059 - INFO - Cycle completed. 2026-04-15 02:41:22.058990

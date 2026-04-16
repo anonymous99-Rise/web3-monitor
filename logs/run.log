@@ -1,5 +1,8 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
+  [BlockBeats] 新快讯: Anthropic发布最新模型Claude Opus 4.7：编程与视觉能力大幅提升，首搭网络安全防护机制
+推送成功: 【BLOCKBEATS - 链上侦探】Anthropic发布最新模型Claude Opus 4.7：编程与视觉能力大幅提升，首搭网络安全防护机制
+已保存到 Markdown: ./output/blockbeats/2026-04-16.md
   [BlockBeats] 新快讯: 通义实验室宣布Qwen3.6-35B-A3B开源
 推送成功: 【BLOCKBEATS - 链上侦探】通义实验室宣布Qwen3.6-35B-A3B开源
 已保存到 Markdown: ./output/blockbeats/2026-04-16.md
@@ -11,6 +14,9 @@
 已保存到 Markdown: ./output/blockbeats/2026-04-16.md
   [BlockBeats] 新快讯: Anthropic计划下周向英国银行开放Mythos模型使用
 推送成功: 【BLOCKBEATS - 链上侦探】Anthropic计划下周向英国银行开放Mythos模型使用
+已保存到 Markdown: ./output/blockbeats/2026-04-16.md
+  [BlockBeats] 新快讯: 某新建钱包从Binance提取1456枚BTC
+推送成功: 【BLOCKBEATS - 融资】某新建钱包从Binance提取1456枚BTC
 已保存到 Markdown: ./output/blockbeats/2026-04-16.md
   [BlockBeats] 新快讯: 某巨鲸做多138万枚HYPE一度浮亏2600万美元，目前浮盈850万美元
 推送成功: 【BLOCKBEATS - 融资】某巨鲸做多138万枚HYPE一度浮亏2600万美元，目前浮盈850万美元
@@ -26,10 +32,33 @@
   Category: 融资动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1000&is_hot=1
 Scraping RootData...
   List: Top 100 项目
-Error in monitor loop: Page.goto: Timeout 30000ms exceeded.
+  Failed to scrape list Top 100 项目: Page.wait_for_selector: Timeout 15000ms exceeded.
 Call log:
-  - navigating to "https://cn.rootdata.com/rootdatalist/2025/top-projects", waiting until "load"
+  - waiting for locator("table tr, .list-item") to be visible
 
+  List: 透明度评分提升榜
+  Failed to scrape list 透明度评分提升榜: Page.wait_for_selector: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator("table tr, .list-item") to be visible
+
+  List: 交易所透明度排名
+  Failed to scrape list 交易所透明度排名: Page.wait_for_selector: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator("table tr, .list-item") to be visible
+
+  Calendar Events...
+  Calendar events fetch failed: Page.wait_for_selector: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator(".list-table, .list-row") to be visible
+
+  Calendar Insight Image...
+    Calendar insight icon not found
+  Market Image...
+    Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(".v-data-table, table, .top-gainers") to be visible
+
+Cycle completed. 2026-04-16 15:29:30.124153
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -39,12 +68,25 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-_hot=1
-2026-04-16 13:49:31,865 - INFO -   Category: 链上数据 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1001&is_hot=1
-2026-04-16 13:49:32,573 - INFO -   Category: 融资动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1000&is_hot=1
-2026-04-16 13:49:33,223 - INFO - Scraping RootData...
-2026-04-16 13:49:33,260 - INFO -   List: Top 100 项目
-2026-04-16 13:50:03,263 - ERROR - Error in monitor loop: Page.goto: Timeout 30000ms exceeded.
+   Failed to scrape list 透明度评分提升榜: Page.wait_for_selector: Timeout 15000ms exceeded.
 Call log:
-  - navigating to "https://cn.rootdata.com/rootdatalist/2025/top-projects", waiting until "load"
+  - waiting for locator("table tr, .list-item") to be visible
 
+2026-04-16 15:28:49,273 - INFO -   List: 交易所透明度排名
+2026-04-16 15:29:04,567 - ERROR -   Failed to scrape list 交易所透明度排名: Page.wait_for_selector: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator("table tr, .list-item") to be visible
+
+2026-04-16 15:29:04,567 - INFO -   Calendar Events...
+2026-04-16 15:29:19,841 - WARNING -   Calendar events fetch failed: Page.wait_for_selector: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator(".list-table, .list-row") to be visible
+
+2026-04-16 15:29:19,841 - INFO -   Calendar Insight Image...
+2026-04-16 15:29:19,843 - WARNING -     Calendar insight icon not found
+2026-04-16 15:29:19,843 - INFO -   Market Image...
+2026-04-16 15:29:30,115 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(".v-data-table, table, .top-gainers") to be visible
+
+2026-04-16 15:29:30,124 - INFO - Cycle completed. 2026-04-16 15:29:30.124153

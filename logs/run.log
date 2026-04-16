@@ -1,29 +1,5 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: Anthropic发布最新模型Claude Opus 4.7：编程与视觉能力大幅提升，首搭网络安全防护机制
-推送成功: 【BLOCKBEATS - 链上侦探】Anthropic发布最新模型Claude Opus 4.7：编程与视觉能力大幅提升，首搭网络安全防护机制
-已保存到 Markdown: ./output/blockbeats/2026-04-16.md
-  [BlockBeats] 新快讯: 通义实验室宣布Qwen3.6-35B-A3B开源
-推送成功: 【BLOCKBEATS - 链上侦探】通义实验室宣布Qwen3.6-35B-A3B开源
-已保存到 Markdown: ./output/blockbeats/2026-04-16.md
-  [BlockBeats] 新快讯: 字节回应「近亿元挖来DeepSeek核心员工」：近期没有招聘到近亿元年薪员工
-推送成功: 【BLOCKBEATS - 链上侦探】字节回应「近亿元挖来DeepSeek核心员工」：近期没有招聘到近亿元年薪员工
-已保存到 Markdown: ./output/blockbeats/2026-04-16.md
-  [BlockBeats] 新快讯: 郭达雅近亿元年薪入职字节Seed任agent负责人，阿里腾讯曾同时争抢
-推送成功: 【BLOCKBEATS - 链上侦探】郭达雅近亿元年薪入职字节Seed任agent负责人，阿里腾讯曾同时争抢
-已保存到 Markdown: ./output/blockbeats/2026-04-16.md
-  [BlockBeats] 新快讯: Anthropic计划下周向英国银行开放Mythos模型使用
-推送成功: 【BLOCKBEATS - 链上侦探】Anthropic计划下周向英国银行开放Mythos模型使用
-已保存到 Markdown: ./output/blockbeats/2026-04-16.md
-  [BlockBeats] 新快讯: 某新建钱包从Binance提取1456枚BTC
-推送成功: 【BLOCKBEATS - 融资】某新建钱包从Binance提取1456枚BTC
-已保存到 Markdown: ./output/blockbeats/2026-04-16.md
-  [BlockBeats] 新快讯: 某巨鲸做多138万枚HYPE一度浮亏2600万美元，目前浮盈850万美元
-推送成功: 【BLOCKBEATS - 融资】某巨鲸做多138万枚HYPE一度浮亏2600万美元，目前浮盈850万美元
-已保存到 Markdown: ./output/blockbeats/2026-04-16.md
-  [BlockBeats] 新快讯: 某巨鲸以20倍杠杆做多价值1150万美元黄金和白银
-推送成功: 【BLOCKBEATS - 融资】某巨鲸以20倍杠杆做多价值1150万美元黄金和白银
-已保存到 Markdown: ./output/blockbeats/2026-04-16.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
   Category: 项目动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1003&is_hot=1
@@ -58,7 +34,7 @@ Call log:
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-Cycle completed. 2026-04-16 15:29:30.124153
+Cycle completed. 2026-04-16 17:18:43.151215
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -68,25 +44,10 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-   Failed to scrape list 透明度评分提升榜: Page.wait_for_selector: Timeout 15000ms exceeded.
-Call log:
-  - waiting for locator("table tr, .list-item") to be visible
-
-2026-04-16 15:28:49,273 - INFO -   List: 交易所透明度排名
-2026-04-16 15:29:04,567 - ERROR -   Failed to scrape list 交易所透明度排名: Page.wait_for_selector: Timeout 15000ms exceeded.
-Call log:
-  - waiting for locator("table tr, .list-item") to be visible
-
-2026-04-16 15:29:04,567 - INFO -   Calendar Events...
-2026-04-16 15:29:19,841 - WARNING -   Calendar events fetch failed: Page.wait_for_selector: Timeout 15000ms exceeded.
-Call log:
-  - waiting for locator(".list-table, .list-row") to be visible
-
-2026-04-16 15:29:19,841 - INFO -   Calendar Insight Image...
-2026-04-16 15:29:19,843 - WARNING -     Calendar insight icon not found
-2026-04-16 15:29:19,843 - INFO -   Market Image...
-2026-04-16 15:29:30,115 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+   Calendar insight icon not found
+2026-04-16 17:18:32,854 - INFO -   Market Image...
+2026-04-16 17:18:43,142 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-2026-04-16 15:29:30,124 - INFO - Cycle completed. 2026-04-16 15:29:30.124153
+2026-04-16 17:18:43,151 - INFO - Cycle completed. 2026-04-16 17:18:43.151215

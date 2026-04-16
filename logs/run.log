@@ -1,5 +1,8 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
+  [BlockBeats] 新快讯: OpenAI网络安全联盟首批名单公布：华尔街六大行集体加入，1000万美元资助开源安全
+推送成功: 【BLOCKBEATS - 链上侦探】OpenAI网络安全联盟首批名单公布：华尔街六大行集体加入，1000万美元资助开源安全
+已保存到 Markdown: ./output/blockbeats/2026-04-16.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
   Category: 项目动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1003&is_hot=1
@@ -34,7 +37,7 @@ Call log:
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-Cycle completed. 2026-04-16 22:44:01.102596
+Cycle completed. 2026-04-16 23:43:44.287783
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -44,10 +47,12 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-   Calendar insight icon not found
-2026-04-16 22:43:50,696 - INFO -   Market Image...
-2026-04-16 22:44:01,092 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+
+2026-04-16 23:43:33,641 - INFO -   Calendar Insight Image...
+2026-04-16 23:43:33,644 - WARNING -     Calendar insight icon not found
+2026-04-16 23:43:33,644 - INFO -   Market Image...
+2026-04-16 23:43:44,278 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-2026-04-16 22:44:01,102 - INFO - Cycle completed. 2026-04-16 22:44:01.102596
+2026-04-16 23:43:44,287 - INFO - Cycle completed. 2026-04-16 23:43:44.287783

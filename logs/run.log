@@ -1,8 +1,35 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: Alphabet料因SpaceX投资获得千亿美元「意外之财」
-推送成功: 【BLOCKBEATS - 链上侦探】Alphabet料因SpaceX投资获得千亿美元「意外之财」
-已保存到 Markdown: ./output/blockbeats/2026-04-15.md
+  [BlockBeats] 新快讯: OpenClaw贡献者：把AI工作流建在Claude Cowork上，就是选择当十年「租户」
+推送成功: 【BLOCKBEATS - 链上侦探】OpenClaw贡献者：把AI工作流建在Claude Cowork上，就是选择当十年「租户」
+已保存到 Markdown: ./output/blockbeats/2026-04-16.md
+  [BlockBeats] 新快讯: 谷歌发布Gemini 3.1 Flash TTS，开发者可像导演一样用自然语言指挥AI怎么说话
+推送成功: 【BLOCKBEATS - 链上侦探】谷歌发布Gemini 3.1 Flash TTS，开发者可像导演一样用自然语言指挥AI怎么说话
+已保存到 Markdown: ./output/blockbeats/2026-04-16.md
+  [BlockBeats] 新快讯: 英伟达开源Lyra 2.0，一张照片生成可走动的3D世界，直接导入机器人仿真器
+推送成功: 【BLOCKBEATS - 链上侦探】英伟达开源Lyra 2.0，一张照片生成可走动的3D世界，直接导入机器人仿真器
+已保存到 Markdown: ./output/blockbeats/2026-04-16.md
+  [BlockBeats] 新快讯: OpenAI Agents SDK更新，代理可在沙箱中操作文件和运行代码
+推送成功: 【BLOCKBEATS - 链上侦探】OpenAI Agents SDK更新，代理可在沙箱中操作文件和运行代码
+已保存到 Markdown: ./output/blockbeats/2026-04-16.md
+  [BlockBeats] 新快讯: 谷歌Gemini Mac原生应用正式上线，Option+Space随时唤起，可读取当前屏幕内容
+推送成功: 【BLOCKBEATS - 链上侦探】谷歌Gemini Mac原生应用正式上线，Option+Space随时唤起，可读取当前屏幕内容
+已保存到 Markdown: ./output/blockbeats/2026-04-16.md
+  [BlockBeats] 新快讯: 标普纳指续创新高之下，某美指空头巨鲸距清算仅39美元
+推送成功: 【BLOCKBEATS - 融资】标普纳指续创新高之下，某美指空头巨鲸距清算仅39美元
+已保存到 Markdown: ./output/blockbeats/2026-04-16.md
+  [BlockBeats] 新快讯: Solana生态Meme币unc市值达1200万美元，24小时涨超150%
+推送成功: 【BLOCKBEATS - 融资】Solana生态Meme币unc市值达1200万美元，24小时涨超150%
+已保存到 Markdown: ./output/blockbeats/2026-04-16.md
+  [BlockBeats] 新快讯: SIREN操纵地址提出3007万枚SIREN，约2509万美元
+推送成功: 【BLOCKBEATS - 融资】SIREN操纵地址提出3007万枚SIREN，约2509万美元
+已保存到 Markdown: ./output/blockbeats/2026-04-16.md
+  [BlockBeats] 新快讯: Matrixport关联钱包平仓2.5万枚ETH多单，持有65天盈利1732万美元
+推送成功: 【BLOCKBEATS - 融资】Matrixport关联钱包平仓2.5万枚ETH多单，持有65天盈利1732万美元
+已保存到 Markdown: ./output/blockbeats/2026-04-16.md
+  [BlockBeats] 新快讯: 贝莱德从Coinbase提出3446枚BTC，约2.552亿美元
+推送成功: 【BLOCKBEATS - 融资】贝莱德从Coinbase提出3446枚BTC，约2.552亿美元
+已保存到 Markdown: ./output/blockbeats/2026-04-16.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
   Category: 项目动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1003&is_hot=1
@@ -11,33 +38,38 @@
   Category: 融资动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1000&is_hot=1
 Scraping RootData...
   List: Top 100 项目
-  Failed to scrape list Top 100 项目: Page.wait_for_selector: Timeout 15000ms exceeded.
-Call log:
-  - waiting for locator("table tr, .list-item") to be visible
-
+  [RootData] 新榜单: Top 100 项目
+推送成功: 【RootData - Top 100 项目】
+推送成功: 【RootData - Top 100 项目】 (续)
+已保存到 Markdown: ./output/rootdata/2026-04-16.md
   List: 透明度评分提升榜
-  Failed to scrape list 透明度评分提升榜: Page.wait_for_selector: Timeout 15000ms exceeded.
-Call log:
-  - waiting for locator("table tr, .list-item") to be visible
-
+  [RootData] 新榜单: 透明度评分提升榜
+推送成功: 【RootData - 透明度评分提升榜】
+推送成功: 【RootData - 透明度评分提升榜】 (续)
+已保存到 Markdown: ./output/rootdata/2026-04-16.md
   List: 交易所透明度排名
-  Failed to scrape list 交易所透明度排名: Page.wait_for_selector: Timeout 15000ms exceeded.
-Call log:
-  - waiting for locator("table tr, .list-item") to be visible
-
+  [RootData] 新榜单: 交易所透明度排名
+推送成功: 【RootData - 交易所透明度排名】
+推送成功: 【RootData - 交易所透明度排名】 (续)
+已保存到 Markdown: ./output/rootdata/2026-04-16.md
   Calendar Events...
-  Calendar events fetch failed: Page.wait_for_selector: Timeout 15000ms exceeded.
-Call log:
-  - waiting for locator(".list-table, .list-row") to be visible
-
+  [RootData] 日历事件: 10 条
+推送成功: 📅 RootData | 今日日历事件
+已保存到 Markdown: ./output/rootdata/2026-04-16.md
   Calendar Insight Image...
-    Calendar insight icon not found
+    Clicked calendar insight icon
+    Clicked generate share image button
+    Clicked download button
+    Saved Calendar Image: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-04-16.png
+    Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-04-16.png
+推送成功: 📅 RootData | 未来7天加密日历洞察
   Market Image...
-    Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
-Call log:
-  - waiting for locator(".v-data-table, table, .top-gainers") to be visible
-
-Cycle completed. 2026-04-15 23:44:46.704524
+    Clicked market download icon
+    Clicked save button
+    Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-04-16.png
+    Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-04-16.png
+推送成功: 📊 RootData | Top Gainers
+Cycle completed. 2026-04-16 02:49:04.797293
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -47,12 +79,27 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-
-2026-04-15 23:44:36,084 - INFO -   Calendar Insight Image...
-2026-04-15 23:44:36,086 - WARNING -     Calendar insight icon not found
-2026-04-15 23:44:36,086 - INFO -   Market Image...
-2026-04-15 23:44:46,694 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
-Call log:
-  - waiting for locator(".v-data-table, table, .top-gainers") to be visible
-
-2026-04-15 23:44:46,704 - INFO - Cycle completed. 2026-04-15 23:44:46.704524
+26-04-16 02:48:27,510 - INFO - 已保存到 Markdown: ./output/rootdata/2026-04-16.md
+2026-04-16 02:48:27,510 - INFO -   List: 交易所透明度排名
+2026-04-16 02:48:30,523 - INFO -   [RootData] 新榜单: 交易所透明度排名
+2026-04-16 02:48:30,808 - INFO - 推送成功: 【RootData - 交易所透明度排名】
+2026-04-16 02:48:32,208 - INFO - 推送成功: 【RootData - 交易所透明度排名】 (续)
+2026-04-16 02:48:32,209 - INFO - 已保存到 Markdown: ./output/rootdata/2026-04-16.md
+2026-04-16 02:48:32,210 - INFO -   Calendar Events...
+2026-04-16 02:48:34,309 - INFO -   [RootData] 日历事件: 10 条
+2026-04-16 02:48:34,708 - INFO - 推送成功: 📅 RootData | 今日日历事件
+2026-04-16 02:48:34,709 - INFO - 已保存到 Markdown: ./output/rootdata/2026-04-16.md
+2026-04-16 02:48:34,709 - INFO -   Calendar Insight Image...
+2026-04-16 02:48:34,815 - INFO -     Clicked calendar insight icon
+2026-04-16 02:48:36,517 - INFO -     Clicked generate share image button
+2026-04-16 02:48:37,869 - INFO -     Clicked download button
+2026-04-16 02:48:37,966 - INFO -     Saved Calendar Image: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-04-16.png
+2026-04-16 02:48:37,966 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-04-16.png
+2026-04-16 02:48:41,795 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
+2026-04-16 02:48:41,798 - INFO -   Market Image...
+2026-04-16 02:48:46,439 - INFO -     Clicked market download icon
+2026-04-16 02:49:02,132 - INFO -     Clicked save button
+2026-04-16 02:49:02,139 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-04-16.png
+2026-04-16 02:49:02,139 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-04-16.png
+2026-04-16 02:49:04,784 - INFO - 推送成功: 📊 RootData | Top Gainers
+2026-04-16 02:49:04,797 - INFO - Cycle completed. 2026-04-16 02:49:04.797293

@@ -1,8 +1,5 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: Cursor正洽谈融资20亿美元，英伟达计划参与
-推送成功: 【BLOCKBEATS - 链上侦探】Cursor正洽谈融资20亿美元，英伟达计划参与
-已保存到 Markdown: ./output/blockbeats/2026-04-17.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
   Category: 项目动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1003&is_hot=1
@@ -27,7 +24,7 @@ Scraping RootData...
     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-04-17.png
     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-04-17.png
 推送成功: 📊 RootData | Top Gainers
-Cycle completed. 2026-04-17 20:49:18.462406
+Cycle completed. 2026-04-17 21:44:22.525804
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -37,11 +34,9 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
- RootData | 未来7天加密日历洞察
-2026-04-17 20:49:05,256 - INFO -   Market Image...
-2026-04-17 20:49:10,117 - INFO -     Clicked market download icon
-2026-04-17 20:49:17,832 - INFO -     Clicked save button
-2026-04-17 20:49:17,840 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-04-17.png
-2026-04-17 20:49:17,840 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-04-17.png
-2026-04-17 20:49:18,387 - INFO - 推送成功: 📊 RootData | Top Gainers
-2026-04-17 20:49:18,462 - INFO - Cycle completed. 2026-04-17 20:49:18.462406
+-17 21:44:14,113 - INFO -     Clicked market download icon
+2026-04-17 21:44:21,551 - INFO -     Clicked save button
+2026-04-17 21:44:21,563 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-04-17.png
+2026-04-17 21:44:21,563 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-04-17.png
+2026-04-17 21:44:22,477 - INFO - 推送成功: 📊 RootData | Top Gainers
+2026-04-17 21:44:22,525 - INFO - Cycle completed. 2026-04-17 21:44:22.525804

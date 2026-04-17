@@ -1,41 +1,5 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: Mem0发布长效记忆架构研究：准确率领先OpenAI26%，推理延迟降低91%
-推送成功: 【BLOCKBEATS - 链上侦探】Mem0发布长效记忆架构研究：准确率领先OpenAI26%，推理延迟降低91%
-已保存到 Markdown: ./output/blockbeats/2026-04-17.md
-  [BlockBeats] 新快讯: Quiver发布Arrow1.1：SVG矢量生成成本直降50%，新增Max精度模型
-推送成功: 【BLOCKBEATS - 链上侦探】Quiver发布Arrow1.1：SVG矢量生成成本直降50%，新增Max精度模型
-已保存到 Markdown: ./output/blockbeats/2026-04-17.md
-  [BlockBeats] 新快讯: Xiaomi miclaw通过首批中国信通院可信AI手机端智能助手（Claw）评测
-推送成功: 【BLOCKBEATS - 链上侦探】Xiaomi miclaw通过首批中国信通院可信AI手机端智能助手（Claw）评测
-已保存到 Markdown: ./output/blockbeats/2026-04-17.md
-  [BlockBeats] 新快讯: NUS团队发布GameWorld基准，在34款浏览器游戏中评估多模态AI代理
-推送成功: 【BLOCKBEATS - 链上侦探】NUS团队发布GameWorld基准，在34款浏览器游戏中评估多模态AI代理
-已保存到 Markdown: ./output/blockbeats/2026-04-17.md
-  [BlockBeats] 新快讯: Google AI Studio推出付费计划：支持按量计费，首次明确提及「智能体」接入
-推送成功: 【BLOCKBEATS - 链上侦探】Google AI Studio推出付费计划：支持按量计费，首次明确提及「智能体」接入
-已保存到 Markdown: ./output/blockbeats/2026-04-17.md
-  [BlockBeats] 新快讯: 马斯克xAI转向「云厂商」角色，向AI编程独角兽Cursor开放数万颗GPU算力
-推送成功: 【BLOCKBEATS - 链上侦探】马斯克xAI转向「云厂商」角色，向AI编程独角兽Cursor开放数万颗GPU算力
-已保存到 Markdown: ./output/blockbeats/2026-04-17.md
-  [BlockBeats] 新快讯: xAI静默测试Grok4.3：Beta版现身官网下拉菜单
-推送成功: 【BLOCKBEATS - 链上侦探】xAI静默测试Grok4.3：Beta版现身官网下拉菜单
-已保存到 Markdown: ./output/blockbeats/2026-04-17.md
-  [BlockBeats] 新快讯: OpenAI就业研究报告：AI或将增加工作岗位而非导致失业大潮
-推送成功: 【BLOCKBEATS - 链上侦探】OpenAI就业研究报告：AI或将增加工作岗位而非导致失业大潮
-已保存到 Markdown: ./output/blockbeats/2026-04-17.md
-  [BlockBeats] 新快讯: 主流Perp DEX一览：Hyperliquid交易量回落16%，TradeXYZ周交易量降至3月水平
-推送成功: 【BLOCKBEATS - 融资】主流Perp DEX一览：Hyperliquid交易量回落16%，TradeXYZ周交易量降至3月水平
-已保存到 Markdown: ./output/blockbeats/2026-04-17.md
-  [BlockBeats] 新快讯: SIREN操纵者从Binance Alpha钱包提出价值245万美元代币，目前筹码集中度已超93%
-推送成功: 【BLOCKBEATS - 融资】SIREN操纵者从Binance Alpha钱包提出价值245万美元代币，目前筹码集中度已超93%
-已保存到 Markdown: ./output/blockbeats/2026-04-17.md
-  [BlockBeats] 新快讯: 「麻吉」在现价附近挂出ETH止盈单，止盈区间上探至2425美元
-推送成功: 【BLOCKBEATS - 融资】「麻吉」在现价附近挂出ETH止盈单，止盈区间上探至2425美元
-已保存到 Markdown: ./output/blockbeats/2026-04-17.md
-  [BlockBeats] 新快讯: 若BTC续涨至7.64万美元，链上BTC最大空头的7800万空单将被清算
-推送成功: 【BLOCKBEATS - 融资】若BTC续涨至7.64万美元，链上BTC最大空头的7800万空单将被清算
-已保存到 Markdown: ./output/blockbeats/2026-04-17.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
   Category: 项目动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1003&is_hot=1
@@ -60,7 +24,7 @@ Scraping RootData...
     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-04-17.png
     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-04-17.png
 推送成功: 📊 RootData | Top Gainers
-Cycle completed. 2026-04-17 10:59:25.540575
+Cycle completed. 2026-04-17 11:58:32.907028
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -70,24 +34,9 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-https://www.techflowpost.com/zh-CN/newsletter?articleType=1001&is_hot=1
-2026-04-17 10:58:50,457 - INFO -   Category: 融资动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1000&is_hot=1
-2026-04-17 10:58:51,770 - INFO - Scraping RootData...
-2026-04-17 10:58:51,810 - INFO -   List: Top 100 项目
-2026-04-17 10:58:55,966 - INFO -   List: 透明度评分提升榜
-2026-04-17 10:58:58,451 - INFO -   List: 交易所透明度排名
-2026-04-17 10:59:01,967 - INFO -   Calendar Events...
-2026-04-17 10:59:04,397 - INFO -   Calendar Insight Image...
-2026-04-17 10:59:04,730 - INFO -     Clicked calendar insight icon
-2026-04-17 10:59:06,490 - INFO -     Clicked generate share image button
-2026-04-17 10:59:07,099 - INFO -     Clicked download button
-2026-04-17 10:59:07,211 - INFO -     Saved Calendar Image: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-04-17.png
-2026-04-17 10:59:07,211 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-04-17.png
-2026-04-17 10:59:08,261 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
-2026-04-17 10:59:08,264 - INFO -   Market Image...
-2026-04-17 10:59:12,953 - INFO -     Clicked market download icon
-2026-04-17 10:59:25,025 - INFO -     Clicked save button
-2026-04-17 10:59:25,032 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-04-17.png
-2026-04-17 10:59:25,032 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-04-17.png
-2026-04-17 10:59:25,526 - INFO - 推送成功: 📊 RootData | Top Gainers
-2026-04-17 10:59:25,540 - INFO - Cycle completed. 2026-04-17 10:59:25.540575
+-17 11:58:24,130 - INFO -     Clicked market download icon
+2026-04-17 11:58:32,349 - INFO -     Clicked save button
+2026-04-17 11:58:32,358 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-04-17.png
+2026-04-17 11:58:32,358 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-04-17.png
+2026-04-17 11:58:32,892 - INFO - 推送成功: 📊 RootData | Top Gainers
+2026-04-17 11:58:32,907 - INFO - Cycle completed. 2026-04-17 11:58:32.907028

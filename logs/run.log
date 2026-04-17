@@ -1,7 +1,7 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: DeepSeek启动首次外部融资，估值或超100亿美元
-推送成功: 【BLOCKBEATS - 链上侦探】DeepSeek启动首次外部融资，估值或超100亿美元
+  [BlockBeats] 新快讯: 20连胜空头巨鲸大幅回撤：浮亏超1550万美元，总盈利缩水近55%
+推送成功: 【BLOCKBEATS - 融资】20连胜空头巨鲸大幅回撤：浮亏超1550万美元，总盈利缩水近55%
 已保存到 Markdown: ./output/blockbeats/2026-04-17.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -27,7 +27,7 @@ Scraping RootData...
     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-04-17.png
     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-04-17.png
 推送成功: 📊 RootData | Top Gainers
-Cycle completed. 2026-04-17 14:58:19.361713
+Cycle completed. 2026-04-17 16:06:10.138112
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -38,10 +38,10 @@ Scraping BlockBeats...
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
  RootData | 未来7天加密日历洞察
-2026-04-17 14:58:06,860 - INFO -   Market Image...
-2026-04-17 14:58:11,111 - INFO -     Clicked market download icon
-2026-04-17 14:58:18,250 - INFO -     Clicked save button
-2026-04-17 14:58:18,259 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-04-17.png
-2026-04-17 14:58:18,259 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-04-17.png
-2026-04-17 14:58:19,346 - INFO - 推送成功: 📊 RootData | Top Gainers
-2026-04-17 14:58:19,361 - INFO - Cycle completed. 2026-04-17 14:58:19.361713
+2026-04-17 16:05:56,531 - INFO -   Market Image...
+2026-04-17 16:06:01,208 - INFO -     Clicked market download icon
+2026-04-17 16:06:08,943 - INFO -     Clicked save button
+2026-04-17 16:06:08,950 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-04-17.png
+2026-04-17 16:06:08,950 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-04-17.png
+2026-04-17 16:06:10,122 - INFO - 推送成功: 📊 RootData | Top Gainers
+2026-04-17 16:06:10,138 - INFO - Cycle completed. 2026-04-17 16:06:10.138112

@@ -1,31 +1,10 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: Anthropic发布Claude Design，用对话生成原型、幻灯片和落地页
-推送成功: 【BLOCKBEATS - 链上侦探】Anthropic发布Claude Design，用对话生成原型、幻灯片和落地页
+  [BlockBeats] 新快讯: 马斯克：Grok4.3 beta仍是0.5T训练中间版，1T旗舰还差5天完成初训
+推送成功: 【BLOCKBEATS - 链上侦探】马斯克：Grok4.3 beta仍是0.5T训练中间版，1T旗舰还差5天完成初训
 已保存到 Markdown: ./output/blockbeats/2026-04-18.md
-  [BlockBeats] 新快讯: OpenAI B2B工程负责人Srinivas Narayanan宣布离职，称重大产品发布前夕是「正确时机」
-推送成功: 【BLOCKBEATS - 链上侦探】OpenAI B2B工程负责人Srinivas Narayanan宣布离职，称重大产品发布前夕是「正确时机」
-已保存到 Markdown: ./output/blockbeats/2026-04-18.md
-  [BlockBeats] 新快讯: SemiAnalysis年营收跳涨至1亿美元，前员工起诉称Patel要求研报配合其投资
-推送成功: 【BLOCKBEATS - 链上侦探】SemiAnalysis年营收跳涨至1亿美元，前员工起诉称Patel要求研报配合其投资
-已保存到 Markdown: ./output/blockbeats/2026-04-18.md
-  [BlockBeats] 新快讯: Cursor接近敲定20亿美元新融资，估值500亿美元半年翻倍
-推送成功: 【BLOCKBEATS - 链上侦探】Cursor接近敲定20亿美元新融资，估值500亿美元半年翻倍
-已保存到 Markdown: ./output/blockbeats/2026-04-18.md
-  [BlockBeats] 新快讯: OpenAI核心高层同日离职：Sora负责人与前CPO退出，科学研究部门遭拆分
-推送成功: 【BLOCKBEATS - 链上侦探】OpenAI核心高层同日离职：Sora负责人与前CPO退出，科学研究部门遭拆分
-已保存到 Markdown: ./output/blockbeats/2026-04-18.md
-  [BlockBeats] 新快讯: Anthropic CEO给Mythos技术壁垒制定半年到一年窗口期
-推送成功: 【BLOCKBEATS - 链上侦探】Anthropic CEO给Mythos技术壁垒制定半年到一年窗口期
-已保存到 Markdown: ./output/blockbeats/2026-04-18.md
-  [BlockBeats] 新快讯: DeepSeek拟以至少100亿美元估值开启首轮融资，应对核心人才流失与V4研发延迟
-推送成功: 【BLOCKBEATS - 链上侦探】DeepSeek拟以至少100亿美元估值开启首轮融资，应对核心人才流失与V4研发延迟
-已保存到 Markdown: ./output/blockbeats/2026-04-18.md
-  [BlockBeats] 新快讯: Arthur Hayes再向Binance存入3000枚ETH
-推送成功: 【BLOCKBEATS - 融资】Arthur Hayes再向Binance存入3000枚ETH
-已保存到 Markdown: ./output/blockbeats/2026-04-18.md
-  [BlockBeats] 新快讯: 特朗普午宴排行榜第二地址清仓TRUMP，并将id从[嗯哼NB]改为[WJGZ]
-推送成功: 【BLOCKBEATS - 融资】特朗普午宴排行榜第二地址清仓TRUMP，并将id从[嗯哼NB]改为[WJGZ]
+  [BlockBeats] 新快讯: xAI开放Grok STT与TTS音频API，STT整体词错率压到6.9%
+推送成功: 【BLOCKBEATS - 链上侦探】xAI开放Grok STT与TTS音频API，STT整体词错率压到6.9%
 已保存到 Markdown: ./output/blockbeats/2026-04-18.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -35,24 +14,9 @@
   Category: 融资动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1000&is_hot=1
 Scraping RootData...
   List: Top 100 项目
-  [RootData] 新榜单: Top 100 项目
-推送成功: 【RootData - Top 100 项目】
-推送成功: 【RootData - Top 100 项目】 (续)
-已保存到 Markdown: ./output/rootdata/2026-04-18.md
   List: 透明度评分提升榜
-  [RootData] 新榜单: 透明度评分提升榜
-推送成功: 【RootData - 透明度评分提升榜】
-推送成功: 【RootData - 透明度评分提升榜】 (续)
-已保存到 Markdown: ./output/rootdata/2026-04-18.md
   List: 交易所透明度排名
-  [RootData] 新榜单: 交易所透明度排名
-推送成功: 【RootData - 交易所透明度排名】
-推送成功: 【RootData - 交易所透明度排名】 (续)
-已保存到 Markdown: ./output/rootdata/2026-04-18.md
   Calendar Events...
-  [RootData] 日历事件: 10 条
-推送成功: 📅 RootData | 今日日历事件
-已保存到 Markdown: ./output/rootdata/2026-04-18.md
   Calendar Insight Image...
     Clicked calendar insight icon
     Clicked generate share image button
@@ -66,7 +30,7 @@ Scraping RootData...
     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-04-18.png
     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-04-18.png
 推送成功: 📊 RootData | Top Gainers
-Cycle completed. 2026-04-18 02:34:41.202935
+Cycle completed. 2026-04-18 05:09:04.392097
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -76,26 +40,12 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-:34:18,117 - INFO -   List: 交易所透明度排名
-2026-04-18 02:34:20,983 - INFO -   [RootData] 新榜单: 交易所透明度排名
-2026-04-18 02:34:21,251 - INFO - 推送成功: 【RootData - 交易所透明度排名】
-2026-04-18 02:34:22,615 - INFO - 推送成功: 【RootData - 交易所透明度排名】 (续)
-2026-04-18 02:34:22,616 - INFO - 已保存到 Markdown: ./output/rootdata/2026-04-18.md
-2026-04-18 02:34:22,617 - INFO -   Calendar Events...
-2026-04-18 02:34:24,766 - INFO -   [RootData] 日历事件: 10 条
-2026-04-18 02:34:25,023 - INFO - 推送成功: 📅 RootData | 今日日历事件
-2026-04-18 02:34:25,027 - INFO - 已保存到 Markdown: ./output/rootdata/2026-04-18.md
-2026-04-18 02:34:25,028 - INFO -   Calendar Insight Image...
-2026-04-18 02:34:25,199 - INFO -     Clicked calendar insight icon
-2026-04-18 02:34:26,856 - INFO -     Clicked generate share image button
-2026-04-18 02:34:27,482 - INFO -     Clicked download button
-2026-04-18 02:34:27,555 - INFO -     Saved Calendar Image: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-04-18.png
-2026-04-18 02:34:27,555 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-04-18.png
-2026-04-18 02:34:28,020 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
-2026-04-18 02:34:28,022 - INFO -   Market Image...
-2026-04-18 02:34:32,899 - INFO -     Clicked market download icon
-2026-04-18 02:34:40,528 - INFO -     Clicked save button
-2026-04-18 02:34:40,536 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-04-18.png
-2026-04-18 02:34:40,536 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-04-18.png
-2026-04-18 02:34:41,188 - INFO - 推送成功: 📊 RootData | Top Gainers
-2026-04-18 02:34:41,202 - INFO - Cycle completed. 2026-04-18 02:34:41.202935
+hts/未来7天加密日历洞察_2026-04-18.png
+2026-04-18 05:08:51,404 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
+2026-04-18 05:08:51,406 - INFO -   Market Image...
+2026-04-18 05:08:56,092 - INFO -     Clicked market download icon
+2026-04-18 05:09:03,863 - INFO -     Clicked save button
+2026-04-18 05:09:03,873 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-04-18.png
+2026-04-18 05:09:03,873 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-04-18.png
+2026-04-18 05:09:04,332 - INFO - 推送成功: 📊 RootData | Top Gainers
+2026-04-18 05:09:04,392 - INFO - Cycle completed. 2026-04-18 05:09:04.392097

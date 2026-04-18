@@ -1,10 +1,10 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: ProducerAI更名Flow Music，上线片段替换与延展
-推送成功: 【BLOCKBEATS - 链上侦探】ProducerAI更名Flow Music，上线片段替换与延展
+  [BlockBeats] 新快讯: 曾实现3500倍收益交易员再出手：1万美元加仓新币SPIKE
+推送成功: 【BLOCKBEATS - 融资】曾实现3500倍收益交易员再出手：1万美元加仓新币SPIKE
 已保存到 Markdown: ./output/blockbeats/2026-04-18.md
-  [BlockBeats] 新快讯: 亿万富翁Tim Draper疑似卖出150.84枚比特币
-推送成功: 【BLOCKBEATS - 融资】亿万富翁Tim Draper疑似卖出150.84枚比特币
+  [BlockBeats] 新快讯: 某巨鲸清仓杠杆做多的1.24万枚ETH，获利400枚ETH
+推送成功: 【BLOCKBEATS - 融资】某巨鲸清仓杠杆做多的1.24万枚ETH，获利400枚ETH
 已保存到 Markdown: ./output/blockbeats/2026-04-18.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -15,22 +15,28 @@
 Scraping RootData...
   List: Top 100 项目
   List: 透明度评分提升榜
+  Failed to scrape list 透明度评分提升榜: Page.wait_for_selector: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator("table tr, .list-item") to be visible
+
   List: 交易所透明度排名
+  Failed to scrape list 交易所透明度排名: Page.wait_for_selector: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator("table tr, .list-item") to be visible
+
   Calendar Events...
+  Calendar events fetch failed: Page.wait_for_selector: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator(".list-table, .list-row") to be visible
+
   Calendar Insight Image...
-    Clicked calendar insight icon
-    Clicked generate share image button
-    Clicked download button
-    Saved Calendar Image: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-04-18.png
-    Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-04-18.png
-推送成功: 📅 RootData | 未来7天加密日历洞察
+    Calendar insight icon not found
   Market Image...
-    Clicked market download icon
-    Clicked save button
-    Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-04-18.png
-    Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-04-18.png
-推送成功: 📊 RootData | Top Gainers
-Cycle completed. 2026-04-18 07:12:20.671070
+    Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(".v-data-table, table, .top-gainers") to be visible
+
+Cycle completed. 2026-04-18 08:55:32.876539
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -40,12 +46,14 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-hts/未来7天加密日历洞察_2026-04-18.png
-2026-04-18 07:12:07,493 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
-2026-04-18 07:12:07,496 - INFO -   Market Image...
-2026-04-18 07:12:12,189 - INFO -     Clicked market download icon
-2026-04-18 07:12:19,949 - INFO -     Clicked save button
-2026-04-18 07:12:19,956 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-04-18.png
-2026-04-18 07:12:19,956 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-04-18.png
-2026-04-18 07:12:20,652 - INFO - 推送成功: 📊 RootData | Top Gainers
-2026-04-18 07:12:20,671 - INFO - Cycle completed. 2026-04-18 07:12:20.671070
+
+  - waiting for locator(".list-table, .list-row") to be visible
+
+2026-04-18 08:55:22,439 - INFO -   Calendar Insight Image...
+2026-04-18 08:55:22,442 - WARNING -     Calendar insight icon not found
+2026-04-18 08:55:22,442 - INFO -   Market Image...
+2026-04-18 08:55:32,865 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(".v-data-table, table, .top-gainers") to be visible
+
+2026-04-18 08:55:32,876 - INFO - Cycle completed. 2026-04-18 08:55:32.876539

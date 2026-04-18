@@ -1,7 +1,7 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 分析：DeepSeek外部融资很有可能属实，但目前完全投不进去
-推送成功: 【BLOCKBEATS - 链上侦探】分析：DeepSeek外部融资很有可能属实，但目前完全投不进去
+  [BlockBeats] 新快讯: 月之暗面与清华新论文：LLM预填充可跨数据中心，1T模型吞吐升54%
+推送成功: 【BLOCKBEATS - 链上侦探】月之暗面与清华新论文：LLM预填充可跨数据中心，1T模型吞吐升54%
 已保存到 Markdown: ./output/blockbeats/2026-04-18.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -37,7 +37,7 @@ Call log:
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-Cycle completed. 2026-04-18 14:43:00.977895
+Cycle completed. 2026-04-18 15:40:17.612777
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -48,11 +48,11 @@ Scraping BlockBeats...
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
 
-2026-04-18 14:42:50,354 - INFO -   Calendar Insight Image...
-2026-04-18 14:42:50,356 - WARNING -     Calendar insight icon not found
-2026-04-18 14:42:50,356 - INFO -   Market Image...
-2026-04-18 14:43:00,968 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+2026-04-18 15:40:07,293 - INFO -   Calendar Insight Image...
+2026-04-18 15:40:07,296 - WARNING -     Calendar insight icon not found
+2026-04-18 15:40:07,296 - INFO -   Market Image...
+2026-04-18 15:40:17,602 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-2026-04-18 14:43:00,977 - INFO - Cycle completed. 2026-04-18 14:43:00.977895
+2026-04-18 15:40:17,612 - INFO - Cycle completed. 2026-04-18 15:40:17.612777

@@ -1,25 +1,19 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: browser-use开源自愈浏览器工具Browser Harness
-推送成功: 【BLOCKBEATS - 链上侦探】browser-use开源自愈浏览器工具Browser Harness
+  [BlockBeats] 新快讯: 马斯克：Grok 4.4翻倍到1T参数、4.5再扩到1.5T，均争取5月发布
+推送成功: 【BLOCKBEATS - 链上侦探】马斯克：Grok 4.4翻倍到1T参数、4.5再扩到1.5T，均争取5月发布
 已保存到 Markdown: ./output/blockbeats/2026-04-19.md
-  [BlockBeats] 新快讯: Claude Code改用原生二进制，运行时不再依赖Node.js
-推送成功: 【BLOCKBEATS - 链上侦探】Claude Code改用原生二进制，运行时不再依赖Node.js
+  [BlockBeats] 新快讯: DeepSeek V4传下周发布，Yifan Zhang披露三项架构组件
+推送成功: 【BLOCKBEATS - 链上侦探】DeepSeek V4传下周发布，Yifan Zhang披露三项架构组件
 已保存到 Markdown: ./output/blockbeats/2026-04-19.md
-  [BlockBeats] 新快讯: X API把「自有数据读取」砍到每千次1美元，发帖反向涨价
-推送成功: 【BLOCKBEATS - 链上侦探】X API把「自有数据读取」砍到每千次1美元，发帖反向涨价
+  [BlockBeats] 新快讯: 某交易员2日前花费575美元买入27.9亿枚ASTEROID，目前回报超1700倍
+推送成功: 【BLOCKBEATS - 融资】某交易员2日前花费575美元买入27.9亿枚ASTEROID，目前回报超1700倍
 已保存到 Markdown: ./output/blockbeats/2026-04-19.md
-  [BlockBeats] 新快讯: 某地址持有80.2亿枚ASTEROID，浮盈达260万美元
-推送成功: 【BLOCKBEATS - 融资】某地址持有80.2亿枚ASTEROID，浮盈达260万美元
+  [BlockBeats] 新快讯: 某鲸鱼ZRO多单遭部分清算，亏损288万美元
+推送成功: 【BLOCKBEATS - 融资】某鲸鱼ZRO多单遭部分清算，亏损288万美元
 已保存到 Markdown: ./output/blockbeats/2026-04-19.md
-  [BlockBeats] 新快讯: 黑客通过Aave抵押非法铸造rsETH借走大量ETH后，三鲸鱼抛售59,680枚AAVE
-推送成功: 【BLOCKBEATS - 融资】黑客通过Aave抵押非法铸造rsETH借走大量ETH后，三鲸鱼抛售59,680枚AAVE
-已保存到 Markdown: ./output/blockbeats/2026-04-19.md
-  [BlockBeats] 新快讯: KelpDAO遭攻击损失11.65万枚rsETH，黑客套现获取106,466枚ETH
-推送成功: 【BLOCKBEATS - 融资】KelpDAO遭攻击损失11.65万枚rsETH，黑客套现获取106,466枚ETH
-已保存到 Markdown: ./output/blockbeats/2026-04-19.md
-  [BlockBeats] 新快讯: Justin Sun 5小时前从Aave赎回53665枚ETH，价值1.26亿美元
-推送成功: 【BLOCKBEATS - 融资】Justin Sun 5小时前从Aave赎回53665枚ETH，价值1.26亿美元
+  [BlockBeats] 新快讯: 超54亿美元资产在黑客从Aave借出大量ETH后紧急撤离
+推送成功: 【BLOCKBEATS - 融资】超54亿美元资产在黑客从Aave借出大量ETH后紧急撤离
 已保存到 Markdown: ./output/blockbeats/2026-04-19.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -55,7 +49,7 @@ Call log:
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-Cycle completed. 2026-04-19 02:51:07.274824
+Cycle completed. 2026-04-19 05:32:47.956834
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -65,25 +59,20 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-.
+ 交易所透明度排名: Page.wait_for_selector: Timeout 15000ms exceeded.
 Call log:
   - waiting for locator("table tr, .list-item") to be visible
 
-2026-04-19 02:50:25,946 - INFO -   List: 交易所透明度排名
-2026-04-19 02:50:41,287 - ERROR -   Failed to scrape list 交易所透明度排名: Page.wait_for_selector: Timeout 15000ms exceeded.
-Call log:
-  - waiting for locator("table tr, .list-item") to be visible
-
-2026-04-19 02:50:41,287 - INFO -   Calendar Events...
-2026-04-19 02:50:56,606 - WARNING -   Calendar events fetch failed: Page.wait_for_selector: Timeout 15000ms exceeded.
+2026-04-19 05:32:22,350 - INFO -   Calendar Events...
+2026-04-19 05:32:37,648 - WARNING -   Calendar events fetch failed: Page.wait_for_selector: Timeout 15000ms exceeded.
 Call log:
   - waiting for locator(".list-table, .list-row") to be visible
 
-2026-04-19 02:50:56,606 - INFO -   Calendar Insight Image...
-2026-04-19 02:50:56,608 - WARNING -     Calendar insight icon not found
-2026-04-19 02:50:56,608 - INFO -   Market Image...
-2026-04-19 02:51:07,266 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+2026-04-19 05:32:37,648 - INFO -   Calendar Insight Image...
+2026-04-19 05:32:37,650 - WARNING -     Calendar insight icon not found
+2026-04-19 05:32:37,650 - INFO -   Market Image...
+2026-04-19 05:32:47,947 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-2026-04-19 02:51:07,274 - INFO - Cycle completed. 2026-04-19 02:51:07.274824
+2026-04-19 05:32:47,956 - INFO - Cycle completed. 2026-04-19 05:32:47.956834

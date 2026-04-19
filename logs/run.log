@@ -1,7 +1,7 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 825.3万枚TRUMP转进OKX，价值2344万美元
-推送成功: 【BLOCKBEATS - 融资】825.3万枚TRUMP转进OKX，价值2344万美元
+  [BlockBeats] 新快讯: 某巨鲸向Binance转进97.8万枚ZRO，价值157万美元
+推送成功: 【BLOCKBEATS - 融资】某巨鲸向Binance转进97.8万枚ZRO，价值157万美元
 已保存到 Markdown: ./output/blockbeats/2026-04-19.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -37,7 +37,7 @@ Call log:
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-Cycle completed. 2026-04-19 09:53:13.810684
+Cycle completed. 2026-04-19 10:42:22.747310
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -48,11 +48,11 @@ Scraping BlockBeats...
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
 
-2026-04-19 09:53:03,515 - INFO -   Calendar Insight Image...
-2026-04-19 09:53:03,518 - WARNING -     Calendar insight icon not found
-2026-04-19 09:53:03,518 - INFO -   Market Image...
-2026-04-19 09:53:13,800 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+2026-04-19 10:42:12,316 - INFO -   Calendar Insight Image...
+2026-04-19 10:42:12,318 - WARNING -     Calendar insight icon not found
+2026-04-19 10:42:12,318 - INFO -   Market Image...
+2026-04-19 10:42:22,737 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-2026-04-19 09:53:13,810 - INFO - Cycle completed. 2026-04-19 09:53:13.810684
+2026-04-19 10:42:22,747 - INFO - Cycle completed. 2026-04-19 10:42:22.747310

@@ -1,5 +1,29 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
+  [BlockBeats] 新快讯: Polymarket正以约150亿美元估值洽谈4亿美元融资
+推送成功: 【BLOCKBEATS - 链上侦探】Polymarket正以约150亿美元估值洽谈4亿美元融资
+已保存到 Markdown: ./output/blockbeats/2026-04-20.md
+  [BlockBeats] 新快讯: Meme币TROLL市值回涨至2000万美元上方，24小时涨幅达33%
+推送成功: 【BLOCKBEATS - 融资】Meme币TROLL市值回涨至2000万美元上方，24小时涨幅达33%
+已保存到 Markdown: ./output/blockbeats/2026-04-20.md
+  [BlockBeats] 新快讯: 此前ETH最大多头再次入场看涨，短时开立1亿美元规模ETH多单
+推送成功: 【BLOCKBEATS - 融资】此前ETH最大多头再次入场看涨，短时开立1亿美元规模ETH多单
+已保存到 Markdown: ./output/blockbeats/2026-04-20.md
+  [BlockBeats] 新快讯: Bless项目方持续抛售代币，4小时前卖出3784万枚BLESS换得334枚BNB
+推送成功: 【BLOCKBEATS - 融资】Bless项目方持续抛售代币，4小时前卖出3784万枚BLESS换得334枚BNB
+已保存到 Markdown: ./output/blockbeats/2026-04-20.md
+  [BlockBeats] 新快讯: 某巨鲸重仓开多价值1亿美元ETH，开仓价2,289美元
+推送成功: 【BLOCKBEATS - 融资】某巨鲸重仓开多价值1亿美元ETH，开仓价2,289美元
+已保存到 Markdown: ./output/blockbeats/2026-04-20.md
+  [BlockBeats] 新快讯: 某巨鲸在美伊和谈前景黯淡后3倍做多原油，仓位价值750万美元
+推送成功: 【BLOCKBEATS - 融资】某巨鲸在美伊和谈前景黯淡后3倍做多原油，仓位价值750万美元
+已保存到 Markdown: ./output/blockbeats/2026-04-20.md
+  [BlockBeats] 新快讯: 某巨鲸2,300美元均价出售9,765枚ETH，价值2,246万美元
+推送成功: 【BLOCKBEATS - 融资】某巨鲸2,300美元均价出售9,765枚ETH，价值2,246万美元
+已保存到 Markdown: ./output/blockbeats/2026-04-20.md
+  [BlockBeats] 新快讯: RAVE初始分配关联地址向CEX转移2300万枚RAVE，价值高达2300万美元
+推送成功: 【BLOCKBEATS - 融资】RAVE初始分配关联地址向CEX转移2300万枚RAVE，价值高达2300万美元
+已保存到 Markdown: ./output/blockbeats/2026-04-20.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
   Category: 项目动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1003&is_hot=1
@@ -8,33 +32,38 @@
   Category: 融资动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1000&is_hot=1
 Scraping RootData...
   List: Top 100 项目
-  Failed to scrape list Top 100 项目: Page.wait_for_selector: Timeout 15000ms exceeded.
-Call log:
-  - waiting for locator("table tr, .list-item") to be visible
-
+  [RootData] 新榜单: Top 100 项目
+推送成功: 【RootData - Top 100 项目】
+推送成功: 【RootData - Top 100 项目】 (续)
+已保存到 Markdown: ./output/rootdata/2026-04-20.md
   List: 透明度评分提升榜
-  Failed to scrape list 透明度评分提升榜: Page.wait_for_selector: Timeout 15000ms exceeded.
-Call log:
-  - waiting for locator("table tr, .list-item") to be visible
-
+  [RootData] 新榜单: 透明度评分提升榜
+推送成功: 【RootData - 透明度评分提升榜】
+推送成功: 【RootData - 透明度评分提升榜】 (续)
+已保存到 Markdown: ./output/rootdata/2026-04-20.md
   List: 交易所透明度排名
-  Failed to scrape list 交易所透明度排名: Page.wait_for_selector: Timeout 15000ms exceeded.
-Call log:
-  - waiting for locator("table tr, .list-item") to be visible
-
+  [RootData] 新榜单: 交易所透明度排名
+推送成功: 【RootData - 交易所透明度排名】
+推送成功: 【RootData - 交易所透明度排名】 (续)
+已保存到 Markdown: ./output/rootdata/2026-04-20.md
   Calendar Events...
-  Calendar events fetch failed: Page.wait_for_selector: Timeout 15000ms exceeded.
-Call log:
-  - waiting for locator(".list-table, .list-row") to be visible
-
+  [RootData] 日历事件: 10 条
+推送成功: 📅 RootData | 今日日历事件
+已保存到 Markdown: ./output/rootdata/2026-04-20.md
   Calendar Insight Image...
-    Calendar insight icon not found
+    Clicked calendar insight icon
+    Clicked generate share image button
+    Clicked download button
+    Saved Calendar Image: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-04-20.png
+    Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-04-20.png
+推送成功: 📅 RootData | 未来7天加密日历洞察
   Market Image...
-    Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
-Call log:
-  - waiting for locator(".v-data-table, table, .top-gainers") to be visible
-
-Cycle completed. 2026-04-19 23:40:35.887376
+    Clicked market download icon
+    Clicked save button
+    Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-04-20.png
+    Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-04-20.png
+推送成功: 📊 RootData | Top Gainers
+Cycle completed. 2026-04-20 02:52:10.821202
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -44,10 +73,25 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-   Calendar insight icon not found
-2026-04-19 23:40:25,445 - INFO -   Market Image...
-2026-04-19 23:40:35,879 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
-Call log:
-  - waiting for locator(".v-data-table, table, .top-gainers") to be visible
-
-2026-04-19 23:40:35,887 - INFO - Cycle completed. 2026-04-19 23:40:35.887376
+新榜单: 交易所透明度排名
+2026-04-20 02:51:50,551 - INFO - 推送成功: 【RootData - 交易所透明度排名】
+2026-04-20 02:51:51,813 - INFO - 推送成功: 【RootData - 交易所透明度排名】 (续)
+2026-04-20 02:51:51,815 - INFO - 已保存到 Markdown: ./output/rootdata/2026-04-20.md
+2026-04-20 02:51:51,815 - INFO -   Calendar Events...
+2026-04-20 02:51:53,927 - INFO -   [RootData] 日历事件: 10 条
+2026-04-20 02:51:54,169 - INFO - 推送成功: 📅 RootData | 今日日历事件
+2026-04-20 02:51:54,170 - INFO - 已保存到 Markdown: ./output/rootdata/2026-04-20.md
+2026-04-20 02:51:54,171 - INFO -   Calendar Insight Image...
+2026-04-20 02:51:54,445 - INFO -     Clicked calendar insight icon
+2026-04-20 02:51:56,163 - INFO -     Clicked generate share image button
+2026-04-20 02:51:56,661 - INFO -     Clicked download button
+2026-04-20 02:51:56,718 - INFO -     Saved Calendar Image: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-04-20.png
+2026-04-20 02:51:56,718 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-04-20.png
+2026-04-20 02:51:57,801 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
+2026-04-20 02:51:57,804 - INFO -   Market Image...
+2026-04-20 02:52:02,198 - INFO -     Clicked market download icon
+2026-04-20 02:52:10,396 - INFO -     Clicked save button
+2026-04-20 02:52:10,404 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-04-20.png
+2026-04-20 02:52:10,404 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-04-20.png
+2026-04-20 02:52:10,807 - INFO - 推送成功: 📊 RootData | Top Gainers
+2026-04-20 02:52:10,821 - INFO - Cycle completed. 2026-04-20 02:52:10.821202

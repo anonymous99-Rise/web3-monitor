@@ -1,37 +1,13 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 字节高管回应「净利润降超70%」：经营面没这么差
-推送成功: 【BLOCKBEATS - 链上侦探】字节高管回应「净利润降超70%」：经营面没这么差
+  [BlockBeats] 新快讯: OpenAI科研工作空间Prism下线，上线不到3个月
+推送成功: 【BLOCKBEATS - 链上侦探】OpenAI科研工作空间Prism下线，上线不到3个月
 已保存到 Markdown: ./output/blockbeats/2026-04-20.md
-  [BlockBeats] 新快讯: 英伟达芯片架构师Max Lv开源mcp-cli，尝试减少Codex进程开销
-推送成功: 【BLOCKBEATS - 链上侦探】英伟达芯片架构师Max Lv开源mcp-cli，尝试减少Codex进程开销
+  [BlockBeats] 新快讯: 阿里HappyHorse-1.0定于4月27日开测
+推送成功: 【BLOCKBEATS - 链上侦探】阿里HappyHorse-1.0定于4月27日开测
 已保存到 Markdown: ./output/blockbeats/2026-04-20.md
-  [BlockBeats] 新快讯: 「神经计算机」论文9天内换v2，删掉「模型本身就是计算机」的断言
-推送成功: 【BLOCKBEATS - 链上侦探】「神经计算机」论文9天内换v2，删掉「模型本身就是计算机」的断言
-已保存到 Markdown: ./output/blockbeats/2026-04-20.md
-  [BlockBeats] 新快讯: Anthropic开源claude-desktop-buddy，Claude桌面端可充当硬件外设的蓝牙网关
-推送成功: 【BLOCKBEATS - 链上侦探】Anthropic开源claude-desktop-buddy，Claude桌面端可充当硬件外设的蓝牙网关
-已保存到 Markdown: ./output/blockbeats/2026-04-20.md
-  [BlockBeats] 新快讯: Google Cloud Next前夕，市场预期TPUv8亮相
-推送成功: 【BLOCKBEATS - 链上侦探】Google Cloud Next前夕，市场预期TPUv8亮相
-已保存到 Markdown: ./output/blockbeats/2026-04-20.md
-  [BlockBeats] 新快讯: 阿里开放下一代旗舰Qwen3.6-Max-Preview预览，主打智能体编程
-推送成功: 【BLOCKBEATS - 链上侦探】阿里开放下一代旗舰Qwen3.6-Max-Preview预览，主打智能体编程
-已保存到 Markdown: ./output/blockbeats/2026-04-20.md
-  [BlockBeats] 新快讯: Meme币ASTEROID短时拉涨16%，市值回涨至1.5亿美元上方
-推送成功: 【BLOCKBEATS - 融资】Meme币ASTEROID短时拉涨16%，市值回涨至1.5亿美元上方
-已保存到 Markdown: ./output/blockbeats/2026-04-20.md
-  [BlockBeats] 新快讯: 某巨鲸同步做空BTC与ETH，总规模达1250万美元
-推送成功: 【BLOCKBEATS - 融资】某巨鲸同步做空BTC与ETH，总规模达1250万美元
-已保存到 Markdown: ./output/blockbeats/2026-04-20.md
-  [BlockBeats] 新快讯: 某OTC巨鲸地址向CEX存入1,000枚cbBTC，获利197万美元
-推送成功: 【BLOCKBEATS - 融资】某OTC巨鲸地址向CEX存入1,000枚cbBTC，获利197万美元
-已保存到 Markdown: ./output/blockbeats/2026-04-20.md
-  [BlockBeats] 新快讯: 某BTC巨鲸在波动中遭200万美元爆仓，旋即40倍杠杆再度做空
-推送成功: 【BLOCKBEATS - 融资】某BTC巨鲸在波动中遭200万美元爆仓，旋即40倍杠杆再度做空
-已保存到 Markdown: ./output/blockbeats/2026-04-20.md
-  [BlockBeats] 新快讯: 交易员「Loracle」初步建仓HYPE空单，于41美元附近持续布空
-推送成功: 【BLOCKBEATS - 融资】交易员「Loracle」初步建仓HYPE空单，于41美元附近持续布空
+  [BlockBeats] 新快讯: 美国纽约州议会众议员Alex Bores提AI分红，拟在AI挤掉岗位时发钱
+推送成功: 【BLOCKBEATS - 链上侦探】美国纽约州议会众议员Alex Bores提AI分红，拟在AI挤掉岗位时发钱
 已保存到 Markdown: ./output/blockbeats/2026-04-20.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -67,7 +43,7 @@ Call log:
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-Cycle completed. 2026-04-20 10:52:04.387317
+Cycle completed. 2026-04-20 12:07:17.107414
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -77,31 +53,16 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-
-2026-04-20 10:51:08,224 - ERROR -   Failed to scrape list Top 100 项目: Page.wait_for_selector: Timeout 15000ms exceeded.
-Call log:
-  - waiting for locator("table tr, .list-item") to be visible
-
-2026-04-20 10:51:08,224 - INFO -   List: 透明度评分提升榜
-2026-04-20 10:51:23,525 - ERROR -   Failed to scrape list 透明度评分提升榜: Page.wait_for_selector: Timeout 15000ms exceeded.
-Call log:
-  - waiting for locator("table tr, .list-item") to be visible
-
-2026-04-20 10:51:23,525 - INFO -   List: 交易所透明度排名
-2026-04-20 10:51:38,836 - ERROR -   Failed to scrape list 交易所透明度排名: Page.wait_for_selector: Timeout 15000ms exceeded.
-Call log:
-  - waiting for locator("table tr, .list-item") to be visible
-
-2026-04-20 10:51:38,836 - INFO -   Calendar Events...
-2026-04-20 10:51:54,105 - WARNING -   Calendar events fetch failed: Page.wait_for_selector: Timeout 15000ms exceeded.
+ts...
+2026-04-20 12:07:06,755 - WARNING -   Calendar events fetch failed: Page.wait_for_selector: Timeout 15000ms exceeded.
 Call log:
   - waiting for locator(".list-table, .list-row") to be visible
 
-2026-04-20 10:51:54,105 - INFO -   Calendar Insight Image...
-2026-04-20 10:51:54,107 - WARNING -     Calendar insight icon not found
-2026-04-20 10:51:54,107 - INFO -   Market Image...
-2026-04-20 10:52:04,378 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+2026-04-20 12:07:06,755 - INFO -   Calendar Insight Image...
+2026-04-20 12:07:06,757 - WARNING -     Calendar insight icon not found
+2026-04-20 12:07:06,757 - INFO -   Market Image...
+2026-04-20 12:07:17,097 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-2026-04-20 10:52:04,387 - INFO - Cycle completed. 2026-04-20 10:52:04.387317
+2026-04-20 12:07:17,107 - INFO - Cycle completed. 2026-04-20 12:07:17.107414

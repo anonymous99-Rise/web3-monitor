@@ -1,8 +1,5 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 某巨鲸从Binance提币1.2万枚ETH用于偿还Aave上贷款
-推送成功: 【BLOCKBEATS - 融资】某巨鲸从Binance提币1.2万枚ETH用于偿还Aave上贷款
-已保存到 Markdown: ./output/blockbeats/2026-04-20.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
   Category: 项目动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1003&is_hot=1
@@ -37,7 +34,7 @@ Call log:
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-Cycle completed. 2026-04-20 18:01:08.908192
+Cycle completed. 2026-04-20 19:21:55.690202
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -47,12 +44,10 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-
-2026-04-20 18:00:58,636 - INFO -   Calendar Insight Image...
-2026-04-20 18:00:58,639 - WARNING -     Calendar insight icon not found
-2026-04-20 18:00:58,639 - INFO -   Market Image...
-2026-04-20 18:01:08,897 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+   Calendar insight icon not found
+2026-04-20 19:21:45,038 - INFO -   Market Image...
+2026-04-20 19:21:55,681 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-2026-04-20 18:01:08,908 - INFO - Cycle completed. 2026-04-20 18:01:08.908192
+2026-04-20 19:21:55,690 - INFO - Cycle completed. 2026-04-20 19:21:55.690202

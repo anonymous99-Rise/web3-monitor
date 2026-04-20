@@ -1,7 +1,13 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 「两个月盈利4,461万美元ETH杠杆巨鲸」平仓部分ETH多单，获利69.5万美元
-推送成功: 【BLOCKBEATS - 融资】「两个月盈利4,461万美元ETH杠杆巨鲸」平仓部分ETH多单，获利69.5万美元
+  [BlockBeats] 新快讯: 月之暗面发布Kimi K2.6开源编程模型，支持超长任务执行与前端动效生成
+推送成功: 【BLOCKBEATS - 链上侦探】月之暗面发布Kimi K2.6开源编程模型，支持超长任务执行与前端动效生成
+已保存到 Markdown: ./output/blockbeats/2026-04-20.md
+  [BlockBeats] 新快讯: OpenAI主要服务出现大规模中断情况
+推送成功: 【BLOCKBEATS - 链上侦探】OpenAI主要服务出现大规模中断情况
+已保存到 Markdown: ./output/blockbeats/2026-04-20.md
+  [BlockBeats] 新快讯: Justin Sun再次向Spark存入 5501 万U，已累计存入1.79亿美元资金
+推送成功: 【BLOCKBEATS - 融资】Justin Sun再次向Spark存入 5501 万U，已累计存入1.79亿美元资金
 已保存到 Markdown: ./output/blockbeats/2026-04-20.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -37,7 +43,7 @@ Call log:
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-Cycle completed. 2026-04-20 14:54:09.253789
+Cycle completed. 2026-04-20 16:13:43.143986
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -47,12 +53,16 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
+ts...
+2026-04-20 16:13:32,864 - WARNING -   Calendar events fetch failed: Page.wait_for_selector: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator(".list-table, .list-row") to be visible
 
-2026-04-20 14:53:58,601 - INFO -   Calendar Insight Image...
-2026-04-20 14:53:58,603 - WARNING -     Calendar insight icon not found
-2026-04-20 14:53:58,603 - INFO -   Market Image...
-2026-04-20 14:54:09,244 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+2026-04-20 16:13:32,864 - INFO -   Calendar Insight Image...
+2026-04-20 16:13:32,866 - WARNING -     Calendar insight icon not found
+2026-04-20 16:13:32,866 - INFO -   Market Image...
+2026-04-20 16:13:43,134 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-2026-04-20 14:54:09,253 - INFO - Cycle completed. 2026-04-20 14:54:09.253789
+2026-04-20 16:13:43,144 - INFO - Cycle completed. 2026-04-20 16:13:43.143986

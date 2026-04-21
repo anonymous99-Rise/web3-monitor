@@ -1,28 +1,25 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: DeepMind CEO哈萨比斯公开称赞Anthropic CEO Dario是其他AI实验室领导里最好的
-推送成功: 【BLOCKBEATS - 链上侦探】DeepMind CEO哈萨比斯公开称赞Anthropic CEO Dario是其他AI实验室领导里最好的
+  [BlockBeats] 新快讯: 北京首次明确AI训练系统刑法定位：删除模型数据案定性破坏计算机信息系统罪
+推送成功: 【BLOCKBEATS - 链上侦探】北京首次明确AI训练系统刑法定位：删除模型数据案定性破坏计算机信息系统罪
 已保存到 Markdown: ./output/blockbeats/2026-04-21.md
-  [BlockBeats] 新快讯: 前Stability AI创始人新公司Intelligent Internet推出Logos推理工具
-推送成功: 【BLOCKBEATS - 链上侦探】前Stability AI创始人新公司Intelligent Internet推出Logos推理工具
+  [BlockBeats] 新快讯: 腾讯云开源CubeSandbox，兼容E2B、单机跑2000个沙箱
+推送成功: 【BLOCKBEATS - 链上侦探】腾讯云开源CubeSandbox，兼容E2B、单机跑2000个沙箱
 已保存到 Markdown: ./output/blockbeats/2026-04-21.md
-  [BlockBeats] 新快讯: 阿里云百炼上线Token Plan团队版，最低每月198元/坐席订阅多家模型
-推送成功: 【BLOCKBEATS - 链上侦探】阿里云百炼上线Token Plan团队版，最低每月198元/坐席订阅多家模型
+  [BlockBeats] 新快讯: Intel放出阿里Wan2.2的三款INT4量化版
+推送成功: 【BLOCKBEATS - 链上侦探】Intel放出阿里Wan2.2的三款INT4量化版
 已保存到 Markdown: ./output/blockbeats/2026-04-21.md
-  [BlockBeats] 新快讯: Anthropic招募STEM驻场研究员，暑期在旧金山测Claude做科研
-推送成功: 【BLOCKBEATS - 链上侦探】Anthropic招募STEM驻场研究员，暑期在旧金山测Claude做科研
+  [BlockBeats] 新快讯: Exa推出Agentic搜索接口Deep Max，同准确率下比对手快数十倍
+推送成功: 【BLOCKBEATS - 链上侦探】Exa推出Agentic搜索接口Deep Max，同准确率下比对手快数十倍
 已保存到 Markdown: ./output/blockbeats/2026-04-21.md
-  [BlockBeats] 新快讯: 谷歌DeepMind Inception组新招5人，将SIMA、Genie从研究原型推向游戏产品
-推送成功: 【BLOCKBEATS - 链上侦探】谷歌DeepMind Inception组新招5人，将SIMA、Genie从研究原型推向游戏产品
+  [BlockBeats] 新快讯: Meme币MAGA市值短时迫近1000万美元，24小时涨幅达350%
+推送成功: 【BLOCKBEATS - 融资】Meme币MAGA市值短时迫近1000万美元，24小时涨幅达350%
 已保存到 Markdown: ./output/blockbeats/2026-04-21.md
-  [BlockBeats] 新快讯: 某空头巨鲸止损离场，旋即于76670美元处重新挂出空单
-推送成功: 【BLOCKBEATS - 融资】某空头巨鲸止损离场，旋即于76670美元处重新挂出空单
+  [BlockBeats] 新快讯: 疑似Galaxy Digital关联地址持续止盈ETH空单，近期已清仓1100万美元现货
+推送成功: 【BLOCKBEATS - 融资】疑似Galaxy Digital关联地址持续止盈ETH空单，近期已清仓1100万美元现货
 已保存到 Markdown: ./output/blockbeats/2026-04-21.md
-  [BlockBeats] 新快讯: 知名Meme交易员Cooker近日持续进行ASTEROID波段交易操作
-推送成功: 【BLOCKBEATS - 融资】知名Meme交易员Cooker近日持续进行ASTEROID波段交易操作
-已保存到 Markdown: ./output/blockbeats/2026-04-21.md
-  [BlockBeats] 新快讯: 「白银铁头空军」开立20倍杠杆ETH空单，规模达1200万美元
-推送成功: 【BLOCKBEATS - 融资】「白银铁头空军」开立20倍杠杆ETH空单，规模达1200万美元
+  [BlockBeats] 新快讯: Tether在以太坊网络上增发10亿枚USDT
+推送成功: 【BLOCKBEATS - 融资】Tether在以太坊网络上增发10亿枚USDT
 已保存到 Markdown: ./output/blockbeats/2026-04-21.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -58,7 +55,7 @@ Call log:
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-Cycle completed. 2026-04-21 07:56:04.348496
+Cycle completed. 2026-04-21 09:43:19.809560
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -68,25 +65,25 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-   Failed to scrape list 透明度评分提升榜: Page.wait_for_selector: Timeout 15000ms exceeded.
+.
 Call log:
   - waiting for locator("table tr, .list-item") to be visible
 
-2026-04-21 07:55:23,011 - INFO -   List: 交易所透明度排名
-2026-04-21 07:55:38,464 - ERROR -   Failed to scrape list 交易所透明度排名: Page.wait_for_selector: Timeout 15000ms exceeded.
+2026-04-21 09:42:38,537 - INFO -   List: 交易所透明度排名
+2026-04-21 09:42:53,965 - ERROR -   Failed to scrape list 交易所透明度排名: Page.wait_for_selector: Timeout 15000ms exceeded.
 Call log:
   - waiting for locator("table tr, .list-item") to be visible
 
-2026-04-21 07:55:38,464 - INFO -   Calendar Events...
-2026-04-21 07:55:53,917 - WARNING -   Calendar events fetch failed: Page.wait_for_selector: Timeout 15000ms exceeded.
+2026-04-21 09:42:53,965 - INFO -   Calendar Events...
+2026-04-21 09:43:09,389 - WARNING -   Calendar events fetch failed: Page.wait_for_selector: Timeout 15000ms exceeded.
 Call log:
   - waiting for locator(".list-table, .list-row") to be visible
 
-2026-04-21 07:55:53,917 - INFO -   Calendar Insight Image...
-2026-04-21 07:55:53,919 - WARNING -     Calendar insight icon not found
-2026-04-21 07:55:53,919 - INFO -   Market Image...
-2026-04-21 07:56:04,339 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+2026-04-21 09:43:09,389 - INFO -   Calendar Insight Image...
+2026-04-21 09:43:09,391 - WARNING -     Calendar insight icon not found
+2026-04-21 09:43:09,391 - INFO -   Market Image...
+2026-04-21 09:43:19,800 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-2026-04-21 07:56:04,348 - INFO - Cycle completed. 2026-04-21 07:56:04.348496
+2026-04-21 09:43:19,809 - INFO - Cycle completed. 2026-04-21 09:43:19.809560

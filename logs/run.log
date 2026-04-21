@@ -23,22 +23,18 @@ Call log:
   - waiting for locator("table tr, .list-item") to be visible
 
   Calendar Events...
-  [RootData] 日历事件: 10 条
-推送成功: 📅 RootData | 今日日历事件
-已保存到 Markdown: ./output/rootdata/2026-04-21.md
+  Calendar events fetch failed: Page.wait_for_selector: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator(".list-table, .list-row") to be visible
+
   Calendar Insight Image...
-    Clicked calendar insight icon
-    Clicked generate share image button
-    Clicked download button
-    Saved Calendar Image: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-04-21.png
-    Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-04-21.png
-推送成功: 📅 RootData | 未来7天加密日历洞察
+    Calendar insight icon not found
   Market Image...
     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-Cycle completed. 2026-04-21 19:16:49.664339
+Cycle completed. 2026-04-21 20:56:39.661649
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -48,12 +44,10 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-密日历洞察_2026-04-21.png
-2026-04-21 19:16:36,649 - INFO -     Sending image file: ./output/rootdata/calendar_insights/未来7天加密日历洞察_2026-04-21.png
-2026-04-21 19:16:37,261 - INFO - 推送成功: 📅 RootData | 未来7天加密日历洞察
-2026-04-21 19:16:37,264 - INFO -   Market Image...
-2026-04-21 19:16:49,655 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+   Calendar insight icon not found
+2026-04-21 20:56:29,196 - INFO -   Market Image...
+2026-04-21 20:56:39,652 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-2026-04-21 19:16:49,664 - INFO - Cycle completed. 2026-04-21 19:16:49.664339
+2026-04-21 20:56:39,661 - INFO - Cycle completed. 2026-04-21 20:56:39.661649

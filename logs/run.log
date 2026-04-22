@@ -1,5 +1,47 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
+  [BlockBeats] 新快讯: OpenAI发布ChatGPT Images2.0，支持2K与双模式
+推送成功: 【BLOCKBEATS - 链上侦探】OpenAI发布ChatGPT Images2.0，支持2K与双模式
+已保存到 Markdown: ./output/blockbeats/2026-04-22.md
+  [BlockBeats] 新快讯: Claude Mythos模型在Firefox中识别出271个漏洞
+推送成功: 【BLOCKBEATS - 链上侦探】Claude Mythos模型在Firefox中识别出271个漏洞
+已保存到 Markdown: ./output/blockbeats/2026-04-22.md
+  [BlockBeats] 新快讯: Anthropic测试将Claude Code移出Pro订阅，OpenAI表态Codex保留免费层
+推送成功: 【BLOCKBEATS - 链上侦探】Anthropic测试将Claude Code移出Pro订阅，OpenAI表态Codex保留免费层
+已保存到 Markdown: ./output/blockbeats/2026-04-22.md
+  [BlockBeats] 新快讯: Anthropic自称高危的新模型Mythos测试首日即遭未授权访问
+推送成功: 【BLOCKBEATS - 链上侦探】Anthropic自称高危的新模型Mythos测试首日即遭未授权访问
+已保存到 Markdown: ./output/blockbeats/2026-04-22.md
+  [BlockBeats] 新快讯: 传OpenRouter神秘100B模型Elephant Alpha出自蚂蚁百灵
+推送成功: 【BLOCKBEATS - 链上侦探】传OpenRouter神秘100B模型Elephant Alpha出自蚂蚁百灵
+已保存到 Markdown: ./output/blockbeats/2026-04-22.md
+  [BlockBeats] 新快讯: SpaceX招股书披露双层股权结构，Musk去年增持14亿美元
+推送成功: 【BLOCKBEATS - 链上侦探】SpaceX招股书披露双层股权结构，Musk去年增持14亿美元
+已保存到 Markdown: ./output/blockbeats/2026-04-22.md
+  [BlockBeats] 新快讯: 月之暗面开源FlashKDA，Kimi Linear推理速度提升1.7到2.2倍
+推送成功: 【BLOCKBEATS - 链上侦探】月之暗面开源FlashKDA，Kimi Linear推理速度提升1.7到2.2倍
+已保存到 Markdown: ./output/blockbeats/2026-04-22.md
+  [BlockBeats] 新快讯: Meta计划监控员工鼠标与按键，用内部操作训练AI智能体
+推送成功: 【BLOCKBEATS - 链上侦探】Meta计划监控员工鼠标与按键，用内部操作训练AI智能体
+已保存到 Markdown: ./output/blockbeats/2026-04-22.md
+  [BlockBeats] 新快讯: 谷歌发布Deep Research Max，基于Gemini3.1 Pro
+推送成功: 【BLOCKBEATS - 链上侦探】谷歌发布Deep Research Max，基于Gemini3.1 Pro
+已保存到 Markdown: ./output/blockbeats/2026-04-22.md
+  [BlockBeats] 新快讯: SpaceX宣布与Cursor合作并获600亿美元收购期权
+推送成功: 【BLOCKBEATS - 链上侦探】SpaceX宣布与Cursor合作并获600亿美元收购期权
+已保存到 Markdown: ./output/blockbeats/2026-04-22.md
+  [BlockBeats] 新快讯: 自月初做空BTC的巨鲸已浮亏超900万美元，现为链上BTC最大空头
+推送成功: 【BLOCKBEATS - 融资】自月初做空BTC的巨鲸已浮亏超900万美元，现为链上BTC最大空头
+已保存到 Markdown: ./output/blockbeats/2026-04-22.md
+  [BlockBeats] 新快讯: Meme币MAGA市值短时涨超2500万美元新高，24小时涨幅200%
+推送成功: 【BLOCKBEATS - 融资】Meme币MAGA市值短时涨超2500万美元新高，24小时涨幅200%
+已保存到 Markdown: ./output/blockbeats/2026-04-22.md
+  [BlockBeats] 新快讯: 某交易者三年前仅花费3936美元买入440.27亿枚FLORK，现浮盈超40.4万美元
+推送成功: 【BLOCKBEATS - 融资】某交易者三年前仅花费3936美元买入440.27亿枚FLORK，现浮盈超40.4万美元
+已保存到 Markdown: ./output/blockbeats/2026-04-22.md
+  [BlockBeats] 新快讯: Bitmine再次质押61232枚ETH，价值1.42亿美元
+推送成功: 【BLOCKBEATS - 融资】Bitmine再次质押61232枚ETH，价值1.42亿美元
+已保存到 Markdown: ./output/blockbeats/2026-04-22.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
   Category: 项目动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1003&is_hot=1
@@ -34,7 +76,7 @@ Call log:
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-Cycle completed. 2026-04-21 23:38:20.398280
+Cycle completed. 2026-04-22 02:44:00.691988
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -44,10 +86,34 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-   Calendar insight icon not found
-2026-04-21 23:38:10,018 - INFO -   Market Image...
-2026-04-21 23:38:20,388 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+flowpost.com/zh-CN/newsletter?articleType=1001&is_hot=1
+2026-04-22 02:42:44,449 - INFO -   Category: 融资动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1000&is_hot=1
+2026-04-22 02:42:45,233 - INFO - Scraping RootData...
+2026-04-22 02:42:45,275 - INFO -   List: Top 100 项目
+2026-04-22 02:43:03,008 - ERROR -   Failed to scrape list Top 100 项目: Page.wait_for_selector: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator("table tr, .list-item") to be visible
+
+2026-04-22 02:43:03,008 - INFO -   List: 透明度评分提升榜
+2026-04-22 02:43:18,669 - ERROR -   Failed to scrape list 透明度评分提升榜: Page.wait_for_selector: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator("table tr, .list-item") to be visible
+
+2026-04-22 02:43:18,669 - INFO -   List: 交易所透明度排名
+2026-04-22 02:43:34,332 - ERROR -   Failed to scrape list 交易所透明度排名: Page.wait_for_selector: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator("table tr, .list-item") to be visible
+
+2026-04-22 02:43:34,332 - INFO -   Calendar Events...
+2026-04-22 02:43:49,999 - WARNING -   Calendar events fetch failed: Page.wait_for_selector: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator(".list-table, .list-row") to be visible
+
+2026-04-22 02:43:49,999 - INFO -   Calendar Insight Image...
+2026-04-22 02:43:50,001 - WARNING -     Calendar insight icon not found
+2026-04-22 02:43:50,001 - INFO -   Market Image...
+2026-04-22 02:44:00,682 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-2026-04-21 23:38:20,398 - INFO - Cycle completed. 2026-04-21 23:38:20.398280
+2026-04-22 02:44:00,692 - INFO - Cycle completed. 2026-04-22 02:44:00.691988

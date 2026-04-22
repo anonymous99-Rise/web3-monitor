@@ -1,8 +1,5 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 谷歌云CEO：Gemini将帮助苹果在2026年推出个性化Siri
-推送成功: 【BLOCKBEATS - 链上侦探】谷歌云CEO：Gemini将帮助苹果在2026年推出个性化Siri
-已保存到 Markdown: ./output/blockbeats/2026-04-22.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
   Category: 项目动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1003&is_hot=1
@@ -37,7 +34,7 @@ Call log:
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-Cycle completed. 2026-04-22 17:05:47.414044
+Cycle completed. 2026-04-22 19:18:04.194986
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -47,12 +44,10 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-
-2026-04-22 17:05:37,066 - INFO -   Calendar Insight Image...
-2026-04-22 17:05:37,069 - WARNING -     Calendar insight icon not found
-2026-04-22 17:05:37,069 - INFO -   Market Image...
-2026-04-22 17:05:47,403 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+   Calendar insight icon not found
+2026-04-22 19:17:53,935 - INFO -   Market Image...
+2026-04-22 19:18:04,185 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-2026-04-22 17:05:47,414 - INFO - Cycle completed. 2026-04-22 17:05:47.414044
+2026-04-22 19:18:04,195 - INFO - Cycle completed. 2026-04-22 19:18:04.194986

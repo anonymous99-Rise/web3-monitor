@@ -1,28 +1,7 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 报告称360 AI漏洞代理已发现近千个未知漏洞，与Mythos形成竞争
-推送成功: 【BLOCKBEATS - 链上侦探】报告称360 AI漏洞代理已发现近千个未知漏洞，与Mythos形成竞争
-已保存到 Markdown: ./output/blockbeats/2026-04-22.md
-  [BlockBeats] 新快讯: Pichai称谷歌75%新代码由AI生成，复杂迁移提速6倍
-推送成功: 【BLOCKBEATS - 链上侦探】Pichai称谷歌75%新代码由AI生成，复杂迁移提速6倍
-已保存到 Markdown: ./output/blockbeats/2026-04-22.md
-  [BlockBeats] 新快讯: Thinking Machines Lab与Google Cloud签署数十亿美元算力协议
-推送成功: 【BLOCKBEATS - 链上侦探】Thinking Machines Lab与Google Cloud签署数十亿美元算力协议
-已保存到 Markdown: ./output/blockbeats/2026-04-22.md
-  [BlockBeats] 新快讯: 谷歌推出Gemini Enterprise Agent Platform，Vertex AI全线并入
-推送成功: 【BLOCKBEATS - 链上侦探】谷歌推出Gemini Enterprise Agent Platform，Vertex AI全线并入
-已保存到 Markdown: ./output/blockbeats/2026-04-22.md
-  [BlockBeats] 新快讯: 谷歌发布第八代TPU，训练推理首次分为两颗独立芯片
-推送成功: 【BLOCKBEATS - 链上侦探】谷歌发布第八代TPU，训练推理首次分为两颗独立芯片
-已保存到 Markdown: ./output/blockbeats/2026-04-22.md
-  [BlockBeats] 新快讯: Anthropic确认调查Mythos未授权访问，称源头为第三方承包商
-推送成功: 【BLOCKBEATS - 链上侦探】Anthropic确认调查Mythos未授权访问，称源头为第三方承包商
-已保存到 Markdown: ./output/blockbeats/2026-04-22.md
-  [BlockBeats] 新快讯: Yifan Zhang披露DeepSeek V4完整技术规格：1.6T参数、384专家激活6个
-推送成功: 【BLOCKBEATS - 链上侦探】Yifan Zhang披露DeepSeek V4完整技术规格：1.6T参数、384专家激活6个
-已保存到 Markdown: ./output/blockbeats/2026-04-22.md
-  [BlockBeats] 新快讯: 通义千问开源Qwen3.6-27B，27B稠密模型编码能力超上代397B旗舰
-推送成功: 【BLOCKBEATS - 链上侦探】通义千问开源Qwen3.6-27B，27B稠密模型编码能力超上代397B旗舰
+  [BlockBeats] 新快讯: 谷歌云CEO：Gemini将帮助苹果在2026年推出个性化Siri
+推送成功: 【BLOCKBEATS - 链上侦探】谷歌云CEO：Gemini将帮助苹果在2026年推出个性化Siri
 已保存到 Markdown: ./output/blockbeats/2026-04-22.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -58,7 +37,7 @@ Call log:
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-Cycle completed. 2026-04-22 15:17:51.193594
+Cycle completed. 2026-04-22 17:05:47.414044
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -68,25 +47,12 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-   Failed to scrape list 透明度评分提升榜: Page.wait_for_selector: Timeout 15000ms exceeded.
-Call log:
-  - waiting for locator("table tr, .list-item") to be visible
 
-2026-04-22 15:17:09,734 - INFO -   List: 交易所透明度排名
-2026-04-22 15:17:25,008 - ERROR -   Failed to scrape list 交易所透明度排名: Page.wait_for_selector: Timeout 15000ms exceeded.
-Call log:
-  - waiting for locator("table tr, .list-item") to be visible
-
-2026-04-22 15:17:25,008 - INFO -   Calendar Events...
-2026-04-22 15:17:40,583 - WARNING -   Calendar events fetch failed: Page.wait_for_selector: Timeout 15000ms exceeded.
-Call log:
-  - waiting for locator(".list-table, .list-row") to be visible
-
-2026-04-22 15:17:40,583 - INFO -   Calendar Insight Image...
-2026-04-22 15:17:40,585 - WARNING -     Calendar insight icon not found
-2026-04-22 15:17:40,585 - INFO -   Market Image...
-2026-04-22 15:17:51,184 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+2026-04-22 17:05:37,066 - INFO -   Calendar Insight Image...
+2026-04-22 17:05:37,069 - WARNING -     Calendar insight icon not found
+2026-04-22 17:05:37,069 - INFO -   Market Image...
+2026-04-22 17:05:47,403 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-2026-04-22 15:17:51,193 - INFO - Cycle completed. 2026-04-22 15:17:51.193594
+2026-04-22 17:05:47,414 - INFO - Cycle completed. 2026-04-22 17:05:47.414044

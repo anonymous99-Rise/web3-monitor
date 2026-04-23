@@ -30,11 +30,12 @@ Call log:
   Calendar Insight Image...
     Calendar insight icon not found
   Market Image...
-    Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
-Call log:
-  - waiting for locator(".v-data-table, table, .top-gainers") to be visible
-
-Cycle completed. 2026-04-23 17:24:19.324703
+    Clicked market download icon
+    Clicked save button
+    Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-04-23.png
+    Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-04-23.png
+推送成功: 📊 RootData | Top Gainers
+Cycle completed. 2026-04-23 19:15:00.150707
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -44,10 +45,9 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-   Calendar insight icon not found
-2026-04-23 17:24:08,998 - INFO -   Market Image...
-2026-04-23 17:24:19,313 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
-Call log:
-  - waiting for locator(".v-data-table, table, .top-gainers") to be visible
-
-2026-04-23 17:24:19,324 - INFO - Cycle completed. 2026-04-23 17:24:19.324703
+-     Clicked market download icon
+2026-04-23 19:14:59,502 - INFO -     Clicked save button
+2026-04-23 19:14:59,534 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-04-23.png
+2026-04-23 19:14:59,534 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-04-23.png
+2026-04-23 19:15:00,137 - INFO - 推送成功: 📊 RootData | Top Gainers
+2026-04-23 19:15:00,150 - INFO - Cycle completed. 2026-04-23 19:15:00.150707

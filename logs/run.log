@@ -1,5 +1,8 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
+  [BlockBeats] 新快讯: OpenAI发布GPT-5.5并强化安全能力：Pro版本面向高端用户开放，API即将上线
+推送成功: 【BLOCKBEATS - 链上侦探】OpenAI发布GPT-5.5并强化安全能力：Pro版本面向高端用户开放，API即将上线
+已保存到 Markdown: ./output/blockbeats/2026-04-23.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
   Category: 项目动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1003&is_hot=1
@@ -30,12 +33,11 @@ Call log:
   Calendar Insight Image...
     Calendar insight icon not found
   Market Image...
-    Clicked market download icon
-    Clicked save button
-    Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-04-23.png
-    Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-04-23.png
-推送成功: 📊 RootData | Top Gainers
-Cycle completed. 2026-04-23 19:15:00.150707
+    Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(".v-data-table, table, .top-gainers") to be visible
+
+Cycle completed. 2026-04-23 20:56:22.689716
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -45,9 +47,12 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
--     Clicked market download icon
-2026-04-23 19:14:59,502 - INFO -     Clicked save button
-2026-04-23 19:14:59,534 - INFO -     Saved Market Image: ./output/rootdata/market_summary/Market_Top_Gainers_2026-04-23.png
-2026-04-23 19:14:59,534 - INFO -     Sending image file: ./output/rootdata/market_summary/Market_Top_Gainers_2026-04-23.png
-2026-04-23 19:15:00,137 - INFO - 推送成功: 📊 RootData | Top Gainers
-2026-04-23 19:15:00,150 - INFO - Cycle completed. 2026-04-23 19:15:00.150707
+
+2026-04-23 20:56:12,030 - INFO -   Calendar Insight Image...
+2026-04-23 20:56:12,031 - WARNING -     Calendar insight icon not found
+2026-04-23 20:56:12,031 - INFO -   Market Image...
+2026-04-23 20:56:22,679 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(".v-data-table, table, .top-gainers") to be visible
+
+2026-04-23 20:56:22,689 - INFO - Cycle completed. 2026-04-23 20:56:22.689716

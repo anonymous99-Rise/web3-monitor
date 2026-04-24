@@ -1,22 +1,13 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: Exa升级Highlights：500字符摘要匹配8000字符全文准确率，token省16倍
-推送成功: 【BLOCKBEATS - 链上侦探】Exa升级Highlights：500字符摘要匹配8000字符全文准确率，token省16倍
+  [BlockBeats] 新快讯: Abraxas Capital过去1小时向Kraken存入4835枚BTC，价值约3.78亿美元
+推送成功: 【BLOCKBEATS - 融资】Abraxas Capital过去1小时向Kraken存入4835枚BTC，价值约3.78亿美元
 已保存到 Markdown: ./output/blockbeats/2026-04-24.md
-  [BlockBeats] 新快讯: Parallel搜索MCP免费开放，无需账号和API密钥
-推送成功: 【BLOCKBEATS - 链上侦探】Parallel搜索MCP免费开放，无需账号和API密钥
+  [BlockBeats] 新快讯: 贝莱德向Coinbase Prime转入12080枚ETH与113.342枚BTC
+推送成功: 【BLOCKBEATS - 融资】贝莱德向Coinbase Prime转入12080枚ETH与113.342枚BTC
 已保存到 Markdown: ./output/blockbeats/2026-04-24.md
-  [BlockBeats] 新快讯: 美团万亿级参数大模型开放测试，训练全程由国产算力集群完成
-推送成功: 【BLOCKBEATS - 链上侦探】美团万亿级参数大模型开放测试，训练全程由国产算力集群完成
-已保存到 Markdown: ./output/blockbeats/2026-04-24.md
-  [BlockBeats] 新快讯: Infisical开源Agent Vault：agent永远不碰密钥，在HTTPS层统一拦截注入
-推送成功: 【BLOCKBEATS - 链上侦探】Infisical开源Agent Vault：agent永远不碰密钥，在HTTPS层统一拦截注入
-已保存到 Markdown: ./output/blockbeats/2026-04-24.md
-  [BlockBeats] 新快讯: Hermes Agent发布v0.11.0：传输层可插拔重构，接入GPT-5.5
-推送成功: 【BLOCKBEATS - 链上侦探】Hermes Agent发布v0.11.0：传输层可插拔重构，接入GPT-5.5
-已保存到 Markdown: ./output/blockbeats/2026-04-24.md
-  [BlockBeats] 新快讯: OpenAI开源思维链可监控性评测：CoT越长越透明，RL不会教模型「藏心思」
-推送成功: 【BLOCKBEATS - 链上侦探】OpenAI开源思维链可监控性评测：CoT越长越透明，RL不会教模型「藏心思」
+  [BlockBeats] 新快讯: 某巨鲸为参与明日特朗普午宴持仓TRUMP一个月，损失约39.8万美元
+推送成功: 【BLOCKBEATS - 融资】某巨鲸为参与明日特朗普午宴持仓TRUMP一个月，损失约39.8万美元
 已保存到 Markdown: ./output/blockbeats/2026-04-24.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -52,7 +43,7 @@ Call log:
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-Cycle completed. 2026-04-24 12:00:30.162343
+Cycle completed. 2026-04-24 14:01:15.227958
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -62,21 +53,16 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-- INFO -   List: 交易所透明度排名
-2026-04-24 12:00:04,353 - ERROR -   Failed to scrape list 交易所透明度排名: Page.wait_for_selector: Timeout 15000ms exceeded.
-Call log:
-  - waiting for locator("table tr, .list-item") to be visible
-
-2026-04-24 12:00:04,354 - INFO -   Calendar Events...
-2026-04-24 12:00:19,581 - WARNING -   Calendar events fetch failed: Page.wait_for_selector: Timeout 15000ms exceeded.
+ts...
+2026-04-24 14:01:04,651 - WARNING -   Calendar events fetch failed: Page.wait_for_selector: Timeout 15000ms exceeded.
 Call log:
   - waiting for locator(".list-table, .list-row") to be visible
 
-2026-04-24 12:00:19,581 - INFO -   Calendar Insight Image...
-2026-04-24 12:00:19,583 - WARNING -     Calendar insight icon not found
-2026-04-24 12:00:19,583 - INFO -   Market Image...
-2026-04-24 12:00:30,152 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+2026-04-24 14:01:04,651 - INFO -   Calendar Insight Image...
+2026-04-24 14:01:04,653 - WARNING -     Calendar insight icon not found
+2026-04-24 14:01:04,653 - INFO -   Market Image...
+2026-04-24 14:01:15,217 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-2026-04-24 12:00:30,162 - INFO - Cycle completed. 2026-04-24 12:00:30.162343
+2026-04-24 14:01:15,227 - INFO - Cycle completed. 2026-04-24 14:01:15.227958

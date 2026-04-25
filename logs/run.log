@@ -1,8 +1,5 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: Bless团队疑似再次抛售近1亿枚代币，币价短时跌超10%
-推送成功: 【BLOCKBEATS - 融资】Bless团队疑似再次抛售近1亿枚代币，币价短时跌超10%
-已保存到 Markdown: ./output/blockbeats/2026-04-25.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
   Category: 项目动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1003&is_hot=1
@@ -33,13 +30,11 @@ Call log:
   Calendar Insight Image...
     Calendar insight icon not found
   Market Image...
-    Clicked market download icon
-    Clicked save button
-    Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
-=========================== logs ===========================
-waiting for event "download"
-============================================================
-Cycle completed. 2026-04-25 16:45:42.028268
+    Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(".v-data-table, table, .top-gainers") to be visible
+
+Cycle completed. 2026-04-25 17:40:40.382564
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -49,12 +44,10 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-nd
-2026-04-25 16:45:01,362 - INFO -   Market Image...
-2026-04-25 16:45:06,957 - INFO -     Clicked market download icon
-2026-04-25 16:45:12,074 - INFO -     Clicked save button
-2026-04-25 16:45:42,011 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
-=========================== logs ===========================
-waiting for event "download"
-============================================================
-2026-04-25 16:45:42,028 - INFO - Cycle completed. 2026-04-25 16:45:42.028268
+   Calendar insight icon not found
+2026-04-25 17:40:30,080 - INFO -   Market Image...
+2026-04-25 17:40:40,375 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(".v-data-table, table, .top-gainers") to be visible
+
+2026-04-25 17:40:40,382 - INFO - Cycle completed. 2026-04-25 17:40:40.382564

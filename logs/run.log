@@ -1,22 +1,13 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: Qwen-Image-2.0-Pro上线：生图编辑一体化，支持多语言文字渲染
-推送成功: 【BLOCKBEATS - 链上侦探】Qwen-Image-2.0-Pro上线：生图编辑一体化，支持多语言文字渲染
+  [BlockBeats] 新快讯: CocoIndex V1发布：AI agent数据只更新变化部分，pip install直接跑
+推送成功: 【BLOCKBEATS - 链上侦探】CocoIndex V1发布：AI agent数据只更新变化部分，pip install直接跑
 已保存到 Markdown: ./output/blockbeats/2026-04-26.md
-  [BlockBeats] 新快讯: Anduril创始人反驳The Verge「硅谷傲慢」长文：你的例子全是编的
-推送成功: 【BLOCKBEATS - 链上侦探】Anduril创始人反驳The Verge「硅谷傲慢」长文：你的例子全是编的
+  [BlockBeats] 新快讯: OpenAI开发者体验负责人：从GPT-5.4起Codex已并入主模型，不再有独立编程模型线
+推送成功: 【BLOCKBEATS - 链上侦探】OpenAI开发者体验负责人：从GPT-5.4起Codex已并入主模型，不再有独立编程模型线
 已保存到 Markdown: ./output/blockbeats/2026-04-26.md
-  [BlockBeats] 新快讯: NYT调查：Musk把SpaceX当了近20年「储蓄罐」，自借5亿利率不到银行一半
-推送成功: 【BLOCKBEATS - 链上侦探】NYT调查：Musk把SpaceX当了近20年「储蓄罐」，自借5亿利率不到银行一半
-已保存到 Markdown: ./output/blockbeats/2026-04-26.md
-  [BlockBeats] 新快讯: DeepSeek-V4-Pro API限时打2.5折，输出价降至0.87美元
-推送成功: 【BLOCKBEATS - 链上侦探】DeepSeek-V4-Pro API限时打2.5折，输出价降至0.87美元
-已保存到 Markdown: ./output/blockbeats/2026-04-26.md
-  [BlockBeats] 新快讯: OpenClaw v2026.4.24：Google Meet变成AI会议参与者，语音通话可随时召唤完整agent
-推送成功: 【BLOCKBEATS - 链上侦探】OpenClaw v2026.4.24：Google Meet变成AI会议参与者，语音通话可随时召唤完整agent
-已保存到 Markdown: ./output/blockbeats/2026-04-26.md
-  [BlockBeats] 新快讯: Balancer攻击者过去三日已将2.1万枚ETH兑换为617.43枚BTC
-推送成功: 【BLOCKBEATS - 融资】Balancer攻击者过去三日已将2.1万枚ETH兑换为617.43枚BTC
+  [BlockBeats] 新快讯: Bless项目方自最近BLESS暴涨后抛售5亿枚代币
+推送成功: 【BLOCKBEATS - 融资】Bless项目方自最近BLESS暴涨后抛售5亿枚代币
 已保存到 Markdown: ./output/blockbeats/2026-04-26.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -36,10 +27,10 @@ Call log:
   - waiting for locator("table tr, .list-item") to be visible
 
   List: 交易所透明度排名
-  Failed to scrape list 交易所透明度排名: Page.wait_for_selector: Timeout 15000ms exceeded.
-Call log:
-  - waiting for locator("table tr, .list-item") to be visible
-
+  [RootData] 新榜单: 交易所透明度排名
+推送成功: 【RootData - 交易所透明度排名】
+推送成功: 【RootData - 交易所透明度排名】 (续)
+已保存到 Markdown: ./output/rootdata/2026-04-26.md
   Calendar Events...
   Calendar events fetch failed: Page.wait_for_selector: Timeout 15000ms exceeded.
 Call log:
@@ -52,7 +43,7 @@ Call log:
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-Cycle completed. 2026-04-26 02:53:56.574165
+Cycle completed. 2026-04-26 05:43:12.043291
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -62,21 +53,17 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-- INFO -   List: 交易所透明度排名
-2026-04-26 02:53:30,227 - ERROR -   Failed to scrape list 交易所透明度排名: Page.wait_for_selector: Timeout 15000ms exceeded.
-Call log:
-  - waiting for locator("table tr, .list-item") to be visible
-
-2026-04-26 02:53:30,227 - INFO -   Calendar Events...
-2026-04-26 02:53:45,899 - WARNING -   Calendar events fetch failed: Page.wait_for_selector: Timeout 15000ms exceeded.
+�存到 Markdown: ./output/rootdata/2026-04-26.md
+2026-04-26 05:42:46,173 - INFO -   Calendar Events...
+2026-04-26 05:43:01,771 - WARNING -   Calendar events fetch failed: Page.wait_for_selector: Timeout 15000ms exceeded.
 Call log:
   - waiting for locator(".list-table, .list-row") to be visible
 
-2026-04-26 02:53:45,899 - INFO -   Calendar Insight Image...
-2026-04-26 02:53:45,902 - WARNING -     Calendar insight icon not found
-2026-04-26 02:53:45,902 - INFO -   Market Image...
-2026-04-26 02:53:56,563 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+2026-04-26 05:43:01,771 - INFO -   Calendar Insight Image...
+2026-04-26 05:43:01,773 - WARNING -     Calendar insight icon not found
+2026-04-26 05:43:01,773 - INFO -   Market Image...
+2026-04-26 05:43:12,033 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-2026-04-26 02:53:56,574 - INFO - Cycle completed. 2026-04-26 02:53:56.574165
+2026-04-26 05:43:12,043 - INFO - Cycle completed. 2026-04-26 05:43:12.043291

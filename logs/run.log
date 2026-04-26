@@ -1,14 +1,5 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: CocoIndex V1发布：AI agent数据只更新变化部分，pip install直接跑
-推送成功: 【BLOCKBEATS - 链上侦探】CocoIndex V1发布：AI agent数据只更新变化部分，pip install直接跑
-已保存到 Markdown: ./output/blockbeats/2026-04-26.md
-  [BlockBeats] 新快讯: OpenAI开发者体验负责人：从GPT-5.4起Codex已并入主模型，不再有独立编程模型线
-推送成功: 【BLOCKBEATS - 链上侦探】OpenAI开发者体验负责人：从GPT-5.4起Codex已并入主模型，不再有独立编程模型线
-已保存到 Markdown: ./output/blockbeats/2026-04-26.md
-  [BlockBeats] 新快讯: Bless项目方自最近BLESS暴涨后抛售5亿枚代币
-推送成功: 【BLOCKBEATS - 融资】Bless项目方自最近BLESS暴涨后抛售5亿枚代币
-已保存到 Markdown: ./output/blockbeats/2026-04-26.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
   Category: 项目动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1003&is_hot=1
@@ -27,10 +18,10 @@ Call log:
   - waiting for locator("table tr, .list-item") to be visible
 
   List: 交易所透明度排名
-  [RootData] 新榜单: 交易所透明度排名
-推送成功: 【RootData - 交易所透明度排名】
-推送成功: 【RootData - 交易所透明度排名】 (续)
-已保存到 Markdown: ./output/rootdata/2026-04-26.md
+  Failed to scrape list 交易所透明度排名: Page.wait_for_selector: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator("table tr, .list-item") to be visible
+
   Calendar Events...
   Calendar events fetch failed: Page.wait_for_selector: Timeout 15000ms exceeded.
 Call log:
@@ -43,7 +34,7 @@ Call log:
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-Cycle completed. 2026-04-26 05:43:12.043291
+Cycle completed. 2026-04-26 07:43:50.730466
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -53,17 +44,10 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-�存到 Markdown: ./output/rootdata/2026-04-26.md
-2026-04-26 05:42:46,173 - INFO -   Calendar Events...
-2026-04-26 05:43:01,771 - WARNING -   Calendar events fetch failed: Page.wait_for_selector: Timeout 15000ms exceeded.
-Call log:
-  - waiting for locator(".list-table, .list-row") to be visible
-
-2026-04-26 05:43:01,771 - INFO -   Calendar Insight Image...
-2026-04-26 05:43:01,773 - WARNING -     Calendar insight icon not found
-2026-04-26 05:43:01,773 - INFO -   Market Image...
-2026-04-26 05:43:12,033 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+   Calendar insight icon not found
+2026-04-26 07:43:40,440 - INFO -   Market Image...
+2026-04-26 07:43:50,721 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-2026-04-26 05:43:12,043 - INFO - Cycle completed. 2026-04-26 05:43:12.043291
+2026-04-26 07:43:50,730 - INFO - Cycle completed. 2026-04-26 07:43:50.730466

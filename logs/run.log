@@ -1,10 +1,7 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 疑似APE内幕人士出手做多LDO，仓位价值557万美元
-推送成功: 【BLOCKBEATS - 融资】疑似APE内幕人士出手做多LDO，仓位价值557万美元
-已保存到 Markdown: ./output/blockbeats/2026-04-26.md
-  [BlockBeats] 新快讯: 某巨鲸将300枚比特币存入Binance，浮盈高达1760万美元
-推送成功: 【BLOCKBEATS - 融资】某巨鲸将300枚比特币存入Binance，浮盈高达1760万美元
+  [BlockBeats] 新快讯: DeepSeek输入缓存降价至首发价十分之一，V4-Pro输入价降至0.025元/百万Tokens
+推送成功: 【BLOCKBEATS - 链上侦探】DeepSeek输入缓存降价至首发价十分之一，V4-Pro输入价降至0.025元/百万Tokens
 已保存到 Markdown: ./output/blockbeats/2026-04-26.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -40,7 +37,7 @@ Call log:
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-Cycle completed. 2026-04-26 14:47:24.126696
+Cycle completed. 2026-04-26 15:45:07.488317
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -50,15 +47,12 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-imeout 15000ms exceeded.
-Call log:
-  - waiting for locator(".list-table, .list-row") to be visible
 
-2026-04-26 14:47:13,505 - INFO -   Calendar Insight Image...
-2026-04-26 14:47:13,508 - WARNING -     Calendar insight icon not found
-2026-04-26 14:47:13,508 - INFO -   Market Image...
-2026-04-26 14:47:24,117 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+2026-04-26 15:44:56,818 - INFO -   Calendar Insight Image...
+2026-04-26 15:44:56,820 - WARNING -     Calendar insight icon not found
+2026-04-26 15:44:56,820 - INFO -   Market Image...
+2026-04-26 15:45:07,478 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-2026-04-26 14:47:24,126 - INFO - Cycle completed. 2026-04-26 14:47:24.126696
+2026-04-26 15:45:07,488 - INFO - Cycle completed. 2026-04-26 15:45:07.488317

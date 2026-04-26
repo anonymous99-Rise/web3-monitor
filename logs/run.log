@@ -1,8 +1,5 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 第一HYPE多头已浮盈342万美元，仓位规模约5682万美元
-推送成功: 【BLOCKBEATS - 融资】第一HYPE多头已浮盈342万美元，仓位规模约5682万美元
-已保存到 Markdown: ./output/blockbeats/2026-04-26.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
   Category: 项目动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1003&is_hot=1
@@ -37,7 +34,7 @@ Call log:
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-Cycle completed. 2026-04-26 10:49:11.672139
+Cycle completed. 2026-04-26 11:42:33.968824
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -47,12 +44,10 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-
-2026-04-26 10:49:01,356 - INFO -   Calendar Insight Image...
-2026-04-26 10:49:01,359 - WARNING -     Calendar insight icon not found
-2026-04-26 10:49:01,359 - INFO -   Market Image...
-2026-04-26 10:49:11,661 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+   Calendar insight icon not found
+2026-04-26 11:42:23,372 - INFO -   Market Image...
+2026-04-26 11:42:33,958 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-2026-04-26 10:49:11,672 - INFO - Cycle completed. 2026-04-26 10:49:11.672139
+2026-04-26 11:42:33,968 - INFO - Cycle completed. 2026-04-26 11:42:33.968824

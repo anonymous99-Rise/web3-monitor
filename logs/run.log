@@ -1,5 +1,35 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
+  [BlockBeats] 新快讯: AI评测公司Gentrace关停后，两位联创先后加入Anthropic
+推送成功: 【BLOCKBEATS - 链上侦探】AI评测公司Gentrace关停后，两位联创先后加入Anthropic
+已保存到 Markdown: ./output/blockbeats/2026-04-27.md
+  [BlockBeats] 新快讯: 中信建投：DeepSeek V4等多模型更新，算力需求持续紧张
+推送成功: 【BLOCKBEATS - 链上侦探】中信建投：DeepSeek V4等多模型更新，算力需求持续紧张
+已保存到 Markdown: ./output/blockbeats/2026-04-27.md
+  [BlockBeats] 新快讯: Altman发布OpenAI五条原则，预告未来可能为安全限制模型能力
+推送成功: 【BLOCKBEATS - 链上侦探】Altman发布OpenAI五条原则，预告未来可能为安全限制模型能力
+已保存到 Markdown: ./output/blockbeats/2026-04-27.md
+  [BlockBeats] 新快讯: Base生态代币REPPO市值涨超3000万美元，24小时涨幅达32%
+推送成功: 【BLOCKBEATS - 融资】Base生态代币REPPO市值涨超3000万美元，24小时涨幅达32%
+已保存到 Markdown: ./output/blockbeats/2026-04-27.md
+  [BlockBeats] 新快讯: 受今晨ETH短时突破2400美元，某巨鲸遭两轮清算后爆仓239万美元
+推送成功: 【BLOCKBEATS - 融资】受今晨ETH短时突破2400美元，某巨鲸遭两轮清算后爆仓239万美元
+已保存到 Markdown: ./output/blockbeats/2026-04-27.md
+  [BlockBeats] 新快讯: 某鲸鱼向HyperLiquid存入200万枚USDC，并以3倍杠杆做空原油
+推送成功: 【BLOCKBEATS - 融资】某鲸鱼向HyperLiquid存入200万枚USDC，并以3倍杠杆做空原油
+已保存到 Markdown: ./output/blockbeats/2026-04-27.md
+  [BlockBeats] 新快讯: 疑似APE内幕人士做多LDO已盈利约30万美元
+推送成功: 【BLOCKBEATS - 融资】疑似APE内幕人士做多LDO已盈利约30万美元
+已保存到 Markdown: ./output/blockbeats/2026-04-27.md
+  [BlockBeats] 新快讯: 某巨鲸过去半小时将30万枚SOL从质押中全部赎回后转入Binance
+推送成功: 【BLOCKBEATS - 融资】某巨鲸过去半小时将30万枚SOL从质押中全部赎回后转入Binance
+已保存到 Markdown: ./output/blockbeats/2026-04-27.md
+  [BlockBeats] 新快讯: 波段巨鲸「pension-usdt.eth」做空价值1.1亿美元的BTC及ETH，目前浮亏1525万美元
+推送成功: 【BLOCKBEATS - 融资】波段巨鲸「pension-usdt.eth」做空价值1.1亿美元的BTC及ETH，目前浮亏1525万美元
+已保存到 Markdown: ./output/blockbeats/2026-04-27.md
+  [BlockBeats] 新快讯: 某巨鲸向HyperLiquid转入5532枚ETH以出售
+推送成功: 【BLOCKBEATS - 融资】某巨鲸向HyperLiquid转入5532枚ETH以出售
+已保存到 Markdown: ./output/blockbeats/2026-04-27.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
   Category: 项目动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1003&is_hot=1
@@ -34,7 +64,7 @@ Call log:
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-Cycle completed. 2026-04-26 23:42:30.332349
+Cycle completed. 2026-04-27 02:56:51.766499
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -44,10 +74,30 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-   Calendar insight icon not found
-2026-04-26 23:42:20,088 - INFO -   Market Image...
-2026-04-26 23:42:30,322 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator("table tr, .list-item") to be visible
+
+2026-04-27 02:55:55,269 - INFO -   List: 透明度评分提升榜
+2026-04-27 02:56:10,583 - ERROR -   Failed to scrape list 透明度评分提升榜: Page.wait_for_selector: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator("table tr, .list-item") to be visible
+
+2026-04-27 02:56:10,583 - INFO -   List: 交易所透明度排名
+2026-04-27 02:56:26,204 - ERROR -   Failed to scrape list 交易所透明度排名: Page.wait_for_selector: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator("table tr, .list-item") to be visible
+
+2026-04-27 02:56:26,204 - INFO -   Calendar Events...
+2026-04-27 02:56:41,474 - WARNING -   Calendar events fetch failed: Page.wait_for_selector: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator(".list-table, .list-row") to be visible
+
+2026-04-27 02:56:41,474 - INFO -   Calendar Insight Image...
+2026-04-27 02:56:41,477 - WARNING -     Calendar insight icon not found
+2026-04-27 02:56:41,477 - INFO -   Market Image...
+2026-04-27 02:56:51,756 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-2026-04-26 23:42:30,332 - INFO - Cycle completed. 2026-04-26 23:42:30.332349
+2026-04-27 02:56:51,766 - INFO - Cycle completed. 2026-04-27 02:56:51.766499

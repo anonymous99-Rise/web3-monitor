@@ -30,11 +30,13 @@ Call log:
   Calendar Insight Image...
     Calendar insight icon not found
   Market Image...
-    Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
-Call log:
-  - waiting for locator(".v-data-table, table, .top-gainers") to be visible
-
-Cycle completed. 2026-04-28 22:01:34.145550
+    Clicked market download icon
+    Clicked save button
+    Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
+=========================== logs ===========================
+waiting for event "download"
+============================================================
+Cycle completed. 2026-04-28 23:06:01.509212
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -44,10 +46,10 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-   Calendar insight icon not found
-2026-04-28 22:01:23,456 - INFO -   Market Image...
-2026-04-28 22:01:34,135 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
-Call log:
-  - waiting for locator(".v-data-table, table, .top-gainers") to be visible
-
-2026-04-28 22:01:34,145 - INFO - Cycle completed. 2026-04-28 22:01:34.145550
+market download icon
+2026-04-28 23:05:31,546 - INFO -     Clicked save button
+2026-04-28 23:06:01,496 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
+=========================== logs ===========================
+waiting for event "download"
+============================================================
+2026-04-28 23:06:01,509 - INFO - Cycle completed. 2026-04-28 23:06:01.509212

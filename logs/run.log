@@ -1,29 +1,5 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: OpenAI驳斥增长放缓质疑，称消费与企业业务正「全速运转」
-推送成功: 【BLOCKBEATS - 链上侦探】OpenAI驳斥增长放缓质疑，称消费与企业业务正「全速运转」
-已保存到 Markdown: ./output/blockbeats/2026-04-28.md
-  [BlockBeats] 新快讯: 英伟达推出Nemotron3 Nano Omni模型：可统一处理视频、音频、图像与文本，提升多模态推理效率
-推送成功: 【BLOCKBEATS - 链上侦探】英伟达推出Nemotron3 Nano Omni模型：可统一处理视频、音频、图像与文本，提升多模态推理效率
-已保存到 Markdown: ./output/blockbeats/2026-04-28.md
-  [BlockBeats] 新快讯: AI招聘初创公司Dex完成530万美元种子轮融资，Notion Capital领投
-推送成功: 【BLOCKBEATS - 链上侦探】AI招聘初创公司Dex完成530万美元种子轮融资，Notion Capital领投
-已保存到 Markdown: ./output/blockbeats/2026-04-28.md
-  [BlockBeats] 新快讯: 美CFTC主席：将利用AI参与审查美国加密注册申请
-推送成功: 【BLOCKBEATS - 链上侦探】美CFTC主席：将利用AI参与审查美国加密注册申请
-已保存到 Markdown: ./output/blockbeats/2026-04-28.md
-  [BlockBeats] 新快讯: BIT关联巨鲸ETH多单增持至63,000枚ETH
-推送成功: 【BLOCKBEATS - 融资】BIT关联巨鲸ETH多单增持至63,000枚ETH
-已保存到 Markdown: ./output/blockbeats/2026-04-28.md
-  [BlockBeats] 新快讯: BIT关联巨鲸再次做多ETH，目前共持有58,000枚ETH多单
-推送成功: 【BLOCKBEATS - 融资】BIT关联巨鲸再次做多ETH，目前共持有58,000枚ETH多单
-已保存到 Markdown: ./output/blockbeats/2026-04-28.md
-  [BlockBeats] 新快讯: 富达约30分钟前向Coinbase存入19,934枚ETH
-推送成功: 【BLOCKBEATS - 融资】富达约30分钟前向Coinbase存入19,934枚ETH
-已保存到 Markdown: ./output/blockbeats/2026-04-28.md
-  [BlockBeats] 新快讯: 贝莱德向Coinbase Prime转入6040枚ETH和约362枚BTC
-推送成功: 【BLOCKBEATS - 融资】贝莱德向Coinbase Prime转入6040枚ETH和约362枚BTC
-已保存到 Markdown: ./output/blockbeats/2026-04-28.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
   Category: 项目动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1003&is_hot=1
@@ -54,11 +30,13 @@ Call log:
   Calendar Insight Image...
     Calendar insight icon not found
   Market Image...
-    Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
-Call log:
-  - waiting for locator(".v-data-table, table, .top-gainers") to be visible
-
-Cycle completed. 2026-04-28 16:56:33.300799
+    Clicked market download icon
+    Clicked save button
+    Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
+=========================== logs ===========================
+waiting for event "download"
+============================================================
+Cycle completed. 2026-04-28 18:21:11.366733
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -68,25 +46,10 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-   Failed to scrape list 透明度评分提升榜: Page.wait_for_selector: Timeout 15000ms exceeded.
-Call log:
-  - waiting for locator("table tr, .list-item") to be visible
-
-2026-04-28 16:55:52,275 - INFO -   List: 交易所透明度排名
-2026-04-28 16:56:07,630 - ERROR -   Failed to scrape list 交易所透明度排名: Page.wait_for_selector: Timeout 15000ms exceeded.
-Call log:
-  - waiting for locator("table tr, .list-item") to be visible
-
-2026-04-28 16:56:07,630 - INFO -   Calendar Events...
-2026-04-28 16:56:22,967 - WARNING -   Calendar events fetch failed: Page.wait_for_selector: Timeout 15000ms exceeded.
-Call log:
-  - waiting for locator(".list-table, .list-row") to be visible
-
-2026-04-28 16:56:22,967 - INFO -   Calendar Insight Image...
-2026-04-28 16:56:22,970 - WARNING -     Calendar insight icon not found
-2026-04-28 16:56:22,970 - INFO -   Market Image...
-2026-04-28 16:56:33,291 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
-Call log:
-  - waiting for locator(".v-data-table, table, .top-gainers") to be visible
-
-2026-04-28 16:56:33,300 - INFO - Cycle completed. 2026-04-28 16:56:33.300799
+market download icon
+2026-04-28 18:20:41,415 - INFO -     Clicked save button
+2026-04-28 18:21:11,348 - WARNING -     Market capture failed: Timeout 30000ms exceeded while waiting for event "download"
+=========================== logs ===========================
+waiting for event "download"
+============================================================
+2026-04-28 18:21:11,366 - INFO - Cycle completed. 2026-04-28 18:21:11.366733

@@ -1,43 +1,10 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 440MB翻译33种语言：腾讯混元开源手机离线翻译模型
-推送成功: 【BLOCKBEATS - 链上侦探】440MB翻译33种语言：腾讯混元开源手机离线翻译模型
+  [BlockBeats] 新快讯: 阿里云百炼宣布DeepSeek-V4-Pro模型隐式缓存降价
+推送成功: 【BLOCKBEATS - 链上侦探】阿里云百炼宣布DeepSeek-V4-Pro模型隐式缓存降价
 已保存到 Markdown: ./output/blockbeats/2026-04-29.md
-  [BlockBeats] 新快讯: 不标一条数据，30亿参数小模型打败200亿专用护栏模型
-推送成功: 【BLOCKBEATS - 链上侦探】不标一条数据，30亿参数小模型打败200亿专用护栏模型
-已保存到 Markdown: ./output/blockbeats/2026-04-29.md
-  [BlockBeats] 新快讯: Exa成为Gemini的搜索后端：接入Vertex AI和企业版Agent市场
-推送成功: 【BLOCKBEATS - 链上侦探】Exa成为Gemini的搜索后端：接入Vertex AI和企业版Agent市场
-已保存到 Markdown: ./output/blockbeats/2026-04-29.md
-  [BlockBeats] 新快讯: 拿了6亿美元闷头做3年，Poolside首次公开编程模型
-推送成功: 【BLOCKBEATS - 链上侦探】拿了6亿美元闷头做3年，Poolside首次公开编程模型
-已保存到 Markdown: ./output/blockbeats/2026-04-29.md
-  [BlockBeats] 新快讯: Claude接入Blender、Adobe、Autodesk等8款创意工具，Blender官方亲自开发连接器
-推送成功: 【BLOCKBEATS - 链上侦探】Claude接入Blender、Adobe、Autodesk等8款创意工具，Blender官方亲自开发连接器
-已保存到 Markdown: ./output/blockbeats/2026-04-29.md
-  [BlockBeats] 新快讯: ClawHub上30个插件让你的AI助手偷偷给陌生人打工赚币，近万次下载
-推送成功: 【BLOCKBEATS - 链上侦探】ClawHub上30个插件让你的AI助手偷偷给陌生人打工赚币，近万次下载
-已保存到 Markdown: ./output/blockbeats/2026-04-29.md
-  [BlockBeats] 新快讯: 被马斯克炒掉的前Twitter CEO再融1亿美元：给AI agent建专用搜索引擎
-推送成功: 【BLOCKBEATS - 链上侦探】被马斯克炒掉的前Twitter CEO再融1亿美元：给AI agent建专用搜索引擎
-已保存到 Markdown: ./output/blockbeats/2026-04-29.md
-  [BlockBeats] 新快讯: 贝莱德向Coinbase存入1,473枚BTC和5,738枚ETH
-推送成功: 【BLOCKBEATS - 融资】贝莱德向Coinbase存入1,473枚BTC和5,738枚ETH
-已保存到 Markdown: ./output/blockbeats/2026-04-29.md
-  [BlockBeats] 新快讯: 某鲸鱼以10倍杠杆建立4000万枚DOGE多头仓位，价值约440万美元
-推送成功: 【BLOCKBEATS - 融资】某鲸鱼以10倍杠杆建立4000万枚DOGE多头仓位，价值约440万美元
-已保存到 Markdown: ./output/blockbeats/2026-04-29.md
-  [BlockBeats] 新快讯: Base生态代币CAS市值突破1600万美元，24小时涨幅220%
-推送成功: 【BLOCKBEATS - 融资】Base生态代币CAS市值突破1600万美元，24小时涨幅220%
-已保存到 Markdown: ./output/blockbeats/2026-04-29.md
-  [BlockBeats] 新快讯: 某巨鲸以9倍杠杆做空BTC，规模达1300万美元
-推送成功: 【BLOCKBEATS - 融资】某巨鲸以9倍杠杆做空BTC，规模达1300万美元
-已保存到 Markdown: ./output/blockbeats/2026-04-29.md
-  [BlockBeats] 新快讯: DOGE日内涨近10%，某巨鲸以10倍杠杆追涨4160万枚DOGE
-推送成功: 【BLOCKBEATS - 融资】DOGE日内涨近10%，某巨鲸以10倍杠杆追涨4160万枚DOGE
-已保存到 Markdown: ./output/blockbeats/2026-04-29.md
-  [BlockBeats] 新快讯: 布油短时拉涨收复月内跌幅，某链上空头巨鲸遭275万美元清算
-推送成功: 【BLOCKBEATS - 融资】布油短时拉涨收复月内跌幅，某链上空头巨鲸遭275万美元清算
+  [BlockBeats] 新快讯: Justin Sun从Spack提取9341万枚USDT，随后存入HTX
+推送成功: 【BLOCKBEATS - 融资】Justin Sun从Spack提取9341万枚USDT，随后存入HTX
 已保存到 Markdown: ./output/blockbeats/2026-04-29.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -73,7 +40,7 @@ Call log:
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-Cycle completed. 2026-04-29 11:40:47.037001
+Cycle completed. 2026-04-29 14:03:07.455705
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -83,33 +50,15 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-: 融资动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1000&is_hot=1
-2026-04-29 11:39:33,008 - INFO - Scraping RootData...
-2026-04-29 11:39:33,036 - INFO -   List: Top 100 项目
-2026-04-29 11:39:50,502 - ERROR -   Failed to scrape list Top 100 项目: Page.wait_for_selector: Timeout 15000ms exceeded.
-Call log:
-  - waiting for locator("table tr, .list-item") to be visible
-
-2026-04-29 11:39:50,502 - INFO -   List: 透明度评分提升榜
-2026-04-29 11:40:05,805 - ERROR -   Failed to scrape list 透明度评分提升榜: Page.wait_for_selector: Timeout 15000ms exceeded.
-Call log:
-  - waiting for locator("table tr, .list-item") to be visible
-
-2026-04-29 11:40:05,805 - INFO -   List: 交易所透明度排名
-2026-04-29 11:40:21,458 - ERROR -   Failed to scrape list 交易所透明度排名: Page.wait_for_selector: Timeout 15000ms exceeded.
-Call log:
-  - waiting for locator("table tr, .list-item") to be visible
-
-2026-04-29 11:40:21,459 - INFO -   Calendar Events...
-2026-04-29 11:40:36,740 - WARNING -   Calendar events fetch failed: Page.wait_for_selector: Timeout 15000ms exceeded.
+imeout 15000ms exceeded.
 Call log:
   - waiting for locator(".list-table, .list-row") to be visible
 
-2026-04-29 11:40:36,740 - INFO -   Calendar Insight Image...
-2026-04-29 11:40:36,742 - WARNING -     Calendar insight icon not found
-2026-04-29 11:40:36,742 - INFO -   Market Image...
-2026-04-29 11:40:47,026 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+2026-04-29 14:02:57,160 - INFO -   Calendar Insight Image...
+2026-04-29 14:02:57,162 - WARNING -     Calendar insight icon not found
+2026-04-29 14:02:57,162 - INFO -   Market Image...
+2026-04-29 14:03:07,445 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-2026-04-29 11:40:47,037 - INFO - Cycle completed. 2026-04-29 11:40:47.037001
+2026-04-29 14:03:07,455 - INFO - Cycle completed. 2026-04-29 14:03:07.455705

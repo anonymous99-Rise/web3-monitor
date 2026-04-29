@@ -1,10 +1,7 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: Qwen开源FlashQLA：线性注意力前向提速3倍，TP8场景比FlashInfer快5倍
-推送成功: 【BLOCKBEATS - 链上侦探】Qwen开源FlashQLA：线性注意力前向提速3倍，TP8场景比FlashInfer快5倍
-已保存到 Markdown: ./output/blockbeats/2026-04-29.md
-  [BlockBeats] 新快讯: 金融Agent平台Rogo获1.6亿美元D轮融资，不到三个月连融两轮
-推送成功: 【BLOCKBEATS - 链上侦探】金融Agent平台Rogo获1.6亿美元D轮融资，不到三个月连融两轮
+  [BlockBeats] 新快讯: Genesis Trading向CEX存入1,482枚ETH，价值约338万美元
+推送成功: 【BLOCKBEATS - 融资】Genesis Trading向CEX存入1,482枚ETH，价值约338万美元
 已保存到 Markdown: ./output/blockbeats/2026-04-29.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -40,7 +37,7 @@ Call log:
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-Cycle completed. 2026-04-29 16:03:30.033930
+Cycle completed. 2026-04-29 18:14:33.167132
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -50,15 +47,12 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-imeout 15000ms exceeded.
-Call log:
-  - waiting for locator(".list-table, .list-row") to be visible
 
-2026-04-29 16:03:19,746 - INFO -   Calendar Insight Image...
-2026-04-29 16:03:19,748 - WARNING -     Calendar insight icon not found
-2026-04-29 16:03:19,748 - INFO -   Market Image...
-2026-04-29 16:03:30,024 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+2026-04-29 18:14:22,758 - INFO -   Calendar Insight Image...
+2026-04-29 18:14:22,760 - WARNING -     Calendar insight icon not found
+2026-04-29 18:14:22,760 - INFO -   Market Image...
+2026-04-29 18:14:33,158 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-2026-04-29 16:03:30,033 - INFO - Cycle completed. 2026-04-29 16:03:30.033930
+2026-04-29 18:14:33,167 - INFO - Cycle completed. 2026-04-29 18:14:33.167132

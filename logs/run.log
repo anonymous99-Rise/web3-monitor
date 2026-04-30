@@ -1,5 +1,14 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
+  [BlockBeats] 新快讯: David Sacks再敲Anthropic：Mythos不是魔法，GPT-5.5已追上，半年内所有人都能做到
+推送成功: 【BLOCKBEATS - 链上侦探】David Sacks再敲Anthropic：Mythos不是魔法，GPT-5.5已追上，半年内所有人都能做到
+已保存到 Markdown: ./output/blockbeats/2026-04-30.md
+  [BlockBeats] 新快讯: OpenAI为用户提供新安全措施，可抛弃密码登录
+推送成功: 【BLOCKBEATS - 链上侦探】OpenAI为用户提供新安全措施，可抛弃密码登录
+已保存到 Markdown: ./output/blockbeats/2026-04-30.md
+  [BlockBeats] 新快讯: OpenClaw v2026.4.29发布：记忆升级成「人物Wiki」，agent学会主动追踪承诺
+推送成功: 【BLOCKBEATS - 链上侦探】OpenClaw v2026.4.29发布：记忆升级成「人物Wiki」，agent学会主动追踪承诺
+已保存到 Markdown: ./output/blockbeats/2026-04-30.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
   Category: 项目动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1003&is_hot=1
@@ -18,10 +27,10 @@ Call log:
   - waiting for locator("table tr, .list-item") to be visible
 
   List: 交易所透明度排名
-  [RootData] 新榜单: 交易所透明度排名
-推送成功: 【RootData - 交易所透明度排名】
-推送成功: 【RootData - 交易所透明度排名】 (续)
-已保存到 Markdown: ./output/rootdata/2026-04-30.md
+  Failed to scrape list 交易所透明度排名: Page.wait_for_selector: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator("table tr, .list-item") to be visible
+
   Calendar Events...
   Calendar events fetch failed: Page.wait_for_selector: Timeout 15000ms exceeded.
 Call log:
@@ -34,7 +43,7 @@ Call log:
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-Cycle completed. 2026-04-30 22:56:31.357146
+Cycle completed. 2026-04-30 23:56:17.467587
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -44,11 +53,16 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-2026-04-30 22:56:19,307 - INFO -   Calendar Insight Image...
-2026-04-30 22:56:19,309 - WARNING -     Calendar insight icon not found
-2026-04-30 22:56:19,309 - INFO -   Market Image...
-2026-04-30 22:56:31,348 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+ts...
+2026-04-30 23:56:06,993 - WARNING -   Calendar events fetch failed: Page.wait_for_selector: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator(".list-table, .list-row") to be visible
+
+2026-04-30 23:56:06,994 - INFO -   Calendar Insight Image...
+2026-04-30 23:56:06,996 - WARNING -     Calendar insight icon not found
+2026-04-30 23:56:06,996 - INFO -   Market Image...
+2026-04-30 23:56:17,455 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-2026-04-30 22:56:31,357 - INFO - Cycle completed. 2026-04-30 22:56:31.357146
+2026-04-30 23:56:17,467 - INFO - Cycle completed. 2026-04-30 23:56:17.467587

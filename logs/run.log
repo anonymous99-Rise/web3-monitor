@@ -1,8 +1,5 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 巨鲸「先定10个大目标」止损平仓BTC多单，亏损651万美元
-推送成功: 【BLOCKBEATS - 融资】巨鲸「先定10个大目标」止损平仓BTC多单，亏损651万美元
-已保存到 Markdown: ./output/blockbeats/2026-04-30.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
   Category: 项目动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1003&is_hot=1
@@ -37,7 +34,7 @@ Call log:
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-Cycle completed. 2026-04-30 14:00:58.900850
+Cycle completed. 2026-04-30 15:53:24.668599
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -47,12 +44,10 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-
-2026-04-30 14:00:48,620 - INFO -   Calendar Insight Image...
-2026-04-30 14:00:48,622 - WARNING -     Calendar insight icon not found
-2026-04-30 14:00:48,622 - INFO -   Market Image...
-2026-04-30 14:00:58,892 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+   Calendar insight icon not found
+2026-04-30 15:53:14,330 - INFO -   Market Image...
+2026-04-30 15:53:24,658 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-2026-04-30 14:00:58,900 - INFO - Cycle completed. 2026-04-30 14:00:58.900850
+2026-04-30 15:53:24,668 - INFO - Cycle completed. 2026-04-30 15:53:24.668599

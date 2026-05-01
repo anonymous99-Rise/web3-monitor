@@ -1,16 +1,7 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 「麻吉」再次由盈转亏，过去一周亏损442万美元
-推送成功: 【BLOCKBEATS - 融资】「麻吉」再次由盈转亏，过去一周亏损442万美元
-已保存到 Markdown: ./output/blockbeats/2026-05-01.md
-  [BlockBeats] 新快讯: 某鲸鱼从Binance提取400枚BTC，价值3078万美元
-推送成功: 【BLOCKBEATS - 融资】某鲸鱼从Binance提取400枚BTC，价值3078万美元
-已保存到 Markdown: ./output/blockbeats/2026-05-01.md
-  [BlockBeats] 新快讯: Abraxas Capital在Hyperliquid持有1050万美元比特币多单，880万美元HYPE空单
-推送成功: 【BLOCKBEATS - 融资】Abraxas Capital在Hyperliquid持有1050万美元比特币多单，880万美元HYPE空单
-已保存到 Markdown: ./output/blockbeats/2026-05-01.md
-  [BlockBeats] 新快讯: Paradigm过去2日将214万枚HYPE转入Coinbase
-推送成功: 【BLOCKBEATS - 融资】Paradigm过去2日将214万枚HYPE转入Coinbase
+  [BlockBeats] 新快讯: Google DeepMind推出AI Co-Clinician研究计划：多模态AI代理辅助医生与患者
+推送成功: 【BLOCKBEATS - 链上侦探】Google DeepMind推出AI Co-Clinician研究计划：多模态AI代理辅助医生与患者
 已保存到 Markdown: ./output/blockbeats/2026-05-01.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -20,10 +11,10 @@
   Category: 融资动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1000&is_hot=1
 Scraping RootData...
   List: Top 100 项目
-  [RootData] 新榜单: Top 100 项目
-推送成功: 【RootData - Top 100 项目】
-推送成功: 【RootData - Top 100 项目】 (续)
-已保存到 Markdown: ./output/rootdata/2026-05-01.md
+  Failed to scrape list Top 100 项目: Page.wait_for_selector: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator("table tr, .list-item") to be visible
+
   List: 透明度评分提升榜
   Failed to scrape list 透明度评分提升榜: Page.wait_for_selector: Timeout 15000ms exceeded.
 Call log:
@@ -46,7 +37,7 @@ Call log:
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-Cycle completed. 2026-05-01 09:03:43.661737
+Cycle completed. 2026-05-01 11:09:17.900773
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -56,20 +47,12 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-交易所透明度排名: Page.wait_for_selector: Timeout 15000ms exceeded.
-Call log:
-  - waiting for locator("table tr, .list-item") to be visible
 
-2026-05-01 09:03:15,667 - INFO -   Calendar Events...
-2026-05-01 09:03:30,967 - WARNING -   Calendar events fetch failed: Page.wait_for_selector: Timeout 15000ms exceeded.
-Call log:
-  - waiting for locator(".list-table, .list-row") to be visible
-
-2026-05-01 09:03:30,967 - INFO -   Calendar Insight Image...
-2026-05-01 09:03:30,969 - WARNING -     Calendar insight icon not found
-2026-05-01 09:03:30,969 - INFO -   Market Image...
-2026-05-01 09:03:43,654 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+2026-05-01 11:09:07,493 - INFO -   Calendar Insight Image...
+2026-05-01 11:09:07,495 - WARNING -     Calendar insight icon not found
+2026-05-01 11:09:07,495 - INFO -   Market Image...
+2026-05-01 11:09:17,890 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-2026-05-01 09:03:43,661 - INFO - Cycle completed. 2026-05-01 09:03:43.661737
+2026-05-01 11:09:17,900 - INFO - Cycle completed. 2026-05-01 11:09:17.900773

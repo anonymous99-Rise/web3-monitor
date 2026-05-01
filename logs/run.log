@@ -1,13 +1,13 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: MoonPay在Mastercard网络推出AI代理专用稳定币借记卡「MoonAgents Card」
-推送成功: 【BLOCKBEATS - 链上侦探】MoonPay在Mastercard网络推出AI代理专用稳定币借记卡「MoonAgents Card」
+  [BlockBeats] 新快讯: 以太坊基金会关联钱包向Kraken存入1,744枚ETH，价值403万美元
+推送成功: 【BLOCKBEATS - 融资】以太坊基金会关联钱包向Kraken存入1,744枚ETH，价值403万美元
 已保存到 Markdown: ./output/blockbeats/2026-05-01.md
-  [BlockBeats] 新快讯: 美国国防部与7家AI相关公司达成协议，未来将美军打造为「人工智能主导」的作战力量
-推送成功: 【BLOCKBEATS - 链上侦探】美国国防部与7家AI相关公司达成协议，未来将美军打造为「人工智能主导」的作战力量
+  [BlockBeats] 新快讯: 贝莱德向Coinbase Prime存入26273枚ETH与226.677枚BTC
+推送成功: 【BLOCKBEATS - 融资】贝莱德向Coinbase Prime存入26273枚ETH与226.677枚BTC
 已保存到 Markdown: ./output/blockbeats/2026-05-01.md
-  [BlockBeats] 新快讯: 「麻吉」加仓比特币40倍多单至1450万美元，同时持有2330万美元ETH多单
-推送成功: 【BLOCKBEATS - 融资】「麻吉」加仓比特币40倍多单至1450万美元，同时持有2330万美元ETH多单
+  [BlockBeats] 新快讯: USDC Treasury在Solana链上新增铸造2.5亿枚USDC
+推送成功: 【BLOCKBEATS - 融资】USDC Treasury在Solana链上新增铸造2.5亿枚USDC
 已保存到 Markdown: ./output/blockbeats/2026-05-01.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -22,10 +22,10 @@ Call log:
   - waiting for locator("table tr, .list-item") to be visible
 
   List: 透明度评分提升榜
-  [RootData] 新榜单: 透明度评分提升榜
-推送成功: 【RootData - 透明度评分提升榜】
-推送成功: 【RootData - 透明度评分提升榜】 (续)
-已保存到 Markdown: ./output/rootdata/2026-05-01.md
+  Failed to scrape list 透明度评分提升榜: Page.wait_for_selector: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator("table tr, .list-item") to be visible
+
   List: 交易所透明度排名
   Failed to scrape list 交易所透明度排名: Page.wait_for_selector: Timeout 15000ms exceeded.
 Call log:
@@ -43,7 +43,7 @@ Call log:
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-Cycle completed. 2026-05-01 13:23:29.337724
+Cycle completed. 2026-05-01 14:59:19.087144
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -53,18 +53,16 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-or locator("table tr, .list-item") to be visible
-
-2026-05-01 13:23:01,371 - INFO -   Calendar Events...
-2026-05-01 13:23:19,067 - WARNING -   Calendar events fetch failed: Page.wait_for_selector: Timeout 15000ms exceeded.
+ts...
+2026-05-01 14:59:08,663 - WARNING -   Calendar events fetch failed: Page.wait_for_selector: Timeout 15000ms exceeded.
 Call log:
   - waiting for locator(".list-table, .list-row") to be visible
 
-2026-05-01 13:23:19,067 - INFO -   Calendar Insight Image...
-2026-05-01 13:23:19,069 - WARNING -     Calendar insight icon not found
-2026-05-01 13:23:19,069 - INFO -   Market Image...
-2026-05-01 13:23:29,331 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+2026-05-01 14:59:08,663 - INFO -   Calendar Insight Image...
+2026-05-01 14:59:08,665 - WARNING -     Calendar insight icon not found
+2026-05-01 14:59:08,665 - INFO -   Market Image...
+2026-05-01 14:59:19,076 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-2026-05-01 13:23:29,337 - INFO - Cycle completed. 2026-05-01 13:23:29.337724
+2026-05-01 14:59:19,087 - INFO - Cycle completed. 2026-05-01 14:59:19.087144

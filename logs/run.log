@@ -1,7 +1,10 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 某疑似「内幕」地址收获LAB超10倍涨幅，盈利113万美元
-推送成功: 【BLOCKBEATS - 融资】某疑似「内幕」地址收获LAB超10倍涨幅，盈利113万美元
+  [BlockBeats] 新快讯: AI驱动电力需求爆发，伯克希尔能源业务迎增长窗口
+推送成功: 【BLOCKBEATS - 链上侦探】AI驱动电力需求爆发，伯克希尔能源业务迎增长窗口
+已保存到 Markdown: ./output/blockbeats/2026-05-02.md
+  [BlockBeats] 新快讯: 「麻吉」加仓ETH多单至超3000万美元，清算价2229美元
+推送成功: 【BLOCKBEATS - 融资】「麻吉」加仓ETH多单至超3000万美元，清算价2229美元
 已保存到 Markdown: ./output/blockbeats/2026-05-02.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -37,7 +40,7 @@ Call log:
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-Cycle completed. 2026-05-02 14:52:06.039249
+Cycle completed. 2026-05-02 15:51:05.405471
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -47,12 +50,15 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
+imeout 15000ms exceeded.
+Call log:
+  - waiting for locator(".list-table, .list-row") to be visible
 
-2026-05-02 14:51:55,751 - INFO -   Calendar Insight Image...
-2026-05-02 14:51:55,753 - WARNING -     Calendar insight icon not found
-2026-05-02 14:51:55,753 - INFO -   Market Image...
-2026-05-02 14:52:06,029 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+2026-05-02 15:50:55,114 - INFO -   Calendar Insight Image...
+2026-05-02 15:50:55,116 - WARNING -     Calendar insight icon not found
+2026-05-02 15:50:55,116 - INFO -   Market Image...
+2026-05-02 15:51:05,395 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-2026-05-02 14:52:06,039 - INFO - Cycle completed. 2026-05-02 14:52:06.039249
+2026-05-02 15:51:05,405 - INFO - Cycle completed. 2026-05-02 15:51:05.405471

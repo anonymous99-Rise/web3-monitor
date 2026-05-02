@@ -1,5 +1,35 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
+  [BlockBeats] 新快讯: The Information：Manus被叫停后连锁反应，月之暗面、阶跃星辰考虑拆红筹回国内
+推送成功: 【BLOCKBEATS - 链上侦探】The Information：Manus被叫停后连锁反应，月之暗面、阶跃星辰考虑拆红筹回国内
+已保存到 Markdown: ./output/blockbeats/2026-05-02.md
+  [BlockBeats] 新快讯: 美军使用AI技术在霍尔木兹海峡扫雷
+推送成功: 【BLOCKBEATS - 链上侦探】美军使用AI技术在霍尔木兹海峡扫雷
+已保存到 Markdown: ./output/blockbeats/2026-05-02.md
+  [BlockBeats] 新快讯: Astro联合创始人开源Flue：给AI agent用的「Next.js」
+推送成功: 【BLOCKBEATS - 链上侦探】Astro联合创始人开源Flue：给AI agent用的「Next.js」
+已保存到 Markdown: ./output/blockbeats/2026-05-02.md
+  [BlockBeats] 新快讯: 5000美元一条TikTok，OpenAI关联暗钱组织雇网红兜售「中国AI威胁」
+推送成功: 【BLOCKBEATS - 链上侦探】5000美元一条TikTok，OpenAI关联暗钱组织雇网红兜售「中国AI威胁」
+已保存到 Markdown: ./output/blockbeats/2026-05-02.md
+  [BlockBeats] 新快讯: OpenAI悄悄改隐私政策：免费用户被默认开启广告追踪
+推送成功: 【BLOCKBEATS - 链上侦探】OpenAI悄悄改隐私政策：免费用户被默认开启广告追踪
+已保存到 Markdown: ./output/blockbeats/2026-05-02.md
+  [BlockBeats] 新快讯: 五角大楼一口气签下8家AI供应商，Anthropic从唯一变出局
+推送成功: 【BLOCKBEATS - 链上侦探】五角大楼一口气签下8家AI供应商，Anthropic从唯一变出局
+已保存到 Markdown: ./output/blockbeats/2026-05-02.md
+  [BlockBeats] 新快讯: xAI推出语音克隆功能，支持28种语言
+推送成功: 【BLOCKBEATS - 链上侦探】xAI推出语音克隆功能，支持28种语言
+已保存到 Markdown: ./output/blockbeats/2026-05-02.md
+  [BlockBeats] 新快讯: 美联储理事鲍曼：监管机构必须考虑如何应对Mythos等新技术
+推送成功: 【BLOCKBEATS - 链上侦探】美联储理事鲍曼：监管机构必须考虑如何应对Mythos等新技术
+已保存到 Markdown: ./output/blockbeats/2026-05-02.md
+  [BlockBeats] 新快讯: 某新建钱包从Binance提取1051枚BTC，约合8237万美元
+推送成功: 【BLOCKBEATS - 融资】某新建钱包从Binance提取1051枚BTC，约合8237万美元
+已保存到 Markdown: ./output/blockbeats/2026-05-02.md
+  [BlockBeats] 新快讯: 短线高手「0xa0d」巨鲸今晨平仓1560万美元BTC多单，账户总盈利超500万美元
+推送成功: 【BLOCKBEATS - 融资】短线高手「0xa0d」巨鲸今晨平仓1560万美元BTC多单，账户总盈利超500万美元
+已保存到 Markdown: ./output/blockbeats/2026-05-02.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
   Category: 项目动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1003&is_hot=1
@@ -34,7 +64,7 @@ Call log:
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-Cycle completed. 2026-05-01 22:54:12.649210
+Cycle completed. 2026-05-02 02:50:51.679128
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -44,10 +74,30 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-   Calendar insight icon not found
-2026-05-01 22:54:02,163 - INFO -   Market Image...
-2026-05-01 22:54:12,639 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator("table tr, .list-item") to be visible
+
+2026-05-02 02:49:55,519 - INFO -   List: 透明度评分提升榜
+2026-05-02 02:50:10,814 - ERROR -   Failed to scrape list 透明度评分提升榜: Page.wait_for_selector: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator("table tr, .list-item") to be visible
+
+2026-05-02 02:50:10,814 - INFO -   List: 交易所透明度排名
+2026-05-02 02:50:26,101 - ERROR -   Failed to scrape list 交易所透明度排名: Page.wait_for_selector: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator("table tr, .list-item") to be visible
+
+2026-05-02 02:50:26,101 - INFO -   Calendar Events...
+2026-05-02 02:50:41,393 - WARNING -   Calendar events fetch failed: Page.wait_for_selector: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator(".list-table, .list-row") to be visible
+
+2026-05-02 02:50:41,393 - INFO -   Calendar Insight Image...
+2026-05-02 02:50:41,395 - WARNING -     Calendar insight icon not found
+2026-05-02 02:50:41,395 - INFO -   Market Image...
+2026-05-02 02:50:51,669 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-2026-05-01 22:54:12,649 - INFO - Cycle completed. 2026-05-01 22:54:12.649210
+2026-05-02 02:50:51,679 - INFO - Cycle completed. 2026-05-02 02:50:51.679128

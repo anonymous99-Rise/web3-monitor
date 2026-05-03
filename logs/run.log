@@ -1,7 +1,10 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 摩根士丹利地址昨日增持286.693枚BTC，总持仓量升至2620枚
-推送成功: 【BLOCKBEATS - 融资】摩根士丹利地址昨日增持286.693枚BTC，总持仓量升至2620枚
+  [BlockBeats] 新快讯: OpenRouter推出响应缓存功能，可实现AI请求「零Token成本」缓存返回
+推送成功: 【BLOCKBEATS - 链上侦探】OpenRouter推出响应缓存功能，可实现AI请求「零Token成本」缓存返回
+已保存到 Markdown: ./output/blockbeats/2026-05-03.md
+  [BlockBeats] 新快讯: 《自私的基因》作者Richard Dawkins因与Claude对话后称其「具备意识」引发争议
+推送成功: 【BLOCKBEATS - 链上侦探】《自私的基因》作者Richard Dawkins因与Claude对话后称其「具备意识」引发争议
 已保存到 Markdown: ./output/blockbeats/2026-05-03.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -37,7 +40,7 @@ Call log:
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-Cycle completed. 2026-05-03 10:08:02.568173
+Cycle completed. 2026-05-03 11:45:34.987493
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -47,12 +50,15 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
+imeout 15000ms exceeded.
+Call log:
+  - waiting for locator(".list-table, .list-row") to be visible
 
-2026-05-03 10:07:51,902 - INFO -   Calendar Insight Image...
-2026-05-03 10:07:51,904 - WARNING -     Calendar insight icon not found
-2026-05-03 10:07:51,904 - INFO -   Market Image...
-2026-05-03 10:08:02,557 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+2026-05-03 11:45:24,643 - INFO -   Calendar Insight Image...
+2026-05-03 11:45:24,645 - WARNING -     Calendar insight icon not found
+2026-05-03 11:45:24,645 - INFO -   Market Image...
+2026-05-03 11:45:34,977 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-2026-05-03 10:08:02,568 - INFO - Cycle completed. 2026-05-03 10:08:02.568173
+2026-05-03 11:45:34,987 - INFO - Cycle completed. 2026-05-03 11:45:34.987493

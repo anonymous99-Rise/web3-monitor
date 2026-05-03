@@ -13,15 +13,15 @@ Call log:
   - waiting for locator("table tr, .list-item") to be visible
 
   List: 透明度评分提升榜
-  [RootData] 新榜单: 透明度评分提升榜
-推送成功: 【RootData - 透明度评分提升榜】
-推送成功: 【RootData - 透明度评分提升榜】 (续)
-已保存到 Markdown: ./output/rootdata/2026-05-03.md
-  List: 交易所透明度排名
-  Failed to scrape list 交易所透明度排名: Page.wait_for_selector: Timeout 15000ms exceeded.
+  Failed to scrape list 透明度评分提升榜: Page.wait_for_selector: Timeout 15000ms exceeded.
 Call log:
   - waiting for locator("table tr, .list-item") to be visible
 
+  List: 交易所透明度排名
+  [RootData] 新榜单: 交易所透明度排名
+推送成功: 【RootData - 交易所透明度排名】
+推送成功: 【RootData - 交易所透明度排名】 (续)
+已保存到 Markdown: ./output/rootdata/2026-05-03.md
   Calendar Events...
   Calendar events fetch failed: Page.wait_for_selector: Timeout 15000ms exceeded.
 Call log:
@@ -34,7 +34,7 @@ Call log:
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-Cycle completed. 2026-05-03 15:51:55.160422
+Cycle completed. 2026-05-03 16:55:19.653454
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -44,11 +44,11 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-2026-05-03 15:51:44,940 - INFO -   Calendar Insight Image...
-2026-05-03 15:51:44,942 - WARNING -     Calendar insight icon not found
-2026-05-03 15:51:44,942 - INFO -   Market Image...
-2026-05-03 15:51:55,152 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+2026-05-03 16:55:07,216 - INFO -   Calendar Insight Image...
+2026-05-03 16:55:07,218 - WARNING -     Calendar insight icon not found
+2026-05-03 16:55:07,218 - INFO -   Market Image...
+2026-05-03 16:55:19,645 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-2026-05-03 15:51:55,160 - INFO - Cycle completed. 2026-05-03 15:51:55.160422
+2026-05-03 16:55:19,653 - INFO - Cycle completed. 2026-05-03 16:55:19.653454

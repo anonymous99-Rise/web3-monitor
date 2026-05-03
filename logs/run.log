@@ -1,20 +1,5 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: Roblox将推出全新AI软件，挑战Unity旗下虚幻引擎
-推送成功: 【BLOCKBEATS - 链上侦探】Roblox将推出全新AI软件，挑战Unity旗下虚幻引擎
-已保存到 Markdown: ./output/blockbeats/2026-05-03.md
-  [BlockBeats] 新快讯: AI芯片制造商Cerebras寻求通过IPO筹集40亿美元
-推送成功: 【BLOCKBEATS - 链上侦探】AI芯片制造商Cerebras寻求通过IPO筹集40亿美元
-已保存到 Markdown: ./output/blockbeats/2026-05-03.md
-  [BlockBeats] 新快讯: 奥斯卡评奖新规：由AI生成的演员与剧本将不再符合参评资格
-推送成功: 【BLOCKBEATS - 链上侦探】奥斯卡评奖新规：由AI生成的演员与剧本将不再符合参评资格
-已保存到 Markdown: ./output/blockbeats/2026-05-03.md
-  [BlockBeats] 新快讯: 英伟达风投部门NVentures参投面向律师的AI平台Legora D轮扩展融资
-推送成功: 【BLOCKBEATS - 链上侦探】英伟达风投部门NVentures参投面向律师的AI平台Legora D轮扩展融资
-已保存到 Markdown: ./output/blockbeats/2026-05-03.md
-  [BlockBeats] 新快讯: ChatGPT周活未到10亿，营收领先地位被超越，OpenAI CFO建议IPO推迟至2027
-推送成功: 【BLOCKBEATS - 链上侦探】ChatGPT周活未到10亿，营收领先地位被超越，OpenAI CFO建议IPO推迟至2027
-已保存到 Markdown: ./output/blockbeats/2026-05-03.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
   Category: 项目动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1003&is_hot=1
@@ -49,7 +34,7 @@ Call log:
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-Cycle completed. 2026-05-03 06:28:57.258981
+Cycle completed. 2026-05-03 08:49:21.638687
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -59,20 +44,10 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
- 交易所透明度排名: Page.wait_for_selector: Timeout 15000ms exceeded.
-Call log:
-  - waiting for locator("table tr, .list-item") to be visible
-
-2026-05-03 06:28:31,243 - INFO -   Calendar Events...
-2026-05-03 06:28:46,702 - WARNING -   Calendar events fetch failed: Page.wait_for_selector: Timeout 15000ms exceeded.
-Call log:
-  - waiting for locator(".list-table, .list-row") to be visible
-
-2026-05-03 06:28:46,702 - INFO -   Calendar Insight Image...
-2026-05-03 06:28:46,704 - WARNING -     Calendar insight icon not found
-2026-05-03 06:28:46,704 - INFO -   Market Image...
-2026-05-03 06:28:57,248 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+   Calendar insight icon not found
+2026-05-03 08:49:11,348 - INFO -   Market Image...
+2026-05-03 08:49:21,628 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-2026-05-03 06:28:57,259 - INFO - Cycle completed. 2026-05-03 06:28:57.258981
+2026-05-03 08:49:21,638 - INFO - Cycle completed. 2026-05-03 08:49:21.638687

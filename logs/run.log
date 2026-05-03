@@ -1,5 +1,47 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
+  [BlockBeats] 新快讯: ChatGPT周活未到10亿营收领先地位被超越，OpenAI CFO建议IPO推迟至2027
+推送成功: 【BLOCKBEATS - 链上侦探】ChatGPT周活未到10亿营收领先地位被超越，OpenAI CFO建议IPO推迟至2027
+已保存到 Markdown: ./output/blockbeats/2026-05-03.md
+  [BlockBeats] 新快讯: 没见过计算机的1930年模型，微调后能解SWE-bench
+推送成功: 【BLOCKBEATS - 链上侦探】没见过计算机的1930年模型，微调后能解SWE-bench
+已保存到 Markdown: ./output/blockbeats/2026-05-03.md
+  [BlockBeats] 新快讯: OpenRouter上线latest别名：一个模型ID自动跟最新版本
+推送成功: 【BLOCKBEATS - 链上侦探】OpenRouter上线latest别名：一个模型ID自动跟最新版本
+已保存到 Markdown: ./output/blockbeats/2026-05-03.md
+  [BlockBeats] 新快讯: Codex CLI新增/goal：设目标和预算，agent自己循环跑到完成
+推送成功: 【BLOCKBEATS - 链上侦探】Codex CLI新增/goal：设目标和预算，agent自己循环跑到完成
+已保存到 Markdown: ./output/blockbeats/2026-05-03.md
+  [BlockBeats] 新快讯: Anthropic洽购英国芯片初创公司Fractile推理芯片，后者估值冲10亿美元
+推送成功: 【BLOCKBEATS - 链上侦探】Anthropic洽购英国芯片初创公司Fractile推理芯片，后者估值冲10亿美元
+已保存到 Markdown: ./output/blockbeats/2026-05-03.md
+  [BlockBeats] 新快讯: Transformer做成纯硬件电路，不用GPU跑出5万tokens/秒
+推送成功: 【BLOCKBEATS - 链上侦探】Transformer做成纯硬件电路，不用GPU跑出5万tokens/秒
+已保存到 Markdown: ./output/blockbeats/2026-05-03.md
+  [BlockBeats] 新快讯: OpenRouter上线响应缓存：相同请求零计费，延迟从秒级降到毫秒
+推送成功: 【BLOCKBEATS - 链上侦探】OpenRouter上线响应缓存：相同请求零计费，延迟从秒级降到毫秒
+已保存到 Markdown: ./output/blockbeats/2026-05-03.md
+  [BlockBeats] 新快讯: OpenClaw发布v2026.5.2：插件从npm迁移至ClawHub
+推送成功: 【BLOCKBEATS - 链上侦探】OpenClaw发布v2026.5.2：插件从npm迁移至ClawHub
+已保存到 Markdown: ./output/blockbeats/2026-05-03.md
+  [BlockBeats] 新快讯: Hyperliquid首个HIP-4二元预测市场合约交易额已超238万美元
+推送成功: 【BLOCKBEATS - 融资】Hyperliquid首个HIP-4二元预测市场合约交易额已超238万美元
+已保存到 Markdown: ./output/blockbeats/2026-05-03.md
+  [BlockBeats] 新快讯: 随着BTC突破7.8万美元，「pension-usdt.eth」巨鲸BTC空单浮亏已扩大至1000万美元
+推送成功: 【BLOCKBEATS - 融资】随着BTC突破7.8万美元，「pension-usdt.eth」巨鲸BTC空单浮亏已扩大至1000万美元
+已保存到 Markdown: ./output/blockbeats/2026-05-03.md
+  [BlockBeats] 新快讯: 某鲸鱼将1168万枚DOGE转至新地址，浮亏359万美元
+推送成功: 【BLOCKBEATS - 融资】某鲸鱼将1168万枚DOGE转至新地址，浮亏359万美元
+已保存到 Markdown: ./output/blockbeats/2026-05-03.md
+  [BlockBeats] 新快讯: 某鲸鱼2倍杠杆做多MEGA浮亏逾84万美元
+推送成功: 【BLOCKBEATS - 融资】某鲸鱼2倍杠杆做多MEGA浮亏逾84万美元
+已保存到 Markdown: ./output/blockbeats/2026-05-03.md
+  [BlockBeats] 新快讯: Sky联创Rune平仓原油及标普500指数空单，亏损超73.5万美元
+推送成功: 【BLOCKBEATS - 融资】Sky联创Rune平仓原油及标普500指数空单，亏损超73.5万美元
+已保存到 Markdown: ./output/blockbeats/2026-05-03.md
+  [BlockBeats] 新快讯: Bio Protocol多签钱包向CEX转入8000万枚BIO，约515万美元
+推送成功: 【BLOCKBEATS - 融资】Bio Protocol多签钱包向CEX转入8000万枚BIO，约515万美元
+已保存到 Markdown: ./output/blockbeats/2026-05-03.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
   Category: 项目动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1003&is_hot=1
@@ -34,7 +76,7 @@ Call log:
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-Cycle completed. 2026-05-02 23:47:52.019122
+Cycle completed. 2026-05-03 03:25:58.067168
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -44,10 +86,34 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-   Calendar insight icon not found
-2026-05-02 23:47:41,662 - INFO -   Market Image...
-2026-05-02 23:47:52,008 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+flowpost.com/zh-CN/newsletter?articleType=1001&is_hot=1
+2026-05-03 03:24:44,268 - INFO -   Category: 融资动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1000&is_hot=1
+2026-05-03 03:24:44,899 - INFO - Scraping RootData...
+2026-05-03 03:24:44,939 - INFO -   List: Top 100 项目
+2026-05-03 03:25:02,115 - ERROR -   Failed to scrape list Top 100 项目: Page.wait_for_selector: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator("table tr, .list-item") to be visible
+
+2026-05-03 03:25:02,115 - INFO -   List: 透明度评分提升榜
+2026-05-03 03:25:17,360 - ERROR -   Failed to scrape list 透明度评分提升榜: Page.wait_for_selector: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator("table tr, .list-item") to be visible
+
+2026-05-03 03:25:17,360 - INFO -   List: 交易所透明度排名
+2026-05-03 03:25:32,608 - ERROR -   Failed to scrape list 交易所透明度排名: Page.wait_for_selector: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator("table tr, .list-item") to be visible
+
+2026-05-03 03:25:32,608 - INFO -   Calendar Events...
+2026-05-03 03:25:47,831 - WARNING -   Calendar events fetch failed: Page.wait_for_selector: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator(".list-table, .list-row") to be visible
+
+2026-05-03 03:25:47,832 - INFO -   Calendar Insight Image...
+2026-05-03 03:25:47,834 - WARNING -     Calendar insight icon not found
+2026-05-03 03:25:47,834 - INFO -   Market Image...
+2026-05-03 03:25:58,057 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-2026-05-02 23:47:52,019 - INFO - Cycle completed. 2026-05-02 23:47:52.019122
+2026-05-03 03:25:58,067 - INFO - Cycle completed. 2026-05-03 03:25:58.067168

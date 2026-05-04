@@ -1,20 +1,5 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 豆包将在免费模式外探索推出更多增值服务，目前处于测试阶段
-推送成功: 【BLOCKBEATS - 链上侦探】豆包将在免费模式外探索推出更多增值服务，目前处于测试阶段
-已保存到 Markdown: ./output/blockbeats/2026-05-04.md
-  [BlockBeats] 新快讯: Anthropic接近与多家华尔街机构共同出资15亿美元成立合资公司
-推送成功: 【BLOCKBEATS - 链上侦探】Anthropic接近与多家华尔街机构共同出资15亿美元成立合资公司
-已保存到 Markdown: ./output/blockbeats/2026-05-04.md
-  [BlockBeats] 新快讯: Solana链上Meme币TROLL市值突破5500万美元，24小时涨超90%
-推送成功: 【BLOCKBEATS - 融资】Solana链上Meme币TROLL市值突破5500万美元，24小时涨超90%
-已保存到 Markdown: ./output/blockbeats/2026-05-04.md
-  [BlockBeats] 新快讯: 「麻吉」多单已浮盈超208万美元
-推送成功: 【BLOCKBEATS - 融资】「麻吉」多单已浮盈超208万美元
-已保存到 Markdown: ./output/blockbeats/2026-05-04.md
-  [BlockBeats] 新快讯: 某鲸鱼向Binance存入6200枚ETH，约1454万美元
-推送成功: 【BLOCKBEATS - 融资】某鲸鱼向Binance存入6200枚ETH，约1454万美元
-已保存到 Markdown: ./output/blockbeats/2026-05-04.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
   Category: 项目动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1003&is_hot=1
@@ -49,7 +34,7 @@ Call log:
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-Cycle completed. 2026-05-04 06:41:05.133413
+Cycle completed. 2026-05-04 09:23:04.831088
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -59,20 +44,10 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
- 交易所透明度排名: Page.wait_for_selector: Timeout 15000ms exceeded.
-Call log:
-  - waiting for locator("table tr, .list-item") to be visible
-
-2026-05-04 06:40:39,123 - INFO -   Calendar Events...
-2026-05-04 06:40:54,801 - WARNING -   Calendar events fetch failed: Page.wait_for_selector: Timeout 15000ms exceeded.
-Call log:
-  - waiting for locator(".list-table, .list-row") to be visible
-
-2026-05-04 06:40:54,801 - INFO -   Calendar Insight Image...
-2026-05-04 06:40:54,803 - WARNING -     Calendar insight icon not found
-2026-05-04 06:40:54,803 - INFO -   Market Image...
-2026-05-04 06:41:05,122 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+   Calendar insight icon not found
+2026-05-04 09:22:54,525 - INFO -   Market Image...
+2026-05-04 09:23:04,821 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-2026-05-04 06:41:05,133 - INFO - Cycle completed. 2026-05-04 06:41:05.133413
+2026-05-04 09:23:04,831 - INFO - Cycle completed. 2026-05-04 09:23:04.831088

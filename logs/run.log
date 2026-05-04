@@ -1,5 +1,23 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
+  [BlockBeats] 新快讯: 英伟达竞争对手Cerebras冲刺纳斯达克，拟募资约35亿美元，定价区间115-125美元/股
+推送成功: 【BLOCKBEATS - 链上侦探】英伟达竞争对手Cerebras冲刺纳斯达克，拟募资约35亿美元，定价区间115-125美元/股
+已保存到 Markdown: ./output/blockbeats/2026-05-04.md
+  [BlockBeats] 新快讯: OpenClaw发布2026.5.3版本更新，强化文件传输与Agent控制能力
+推送成功: 【BLOCKBEATS - 链上侦探】OpenClaw发布2026.5.3版本更新，强化文件传输与Agent控制能力
+已保存到 Markdown: ./output/blockbeats/2026-05-04.md
+  [BlockBeats] 新快讯: 社区质疑主流AI存在意识形态偏向，引发「训练偏差」讨论
+推送成功: 【BLOCKBEATS - 链上侦探】社区质疑主流AI存在意识形态偏向，引发「训练偏差」讨论
+已保存到 Markdown: ./output/blockbeats/2026-05-04.md
+  [BlockBeats] 新快讯: 巨鲸「先定10个大目标」反手做多46.1枚比特币，价值约363万美元
+推送成功: 【BLOCKBEATS - 融资】巨鲸「先定10个大目标」反手做多46.1枚比特币，价值约363万美元
+已保存到 Markdown: ./output/blockbeats/2026-05-04.md
+  [BlockBeats] 新快讯: 巨鲸「先定10个大目标」持仓价值1.95亿美元比特币空单，现浮赢246.3万美元
+推送成功: 【BLOCKBEATS - 融资】巨鲸「先定10个大目标」持仓价值1.95亿美元比特币空单，现浮赢246.3万美元
+已保存到 Markdown: ./output/blockbeats/2026-05-04.md
+  [BlockBeats] 新快讯: Tether再次增发10亿枚USDT，过去两周累计增发50亿枚USDT
+推送成功: 【BLOCKBEATS - 融资】Tether再次增发10亿枚USDT，过去两周累计增发50亿枚USDT
+已保存到 Markdown: ./output/blockbeats/2026-05-04.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
   Category: 项目动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1003&is_hot=1
@@ -34,7 +52,7 @@ Call log:
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-Cycle completed. 2026-05-04 09:23:04.831088
+Cycle completed. 2026-05-04 11:51:49.750742
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -44,10 +62,21 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-   Calendar insight icon not found
-2026-05-04 09:22:54,525 - INFO -   Market Image...
-2026-05-04 09:23:04,821 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+- INFO -   List: 交易所透明度排名
+2026-05-04 11:51:24,130 - ERROR -   Failed to scrape list 交易所透明度排名: Page.wait_for_selector: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator("table tr, .list-item") to be visible
+
+2026-05-04 11:51:24,130 - INFO -   Calendar Events...
+2026-05-04 11:51:39,432 - WARNING -   Calendar events fetch failed: Page.wait_for_selector: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator(".list-table, .list-row") to be visible
+
+2026-05-04 11:51:39,432 - INFO -   Calendar Insight Image...
+2026-05-04 11:51:39,435 - WARNING -     Calendar insight icon not found
+2026-05-04 11:51:39,435 - INFO -   Market Image...
+2026-05-04 11:51:49,739 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-2026-05-04 09:23:04,831 - INFO - Cycle completed. 2026-05-04 09:23:04.831088
+2026-05-04 11:51:49,750 - INFO - Cycle completed. 2026-05-04 11:51:49.750742

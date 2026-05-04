@@ -13,11 +13,15 @@ Call log:
   - waiting for locator("table tr, .list-item") to be visible
 
   List: 透明度评分提升榜
-  Failed to scrape list 透明度评分提升榜: Page.wait_for_selector: Timeout 15000ms exceeded.
+  [RootData] 新榜单: 透明度评分提升榜
+推送成功: 【RootData - 透明度评分提升榜】
+推送成功: 【RootData - 透明度评分提升榜】 (续)
+已保存到 Markdown: ./output/rootdata/2026-05-04.md
+  List: 交易所透明度排名
+  Failed to scrape list 交易所透明度排名: Page.wait_for_selector: Timeout 15000ms exceeded.
 Call log:
   - waiting for locator("table tr, .list-item") to be visible
 
-  List: 交易所透明度排名
   Calendar Events...
   Calendar events fetch failed: Page.wait_for_selector: Timeout 15000ms exceeded.
 Call log:
@@ -30,7 +34,7 @@ Call log:
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-Cycle completed. 2026-05-04 20:18:10.048369
+Cycle completed. 2026-05-04 22:04:10.698903
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -40,10 +44,11 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-
-2026-05-04 20:17:59,738 - INFO -   Market Image...
-2026-05-04 20:18:10,037 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+2026-05-04 22:04:00,432 - INFO -   Calendar Insight Image...
+2026-05-04 22:04:00,434 - WARNING -     Calendar insight icon not found
+2026-05-04 22:04:00,434 - INFO -   Market Image...
+2026-05-04 22:04:10,691 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-2026-05-04 20:18:10,048 - INFO - Cycle completed. 2026-05-04 20:18:10.048369
+2026-05-04 22:04:10,698 - INFO - Cycle completed. 2026-05-04 22:04:10.698903

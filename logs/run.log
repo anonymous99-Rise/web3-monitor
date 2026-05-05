@@ -8,11 +8,15 @@
   Category: 融资动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1000&is_hot=1
 Scraping RootData...
   List: Top 100 项目
-  List: 透明度评分提升榜
-  Failed to scrape list 透明度评分提升榜: Page.wait_for_selector: Timeout 15000ms exceeded.
+  Failed to scrape list Top 100 项目: Page.wait_for_selector: Timeout 15000ms exceeded.
 Call log:
   - waiting for locator("table tr, .list-item") to be visible
 
+  List: 透明度评分提升榜
+  [RootData] 新榜单: 透明度评分提升榜
+推送成功: 【RootData - 透明度评分提升榜】
+推送成功: 【RootData - 透明度评分提升榜】 (续)
+已保存到 Markdown: ./output/rootdata/2026-05-05.md
   List: 交易所透明度排名
   Failed to scrape list 交易所透明度排名: Page.wait_for_selector: Timeout 15000ms exceeded.
 Call log:
@@ -30,7 +34,7 @@ Call log:
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-Cycle completed. 2026-05-05 19:24:06.475627
+Cycle completed. 2026-05-05 21:06:14.537442
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -40,10 +44,11 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-
-2026-05-05 19:23:56,156 - INFO -   Market Image...
-2026-05-05 19:24:06,462 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+2026-05-05 21:06:04,142 - INFO -   Calendar Insight Image...
+2026-05-05 21:06:04,145 - WARNING -     Calendar insight icon not found
+2026-05-05 21:06:04,145 - INFO -   Market Image...
+2026-05-05 21:06:14,529 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-2026-05-05 19:24:06,475 - INFO - Cycle completed. 2026-05-05 19:24:06.475627
+2026-05-05 21:06:14,537 - INFO - Cycle completed. 2026-05-05 21:06:14.537442

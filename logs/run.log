@@ -1,19 +1,10 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 每小时提供数千万错误答案，基于Gemini 3的谷歌搜索「AI概述」准确率仅为91%
-推送成功: 【BLOCKBEATS - 链上侦探】每小时提供数千万错误答案，基于Gemini 3的谷歌搜索「AI概述」准确率仅为91%
+  [BlockBeats] 新快讯: OpenAI手机提前到最快2027，联发科或独拿处理器订单
+推送成功: 【BLOCKBEATS - 链上侦探】OpenAI手机提前到最快2027，联发科或独拿处理器订单
 已保存到 Markdown: ./output/blockbeats/2026-05-05.md
-  [BlockBeats] 新快讯: 某鲸鱼做多63枚比特币，价值约510万美元
-推送成功: 【BLOCKBEATS - 融资】某鲸鱼做多63枚比特币，价值约510万美元
-已保存到 Markdown: ./output/blockbeats/2026-05-05.md
-  [BlockBeats] 新快讯: 某新创建地址以6倍杠杆做多768,058枚TON，价值约131万美元
-推送成功: 【BLOCKBEATS - 融资】某新创建地址以6倍杠杆做多768,058枚TON，价值约131万美元
-已保存到 Markdown: ./output/blockbeats/2026-05-05.md
-  [BlockBeats] 新快讯: 某交易员止损其5668万美元比特币空头仓位，亏损194万美元
-推送成功: 【BLOCKBEATS - 融资】某交易员止损其5668万美元比特币空头仓位，亏损194万美元
-已保存到 Markdown: ./output/blockbeats/2026-05-05.md
-  [BlockBeats] 新快讯: 「麻吉」价值7600万美元的多头仓位已浮盈196.3万美元
-推送成功: 【BLOCKBEATS - 融资】「麻吉」价值7600万美元的多头仓位已浮盈196.3万美元
+  [BlockBeats] 新快讯: 某鲸鱼累积囤积16,900枚ETH，今日再次加仓900枚ETH
+推送成功: 【BLOCKBEATS - 融资】某鲸鱼累积囤积16,900枚ETH，今日再次加仓900枚ETH
 已保存到 Markdown: ./output/blockbeats/2026-05-05.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -49,7 +40,7 @@ Call log:
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-Cycle completed. 2026-05-05 05:47:36.264678
+Cycle completed. 2026-05-05 08:14:33.723597
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -59,20 +50,15 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
- 交易所透明度排名: Page.wait_for_selector: Timeout 15000ms exceeded.
-Call log:
-  - waiting for locator("table tr, .list-item") to be visible
-
-2026-05-05 05:47:10,693 - INFO -   Calendar Events...
-2026-05-05 05:47:25,973 - WARNING -   Calendar events fetch failed: Page.wait_for_selector: Timeout 15000ms exceeded.
+imeout 15000ms exceeded.
 Call log:
   - waiting for locator(".list-table, .list-row") to be visible
 
-2026-05-05 05:47:25,973 - INFO -   Calendar Insight Image...
-2026-05-05 05:47:25,976 - WARNING -     Calendar insight icon not found
-2026-05-05 05:47:25,976 - INFO -   Market Image...
-2026-05-05 05:47:36,255 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+2026-05-05 08:14:23,433 - INFO -   Calendar Insight Image...
+2026-05-05 08:14:23,435 - WARNING -     Calendar insight icon not found
+2026-05-05 08:14:23,435 - INFO -   Market Image...
+2026-05-05 08:14:33,713 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-2026-05-05 05:47:36,264 - INFO - Cycle completed. 2026-05-05 05:47:36.264678
+2026-05-05 08:14:33,723 - INFO - Cycle completed. 2026-05-05 08:14:33.723597

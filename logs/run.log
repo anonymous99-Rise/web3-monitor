@@ -1,10 +1,13 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: OpenAI手机提前到最快2027，联发科或独拿处理器订单
-推送成功: 【BLOCKBEATS - 链上侦探】OpenAI手机提前到最快2027，联发科或独拿处理器订单
+  [BlockBeats] 新快讯: OpenClaw发布2026.5.4版本更新：优化插件安装与网关启动，提升多平台稳定性
+推送成功: 【BLOCKBEATS - 链上侦探】OpenClaw发布2026.5.4版本更新：优化插件安装与网关启动，提升多平台稳定性
 已保存到 Markdown: ./output/blockbeats/2026-05-05.md
-  [BlockBeats] 新快讯: 某鲸鱼累积囤积16,900枚ETH，今日再次加仓900枚ETH
-推送成功: 【BLOCKBEATS - 融资】某鲸鱼累积囤积16,900枚ETH，今日再次加仓900枚ETH
+  [BlockBeats] 新快讯: 巨鲸Loracle.hl抛售556,729枚HYPE，约合2290万美元
+推送成功: 【BLOCKBEATS - 融资】巨鲸Loracle.hl抛售556,729枚HYPE，约合2290万美元
+已保存到 Markdown: ./output/blockbeats/2026-05-05.md
+  [BlockBeats] 新快讯: 某鲸鱼向HyperLiquid存入311.7万枚USDC，并在2530至2670美元区间挂单做空ETH
+推送成功: 【BLOCKBEATS - 融资】某鲸鱼向HyperLiquid存入311.7万枚USDC，并在2530至2670美元区间挂单做空ETH
 已保存到 Markdown: ./output/blockbeats/2026-05-05.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -14,10 +17,10 @@
   Category: 融资动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1000&is_hot=1
 Scraping RootData...
   List: Top 100 项目
-  Failed to scrape list Top 100 项目: Page.wait_for_selector: Timeout 15000ms exceeded.
-Call log:
-  - waiting for locator("table tr, .list-item") to be visible
-
+  [RootData] 新榜单: Top 100 项目
+推送成功: 【RootData - Top 100 项目】
+推送成功: 【RootData - Top 100 项目】 (续)
+已保存到 Markdown: ./output/rootdata/2026-05-05.md
   List: 透明度评分提升榜
   Failed to scrape list 透明度评分提升榜: Page.wait_for_selector: Timeout 15000ms exceeded.
 Call log:
@@ -40,7 +43,7 @@ Call log:
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-Cycle completed. 2026-05-05 08:14:33.723597
+Cycle completed. 2026-05-05 10:49:31.289899
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -50,15 +53,18 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-imeout 15000ms exceeded.
+or locator("table tr, .list-item") to be visible
+
+2026-05-05 10:49:05,873 - INFO -   Calendar Events...
+2026-05-05 10:49:21,073 - WARNING -   Calendar events fetch failed: Page.wait_for_selector: Timeout 15000ms exceeded.
 Call log:
   - waiting for locator(".list-table, .list-row") to be visible
 
-2026-05-05 08:14:23,433 - INFO -   Calendar Insight Image...
-2026-05-05 08:14:23,435 - WARNING -     Calendar insight icon not found
-2026-05-05 08:14:23,435 - INFO -   Market Image...
-2026-05-05 08:14:33,713 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+2026-05-05 10:49:21,073 - INFO -   Calendar Insight Image...
+2026-05-05 10:49:21,076 - WARNING -     Calendar insight icon not found
+2026-05-05 10:49:21,076 - INFO -   Market Image...
+2026-05-05 10:49:31,281 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-2026-05-05 08:14:33,723 - INFO - Cycle completed. 2026-05-05 08:14:33.723597
+2026-05-05 10:49:31,289 - INFO - Cycle completed. 2026-05-05 10:49:31.289899

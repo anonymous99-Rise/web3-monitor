@@ -1,11 +1,44 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: Anthropic拟向谷歌投入2000亿美元，占后者披露的「收入积压」总额40%以上
-推送成功: 【BLOCKBEATS - 链上侦探】Anthropic拟向谷歌投入2000亿美元，占后者披露的「收入积压」总额40%以上
-已保存到 Markdown: ./output/blockbeats/2026-05-05.md
-  [BlockBeats] 新快讯: OpenAI发布GPT-5.5 Instant，智能度、事实准确性和响应质量全面提升
-推送成功: 【BLOCKBEATS - 链上侦探】OpenAI发布GPT-5.5 Instant，智能度、事实准确性和响应质量全面提升
-已保存到 Markdown: ./output/blockbeats/2026-05-05.md
+  [BlockBeats] 新快讯: OpenAI上线自助广告平台：目标今年营收25亿美元，取消5万美元门槛
+推送成功: 【BLOCKBEATS - 链上侦探】OpenAI上线自助广告平台：目标今年营收25亿美元，取消5万美元门槛
+已保存到 Markdown: ./output/blockbeats/2026-05-06.md
+  [BlockBeats] 新快讯: 最高提速3倍且零损耗，谷歌开源Gemma4全系MTP投机解码模型
+推送成功: 【BLOCKBEATS - 链上侦探】最高提速3倍且零损耗，谷歌开源Gemma4全系MTP投机解码模型
+已保存到 Markdown: ./output/blockbeats/2026-05-06.md
+  [BlockBeats] 新快讯: Anthropic连发10个金融Agent，FactSet股价大跌8.1%
+推送成功: 【BLOCKBEATS - 链上侦探】Anthropic连发10个金融Agent，FactSet股价大跌8.1%
+已保存到 Markdown: ./output/blockbeats/2026-05-06.md
+  [BlockBeats] 新快讯: 大模型战火烧向企业落地：OpenAI与Anthropic筹集55亿美元收购实施团队
+推送成功: 【BLOCKBEATS - 链上侦探】大模型战火烧向企业落地：OpenAI与Anthropic筹集55亿美元收购实施团队
+已保存到 Markdown: ./output/blockbeats/2026-05-06.md
+  [BlockBeats] 新快讯: Google正开发代号为「Remy」的AI代理，对标OpenClaw
+推送成功: 【BLOCKBEATS - 链上侦探】Google正开发代号为「Remy」的AI代理，对标OpenClaw
+已保存到 Markdown: ./output/blockbeats/2026-05-06.md
+  [BlockBeats] 新快讯: Meta计划推出AI助手对标OpenClaw
+推送成功: 【BLOCKBEATS - 链上侦探】Meta计划推出AI助手对标OpenClaw
+已保存到 Markdown: ./output/blockbeats/2026-05-06.md
+  [BlockBeats] 新快讯: OpenAI全量推送GPT-5.5 Instant：取代5.3成默认模型，上线记忆溯源功能
+推送成功: 【BLOCKBEATS - 链上侦探】OpenAI全量推送GPT-5.5 Instant：取代5.3成默认模型，上线记忆溯源功能
+已保存到 Markdown: ./output/blockbeats/2026-05-06.md
+  [BlockBeats] 新快讯: 巨鲸五一节前做多BTC，假期躺赚380万美元浮盈
+推送成功: 【BLOCKBEATS - 融资】巨鲸五一节前做多BTC，假期躺赚380万美元浮盈
+已保存到 Markdown: ./output/blockbeats/2026-05-06.md
+  [BlockBeats] 新快讯: 某巨鲸做空价值2032万美元比特币，清算价82,236.61美元
+推送成功: 【BLOCKBEATS - 融资】某巨鲸做空价值2032万美元比特币，清算价82,236.61美元
+已保存到 Markdown: ./output/blockbeats/2026-05-06.md
+  [BlockBeats] 新快讯: 「pension-usdt.eth」巨鲸空单亏达1800万美元，系Hyperliquid上TOP 1亏损地址
+推送成功: 【BLOCKBEATS - 融资】「pension-usdt.eth」巨鲸空单亏达1800万美元，系Hyperliquid上TOP 1亏损地址
+已保存到 Markdown: ./output/blockbeats/2026-05-06.md
+  [BlockBeats] 新快讯: Paradigm Capital向Coinbase存入2436枚ETH，价值575万美元
+推送成功: 【BLOCKBEATS - 融资】Paradigm Capital向Coinbase存入2436枚ETH，价值575万美元
+已保存到 Markdown: ./output/blockbeats/2026-05-06.md
+  [BlockBeats] 新快讯: 某巨鲸地址过去3周囤积122万枚HYPE，价值约5228万美元
+推送成功: 【BLOCKBEATS - 融资】某巨鲸地址过去3周囤积122万枚HYPE，价值约5228万美元
+已保存到 Markdown: ./output/blockbeats/2026-05-06.md
+  [BlockBeats] 新快讯: BitMine再次质押157,344枚ETH，价值3.7239亿美元
+推送成功: 【BLOCKBEATS - 融资】BitMine再次质押157,344枚ETH，价值3.7239亿美元
+已保存到 Markdown: ./output/blockbeats/2026-05-06.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
   Category: 项目动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1003&is_hot=1
@@ -40,7 +73,7 @@ Call log:
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-Cycle completed. 2026-05-05 23:59:28.933532
+Cycle completed. 2026-05-06 02:59:44.380262
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -50,15 +83,33 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-imeout 15000ms exceeded.
+: 融资动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1000&is_hot=1
+2026-05-06 02:58:27,137 - INFO - Scraping RootData...
+2026-05-06 02:58:27,171 - INFO -   List: Top 100 项目
+2026-05-06 02:58:45,168 - ERROR -   Failed to scrape list Top 100 项目: Page.wait_for_selector: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator("table tr, .list-item") to be visible
+
+2026-05-06 02:58:45,168 - INFO -   List: 透明度评分提升榜
+2026-05-06 02:59:00,646 - ERROR -   Failed to scrape list 透明度评分提升榜: Page.wait_for_selector: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator("table tr, .list-item") to be visible
+
+2026-05-06 02:59:00,647 - INFO -   List: 交易所透明度排名
+2026-05-06 02:59:15,972 - ERROR -   Failed to scrape list 交易所透明度排名: Page.wait_for_selector: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator("table tr, .list-item") to be visible
+
+2026-05-06 02:59:15,972 - INFO -   Calendar Events...
+2026-05-06 02:59:32,558 - WARNING -   Calendar events fetch failed: Page.wait_for_selector: Timeout 15000ms exceeded.
 Call log:
   - waiting for locator(".list-table, .list-row") to be visible
 
-2026-05-05 23:59:18,580 - INFO -   Calendar Insight Image...
-2026-05-05 23:59:18,582 - WARNING -     Calendar insight icon not found
-2026-05-05 23:59:18,582 - INFO -   Market Image...
-2026-05-05 23:59:28,922 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+2026-05-06 02:59:32,558 - INFO -   Calendar Insight Image...
+2026-05-06 02:59:32,564 - WARNING -     Calendar insight icon not found
+2026-05-06 02:59:32,564 - INFO -   Market Image...
+2026-05-06 02:59:44,370 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-2026-05-05 23:59:28,933 - INFO - Cycle completed. 2026-05-05 23:59:28.933532
+2026-05-06 02:59:44,380 - INFO - Cycle completed. 2026-05-06 02:59:44.380262

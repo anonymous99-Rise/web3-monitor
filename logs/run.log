@@ -1,19 +1,25 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: OpenAI宣布与AMD、NVIDIA等合作推出开放网络协议MRC，提升AI训练效率并减少GPU浪费
-推送成功: 【BLOCKBEATS - 链上侦探】OpenAI宣布与AMD、NVIDIA等合作推出开放网络协议MRC，提升AI训练效率并减少GPU浪费
+  [BlockBeats] 新快讯: Anthropic与SpaceX达成算力合作，提高Claude Code和Claude API使用限额
+推送成功: 【BLOCKBEATS - 链上侦探】Anthropic与SpaceX达成算力合作，提高Claude Code和Claude API使用限额
 已保存到 Markdown: ./output/blockbeats/2026-05-06.md
-  [BlockBeats] 新快讯: 陈天桥旗下MiroMind暂停中国服务
-推送成功: 【BLOCKBEATS - 链上侦探】陈天桥旗下MiroMind暂停中国服务
+  [BlockBeats] 新快讯: DeepSeek被曝投后估值或达450亿美元？消息人士：「双方确实在进行洽谈但估值还未最终确认」
+推送成功: 【BLOCKBEATS - 链上侦探】DeepSeek被曝投后估值或达450亿美元？消息人士：「双方确实在进行洽谈但估值还未最终确认」
 已保存到 Markdown: ./output/blockbeats/2026-05-06.md
-  [BlockBeats] 新快讯: 特朗普居然也做中转站，WorldRouter整合超300个AI模型并支持USD1结算
-推送成功: 【BLOCKBEATS - 链上侦探】特朗普居然也做中转站，WorldRouter整合超300个AI模型并支持USD1结算
+  [BlockBeats] 新快讯: Gemini API的File Search升级多模态RAG：图文混检、元数据过滤、页码级引用
+推送成功: 【BLOCKBEATS - 链上侦探】Gemini API的File Search升级多模态RAG：图文混检、元数据过滤、页码级引用
 已保存到 Markdown: ./output/blockbeats/2026-05-06.md
-  [BlockBeats] 新快讯: 「BTC OG内幕巨鲸」向Binance存入166,023枚ETH，约合3.95亿美元
-推送成功: 【BLOCKBEATS - 融资】「BTC OG内幕巨鲸」向Binance存入166,023枚ETH，约合3.95亿美元
+  [BlockBeats] 新快讯: 谷歌DeepMind入股《星战前夜》开发商：用运营22年的太空沙盒训练通用AI
+推送成功: 【BLOCKBEATS - 链上侦探】谷歌DeepMind入股《星战前夜》开发商：用运营22年的太空沙盒训练通用AI
 已保存到 Markdown: ./output/blockbeats/2026-05-06.md
-  [BlockBeats] 新快讯: 某巨鲸做多原油亏损超1000万美元
-推送成功: 【BLOCKBEATS - 融资】某巨鲸做多原油亏损超1000万美元
+  [BlockBeats] 新快讯: AMD CEO苏姿丰：AI Agent正推动AI周期中对算力的巨大需求，并显著提升CPU市场增长预期
+推送成功: 【BLOCKBEATS - 链上侦探】AMD CEO苏姿丰：AI Agent正推动AI周期中对算力的巨大需求，并显著提升CPU市场增长预期
+已保存到 Markdown: ./output/blockbeats/2026-05-06.md
+  [BlockBeats] 新快讯: 某新建钱包过去24小时从Coinbase提取349,999枚HYPE，约合1521万美元
+推送成功: 【BLOCKBEATS - 融资】某新建钱包过去24小时从Coinbase提取349,999枚HYPE，约合1521万美元
+已保存到 Markdown: ./output/blockbeats/2026-05-06.md
+  [BlockBeats] 新快讯: 美国政府于1小时前向Coinbase Prime存入3.233枚ETH
+推送成功: 【BLOCKBEATS - 融资】美国政府于1小时前向Coinbase Prime存入3.233枚ETH
 已保存到 Markdown: ./output/blockbeats/2026-05-06.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -49,7 +55,7 @@ Call log:
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-Cycle completed. 2026-05-06 14:18:12.916591
+Cycle completed. 2026-05-06 16:43:00.869571
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -59,20 +65,25 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
- 交易所透明度排名: Page.wait_for_selector: Timeout 15000ms exceeded.
+.
 Call log:
   - waiting for locator("table tr, .list-item") to be visible
 
-2026-05-06 14:17:47,118 - INFO -   Calendar Events...
-2026-05-06 14:18:02,375 - WARNING -   Calendar events fetch failed: Page.wait_for_selector: Timeout 15000ms exceeded.
+2026-05-06 16:42:20,179 - INFO -   List: 交易所透明度排名
+2026-05-06 16:42:35,414 - ERROR -   Failed to scrape list 交易所透明度排名: Page.wait_for_selector: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator("table tr, .list-item") to be visible
+
+2026-05-06 16:42:35,414 - INFO -   Calendar Events...
+2026-05-06 16:42:50,635 - WARNING -   Calendar events fetch failed: Page.wait_for_selector: Timeout 15000ms exceeded.
 Call log:
   - waiting for locator(".list-table, .list-row") to be visible
 
-2026-05-06 14:18:02,375 - INFO -   Calendar Insight Image...
-2026-05-06 14:18:02,377 - WARNING -     Calendar insight icon not found
-2026-05-06 14:18:02,378 - INFO -   Market Image...
-2026-05-06 14:18:12,906 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+2026-05-06 16:42:50,635 - INFO -   Calendar Insight Image...
+2026-05-06 16:42:50,638 - WARNING -     Calendar insight icon not found
+2026-05-06 16:42:50,638 - INFO -   Market Image...
+2026-05-06 16:43:00,858 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-2026-05-06 14:18:12,916 - INFO - Cycle completed. 2026-05-06 14:18:12.916591
+2026-05-06 16:43:00,869 - INFO - Cycle completed. 2026-05-06 16:43:00.869571

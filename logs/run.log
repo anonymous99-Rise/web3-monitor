@@ -1,25 +1,10 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: Coinbase x402支付协议原生集成至亚马逊AI智能体支付核心
-推送成功: 【BLOCKBEATS - 链上侦探】Coinbase x402支付协议原生集成至亚马逊AI智能体支付核心
+  [BlockBeats] 新快讯: 52%选民支持加密市场结构立法，下周将迎参议院关键投票
+推送成功: 【BLOCKBEATS - 融资】52%选民支持加密市场结构立法，下周将迎参议院关键投票
 已保存到 Markdown: ./output/blockbeats/2026-05-07.md
-  [BlockBeats] 新快讯: 黄仁勋预测Agentic AI将彻底改变制造业、物流等实体经济领域
-推送成功: 【BLOCKBEATS - 链上侦探】黄仁勋预测Agentic AI将彻底改变制造业、物流等实体经济领域
-已保存到 Markdown: ./output/blockbeats/2026-05-07.md
-  [BlockBeats] 新快讯: NVIDIA架构师创办AI编码初创公司Blitzy获2亿美元融资，估值达14亿美元
-推送成功: 【BLOCKBEATS - 链上侦探】NVIDIA架构师创办AI编码初创公司Blitzy获2亿美元融资，估值达14亿美元
-已保存到 Markdown: ./output/blockbeats/2026-05-07.md
-  [BlockBeats] 新快讯: 全球AI新王诞生！Anthropic估值冲爆1.2万亿首次反超OpenAI
-推送成功: 【BLOCKBEATS - 链上侦探】全球AI新王诞生！Anthropic估值冲爆1.2万亿首次反超OpenAI
-已保存到 Markdown: ./output/blockbeats/2026-05-07.md
-  [BlockBeats] 新快讯: Tether推出手机本地医疗AI：1.7B小模型超越16倍大模型，彻底摆脱云端依赖
-推送成功: 【BLOCKBEATS - 链上侦探】Tether推出手机本地医疗AI：1.7B小模型超越16倍大模型，彻底摆脱云端依赖
-已保存到 Markdown: ./output/blockbeats/2026-05-07.md
-  [BlockBeats] 新快讯: Metalpha相关地址向Binance存入27000枚ETH，价值约6278万美元
-推送成功: 【BLOCKBEATS - 融资】Metalpha相关地址向Binance存入27000枚ETH，价值约6278万美元
-已保存到 Markdown: ./output/blockbeats/2026-05-07.md
-  [BlockBeats] 新快讯: 某巨鲸向Binance充值14062枚ETH，价值3282万美元
-推送成功: 【BLOCKBEATS - 融资】某巨鲸向Binance充值14062枚ETH，价值3282万美元
+  [BlockBeats] 新快讯: Meme币sato榜二地址持仓腰斩，浮亏27.6万美元
+推送成功: 【BLOCKBEATS - 融资】Meme币sato榜二地址持仓腰斩，浮亏27.6万美元
 已保存到 Markdown: ./output/blockbeats/2026-05-07.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -55,7 +40,7 @@ Call log:
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-Cycle completed. 2026-05-07 14:15:27.244339
+Cycle completed. 2026-05-07 16:53:53.298015
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -65,25 +50,15 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-.
-Call log:
-  - waiting for locator("table tr, .list-item") to be visible
-
-2026-05-07 14:14:42,459 - INFO -   List: 交易所透明度排名
-2026-05-07 14:14:58,169 - ERROR -   Failed to scrape list 交易所透明度排名: Page.wait_for_selector: Timeout 15000ms exceeded.
-Call log:
-  - waiting for locator("table tr, .list-item") to be visible
-
-2026-05-07 14:14:58,169 - INFO -   Calendar Events...
-2026-05-07 14:15:15,132 - WARNING -   Calendar events fetch failed: Page.wait_for_selector: Timeout 15000ms exceeded.
+imeout 15000ms exceeded.
 Call log:
   - waiting for locator(".list-table, .list-row") to be visible
 
-2026-05-07 14:15:15,132 - INFO -   Calendar Insight Image...
-2026-05-07 14:15:15,137 - WARNING -     Calendar insight icon not found
-2026-05-07 14:15:15,137 - INFO -   Market Image...
-2026-05-07 14:15:27,234 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+2026-05-07 16:53:42,606 - INFO -   Calendar Insight Image...
+2026-05-07 16:53:42,608 - WARNING -     Calendar insight icon not found
+2026-05-07 16:53:42,608 - INFO -   Market Image...
+2026-05-07 16:53:53,288 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-2026-05-07 14:15:27,244 - INFO - Cycle completed. 2026-05-07 14:15:27.244339
+2026-05-07 16:53:53,298 - INFO - Cycle completed. 2026-05-07 16:53:53.298015

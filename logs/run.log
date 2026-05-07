@@ -1,11 +1,5 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 52%选民支持加密市场结构立法，下周将迎参议院关键投票
-推送成功: 【BLOCKBEATS - 融资】52%选民支持加密市场结构立法，下周将迎参议院关键投票
-已保存到 Markdown: ./output/blockbeats/2026-05-07.md
-  [BlockBeats] 新快讯: Meme币sato榜二地址持仓腰斩，浮亏27.6万美元
-推送成功: 【BLOCKBEATS - 融资】Meme币sato榜二地址持仓腰斩，浮亏27.6万美元
-已保存到 Markdown: ./output/blockbeats/2026-05-07.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
   Category: 项目动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1003&is_hot=1
@@ -14,10 +8,6 @@
   Category: 融资动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1000&is_hot=1
 Scraping RootData...
   List: Top 100 项目
-  Failed to scrape list Top 100 项目: Page.wait_for_selector: Timeout 15000ms exceeded.
-Call log:
-  - waiting for locator("table tr, .list-item") to be visible
-
   List: 透明度评分提升榜
   Failed to scrape list 透明度评分提升榜: Page.wait_for_selector: Timeout 15000ms exceeded.
 Call log:
@@ -40,7 +30,7 @@ Call log:
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-Cycle completed. 2026-05-07 16:53:53.298015
+Cycle completed. 2026-05-07 18:28:07.007660
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -50,15 +40,10 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-imeout 15000ms exceeded.
-Call log:
-  - waiting for locator(".list-table, .list-row") to be visible
 
-2026-05-07 16:53:42,606 - INFO -   Calendar Insight Image...
-2026-05-07 16:53:42,608 - WARNING -     Calendar insight icon not found
-2026-05-07 16:53:42,608 - INFO -   Market Image...
-2026-05-07 16:53:53,288 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+2026-05-07 18:27:56,699 - INFO -   Market Image...
+2026-05-07 18:28:06,997 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-2026-05-07 16:53:53,298 - INFO - Cycle completed. 2026-05-07 16:53:53.298015
+2026-05-07 18:28:07,007 - INFO - Cycle completed. 2026-05-07 18:28:07.007660

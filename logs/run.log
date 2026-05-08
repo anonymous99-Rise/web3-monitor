@@ -1,28 +1,25 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 庭审炸出微软高管曾集体嫌弃OpenAI，投10亿只因怕OpenAI跑去亚马逊
-推送成功: 【BLOCKBEATS - 链上侦探】庭审炸出微软高管曾集体嫌弃OpenAI，投10亿只因怕OpenAI跑去亚马逊
+  [BlockBeats] 新快讯: Gemini API发不兼容更新：6月8日旧版SDK全部报错，新接口打通多模态同时输出
+推送成功: 【BLOCKBEATS - 链上侦探】Gemini API发不兼容更新：6月8日旧版SDK全部报错，新接口打通多模态同时输出
 已保存到 Markdown: ./output/blockbeats/2026-05-08.md
-  [BlockBeats] 新快讯: 曾主导自进化大模型研究，腾讯AI西雅图前高级研究员于文豪加入OpenAI
-推送成功: 【BLOCKBEATS - 链上侦探】曾主导自进化大模型研究，腾讯AI西雅图前高级研究员于文豪加入OpenAI
+  [BlockBeats] 新快讯: 中国大模型生态实探：行业忌惮字节与阿里财力垄断，仅DeepSeek被尊为技术领袖
+推送成功: 【BLOCKBEATS - 链上侦探】中国大模型生态实探：行业忌惮字节与阿里财力垄断，仅DeepSeek被尊为技术领袖
 已保存到 Markdown: ./output/blockbeats/2026-05-08.md
-  [BlockBeats] 新快讯: 中美AI即将对话，AI唯二大国的互动前瞻
-推送成功: 【BLOCKBEATS - 链上侦探】中美AI即将对话，AI唯二大国的互动前瞻
+  [BlockBeats] 新快讯: 眼红海力士人均47万美元奖金？三星工会索要15%营业利润，否则将罢工18天
+推送成功: 【BLOCKBEATS - 链上侦探】眼红海力士人均47万美元奖金？三星工会索要15%营业利润，否则将罢工18天
 已保存到 Markdown: ./output/blockbeats/2026-05-08.md
-  [BlockBeats] 新快讯: 白宫AI大转向内幕：万斯曾因Mythos召集五巨头通话，网安总监接手管控
-推送成功: 【BLOCKBEATS - 链上侦探】白宫AI大转向内幕：万斯曾因Mythos召集五巨头通话，网安总监接手管控
+  [BlockBeats] 新快讯: OpenAI 180亿美元造芯卡壳：博通垫资条件为微软包销40%，量产推迟至2027年
+推送成功: 【BLOCKBEATS - 链上侦探】OpenAI 180亿美元造芯卡壳：博通垫资条件为微软包销40%，量产推迟至2027年
 已保存到 Markdown: ./output/blockbeats/2026-05-08.md
-  [BlockBeats] 新快讯: 「麻吉」以1个月时间将仓位滚至5580万美元，实际净收益40万美元
-推送成功: 【BLOCKBEATS - 融资】「麻吉」以1个月时间将仓位滚至5580万美元，实际净收益40万美元
+  [BlockBeats] 新快讯: Cloudflare裁员超1100人：每天跑数千个Agent，按AI时代重构公司
+推送成功: 【BLOCKBEATS - 链上侦探】Cloudflare裁员超1100人：每天跑数千个Agent，按AI时代重构公司
 已保存到 Markdown: ./output/blockbeats/2026-05-08.md
-  [BlockBeats] 新快讯: 资管机构Metalpha 关联地址向Binance存入价值2000万美元ETH
-推送成功: 【BLOCKBEATS - 融资】资管机构Metalpha 关联地址向Binance存入价值2000万美元ETH
+  [BlockBeats] 新快讯: 某交易员耗时3个多月波段操作ETH，亏损148万美元
+推送成功: 【BLOCKBEATS - 融资】某交易员耗时3个多月波段操作ETH，亏损148万美元
 已保存到 Markdown: ./output/blockbeats/2026-05-08.md
-  [BlockBeats] 新快讯: 疑似Erik Voorhees关联地址加仓2920枚ETH
-推送成功: 【BLOCKBEATS - 融资】疑似Erik Voorhees关联地址加仓2920枚ETH
-已保存到 Markdown: ./output/blockbeats/2026-05-08.md
-  [BlockBeats] 新快讯: 某巨鲸40倍杠杆做空BTC，清算线位于8.059万美元
-推送成功: 【BLOCKBEATS - 融资】某巨鲸40倍杠杆做空BTC，清算线位于8.059万美元
+  [BlockBeats] 新快讯: Grapefruit Trading质押超7600万美元ETH至Eth2.0
+推送成功: 【BLOCKBEATS - 融资】Grapefruit Trading质押超7600万美元ETH至Eth2.0
 已保存到 Markdown: ./output/blockbeats/2026-05-08.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -54,7 +51,7 @@ Call log:
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-Cycle completed. 2026-05-08 05:59:31.301215
+Cycle completed. 2026-05-08 07:51:36.097735
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -64,25 +61,23 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-评分提升榜: Page.wait_for_selector: Timeout 15000ms exceeded.
+r("table tr, .list-item") to be visible
+
+2026-05-08 07:50:55,209 - INFO -   List: 交易所透明度排名
+2026-05-08 07:51:10,524 - ERROR -   Failed to scrape list 交易所透明度排名: Page.wait_for_selector: Timeout 15000ms exceeded.
 Call log:
   - waiting for locator("table tr, .list-item") to be visible
 
-2026-05-08 05:58:50,258 - INFO -   List: 交易所透明度排名
-2026-05-08 05:59:05,609 - ERROR -   Failed to scrape list 交易所透明度排名: Page.wait_for_selector: Timeout 15000ms exceeded.
-Call log:
-  - waiting for locator("table tr, .list-item") to be visible
-
-2026-05-08 05:59:05,610 - INFO -   Calendar Events...
-2026-05-08 05:59:20,941 - WARNING -   Calendar events fetch failed: Page.wait_for_selector: Timeout 15000ms exceeded.
+2026-05-08 07:51:10,524 - INFO -   Calendar Events...
+2026-05-08 07:51:25,803 - WARNING -   Calendar events fetch failed: Page.wait_for_selector: Timeout 15000ms exceeded.
 Call log:
   - waiting for locator(".list-table, .list-row") to be visible
 
-2026-05-08 05:59:20,942 - INFO -   Calendar Insight Image...
-2026-05-08 05:59:20,945 - WARNING -     Calendar insight icon not found
-2026-05-08 05:59:20,945 - INFO -   Market Image...
-2026-05-08 05:59:31,288 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+2026-05-08 07:51:25,804 - INFO -   Calendar Insight Image...
+2026-05-08 07:51:25,806 - WARNING -     Calendar insight icon not found
+2026-05-08 07:51:25,806 - INFO -   Market Image...
+2026-05-08 07:51:36,086 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-2026-05-08 05:59:31,301 - INFO - Cycle completed. 2026-05-08 05:59:31.301215
+2026-05-08 07:51:36,097 - INFO - Cycle completed. 2026-05-08 07:51:36.097735

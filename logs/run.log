@@ -1,10 +1,13 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 梁文锋自掏近30亿美元领投首轮融资：DeepSeek估值推至515亿美元，V4.1定档6月
-推送成功: 【BLOCKBEATS - 链上侦探】梁文锋自掏近30亿美元领投首轮融资：DeepSeek估值推至515亿美元，V4.1定档6月
+  [BlockBeats] 新快讯: 阶跃星辰发布StepAudio 2.5 Realtime：主观体验评分碾压GPT-Realtime-1.5近18%，通话每小时3.8元
+推送成功: 【BLOCKBEATS - 链上侦探】阶跃星辰发布StepAudio 2.5 Realtime：主观体验评分碾压GPT-Realtime-1.5近18%，通话每小时3.8元
 已保存到 Markdown: ./output/blockbeats/2026-05-08.md
-  [BlockBeats] 新快讯: 「BTC OG内幕巨鲸」代理人将78,077枚ETH存入Binance
-推送成功: 【BLOCKBEATS - 融资】「BTC OG内幕巨鲸」代理人将78,077枚ETH存入Binance
+  [BlockBeats] 新快讯: 英国富豪Chris Hohn旗下对冲基金TCI抛售近80亿美元微软股份
+推送成功: 【BLOCKBEATS - 链上侦探】英国富豪Chris Hohn旗下对冲基金TCI抛售近80亿美元微软股份
+已保存到 Markdown: ./output/blockbeats/2026-05-08.md
+  [BlockBeats] 新快讯: 富达向Coinbase Prime存入23,919枚ETH
+推送成功: 【BLOCKBEATS - 融资】富达向Coinbase Prime存入23,919枚ETH
 已保存到 Markdown: ./output/blockbeats/2026-05-08.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -32,8 +35,11 @@ Call log:
   Calendar Insight Image...
     Calendar insight icon not found
   Market Image...
-    Market download icon not found
-Cycle completed. 2026-05-08 13:55:53.890939
+    Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(".v-data-table, table, .top-gainers") to be visible
+
+Cycle completed. 2026-05-08 15:25:41.223235
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -43,13 +49,15 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-.
-2026-05-08 13:55:51,735 - WARNING -   Calendar events fetch failed: Page.wait_for_selector: Timeout 15000ms exceeded.
+RNING -   Calendar events fetch failed: Page.wait_for_selector: Timeout 15000ms exceeded.
 Call log:
   - waiting for locator(".list-table, .list-row") to be visible
 
-2026-05-08 13:55:51,735 - INFO -   Calendar Insight Image...
-2026-05-08 13:55:51,740 - WARNING -     Calendar insight icon not found
-2026-05-08 13:55:51,740 - INFO -   Market Image...
-2026-05-08 13:55:53,874 - WARNING -     Market download icon not found
-2026-05-08 13:55:53,890 - INFO - Cycle completed. 2026-05-08 13:55:53.890939
+2026-05-08 15:25:30,788 - INFO -   Calendar Insight Image...
+2026-05-08 15:25:30,790 - WARNING -     Calendar insight icon not found
+2026-05-08 15:25:30,790 - INFO -   Market Image...
+2026-05-08 15:25:41,212 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(".v-data-table, table, .top-gainers") to be visible
+
+2026-05-08 15:25:41,223 - INFO - Cycle completed. 2026-05-08 15:25:41.223235

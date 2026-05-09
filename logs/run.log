@@ -1,31 +1,22 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 文心5.1正式上线：参数砍至5.0三分之一，预训练成本只花同行6%
-推送成功: 【BLOCKBEATS - 链上侦探】文心5.1正式上线：参数砍至5.0三分之一，预训练成本只花同行6%
+  [BlockBeats] 新快讯: OpenAI触碰红线：意外给AI思维链打分，波及GPT-5.4等6款模型
+推送成功: 【BLOCKBEATS - 链上侦探】OpenAI触碰红线：意外给AI思维链打分，波及GPT-5.4等6款模型
 已保存到 Markdown: ./output/blockbeats/2026-05-09.md
-  [BlockBeats] 新快讯: AllenAI开源大模型EMO：裁掉75%参数仅掉点1%，把大MoE拆成独立小专家
-推送成功: 【BLOCKBEATS - 链上侦探】AllenAI开源大模型EMO：裁掉75%参数仅掉点1%，把大MoE拆成独立小专家
+  [BlockBeats] 新快讯: H200进口暂未放行，字节跳动超2000亿AI基建预算大幅向国产芯片倾斜
+推送成功: 【BLOCKBEATS - 链上侦探】H200进口暂未放行，字节跳动超2000亿AI基建预算大幅向国产芯片倾斜
 已保存到 Markdown: ./output/blockbeats/2026-05-09.md
-  [BlockBeats] 新快讯: Anthropic公开防失控训练法：靠虚构小说教Claude做人，敲诈率降至0
-推送成功: 【BLOCKBEATS - 链上侦探】Anthropic公开防失控训练法：靠虚构小说教Claude做人，敲诈率降至0
+  [BlockBeats] 新快讯: OpenAI当众挖墙角：官推亮出Codex搬家工具，明抢Claude Code用户
+推送成功: 【BLOCKBEATS - 链上侦探】OpenAI当众挖墙角：官推亮出Codex搬家工具，明抢Claude Code用户
 已保存到 Markdown: ./output/blockbeats/2026-05-09.md
-  [BlockBeats] 新快讯: 大模型为什么写不出「马嘉祺」？MiniMax全词表扫描发现近5%的Token在后训练中被遗忘
-推送成功: 【BLOCKBEATS - 链上侦探】大模型为什么写不出「马嘉祺」？MiniMax全词表扫描发现近5%的Token在后训练中被遗忘
+  [BlockBeats] 新快讯: 字节跳动计划将AI基础设施支出增加25%
+推送成功: 【BLOCKBEATS - 链上侦探】字节跳动计划将AI基础设施支出增加25%
 已保存到 Markdown: ./output/blockbeats/2026-05-09.md
-  [BlockBeats] 新快讯: 起底Anthropic首任CFO：投资人追着送钱，他专门负责拒绝
-推送成功: 【BLOCKBEATS - 链上侦探】起底Anthropic首任CFO：投资人追着送钱，他专门负责拒绝
+  [BlockBeats] 新快讯: 交易员「Loracle」首次启动BTC与ZEC多单止盈，累计减持669万美元
+推送成功: 【BLOCKBEATS - 融资】交易员「Loracle」首次启动BTC与ZEC多单止盈，累计减持669万美元
 已保存到 Markdown: ./output/blockbeats/2026-05-09.md
-  [BlockBeats] 新快讯: 谷歌重构健康API：体征数据全面接入AI Agent，旧版Fitbit接口今年9月关停
-推送成功: 【BLOCKBEATS - 链上侦探】谷歌重构健康API：体征数据全面接入AI Agent，旧版Fitbit接口今年9月关停
-已保存到 Markdown: ./output/blockbeats/2026-05-09.md
-  [BlockBeats] 新快讯: 蚂蚁上线万亿参数思考模型Ring-2.6-1T：PinchBench跑分87.60压GPT-5.4
-推送成功: 【BLOCKBEATS - 链上侦探】蚂蚁上线万亿参数思考模型Ring-2.6-1T：PinchBench跑分87.60压GPT-5.4
-已保存到 Markdown: ./output/blockbeats/2026-05-09.md
-  [BlockBeats] 新快讯: 谷歌DeepMind新设「AGI经济学家」：芝加哥行为经济学教授直接向联创汇报，研究AGI如何重塑经济
-推送成功: 【BLOCKBEATS - 链上侦探】谷歌DeepMind新设「AGI经济学家」：芝加哥行为经济学教授直接向联创汇报，研究AGI如何重塑经济
-已保存到 Markdown: ./output/blockbeats/2026-05-09.md
-  [BlockBeats] 新快讯: 某巨鲸增持143,674枚HYPE，价值626万美元
-推送成功: 【BLOCKBEATS - 融资】某巨鲸增持143,674枚HYPE，价值626万美元
+  [BlockBeats] 新快讯: Meme币aura市值续涨至6300万美元，某钻石手以5000美元录66倍盈利
+推送成功: 【BLOCKBEATS - 融资】Meme币aura市值续涨至6300万美元，某钻石手以5000美元录66倍盈利
 已保存到 Markdown: ./output/blockbeats/2026-05-09.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -35,6 +26,10 @@
   Category: 融资动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1000&is_hot=1
 Scraping RootData...
   List: Top 100 项目
+  Failed to scrape list Top 100 项目: Page.wait_for_selector: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator("table tr, .list-item") to be visible
+
   List: 透明度评分提升榜
   Failed to scrape list 透明度评分提升榜: Page.wait_for_selector: Timeout 15000ms exceeded.
 Call log:
@@ -57,7 +52,7 @@ Call log:
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-Cycle completed. 2026-05-09 08:29:29.102631
+Cycle completed. 2026-05-09 10:08:25.393545
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -67,26 +62,21 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
- List: 透明度评分提升榜
-2026-05-09 08:28:47,931 - ERROR -   Failed to scrape list 透明度评分提升榜: Page.wait_for_selector: Timeout 15000ms exceeded.
+- INFO -   List: 交易所透明度排名
+2026-05-09 10:07:59,428 - ERROR -   Failed to scrape list 交易所透明度排名: Page.wait_for_selector: Timeout 15000ms exceeded.
 Call log:
   - waiting for locator("table tr, .list-item") to be visible
 
-2026-05-09 08:28:47,931 - INFO -   List: 交易所透明度排名
-2026-05-09 08:29:03,386 - ERROR -   Failed to scrape list 交易所透明度排名: Page.wait_for_selector: Timeout 15000ms exceeded.
-Call log:
-  - waiting for locator("table tr, .list-item") to be visible
-
-2026-05-09 08:29:03,386 - INFO -   Calendar Events...
-2026-05-09 08:29:18,808 - WARNING -   Calendar events fetch failed: Page.wait_for_selector: Timeout 15000ms exceeded.
+2026-05-09 10:07:59,428 - INFO -   Calendar Events...
+2026-05-09 10:08:14,884 - WARNING -   Calendar events fetch failed: Page.wait_for_selector: Timeout 15000ms exceeded.
 Call log:
   - waiting for locator(".list-table, .list-row") to be visible
 
-2026-05-09 08:29:18,809 - INFO -   Calendar Insight Image...
-2026-05-09 08:29:18,811 - WARNING -     Calendar insight icon not found
-2026-05-09 08:29:18,811 - INFO -   Market Image...
-2026-05-09 08:29:29,091 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+2026-05-09 10:08:14,884 - INFO -   Calendar Insight Image...
+2026-05-09 10:08:14,886 - WARNING -     Calendar insight icon not found
+2026-05-09 10:08:14,886 - INFO -   Market Image...
+2026-05-09 10:08:25,383 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-2026-05-09 08:29:29,102 - INFO - Cycle completed. 2026-05-09 08:29:29.102631
+2026-05-09 10:08:25,393 - INFO - Cycle completed. 2026-05-09 10:08:25.393545

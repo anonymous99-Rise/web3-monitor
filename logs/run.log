@@ -1,19 +1,19 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 消息人士：阿里巴巴将整合千问AI与淘宝，推出智能购物服务
-推送成功: 【BLOCKBEATS - 链上侦探】消息人士：阿里巴巴将整合千问AI与淘宝，推出智能购物服务
+  [BlockBeats] 新快讯: OpenAI将彻底关闭微调API：大模型全面转向Prompt，初创团队失去底层定制路径
+推送成功: 【BLOCKBEATS - 链上侦探】OpenAI将彻底关闭微调API：大模型全面转向Prompt，初创团队失去底层定制路径
 已保存到 Markdown: ./output/blockbeats/2026-05-10.md
-  [BlockBeats] 新快讯: 某鲸鱼3天前FOMO买入47.7万美元SATO，目前浮盈13万美元
-推送成功: 【BLOCKBEATS - 融资】某鲸鱼3天前FOMO买入47.7万美元SATO，目前浮盈13万美元
+  [BlockBeats] 新快讯: Sakana AI联合英伟达：让GPU跳过大模型八成无效计算，H100推理提速30%
+推送成功: 【BLOCKBEATS - 链上侦探】Sakana AI联合英伟达：让GPU跳过大模型八成无效计算，H100推理提速30%
 已保存到 Markdown: ./output/blockbeats/2026-05-10.md
-  [BlockBeats] 新快讯: 某鲸鱼买入价值1700万美元ETH，并存入Lido质押
-推送成功: 【BLOCKBEATS - 融资】某鲸鱼买入价值1700万美元ETH，并存入Lido质押
+  [BlockBeats] 新快讯: Codex单周安装8600万？a16z图表闹乌龙被Claude Code之父打假
+推送成功: 【BLOCKBEATS - 链上侦探】Codex单周安装8600万？a16z图表闹乌龙被Claude Code之父打假
 已保存到 Markdown: ./output/blockbeats/2026-05-10.md
-  [BlockBeats] 新快讯: WorldCoin团队向Bitgo发送3000万枚WLD，价值817万美元
-推送成功: 【BLOCKBEATS - 融资】WorldCoin团队向Bitgo发送3000万枚WLD，价值817万美元
+  [BlockBeats] 新快讯: 微软开源Phi-Ground：40亿参数点击准度赢了Operator和Claude
+推送成功: 【BLOCKBEATS - 链上侦探】微软开源Phi-Ground：40亿参数点击准度赢了Operator和Claude
 已保存到 Markdown: ./output/blockbeats/2026-05-10.md
-  [BlockBeats] 新快讯: USDC Treasury在Solana链上新增铸造2.5亿枚USDC
-推送成功: 【BLOCKBEATS - 融资】USDC Treasury在Solana链上新增铸造2.5亿枚USDC
+  [BlockBeats] 新快讯: Muon悄悄「饿死」25%的神经元：Aurora修复后数据效率翻百倍
+推送成功: 【BLOCKBEATS - 链上侦探】Muon悄悄「饿死」25%的神经元：Aurora修复后数据效率翻百倍
 已保存到 Markdown: ./output/blockbeats/2026-05-10.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -49,7 +49,7 @@ Call log:
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-Cycle completed. 2026-05-10 03:29:23.201380
+Cycle completed. 2026-05-10 06:35:58.130937
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -63,16 +63,16 @@ Scraping TechFlow...
 Call log:
   - waiting for locator("table tr, .list-item") to be visible
 
-2026-05-10 03:28:56,857 - INFO -   Calendar Events...
-2026-05-10 03:29:12,534 - WARNING -   Calendar events fetch failed: Page.wait_for_selector: Timeout 15000ms exceeded.
+2026-05-10 06:35:32,330 - INFO -   Calendar Events...
+2026-05-10 06:35:47,646 - WARNING -   Calendar events fetch failed: Page.wait_for_selector: Timeout 15000ms exceeded.
 Call log:
   - waiting for locator(".list-table, .list-row") to be visible
 
-2026-05-10 03:29:12,534 - INFO -   Calendar Insight Image...
-2026-05-10 03:29:12,537 - WARNING -     Calendar insight icon not found
-2026-05-10 03:29:12,537 - INFO -   Market Image...
-2026-05-10 03:29:23,191 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+2026-05-10 06:35:47,646 - INFO -   Calendar Insight Image...
+2026-05-10 06:35:47,649 - WARNING -     Calendar insight icon not found
+2026-05-10 06:35:47,649 - INFO -   Market Image...
+2026-05-10 06:35:58,120 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-2026-05-10 03:29:23,201 - INFO - Cycle completed. 2026-05-10 03:29:23.201380
+2026-05-10 06:35:58,130 - INFO - Cycle completed. 2026-05-10 06:35:58.130937

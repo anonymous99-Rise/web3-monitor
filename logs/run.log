@@ -1,10 +1,10 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: Altman：Z世代与千禧一代将ChatGPT当作「人生顾问」，大学生则已将其当作操作系统
-推送成功: 【BLOCKBEATS - 链上侦探】Altman：Z世代与千禧一代将ChatGPT当作「人生顾问」，大学生则已将其当作操作系统
+  [BlockBeats] 新快讯: 某新建钱包从Binance提取843枚PAXG，价值398万美元
+推送成功: 【BLOCKBEATS - 融资】某新建钱包从Binance提取843枚PAXG，价值398万美元
 已保存到 Markdown: ./output/blockbeats/2026-05-10.md
-  [BlockBeats] 新快讯: Amber Group关联地址从Binance Wallet提出价值174万美元LAB，随后转入Gate
-推送成功: 【BLOCKBEATS - 融资】Amber Group关联地址从Binance Wallet提出价值174万美元LAB，随后转入Gate
+  [BlockBeats] 新快讯: 某鲸鱼将40枚BTC兑换为1,384.6枚ETH，随后通过Tornado Cash转移相关资金
+推送成功: 【BLOCKBEATS - 融资】某鲸鱼将40枚BTC兑换为1,384.6枚ETH，随后通过Tornado Cash转移相关资金
 已保存到 Markdown: ./output/blockbeats/2026-05-10.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -40,7 +40,7 @@ Call log:
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-Cycle completed. 2026-05-10 13:23:36.293659
+Cycle completed. 2026-05-10 14:56:27.226294
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -54,11 +54,11 @@ imeout 15000ms exceeded.
 Call log:
   - waiting for locator(".list-table, .list-row") to be visible
 
-2026-05-10 13:23:25,858 - INFO -   Calendar Insight Image...
-2026-05-10 13:23:25,860 - WARNING -     Calendar insight icon not found
-2026-05-10 13:23:25,860 - INFO -   Market Image...
-2026-05-10 13:23:36,282 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+2026-05-10 14:56:16,895 - INFO -   Calendar Insight Image...
+2026-05-10 14:56:16,898 - WARNING -     Calendar insight icon not found
+2026-05-10 14:56:16,898 - INFO -   Market Image...
+2026-05-10 14:56:27,215 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-2026-05-10 13:23:36,293 - INFO - Cycle completed. 2026-05-10 13:23:36.293659
+2026-05-10 14:56:27,226 - INFO - Cycle completed. 2026-05-10 14:56:27.226294

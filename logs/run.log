@@ -1,8 +1,5 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 微软CEO出庭作证，马斯克诉OpenAI及Altman案持续审理
-推送成功: 【BLOCKBEATS - 链上侦探】微软CEO出庭作证，马斯克诉OpenAI及Altman案持续审理
-已保存到 Markdown: ./output/blockbeats/2026-05-11.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
   Category: 项目动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1003&is_hot=1
@@ -37,7 +34,7 @@ Call log:
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-Cycle completed. 2026-05-11 17:28:31.784512
+Cycle completed. 2026-05-11 19:51:23.537503
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -47,12 +44,10 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-
-2026-05-11 17:28:20,906 - INFO -   Calendar Insight Image...
-2026-05-11 17:28:20,909 - WARNING -     Calendar insight icon not found
-2026-05-11 17:28:20,909 - INFO -   Market Image...
-2026-05-11 17:28:31,773 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+   Calendar insight icon not found
+2026-05-11 19:51:13,239 - INFO -   Market Image...
+2026-05-11 19:51:23,526 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-2026-05-11 17:28:31,784 - INFO - Cycle completed. 2026-05-11 17:28:31.784512
+2026-05-11 19:51:23,537 - INFO - Cycle completed. 2026-05-11 19:51:23.537503

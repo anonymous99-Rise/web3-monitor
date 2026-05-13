@@ -1,26 +1,5 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 软银于几周前试图收购Cerebras遭拒
-推送成功: 【BLOCKBEATS - 链上侦探】软银于几周前试图收购Cerebras遭拒
-已保存到 Markdown: ./output/blockbeats/2026-05-13.md
-  [BlockBeats] 新快讯: WSJ：Anthropic估值突破9000亿美元，首次超越OpenAI
-推送成功: 【BLOCKBEATS - 链上侦探】WSJ：Anthropic估值突破9000亿美元，首次超越OpenAI
-已保存到 Markdown: ./output/blockbeats/2026-05-13.md
-  [BlockBeats] 新快讯: 亚马逊调整AI购物战略，关停Rufus聊天机器人并推出Alexa for Shopping
-推送成功: 【BLOCKBEATS - 链上侦探】亚马逊调整AI购物战略，关停Rufus聊天机器人并推出Alexa for Shopping
-已保存到 Markdown: ./output/blockbeats/2026-05-13.md
-  [BlockBeats] 新快讯: 摩根士丹利MSBT地址再次增持74.5枚BTC
-推送成功: 【BLOCKBEATS - 融资】摩根士丹利MSBT地址再次增持74.5枚BTC
-已保存到 Markdown: ./output/blockbeats/2026-05-13.md
-  [BlockBeats] 新快讯: 某持仓超两年鲸鱼疑似减仓40枚WBTC，若卖出获利约84.7万美元
-推送成功: 【BLOCKBEATS - 融资】某持仓超两年鲸鱼疑似减仓40枚WBTC，若卖出获利约84.7万美元
-已保存到 Markdown: ./output/blockbeats/2026-05-13.md
-  [BlockBeats] 新快讯: a16z关联地址过去1个月囤积158.8万枚HYPE
-推送成功: 【BLOCKBEATS - 融资】a16z关联地址过去1个月囤积158.8万枚HYPE
-已保存到 Markdown: ./output/blockbeats/2026-05-13.md
-  [BlockBeats] 新快讯: 摩根士丹利MSBT增持321枚BTC，总持仓突破3300枚
-推送成功: 【BLOCKBEATS - 融资】摩根士丹利MSBT增持321枚BTC，总持仓突破3300枚
-已保存到 Markdown: ./output/blockbeats/2026-05-13.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
   Category: 项目动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1003&is_hot=1
@@ -55,7 +34,7 @@ Call log:
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-Cycle completed. 2026-05-13 15:50:32.686451
+Cycle completed. 2026-05-13 18:04:57.650757
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -65,25 +44,10 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-.
-Call log:
-  - waiting for locator("table tr, .list-item") to be visible
-
-2026-05-13 15:49:51,672 - INFO -   List: 交易所透明度排名
-2026-05-13 15:50:06,972 - ERROR -   Failed to scrape list 交易所透明度排名: Page.wait_for_selector: Timeout 15000ms exceeded.
-Call log:
-  - waiting for locator("table tr, .list-item") to be visible
-
-2026-05-13 15:50:06,973 - INFO -   Calendar Events...
-2026-05-13 15:50:22,382 - WARNING -   Calendar events fetch failed: Page.wait_for_selector: Timeout 15000ms exceeded.
-Call log:
-  - waiting for locator(".list-table, .list-row") to be visible
-
-2026-05-13 15:50:22,382 - INFO -   Calendar Insight Image...
-2026-05-13 15:50:22,384 - WARNING -     Calendar insight icon not found
-2026-05-13 15:50:22,384 - INFO -   Market Image...
-2026-05-13 15:50:32,675 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+   Calendar insight icon not found
+2026-05-13 18:04:47,223 - INFO -   Market Image...
+2026-05-13 18:04:57,639 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-2026-05-13 15:50:32,686 - INFO - Cycle completed. 2026-05-13 15:50:32.686451
+2026-05-13 18:04:57,650 - INFO - Cycle completed. 2026-05-13 18:04:57.650757

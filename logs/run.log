@@ -1,25 +1,13 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: Adaption发布全自动微调系统AutoScientist，性能反超人类专家35%
-推送成功: 【BLOCKBEATS - 链上侦探】Adaption发布全自动微调系统AutoScientist，性能反超人类专家35%
+  [BlockBeats] 新快讯: Anthropic与盖茨基金会达成2亿美元合作，聚焦全球健康、教育与经济流动性
+推送成功: 【BLOCKBEATS - 链上侦探】Anthropic与盖茨基金会达成2亿美元合作，聚焦全球健康、教育与经济流动性
 已保存到 Markdown: ./output/blockbeats/2026-05-14.md
-  [BlockBeats] 新快讯: 成本降九成且反超前沿模型，Cursor们正带头「逃离」大厂API
-推送成功: 【BLOCKBEATS - 链上侦探】成本降九成且反超前沿模型，Cursor们正带头「逃离」大厂API
+  [BlockBeats] 新快讯: 巨鲸loracle.hl做空1122万美元Cerebras，已浮亏130万美元
+推送成功: 【BLOCKBEATS - 融资】巨鲸loracle.hl做空1122万美元Cerebras，已浮亏130万美元
 已保存到 Markdown: ./output/blockbeats/2026-05-14.md
-  [BlockBeats] 新快讯: 伪装真人敲键盘，开源工具claude-p绕过Claude 20美元计费墙
-推送成功: 【BLOCKBEATS - 链上侦探】伪装真人敲键盘，开源工具claude-p绕过Claude 20美元计费墙
-已保存到 Markdown: ./output/blockbeats/2026-05-14.md
-  [BlockBeats] 新快讯: ChatGPT 9月1日重构记忆系统：改碎片抓取为话题档案并曝光深度绑定苹果
-推送成功: 【BLOCKBEATS - 链上侦探】ChatGPT 9月1日重构记忆系统：改碎片抓取为话题档案并曝光深度绑定苹果
-已保存到 Markdown: ./output/blockbeats/2026-05-14.md
-  [BlockBeats] 新快讯: Gemini Spark泄露：全时后台Agent，可能不问用户就直接下单
-推送成功: 【BLOCKBEATS - 链上侦探】Gemini Spark泄露：全时后台Agent，可能不问用户就直接下单
-已保存到 Markdown: ./output/blockbeats/2026-05-14.md
-  [BlockBeats] 新快讯: 贝莱德向Coinbase存入3,581枚比特币与9,876枚以太坊
-推送成功: 【BLOCKBEATS - 融资】贝莱德向Coinbase存入3,581枚比特币与9,876枚以太坊
-已保存到 Markdown: ./output/blockbeats/2026-05-14.md
-  [BlockBeats] 新快讯: 某巨鲸止损7900万美元多仓，BTC及ETH头寸合亏69万美元
-推送成功: 【BLOCKBEATS - 融资】某巨鲸止损7900万美元多仓，BTC及ETH头寸合亏69万美元
+  [BlockBeats] 新快讯: 某巨鲸均价403美元买入4,638枚XMR，价值186.8万美元
+推送成功: 【BLOCKBEATS - 融资】某巨鲸均价403美元买入4,638枚XMR，价值186.8万美元
 已保存到 Markdown: ./output/blockbeats/2026-05-14.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -55,7 +43,7 @@ Call log:
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-Cycle completed. 2026-05-14 12:27:34.632287
+Cycle completed. 2026-05-14 15:29:43.386363
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -65,25 +53,16 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-.
-Call log:
-  - waiting for locator("table tr, .list-item") to be visible
-
-2026-05-14 12:26:53,476 - INFO -   List: 交易所透明度排名
-2026-05-14 12:27:08,914 - ERROR -   Failed to scrape list 交易所透明度排名: Page.wait_for_selector: Timeout 15000ms exceeded.
-Call log:
-  - waiting for locator("table tr, .list-item") to be visible
-
-2026-05-14 12:27:08,914 - INFO -   Calendar Events...
-2026-05-14 12:27:24,327 - WARNING -   Calendar events fetch failed: Page.wait_for_selector: Timeout 15000ms exceeded.
+ts...
+2026-05-14 15:29:33,020 - WARNING -   Calendar events fetch failed: Page.wait_for_selector: Timeout 15000ms exceeded.
 Call log:
   - waiting for locator(".list-table, .list-row") to be visible
 
-2026-05-14 12:27:24,327 - INFO -   Calendar Insight Image...
-2026-05-14 12:27:24,330 - WARNING -     Calendar insight icon not found
-2026-05-14 12:27:24,330 - INFO -   Market Image...
-2026-05-14 12:27:34,621 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+2026-05-14 15:29:33,020 - INFO -   Calendar Insight Image...
+2026-05-14 15:29:33,023 - WARNING -     Calendar insight icon not found
+2026-05-14 15:29:33,023 - INFO -   Market Image...
+2026-05-14 15:29:43,375 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-2026-05-14 12:27:34,632 - INFO - Cycle completed. 2026-05-14 12:27:34.632287
+2026-05-14 15:29:43,386 - INFO - Cycle completed. 2026-05-14 15:29:43.386363

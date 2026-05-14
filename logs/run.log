@@ -1,8 +1,5 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: Apple与OpenAI合作关系出现裂痕，或将诉诸法律行动
-推送成功: 【BLOCKBEATS - 链上侦探】Apple与OpenAI合作关系出现裂痕，或将诉诸法律行动
-已保存到 Markdown: ./output/blockbeats/2026-05-14.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
   Category: 项目动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1003&is_hot=1
@@ -37,7 +34,7 @@ Call log:
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-Cycle completed. 2026-05-14 17:54:07.612806
+Cycle completed. 2026-05-14 19:49:26.039160
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -47,12 +44,10 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-
-2026-05-14 17:53:57,139 - INFO -   Calendar Insight Image...
-2026-05-14 17:53:57,141 - WARNING -     Calendar insight icon not found
-2026-05-14 17:53:57,141 - INFO -   Market Image...
-2026-05-14 17:54:07,601 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+   Calendar insight icon not found
+2026-05-14 19:49:15,586 - INFO -   Market Image...
+2026-05-14 19:49:26,029 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-2026-05-14 17:54:07,612 - INFO - Cycle completed. 2026-05-14 17:54:07.612806
+2026-05-14 19:49:26,039 - INFO - Cycle completed. 2026-05-14 19:49:26.039160

@@ -1,10 +1,13 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 某地址已做空30万枚HYPE，价值1320万美元
-推送成功: 【BLOCKBEATS - 融资】某地址已做空30万枚HYPE，价值1320万美元
+  [BlockBeats] 新快讯: OpenAI推出ChatGPT个人财务功能，可连接超12,000家金融机构账户
+推送成功: 【BLOCKBEATS - 链上侦探】OpenAI推出ChatGPT个人财务功能，可连接超12,000家金融机构账户
 已保存到 Markdown: ./output/blockbeats/2026-05-15.md
-  [BlockBeats] 新快讯: 某鲸鱼将882.6万枚USDC转入Hyperliquid以做空HYPE
-推送成功: 【BLOCKBEATS - 融资】某鲸鱼将882.6万枚USDC转入Hyperliquid以做空HYPE
+  [BlockBeats] 新快讯: Anthropic正寻求再融资300亿美元
+推送成功: 【BLOCKBEATS - 链上侦探】Anthropic正寻求再融资300亿美元
+已保存到 Markdown: ./output/blockbeats/2026-05-15.md
+  [BlockBeats] 新快讯: 巨鲸loracle.hl加仓540万美元HYPE空单，累计持有价值5990万美元HYPE空单
+推送成功: 【BLOCKBEATS - 融资】巨鲸loracle.hl加仓540万美元HYPE空单，累计持有价值5990万美元HYPE空单
 已保存到 Markdown: ./output/blockbeats/2026-05-15.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -40,7 +43,7 @@ Call log:
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-Cycle completed. 2026-05-15 15:17:00.120798
+Cycle completed. 2026-05-15 17:40:58.228603
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -50,15 +53,16 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-imeout 15000ms exceeded.
+ts...
+2026-05-15 17:40:47,851 - WARNING -   Calendar events fetch failed: Page.wait_for_selector: Timeout 15000ms exceeded.
 Call log:
   - waiting for locator(".list-table, .list-row") to be visible
 
-2026-05-15 15:16:49,668 - INFO -   Calendar Insight Image...
-2026-05-15 15:16:49,671 - WARNING -     Calendar insight icon not found
-2026-05-15 15:16:49,671 - INFO -   Market Image...
-2026-05-15 15:17:00,110 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+2026-05-15 17:40:47,851 - INFO -   Calendar Insight Image...
+2026-05-15 17:40:47,853 - WARNING -     Calendar insight icon not found
+2026-05-15 17:40:47,854 - INFO -   Market Image...
+2026-05-15 17:40:58,217 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-2026-05-15 15:17:00,120 - INFO - Cycle completed. 2026-05-15 15:17:00.120798
+2026-05-15 17:40:58,228 - INFO - Cycle completed. 2026-05-15 17:40:58.228603

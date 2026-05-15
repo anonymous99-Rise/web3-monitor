@@ -1,22 +1,10 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 不碰权重纯调API：Poetiq「外挂」让Kimi拉升29.9个百分点，轻量版Gemini逆袭Claude Opus
-推送成功: 【BLOCKBEATS - 链上侦探】不碰权重纯调API：Poetiq「外挂」让Kimi拉升29.9个百分点，轻量版Gemini逆袭Claude Opus
+  [BlockBeats] 新快讯: 某地址已做空30万枚HYPE，价值1320万美元
+推送成功: 【BLOCKBEATS - 融资】某地址已做空30万枚HYPE，价值1320万美元
 已保存到 Markdown: ./output/blockbeats/2026-05-15.md
-  [BlockBeats] 新快讯: Notion把后端塞进知识库：开发者可在官方沙盒跑代码
-推送成功: 【BLOCKBEATS - 链上侦探】Notion把后端塞进知识库：开发者可在官方沙盒跑代码
-已保存到 Markdown: ./output/blockbeats/2026-05-15.md
-  [BlockBeats] 新快讯: Raindrop开源本地Agent调试器Workshop打通代码Agent自愈闭环
-推送成功: 【BLOCKBEATS - 链上侦探】Raindrop开源本地Agent调试器Workshop打通代码Agent自愈闭环
-已保存到 Markdown: ./output/blockbeats/2026-05-15.md
-  [BlockBeats] 新快讯: 丢掉OpenAI大单后Scale预期年营收破10亿美元，企业应用业务18个月内将反超数据标注
-推送成功: 【BLOCKBEATS - 链上侦探】丢掉OpenAI大单后Scale预期年营收破10亿美元，企业应用业务18个月内将反超数据标注
-已保存到 Markdown: ./output/blockbeats/2026-05-15.md
-  [BlockBeats] 新快讯: 建一座1GW AI数据中心要多少钱？380亿美元入场费，六成用来买GB200
-推送成功: 【BLOCKBEATS - 链上侦探】建一座1GW AI数据中心要多少钱？380亿美元入场费，六成用来买GB200
-已保存到 Markdown: ./output/blockbeats/2026-05-15.md
-  [BlockBeats] 新快讯: Hyperliquid上标普500最大多头连续止盈，多仓减持650万美元
-推送成功: 【BLOCKBEATS - 融资】Hyperliquid上标普500最大多头连续止盈，多仓减持650万美元
+  [BlockBeats] 新快讯: 某鲸鱼将882.6万枚USDC转入Hyperliquid以做空HYPE
+推送成功: 【BLOCKBEATS - 融资】某鲸鱼将882.6万枚USDC转入Hyperliquid以做空HYPE
 已保存到 Markdown: ./output/blockbeats/2026-05-15.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -52,7 +40,7 @@ Call log:
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-Cycle completed. 2026-05-15 12:56:19.373519
+Cycle completed. 2026-05-15 15:17:00.120798
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -62,21 +50,15 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-- INFO -   List: 交易所透明度排名
-2026-05-15 12:55:53,778 - ERROR -   Failed to scrape list 交易所透明度排名: Page.wait_for_selector: Timeout 15000ms exceeded.
-Call log:
-  - waiting for locator("table tr, .list-item") to be visible
-
-2026-05-15 12:55:53,778 - INFO -   Calendar Events...
-2026-05-15 12:56:09,069 - WARNING -   Calendar events fetch failed: Page.wait_for_selector: Timeout 15000ms exceeded.
+imeout 15000ms exceeded.
 Call log:
   - waiting for locator(".list-table, .list-row") to be visible
 
-2026-05-15 12:56:09,069 - INFO -   Calendar Insight Image...
-2026-05-15 12:56:09,072 - WARNING -     Calendar insight icon not found
-2026-05-15 12:56:09,072 - INFO -   Market Image...
-2026-05-15 12:56:19,363 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+2026-05-15 15:16:49,668 - INFO -   Calendar Insight Image...
+2026-05-15 15:16:49,671 - WARNING -     Calendar insight icon not found
+2026-05-15 15:16:49,671 - INFO -   Market Image...
+2026-05-15 15:17:00,110 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-2026-05-15 12:56:19,373 - INFO - Cycle completed. 2026-05-15 12:56:19.373519
+2026-05-15 15:17:00,120 - INFO - Cycle completed. 2026-05-15 15:17:00.120798

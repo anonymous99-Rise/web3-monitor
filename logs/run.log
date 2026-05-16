@@ -1,10 +1,31 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: GPT-5.5在Codex中能力下降原因查明，OpenAI完成修复并重置用量限制
-推送成功: 【BLOCKBEATS - 链上侦探】GPT-5.5在Codex中能力下降原因查明，OpenAI完成修复并重置用量限制
+  [BlockBeats] 新快讯: Argentum AI与云计算公司及房地产企业签署25亿美元数据中心协议
+推送成功: 【BLOCKBEATS - 链上侦探】Argentum AI与云计算公司及房地产企业签署25亿美元数据中心协议
 已保存到 Markdown: ./output/blockbeats/2026-05-16.md
-  [BlockBeats] 新快讯: AI多模态数据供应商Wirestock完成2300万美元A轮融资，Nava Ventures领投
-推送成功: 【BLOCKBEATS - 链上侦探】AI多模态数据供应商Wirestock完成2300万美元A轮融资，Nava Ventures领投
+  [BlockBeats] 新快讯: 微信读书上线专属Skill，支持AI直连个人书架与阅读笔记
+推送成功: 【BLOCKBEATS - 链上侦探】微信读书上线专属Skill，支持AI直连个人书架与阅读笔记
+已保存到 Markdown: ./output/blockbeats/2026-05-16.md
+  [BlockBeats] 新快讯: 观察：上万名AI核心员工赚足2000万美元，加剧硅谷阶层焦虑
+推送成功: 【BLOCKBEATS - 链上侦探】观察：上万名AI核心员工赚足2000万美元，加剧硅谷阶层焦虑
+已保存到 Markdown: ./output/blockbeats/2026-05-16.md
+  [BlockBeats] 新快讯: Nous开源Lighthouse Attention：单B200跑512K提速17倍
+推送成功: 【BLOCKBEATS - 链上侦探】Nous开源Lighthouse Attention：单B200跑512K提速17倍
+已保存到 Markdown: ./output/blockbeats/2026-05-16.md
+  [BlockBeats] 新快讯: 终于跳出IDE插件：GitHub推出Copilot独立桌面端，支持多Agent并行
+推送成功: 【BLOCKBEATS - 链上侦探】终于跳出IDE插件：GitHub推出Copilot独立桌面端，支持多Agent并行
+已保存到 Markdown: ./output/blockbeats/2026-05-16.md
+  [BlockBeats] 新快讯: 仅用五天！Anthropic绝密模型Mythos攻破苹果耗时五年的M5内存防御
+推送成功: 【BLOCKBEATS - 链上侦探】仅用五天！Anthropic绝密模型Mythos攻破苹果耗时五年的M5内存防御
+已保存到 Markdown: ./output/blockbeats/2026-05-16.md
+  [BlockBeats] 新快讯: Zed内置Agent打通ChatGPT订阅：逆势免除按量计费，发文点名Claude与Copilot
+推送成功: 【BLOCKBEATS - 链上侦探】Zed内置Agent打通ChatGPT订阅：逆势免除按量计费，发文点名Claude与Copilot
+已保存到 Markdown: ./output/blockbeats/2026-05-16.md
+  [BlockBeats] 新快讯: 马斯克自揭老底：现役Grok数据缺陷严重，1.5T内部新版实现全面碾压
+推送成功: 【BLOCKBEATS - 链上侦探】马斯克自揭老底：现役Grok数据缺陷严重，1.5T内部新版实现全面碾压
+已保存到 Markdown: ./output/blockbeats/2026-05-16.md
+  [BlockBeats] 新快讯: gammafund.eth将5480枚ETH转入Binance，约1193万美元
+推送成功: 【BLOCKBEATS - 融资】gammafund.eth将5480枚ETH转入Binance，约1193万美元
 已保存到 Markdown: ./output/blockbeats/2026-05-16.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -40,7 +61,7 @@ Call log:
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-Cycle completed. 2026-05-16 13:26:54.258274
+Cycle completed. 2026-05-16 14:59:48.124194
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -50,15 +71,26 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-imeout 15000ms exceeded.
+2026-05-16 14:58:51,441 - INFO -   List: 透明度评分提升榜
+2026-05-16 14:59:06,783 - ERROR -   Failed to scrape list 透明度评分提升榜: Page.wait_for_selector: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator("table tr, .list-item") to be visible
+
+2026-05-16 14:59:06,784 - INFO -   List: 交易所透明度排名
+2026-05-16 14:59:22,117 - ERROR -   Failed to scrape list 交易所透明度排名: Page.wait_for_selector: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator("table tr, .list-item") to be visible
+
+2026-05-16 14:59:22,117 - INFO -   Calendar Events...
+2026-05-16 14:59:37,649 - WARNING -   Calendar events fetch failed: Page.wait_for_selector: Timeout 15000ms exceeded.
 Call log:
   - waiting for locator(".list-table, .list-row") to be visible
 
-2026-05-16 13:26:43,952 - INFO -   Calendar Insight Image...
-2026-05-16 13:26:43,954 - WARNING -     Calendar insight icon not found
-2026-05-16 13:26:43,954 - INFO -   Market Image...
-2026-05-16 13:26:54,247 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+2026-05-16 14:59:37,650 - INFO -   Calendar Insight Image...
+2026-05-16 14:59:37,651 - WARNING -     Calendar insight icon not found
+2026-05-16 14:59:37,652 - INFO -   Market Image...
+2026-05-16 14:59:48,113 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-2026-05-16 13:26:54,258 - INFO - Cycle completed. 2026-05-16 13:26:54.258274
+2026-05-16 14:59:48,124 - INFO - Cycle completed. 2026-05-16 14:59:48.124194

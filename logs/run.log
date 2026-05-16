@@ -1,11 +1,5 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 曾以3.45美元均价建仓ETH「聪明钱」时隔1年买入647.137枚ETH
-推送成功: 【BLOCKBEATS - 融资】曾以3.45美元均价建仓ETH「聪明钱」时隔1年买入647.137枚ETH
-已保存到 Markdown: ./output/blockbeats/2026-05-16.md
-  [BlockBeats] 新快讯: Loracle.hl地址内5倍HYPE空单重回盈利，总盈利升至4143万美元
-推送成功: 【BLOCKBEATS - 融资】Loracle.hl地址内5倍HYPE空单重回盈利，总盈利升至4143万美元
-已保存到 Markdown: ./output/blockbeats/2026-05-16.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
   Category: 项目动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1003&is_hot=1
@@ -40,7 +34,7 @@ Call log:
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-Cycle completed. 2026-05-16 08:49:52.358015
+Cycle completed. 2026-05-16 10:18:46.477467
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -50,15 +44,10 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-imeout 15000ms exceeded.
-Call log:
-  - waiting for locator(".list-table, .list-row") to be visible
-
-2026-05-16 08:49:41,988 - INFO -   Calendar Insight Image...
-2026-05-16 08:49:41,990 - WARNING -     Calendar insight icon not found
-2026-05-16 08:49:41,990 - INFO -   Market Image...
-2026-05-16 08:49:52,347 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+   Calendar insight icon not found
+2026-05-16 10:18:36,205 - INFO -   Market Image...
+2026-05-16 10:18:46,468 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-2026-05-16 08:49:52,358 - INFO - Cycle completed. 2026-05-16 08:49:52.358015
+2026-05-16 10:18:46,477 - INFO - Cycle completed. 2026-05-16 10:18:46.477467

@@ -1,20 +1,5 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 中国电信推出试商用Token套餐
-推送成功: 【BLOCKBEATS - 链上侦探】中国电信推出试商用Token套餐
-已保存到 Markdown: ./output/blockbeats/2026-05-17.md
-  [BlockBeats] 新快讯: 马斯克敲定1.5T新Grok四周内上线，急抽Cursor数据火线救场
-推送成功: 【BLOCKBEATS - 链上侦探】马斯克敲定1.5T新Grok四周内上线，急抽Cursor数据火线救场
-已保存到 Markdown: ./output/blockbeats/2026-05-17.md
-  [BlockBeats] 新快讯: 单题写10万Token！30B开源模型不调工具，靠长考把IMO硬抬上金牌线
-推送成功: 【BLOCKBEATS - 链上侦探】单题写10万Token！30B开源模型不调工具，靠长考把IMO硬抬上金牌线
-已保存到 Markdown: ./output/blockbeats/2026-05-17.md
-  [BlockBeats] 新快讯: 马斯克回应Grok模型更新缓慢：V9将于3、4周后发布
-推送成功: 【BLOCKBEATS - 链上侦探】马斯克回应Grok模型更新缓慢：V9将于3、4周后发布
-已保存到 Markdown: ./output/blockbeats/2026-05-17.md
-  [BlockBeats] 新快讯: 某鲸鱼2月抄底807枚BTC，1小时前将500枚转入Binance
-推送成功: 【BLOCKBEATS - 融资】某鲸鱼2月抄底807枚BTC，1小时前将500枚转入Binance
-已保存到 Markdown: ./output/blockbeats/2026-05-17.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
   Category: 项目动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1003&is_hot=1
@@ -49,7 +34,7 @@ Call log:
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-Cycle completed. 2026-05-17 09:08:07.169085
+Cycle completed. 2026-05-17 11:10:12.980716
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -59,20 +44,10 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
- 交易所透明度排名: Page.wait_for_selector: Timeout 15000ms exceeded.
-Call log:
-  - waiting for locator("table tr, .list-item") to be visible
-
-2026-05-17 09:07:41,389 - INFO -   Calendar Events...
-2026-05-17 09:07:56,847 - WARNING -   Calendar events fetch failed: Page.wait_for_selector: Timeout 15000ms exceeded.
-Call log:
-  - waiting for locator(".list-table, .list-row") to be visible
-
-2026-05-17 09:07:56,847 - INFO -   Calendar Insight Image...
-2026-05-17 09:07:56,849 - WARNING -     Calendar insight icon not found
-2026-05-17 09:07:56,849 - INFO -   Market Image...
-2026-05-17 09:08:07,157 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+   Calendar insight icon not found
+2026-05-17 11:10:02,653 - INFO -   Market Image...
+2026-05-17 11:10:12,969 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-2026-05-17 09:08:07,169 - INFO - Cycle completed. 2026-05-17 09:08:07.169085
+2026-05-17 11:10:12,980 - INFO - Cycle completed. 2026-05-17 11:10:12.980716

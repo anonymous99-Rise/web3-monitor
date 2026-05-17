@@ -14,10 +14,33 @@
   Category: 融资动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1000&is_hot=1
 Scraping RootData...
   List: Top 100 项目
-Error in monitor loop: Page.goto: Timeout 30000ms exceeded.
+  Failed to scrape list Top 100 项目: Page.wait_for_selector: Timeout 15000ms exceeded.
 Call log:
-  - navigating to "https://cn.rootdata.com/rootdatalist/2025/top-projects", waiting until "load"
+  - waiting for locator("table tr, .list-item") to be visible
 
+  List: 透明度评分提升榜
+  Failed to scrape list 透明度评分提升榜: Page.wait_for_selector: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator("table tr, .list-item") to be visible
+
+  List: 交易所透明度排名
+  Failed to scrape list 交易所透明度排名: Page.wait_for_selector: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator("table tr, .list-item") to be visible
+
+  Calendar Events...
+  Calendar events fetch failed: Page.wait_for_selector: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator(".list-table, .list-row") to be visible
+
+  Calendar Insight Image...
+    Calendar insight icon not found
+  Market Image...
+    Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(".v-data-table, table, .top-gainers") to be visible
+
+Cycle completed. 2026-05-17 16:05:38.360925
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -27,7 +50,15 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-9:04,296 - ERROR - Error in monitor loop: Page.goto: Timeout 30000ms exceeded.
+imeout 15000ms exceeded.
 Call log:
-  - navigating to "https://cn.rootdata.com/rootdatalist/2025/top-projects", waiting until "load"
+  - waiting for locator(".list-table, .list-row") to be visible
 
+2026-05-17 16:05:27,880 - INFO -   Calendar Insight Image...
+2026-05-17 16:05:27,883 - WARNING -     Calendar insight icon not found
+2026-05-17 16:05:27,883 - INFO -   Market Image...
+2026-05-17 16:05:38,348 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(".v-data-table, table, .top-gainers") to be visible
+
+2026-05-17 16:05:38,360 - INFO - Cycle completed. 2026-05-17 16:05:38.360925

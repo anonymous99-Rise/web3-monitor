@@ -1,5 +1,11 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
+  [BlockBeats] 新快讯: 两钱包过去5小时花费233万美元买入656,338枚UNI
+推送成功: 【BLOCKBEATS - 融资】两钱包过去5小时花费233万美元买入656,338枚UNI
+已保存到 Markdown: ./output/blockbeats/2026-05-17.md
+  [BlockBeats] 新快讯: 某巨鲸再次加仓做空7.5万枚HYPE，目前持有价值1602万美元HYPE空单
+推送成功: 【BLOCKBEATS - 融资】某巨鲸再次加仓做空7.5万枚HYPE，目前持有价值1602万美元HYPE空单
+已保存到 Markdown: ./output/blockbeats/2026-05-17.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
   Category: 项目动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1003&is_hot=1
@@ -8,33 +14,10 @@
   Category: 融资动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1000&is_hot=1
 Scraping RootData...
   List: Top 100 项目
-  Failed to scrape list Top 100 项目: Page.wait_for_selector: Timeout 15000ms exceeded.
+Error in monitor loop: Page.goto: Timeout 30000ms exceeded.
 Call log:
-  - waiting for locator("table tr, .list-item") to be visible
+  - navigating to "https://cn.rootdata.com/rootdatalist/2025/top-projects", waiting until "load"
 
-  List: 透明度评分提升榜
-  Failed to scrape list 透明度评分提升榜: Page.wait_for_selector: Timeout 15000ms exceeded.
-Call log:
-  - waiting for locator("table tr, .list-item") to be visible
-
-  List: 交易所透明度排名
-  Failed to scrape list 交易所透明度排名: Page.wait_for_selector: Timeout 15000ms exceeded.
-Call log:
-  - waiting for locator("table tr, .list-item") to be visible
-
-  Calendar Events...
-  Calendar events fetch failed: Page.wait_for_selector: Timeout 15000ms exceeded.
-Call log:
-  - waiting for locator(".list-table, .list-row") to be visible
-
-  Calendar Insight Image...
-    Calendar insight icon not found
-  Market Image...
-    Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
-Call log:
-  - waiting for locator(".v-data-table, table, .top-gainers") to be visible
-
-Cycle completed. 2026-05-17 13:25:07.471423
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -44,10 +27,7 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-   Calendar insight icon not found
-2026-05-17 13:24:57,184 - INFO -   Market Image...
-2026-05-17 13:25:07,460 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+9:04,296 - ERROR - Error in monitor loop: Page.goto: Timeout 30000ms exceeded.
 Call log:
-  - waiting for locator(".v-data-table, table, .top-gainers") to be visible
+  - navigating to "https://cn.rootdata.com/rootdatalist/2025/top-projects", waiting until "load"
 
-2026-05-17 13:25:07,471 - INFO - Cycle completed. 2026-05-17 13:25:07.471423

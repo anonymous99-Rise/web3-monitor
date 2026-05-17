@@ -1,31 +1,10 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 突破苹果锁屏限制，OpenAI正测试手机远程控制休眠Mac
-推送成功: 【BLOCKBEATS - 链上侦探】突破苹果锁屏限制，OpenAI正测试手机远程控制休眠Mac
+  [BlockBeats] 新快讯: 某鲸鱼做空ETH同时做多BTC，总持仓价值7500万美元
+推送成功: 【BLOCKBEATS - 融资】某鲸鱼做空ETH同时做多BTC，总持仓价值7500万美元
 已保存到 Markdown: ./output/blockbeats/2026-05-17.md
-  [BlockBeats] 新快讯: 推理成本仅GPT-5.5二十分之一，Gemini 3.2实时模型现身谷歌云
-推送成功: 【BLOCKBEATS - 链上侦探】推理成本仅GPT-5.5二十分之一，Gemini 3.2实时模型现身谷歌云
-已保存到 Markdown: ./output/blockbeats/2026-05-17.md
-  [BlockBeats] 新快讯: X Premium开放第三方调用，开源Hermes Agent新增推文搜索
-推送成功: 【BLOCKBEATS - 链上侦探】X Premium开放第三方调用，开源Hermes Agent新增推文搜索
-已保存到 Markdown: ./output/blockbeats/2026-05-17.md
-  [BlockBeats] 新快讯: Meta裁员前夜的荒诞求生：员工开会防AI监听，靠刷废话凑大模型榜单时长
-推送成功: 【BLOCKBEATS - 链上侦探】Meta裁员前夜的荒诞求生：员工开会防AI监听，靠刷废话凑大模型榜单时长
-已保存到 Markdown: ./output/blockbeats/2026-05-17.md
-  [BlockBeats] 新快讯: 告别受限内测？Claude Mythos摘除预览标签，疑似即将向公众开放
-推送成功: 【BLOCKBEATS - 链上侦探】告别受限内测？Claude Mythos摘除预览标签，疑似即将向公众开放
-已保存到 Markdown: ./output/blockbeats/2026-05-17.md
-  [BlockBeats] 新快讯: Mistral CEO明确拒绝向硅谷巨头卖身，放话能挖出Anthropic同等漏洞
-推送成功: 【BLOCKBEATS - 链上侦探】Mistral CEO明确拒绝向硅谷巨头卖身，放话能挖出Anthropic同等漏洞
-已保存到 Markdown: ./output/blockbeats/2026-05-17.md
-  [BlockBeats] 新快讯: OpenClaw调用摄像头监视主人喝水，The Atlantic抨击硅谷狂飙引发全社会AI倦怠
-推送成功: 【BLOCKBEATS - 链上侦探】OpenClaw调用摄像头监视主人喝水，The Atlantic抨击硅谷狂飙引发全社会AI倦怠
-已保存到 Markdown: ./output/blockbeats/2026-05-17.md
-  [BlockBeats] 新快讯: 「Hyperliquid最大多军」ETH多单浮亏已达1000万美元
-推送成功: 【BLOCKBEATS - 融资】「Hyperliquid最大多军」ETH多单浮亏已达1000万美元
-已保存到 Markdown: ./output/blockbeats/2026-05-17.md
-  [BlockBeats] 新快讯: WLFI关联钱包卖出4870枚ETH
-推送成功: 【BLOCKBEATS - 融资】WLFI关联钱包卖出4870枚ETH
+  [BlockBeats] 新快讯: HYPE做空大户浮盈缩窄至25万美元，清算价72美元
+推送成功: 【BLOCKBEATS - 融资】HYPE做空大户浮盈缩窄至25万美元，清算价72美元
 已保存到 Markdown: ./output/blockbeats/2026-05-17.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -61,7 +40,7 @@ Call log:
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-Cycle completed. 2026-05-17 03:36:49.869286
+Cycle completed. 2026-05-17 06:47:47.255792
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -71,26 +50,15 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-2026-05-17 03:35:53,899 - INFO -   List: 透明度评分提升榜
-2026-05-17 03:36:09,143 - ERROR -   Failed to scrape list 透明度评分提升榜: Page.wait_for_selector: Timeout 15000ms exceeded.
-Call log:
-  - waiting for locator("table tr, .list-item") to be visible
-
-2026-05-17 03:36:09,144 - INFO -   List: 交易所透明度排名
-2026-05-17 03:36:24,379 - ERROR -   Failed to scrape list 交易所透明度排名: Page.wait_for_selector: Timeout 15000ms exceeded.
-Call log:
-  - waiting for locator("table tr, .list-item") to be visible
-
-2026-05-17 03:36:24,379 - INFO -   Calendar Events...
-2026-05-17 03:36:39,637 - WARNING -   Calendar events fetch failed: Page.wait_for_selector: Timeout 15000ms exceeded.
+imeout 15000ms exceeded.
 Call log:
   - waiting for locator(".list-table, .list-row") to be visible
 
-2026-05-17 03:36:39,638 - INFO -   Calendar Insight Image...
-2026-05-17 03:36:39,640 - WARNING -     Calendar insight icon not found
-2026-05-17 03:36:39,640 - INFO -   Market Image...
-2026-05-17 03:36:49,858 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+2026-05-17 06:47:36,987 - INFO -   Calendar Insight Image...
+2026-05-17 06:47:36,989 - WARNING -     Calendar insight icon not found
+2026-05-17 06:47:36,989 - INFO -   Market Image...
+2026-05-17 06:47:47,244 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-2026-05-17 03:36:49,869 - INFO - Cycle completed. 2026-05-17 03:36:49.869286
+2026-05-17 06:47:47,255 - INFO - Cycle completed. 2026-05-17 06:47:47.255792

@@ -1,29 +1,5 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 马斯克称Grok Agent模式是「重大能力解锁」，AI视频生成能力受关注
-推送成功: 【BLOCKBEATS - 链上侦探】马斯克称Grok Agent模式是「重大能力解锁」，AI视频生成能力受关注
-已保存到 Markdown: ./output/blockbeats/2026-05-18.md
-  [BlockBeats] 新快讯: Telegram创始人：开放机器人间通信，Telegram进入「AI代理互联层」
-推送成功: 【BLOCKBEATS - 链上侦探】Telegram创始人：开放机器人间通信，Telegram进入「AI代理互联层」
-已保存到 Markdown: ./output/blockbeats/2026-05-18.md
-  [BlockBeats] 新快讯: 云深处：拟IPO募资约25.03亿元投资于具身算法及模型研发等项目
-推送成功: 【BLOCKBEATS - 链上侦探】云深处：拟IPO募资约25.03亿元投资于具身算法及模型研发等项目
-已保存到 Markdown: ./output/blockbeats/2026-05-18.md
-  [BlockBeats] 新快讯: AI边缘推理芯片公司SiMa.ai正以14亿美元估值融资
-推送成功: 【BLOCKBEATS - 链上侦探】AI边缘推理芯片公司SiMa.ai正以14亿美元估值融资
-已保存到 Markdown: ./output/blockbeats/2026-05-18.md
-  [BlockBeats] 新快讯: Playground Global完成4.75亿美元风投基金募资
-推送成功: 【BLOCKBEATS - 链上侦探】Playground Global完成4.75亿美元风投基金募资
-已保存到 Markdown: ./output/blockbeats/2026-05-18.md
-  [BlockBeats] 新快讯: 某巨鲸再次增持4,677枚ETH，总持仓量升至13.36万枚
-推送成功: 【BLOCKBEATS - 融资】某巨鲸再次增持4,677枚ETH，总持仓量升至13.36万枚
-已保存到 Markdown: ./output/blockbeats/2026-05-18.md
-  [BlockBeats] 新快讯: Pump.fun向CEX转入SOL数量增至17.44万枚，价值近1500万美元
-推送成功: 【BLOCKBEATS - 融资】Pump.fun向CEX转入SOL数量增至17.44万枚，价值近1500万美元
-已保存到 Markdown: ./output/blockbeats/2026-05-18.md
-  [BlockBeats] 新快讯: Pump.fun向CEX存入82,703枚SOL，价值700万美元
-推送成功: 【BLOCKBEATS - 融资】Pump.fun向CEX存入82,703枚SOL，价值700万美元
-已保存到 Markdown: ./output/blockbeats/2026-05-18.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
   Category: 项目动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1003&is_hot=1
@@ -58,7 +34,7 @@ Call log:
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-Cycle completed. 2026-05-18 16:26:34.699721
+Cycle completed. 2026-05-18 19:00:02.103346
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -68,25 +44,10 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-   Failed to scrape list 透明度评分提升榜: Page.wait_for_selector: Timeout 15000ms exceeded.
-Call log:
-  - waiting for locator("table tr, .list-item") to be visible
-
-2026-05-18 16:25:53,811 - INFO -   List: 交易所透明度排名
-2026-05-18 16:26:09,113 - ERROR -   Failed to scrape list 交易所透明度排名: Page.wait_for_selector: Timeout 15000ms exceeded.
-Call log:
-  - waiting for locator("table tr, .list-item") to be visible
-
-2026-05-18 16:26:09,114 - INFO -   Calendar Events...
-2026-05-18 16:26:24,399 - WARNING -   Calendar events fetch failed: Page.wait_for_selector: Timeout 15000ms exceeded.
-Call log:
-  - waiting for locator(".list-table, .list-row") to be visible
-
-2026-05-18 16:26:24,399 - INFO -   Calendar Insight Image...
-2026-05-18 16:26:24,401 - WARNING -     Calendar insight icon not found
-2026-05-18 16:26:24,401 - INFO -   Market Image...
-2026-05-18 16:26:34,688 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+   Calendar insight icon not found
+2026-05-18 18:59:51,830 - INFO -   Market Image...
+2026-05-18 19:00:02,091 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-2026-05-18 16:26:34,699 - INFO - Cycle completed. 2026-05-18 16:26:34.699721
+2026-05-18 19:00:02,103 - INFO - Cycle completed. 2026-05-18 19:00:02.103346

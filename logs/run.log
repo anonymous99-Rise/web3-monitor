@@ -1,17 +1,5 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: OpenAI联创Karpathy加入Anthropic
-推送成功: 【BLOCKBEATS - 链上侦探】OpenAI联创Karpathy加入Anthropic
-已保存到 Markdown: ./output/blockbeats/2026-05-19.md
-  [BlockBeats] 新快讯: Mistral AI收购奥地利AI初创公司Emmi AI，以加强其工业领域布局
-推送成功: 【BLOCKBEATS - 链上侦探】Mistral AI收购奥地利AI初创公司Emmi AI，以加强其工业领域布局
-已保存到 Markdown: ./output/blockbeats/2026-05-19.md
-  [BlockBeats] 新快讯: Status AI完成总额1700万美元的种子轮及A轮融资
-推送成功: 【BLOCKBEATS - 链上侦探】Status AI完成总额1700万美元的种子轮及A轮融资
-已保存到 Markdown: ./output/blockbeats/2026-05-19.md
-  [BlockBeats] 新快讯: Anchorage Digital关联钱包增持85,226枚HYPE，单币头寸超1亿美元
-推送成功: 【BLOCKBEATS - 融资】Anchorage Digital关联钱包增持85,226枚HYPE，单币头寸超1亿美元
-已保存到 Markdown: ./output/blockbeats/2026-05-19.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
   Category: 项目动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1003&is_hot=1
@@ -46,7 +34,7 @@ Call log:
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-Cycle completed. 2026-05-19 16:23:44.628293
+Cycle completed. 2026-05-19 19:03:49.419074
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -56,18 +44,10 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-for locator("table tr, .list-item") to be visible
-
-2026-05-19 16:23:19,100 - INFO -   Calendar Events...
-2026-05-19 16:23:34,360 - WARNING -   Calendar events fetch failed: Page.wait_for_selector: Timeout 15000ms exceeded.
-Call log:
-  - waiting for locator(".list-table, .list-row") to be visible
-
-2026-05-19 16:23:34,360 - INFO -   Calendar Insight Image...
-2026-05-19 16:23:34,362 - WARNING -     Calendar insight icon not found
-2026-05-19 16:23:34,362 - INFO -   Market Image...
-2026-05-19 16:23:44,617 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+   Calendar insight icon not found
+2026-05-19 19:03:39,138 - INFO -   Market Image...
+2026-05-19 19:03:49,407 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-2026-05-19 16:23:44,628 - INFO - Cycle completed. 2026-05-19 16:23:44.628293
+2026-05-19 19:03:49,419 - INFO - Cycle completed. 2026-05-19 19:03:49.419074

@@ -1,34 +1,19 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: Opus 4.7低思考度压过Sonnet 4.6最大值，Anthropic发布首份智能体操控调优指南
-推送成功: 【BLOCKBEATS - 链上侦探】Opus 4.7低思考度压过Sonnet 4.6最大值，Anthropic发布首份智能体操控调优指南
+  [BlockBeats] 新快讯: 阿里首个C端爆火AI应用妙鸭相机团队解散，上线不到三年停止升级与推广
+推送成功: 【BLOCKBEATS - 链上侦探】阿里首个C端爆火AI应用妙鸭相机团队解散，上线不到三年停止升级与推广
 已保存到 Markdown: ./output/blockbeats/2026-05-20.md
-  [BlockBeats] 新快讯: 万亿参数开源模型跑出981词/秒，Cerebras测试Kimi K2.6提速29倍
-推送成功: 【BLOCKBEATS - 链上侦探】万亿参数开源模型跑出981词/秒，Cerebras测试Kimi K2.6提速29倍
+  [BlockBeats] 新快讯: 智谱AutoClaw上架iOS：支持双端模式，手机可直接遥控PC执行任务
+推送成功: 【BLOCKBEATS - 链上侦探】智谱AutoClaw上架iOS：支持双端模式，手机可直接遥控PC执行任务
 已保存到 Markdown: ./output/blockbeats/2026-05-20.md
-  [BlockBeats] 新快讯: 「PEPE波段胜率100%巨鲸」认亏减仓，浮亏高达78%
-推送成功: 【BLOCKBEATS - 融资】「PEPE波段胜率100%巨鲸」认亏减仓，浮亏高达78%
+  [BlockBeats] 新快讯: K3 Capital从Binance提取7930枚ETH，价值1688万美元
+推送成功: 【BLOCKBEATS - 融资】K3 Capital从Binance提取7930枚ETH，价值1688万美元
 已保存到 Markdown: ./output/blockbeats/2026-05-20.md
-  [BlockBeats] 新快讯: 「BTC OG内幕巨鲸」代理人买入2.12万枚HYPE，价值约107万美元
-推送成功: 【BLOCKBEATS - 融资】「BTC OG内幕巨鲸」代理人买入2.12万枚HYPE，价值约107万美元
+  [BlockBeats] 新快讯: 某巨鲸10倍做空1116万美元HYPE，同步抛售超6.4万枚现货
+推送成功: 【BLOCKBEATS - 融资】某巨鲸10倍做空1116万美元HYPE，同步抛售超6.4万枚现货
 已保存到 Markdown: ./output/blockbeats/2026-05-20.md
-  [BlockBeats] 新快讯: 贝莱德向Coinbase存入4,986枚BTC与28,081枚ETH
-推送成功: 【BLOCKBEATS - 融资】贝莱德向Coinbase存入4,986枚BTC与28,081枚ETH
-已保存到 Markdown: ./output/blockbeats/2026-05-20.md
-  [BlockBeats] 新快讯: Anchorage关联地址过去一个月囤积238.5万枚HYPE，价值约1.19亿美元
-推送成功: 【BLOCKBEATS - 融资】Anchorage关联地址过去一个月囤积238.5万枚HYPE，价值约1.19亿美元
-已保存到 Markdown: ./output/blockbeats/2026-05-20.md
-  [BlockBeats] 新快讯: 巨鲸Evaded 25倍开多8000枚ETH，价值1700万美元
-推送成功: 【BLOCKBEATS - 融资】巨鲸Evaded 25倍开多8000枚ETH，价值1700万美元
-已保存到 Markdown: ./output/blockbeats/2026-05-20.md
-  [BlockBeats] 新快讯: 某巨鲸重仓做多价值6800万美元HYPE，浮盈超1500万美元
-推送成功: 【BLOCKBEATS - 融资】某巨鲸重仓做多价值6800万美元HYPE，浮盈超1500万美元
-已保存到 Markdown: ./output/blockbeats/2026-05-20.md
-  [BlockBeats] 新快讯: 某地址花费46.3万美元买入48.9万枚以太坊Meme币sato
-推送成功: 【BLOCKBEATS - 融资】某地址花费46.3万美元买入48.9万枚以太坊Meme币sato
-已保存到 Markdown: ./output/blockbeats/2026-05-20.md
-  [BlockBeats] 新快讯: 某巨鲸买入76,600枚HYPE，价值380万美元
-推送成功: 【BLOCKBEATS - 融资】某巨鲸买入76,600枚HYPE，价值380万美元
+  [BlockBeats] 新快讯: 某地址从Binance提取650枚比特币，价值5030万美元
+推送成功: 【BLOCKBEATS - 融资】某地址从Binance提取650枚比特币，价值5030万美元
 已保存到 Markdown: ./output/blockbeats/2026-05-20.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -64,7 +49,7 @@ Call log:
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-Cycle completed. 2026-05-20 13:41:59.589320
+Cycle completed. 2026-05-20 16:56:35.894166
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -74,30 +59,20 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-Timeout 15000ms exceeded.
+ 交易所透明度排名: Page.wait_for_selector: Timeout 15000ms exceeded.
 Call log:
   - waiting for locator("table tr, .list-item") to be visible
 
-2026-05-20 13:41:02,876 - INFO -   List: 透明度评分提升榜
-2026-05-20 13:41:18,565 - ERROR -   Failed to scrape list 透明度评分提升榜: Page.wait_for_selector: Timeout 15000ms exceeded.
-Call log:
-  - waiting for locator("table tr, .list-item") to be visible
-
-2026-05-20 13:41:18,565 - INFO -   List: 交易所透明度排名
-2026-05-20 13:41:33,920 - ERROR -   Failed to scrape list 交易所透明度排名: Page.wait_for_selector: Timeout 15000ms exceeded.
-Call log:
-  - waiting for locator("table tr, .list-item") to be visible
-
-2026-05-20 13:41:33,920 - INFO -   Calendar Events...
-2026-05-20 13:41:49,246 - WARNING -   Calendar events fetch failed: Page.wait_for_selector: Timeout 15000ms exceeded.
+2026-05-20 16:56:09,947 - INFO -   Calendar Events...
+2026-05-20 16:56:25,416 - WARNING -   Calendar events fetch failed: Page.wait_for_selector: Timeout 15000ms exceeded.
 Call log:
   - waiting for locator(".list-table, .list-row") to be visible
 
-2026-05-20 13:41:49,246 - INFO -   Calendar Insight Image...
-2026-05-20 13:41:49,249 - WARNING -     Calendar insight icon not found
-2026-05-20 13:41:49,249 - INFO -   Market Image...
-2026-05-20 13:41:59,578 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+2026-05-20 16:56:25,416 - INFO -   Calendar Insight Image...
+2026-05-20 16:56:25,418 - WARNING -     Calendar insight icon not found
+2026-05-20 16:56:25,418 - INFO -   Market Image...
+2026-05-20 16:56:35,882 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-2026-05-20 13:41:59,589 - INFO - Cycle completed. 2026-05-20 13:41:59.589320
+2026-05-20 16:56:35,894 - INFO - Cycle completed. 2026-05-20 16:56:35.894166

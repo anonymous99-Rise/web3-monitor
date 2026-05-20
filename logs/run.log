@@ -1,20 +1,5 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 阿里首个C端爆火AI应用妙鸭相机团队解散，上线不到三年停止升级与推广
-推送成功: 【BLOCKBEATS - 链上侦探】阿里首个C端爆火AI应用妙鸭相机团队解散，上线不到三年停止升级与推广
-已保存到 Markdown: ./output/blockbeats/2026-05-20.md
-  [BlockBeats] 新快讯: 智谱AutoClaw上架iOS：支持双端模式，手机可直接遥控PC执行任务
-推送成功: 【BLOCKBEATS - 链上侦探】智谱AutoClaw上架iOS：支持双端模式，手机可直接遥控PC执行任务
-已保存到 Markdown: ./output/blockbeats/2026-05-20.md
-  [BlockBeats] 新快讯: K3 Capital从Binance提取7930枚ETH，价值1688万美元
-推送成功: 【BLOCKBEATS - 融资】K3 Capital从Binance提取7930枚ETH，价值1688万美元
-已保存到 Markdown: ./output/blockbeats/2026-05-20.md
-  [BlockBeats] 新快讯: 某巨鲸10倍做空1116万美元HYPE，同步抛售超6.4万枚现货
-推送成功: 【BLOCKBEATS - 融资】某巨鲸10倍做空1116万美元HYPE，同步抛售超6.4万枚现货
-已保存到 Markdown: ./output/blockbeats/2026-05-20.md
-  [BlockBeats] 新快讯: 某地址从Binance提取650枚比特币，价值5030万美元
-推送成功: 【BLOCKBEATS - 融资】某地址从Binance提取650枚比特币，价值5030万美元
-已保存到 Markdown: ./output/blockbeats/2026-05-20.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
   Category: 项目动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1003&is_hot=1
@@ -49,7 +34,7 @@ Call log:
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-Cycle completed. 2026-05-20 16:56:35.894166
+Cycle completed. 2026-05-20 19:28:05.713100
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -59,20 +44,10 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
- 交易所透明度排名: Page.wait_for_selector: Timeout 15000ms exceeded.
-Call log:
-  - waiting for locator("table tr, .list-item") to be visible
-
-2026-05-20 16:56:09,947 - INFO -   Calendar Events...
-2026-05-20 16:56:25,416 - WARNING -   Calendar events fetch failed: Page.wait_for_selector: Timeout 15000ms exceeded.
-Call log:
-  - waiting for locator(".list-table, .list-row") to be visible
-
-2026-05-20 16:56:25,416 - INFO -   Calendar Insight Image...
-2026-05-20 16:56:25,418 - WARNING -     Calendar insight icon not found
-2026-05-20 16:56:25,418 - INFO -   Market Image...
-2026-05-20 16:56:35,882 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+   Calendar insight icon not found
+2026-05-20 19:27:55,477 - INFO -   Market Image...
+2026-05-20 19:28:05,701 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-2026-05-20 16:56:35,894 - INFO - Cycle completed. 2026-05-20 16:56:35.894166
+2026-05-20 19:28:05,713 - INFO - Cycle completed. 2026-05-20 19:28:05.713100

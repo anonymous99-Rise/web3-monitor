@@ -1,19 +1,10 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: Anthropic或将租用微软自研AI芯片的算力资源
-推送成功: 【BLOCKBEATS - 链上侦探】Anthropic或将租用微软自研AI芯片的算力资源
+  [BlockBeats] 新快讯: 特朗普回应推迟AI行政令签署：对某些方面不满意
+推送成功: 【BLOCKBEATS - 链上侦探】特朗普回应推迟AI行政令签署：对某些方面不满意
 已保存到 Markdown: ./output/blockbeats/2026-05-21.md
-  [BlockBeats] 新快讯: 腾讯会议AI同传上线支持音色模仿，时延压低至3秒内
-推送成功: 【BLOCKBEATS - 链上侦探】腾讯会议AI同传上线支持音色模仿，时延压低至3秒内
-已保存到 Markdown: ./output/blockbeats/2026-05-21.md
-  [BlockBeats] 新快讯: 几家欢喜几家愁，HYPE新高后最大空头浮亏扩大至2590万美元
-推送成功: 【BLOCKBEATS - 融资】几家欢喜几家愁，HYPE新高后最大空头浮亏扩大至2590万美元
-已保存到 Markdown: ./output/blockbeats/2026-05-21.md
-  [BlockBeats] 新快讯: 某新建地址从Bybit提取价值1162万美元HYPE
-推送成功: 【BLOCKBEATS - 融资】某新建地址从Bybit提取价值1162万美元HYPE
-已保存到 Markdown: ./output/blockbeats/2026-05-21.md
-  [BlockBeats] 新快讯: James Wynn 50倍做空标普500指数
-推送成功: 【BLOCKBEATS - 融资】James Wynn 50倍做空标普500指数
+  [BlockBeats] 新快讯: 「BTC OG内幕巨鲸」将最后3000万美元存入Hyperliquid
+推送成功: 【BLOCKBEATS - 融资】「BTC OG内幕巨鲸」将最后3000万美元存入Hyperliquid
 已保存到 Markdown: ./output/blockbeats/2026-05-21.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -49,7 +40,7 @@ Call log:
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-Cycle completed. 2026-05-21 15:32:50.452842
+Cycle completed. 2026-05-21 18:02:20.197943
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -59,20 +50,15 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
- 交易所透明度排名: Page.wait_for_selector: Timeout 15000ms exceeded.
-Call log:
-  - waiting for locator("table tr, .list-item") to be visible
-
-2026-05-21 15:32:25,035 - INFO -   Calendar Events...
-2026-05-21 15:32:40,235 - WARNING -   Calendar events fetch failed: Page.wait_for_selector: Timeout 15000ms exceeded.
+imeout 15000ms exceeded.
 Call log:
   - waiting for locator(".list-table, .list-row") to be visible
 
-2026-05-21 15:32:40,235 - INFO -   Calendar Insight Image...
-2026-05-21 15:32:40,237 - WARNING -     Calendar insight icon not found
-2026-05-21 15:32:40,237 - INFO -   Market Image...
-2026-05-21 15:32:50,442 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+2026-05-21 18:02:09,919 - INFO -   Calendar Insight Image...
+2026-05-21 18:02:09,921 - WARNING -     Calendar insight icon not found
+2026-05-21 18:02:09,921 - INFO -   Market Image...
+2026-05-21 18:02:20,186 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-2026-05-21 15:32:50,452 - INFO - Cycle completed. 2026-05-21 15:32:50.452842
+2026-05-21 18:02:20,197 - INFO - Cycle completed. 2026-05-21 18:02:20.197943

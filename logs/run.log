@@ -1,11 +1,5 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: DeepSeek将V4-Pro API限时折扣转为永久降价
-推送成功: 【BLOCKBEATS - 链上侦探】DeepSeek将V4-Pro API限时折扣转为永久降价
-已保存到 Markdown: ./output/blockbeats/2026-05-22.md
-  [BlockBeats] 新快讯: 某交易员过去1小时做多458万枚ONDO，约合210万美元
-推送成功: 【BLOCKBEATS - 融资】某交易员过去1小时做多458万枚ONDO，约合210万美元
-已保存到 Markdown: ./output/blockbeats/2026-05-22.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
   Category: 项目动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1003&is_hot=1
@@ -40,7 +34,7 @@ Call log:
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-Cycle completed. 2026-05-22 15:50:35.558311
+Cycle completed. 2026-05-22 17:54:37.157206
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -50,15 +44,10 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-imeout 15000ms exceeded.
-Call log:
-  - waiting for locator(".list-table, .list-row") to be visible
-
-2026-05-22 15:50:25,229 - INFO -   Calendar Insight Image...
-2026-05-22 15:50:25,232 - WARNING -     Calendar insight icon not found
-2026-05-22 15:50:25,232 - INFO -   Market Image...
-2026-05-22 15:50:35,547 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+   Calendar insight icon not found
+2026-05-22 17:54:26,894 - INFO -   Market Image...
+2026-05-22 17:54:37,145 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-2026-05-22 15:50:35,558 - INFO - Cycle completed. 2026-05-22 15:50:35.558311
+2026-05-22 17:54:37,157 - INFO - Cycle completed. 2026-05-22 17:54:37.157206

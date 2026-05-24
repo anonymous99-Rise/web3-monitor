@@ -1,5 +1,14 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
+  [BlockBeats] 新快讯: 中国一季度AI领域融资超1100亿元，国产大模型融资金额暴增
+推送成功: 【BLOCKBEATS - 链上侦探】中国一季度AI领域融资超1100亿元，国产大模型融资金额暴增
+已保存到 Markdown: ./output/blockbeats/2026-05-24.md
+  [BlockBeats] 新快讯: 某新建钱包从Bybit提取63,780枚HYPE，约合406万美元
+推送成功: 【BLOCKBEATS - 融资】某新建钱包从Bybit提取63,780枚HYPE，约合406万美元
+已保存到 Markdown: ./output/blockbeats/2026-05-24.md
+  [BlockBeats] 新快讯: HYPE最大多空头寸互为对手盘：某巨鲸做多浮盈超3330万美元，Loracle做空浮亏超3140万美元
+推送成功: 【BLOCKBEATS - 融资】HYPE最大多空头寸互为对手盘：某巨鲸做多浮盈超3330万美元，Loracle做空浮亏超3140万美元
+已保存到 Markdown: ./output/blockbeats/2026-05-24.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
   Category: 项目动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1003&is_hot=1
@@ -34,7 +43,7 @@ Call log:
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-Cycle completed. 2026-05-24 07:52:07.347544
+Cycle completed. 2026-05-24 09:58:03.592468
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -44,10 +53,16 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-   Calendar insight icon not found
-2026-05-24 07:51:57,028 - INFO -   Market Image...
-2026-05-24 07:52:07,336 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+ts...
+2026-05-24 09:57:53,267 - WARNING -   Calendar events fetch failed: Page.wait_for_selector: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator(".list-table, .list-row") to be visible
+
+2026-05-24 09:57:53,267 - INFO -   Calendar Insight Image...
+2026-05-24 09:57:53,269 - WARNING -     Calendar insight icon not found
+2026-05-24 09:57:53,269 - INFO -   Market Image...
+2026-05-24 09:58:03,580 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-2026-05-24 07:52:07,347 - INFO - Cycle completed. 2026-05-24 07:52:07.347544
+2026-05-24 09:58:03,592 - INFO - Cycle completed. 2026-05-24 09:58:03.592468

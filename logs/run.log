@@ -1,5 +1,35 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
+  [BlockBeats] 新快讯: NSA拟引入Anthropic绝密新模型，白宫特批90亿美元预算破除算力荒
+推送成功: 【BLOCKBEATS - 链上侦探】NSA拟引入Anthropic绝密新模型，白宫特批90亿美元预算破除算力荒
+已保存到 Markdown: ./output/blockbeats/2026-05-24.md
+  [BlockBeats] 新快讯: Anthropic警示2028前AI或自我进化，创始人坦言公司低估迭代速度且准备不足
+推送成功: 【BLOCKBEATS - 链上侦探】Anthropic警示2028前AI或自我进化，创始人坦言公司低估迭代速度且准备不足
+已保存到 Markdown: ./output/blockbeats/2026-05-24.md
+  [BlockBeats] 新快讯: 昇腾跑通1.58比特训练，BitCPM-CANN让8B模型显存降约6倍
+推送成功: 【BLOCKBEATS - 链上侦探】昇腾跑通1.58比特训练，BitCPM-CANN让8B模型显存降约6倍
+已保存到 Markdown: ./output/blockbeats/2026-05-24.md
+  [BlockBeats] 新快讯: OpenAI修复Codex额度异常消耗缺陷，因缓存命中率异常已重置所有账户限额
+推送成功: 【BLOCKBEATS - 链上侦探】OpenAI修复Codex额度异常消耗缺陷，因缓存命中率异常已重置所有账户限额
+已保存到 Markdown: ./output/blockbeats/2026-05-24.md
+  [BlockBeats] 新快讯: OpenClaw新版将模型列表延迟缩短四千倍，并支持Discord语音会议记录
+推送成功: 【BLOCKBEATS - 链上侦探】OpenClaw新版将模型列表延迟缩短四千倍，并支持Discord语音会议记录
+已保存到 Markdown: ./output/blockbeats/2026-05-24.md
+  [BlockBeats] 新快讯: 传OpenAI内测GPT-5.6取得UI去Slop突破，默认生成极简Lumen Notes
+推送成功: 【BLOCKBEATS - 链上侦探】传OpenAI内测GPT-5.6取得UI去Slop突破，默认生成极简Lumen Notes
+已保存到 Markdown: ./output/blockbeats/2026-05-24.md
+  [BlockBeats] 新快讯: 中美AI技术脱钩？Playground创始人警示开源生态双轨分裂风险
+推送成功: 【BLOCKBEATS - 链上侦探】中美AI技术脱钩？Playground创始人警示开源生态双轨分裂风险
+已保存到 Markdown: ./output/blockbeats/2026-05-24.md
+  [BlockBeats] 新快讯: Grok灰度测试用户记忆功能，支持查看与编辑用户画像
+推送成功: 【BLOCKBEATS - 链上侦探】Grok灰度测试用户记忆功能，支持查看与编辑用户画像
+已保存到 Markdown: ./output/blockbeats/2026-05-24.md
+  [BlockBeats] 新快讯: 某鲸鱼2074美元建仓3845枚ETH，此前波段亏损出局
+推送成功: 【BLOCKBEATS - 融资】某鲸鱼2074美元建仓3845枚ETH，此前波段亏损出局
+已保存到 Markdown: ./output/blockbeats/2026-05-24.md
+  [BlockBeats] 新快讯: 交易员Evaded认亏平仓比特币空单，亏损32万美元
+推送成功: 【BLOCKBEATS - 融资】交易员Evaded认亏平仓比特币空单，亏损32万美元
+已保存到 Markdown: ./output/blockbeats/2026-05-24.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
   Category: 项目动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1003&is_hot=1
@@ -34,7 +64,7 @@ Call log:
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-Cycle completed. 2026-05-24 00:01:37.149437
+Cycle completed. 2026-05-24 04:24:48.277811
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -44,10 +74,30 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-   Calendar insight icon not found
-2026-05-24 00:01:26,933 - INFO -   Market Image...
-2026-05-24 00:01:37,137 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator("table tr, .list-item") to be visible
+
+2026-05-24 04:23:52,212 - INFO -   List: 透明度评分提升榜
+2026-05-24 04:24:07,479 - ERROR -   Failed to scrape list 透明度评分提升榜: Page.wait_for_selector: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator("table tr, .list-item") to be visible
+
+2026-05-24 04:24:07,479 - INFO -   List: 交易所透明度排名
+2026-05-24 04:24:22,744 - ERROR -   Failed to scrape list 交易所透明度排名: Page.wait_for_selector: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator("table tr, .list-item") to be visible
+
+2026-05-24 04:24:22,744 - INFO -   Calendar Events...
+2026-05-24 04:24:37,998 - WARNING -   Calendar events fetch failed: Page.wait_for_selector: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator(".list-table, .list-row") to be visible
+
+2026-05-24 04:24:37,998 - INFO -   Calendar Insight Image...
+2026-05-24 04:24:38,000 - WARNING -     Calendar insight icon not found
+2026-05-24 04:24:38,000 - INFO -   Market Image...
+2026-05-24 04:24:48,256 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-2026-05-24 00:01:37,149 - INFO - Cycle completed. 2026-05-24 00:01:37.149437
+2026-05-24 04:24:48,277 - INFO - Cycle completed. 2026-05-24 04:24:48.277811

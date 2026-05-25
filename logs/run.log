@@ -1,31 +1,22 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 教皇痛批马斯克与彼得蒂尔，携Anthropic创始人警告不要让人类沦为机器附庸
-推送成功: 【BLOCKBEATS - 链上侦探】教皇痛批马斯克与彼得蒂尔，携Anthropic创始人警告不要让人类沦为机器附庸
+  [BlockBeats] 新快讯: Anthropic联创：AI或引发大规模失业，援助失业者将成为「历史级道德责任」
+推送成功: 【BLOCKBEATS - 链上侦探】Anthropic联创：AI或引发大规模失业，援助失业者将成为「历史级道德责任」
 已保存到 Markdown: ./output/blockbeats/2026-05-25.md
-  [BlockBeats] 新快讯: 微软开源3.8B文生图底座Lens，4步推理仅0.84秒，媲美6B+级效果
-推送成功: 【BLOCKBEATS - 链上侦探】微软开源3.8B文生图底座Lens，4步推理仅0.84秒，媲美6B+级效果
+  [BlockBeats] 新快讯: 巨鲸nemorino.eth杠杆增持7,908.3枚ETH
+推送成功: 【BLOCKBEATS - 融资】巨鲸nemorino.eth杠杆增持7,908.3枚ETH
 已保存到 Markdown: ./output/blockbeats/2026-05-25.md
-  [BlockBeats] 新快讯: 华为中科大联手突破英伟达垄断，昇腾A3跑大模型专家计算提速58%
-推送成功: 【BLOCKBEATS - 链上侦探】华为中科大联手突破英伟达垄断，昇腾A3跑大模型专家计算提速58%
+  [BlockBeats] 新快讯: 某鲸鱼向Wintermute存入1756.6万枚ENA，亏损约360万美元
+推送成功: 【BLOCKBEATS - 融资】某鲸鱼向Wintermute存入1756.6万枚ENA，亏损约360万美元
 已保存到 Markdown: ./output/blockbeats/2026-05-25.md
-  [BlockBeats] 新快讯: 分析：Garrett Jin若拒绝交易ETH，可浮盈超7000万美元，如今亏损已高达1.28亿美元
-推送成功: 【BLOCKBEATS - 融资】分析：Garrett Jin若拒绝交易ETH，可浮盈超7000万美元，如今亏损已高达1.28亿美元
+  [BlockBeats] 新快讯: 某巨鲸向OKX存入5,637枚ETH，价值约1192万美元
+推送成功: 【BLOCKBEATS - 融资】某巨鲸向OKX存入5,637枚ETH，价值约1192万美元
 已保存到 Markdown: ./output/blockbeats/2026-05-25.md
-  [BlockBeats] 新快讯: 不丹王国已累计抛售9,180枚BTC，均价98,067美元
-推送成功: 【BLOCKBEATS - 融资】不丹王国已累计抛售9,180枚BTC，均价98,067美元
+  [BlockBeats] 新快讯: ESPORTS代币闪崩，DWF Labs疑为其做市商
+推送成功: 【BLOCKBEATS - 融资】ESPORTS代币闪崩，DWF Labs疑为其做市商
 已保存到 Markdown: ./output/blockbeats/2026-05-25.md
-  [BlockBeats] 新快讯: 今日全网最大爆仓：某BTC空头遭1310万美元清算，剩余资金反手追涨
-推送成功: 【BLOCKBEATS - 融资】今日全网最大爆仓：某BTC空头遭1310万美元清算，剩余资金反手追涨
-已保存到 Markdown: ./output/blockbeats/2026-05-25.md
-  [BlockBeats] 新快讯: ETH反弹一路「逼空」某巨鲸1.01亿空单，距爆仓不足30美元
-推送成功: 【BLOCKBEATS - 融资】ETH反弹一路「逼空」某巨鲸1.01亿空单，距爆仓不足30美元
-已保存到 Markdown: ./output/blockbeats/2026-05-25.md
-  [BlockBeats] 新快讯: 「今日BTC最大建仓」由3690万多单领衔，该巨鲸止损价设于7.38万美元
-推送成功: 【BLOCKBEATS - 融资】「今日BTC最大建仓」由3690万多单领衔，该巨鲸止损价设于7.38万美元
-已保存到 Markdown: ./output/blockbeats/2026-05-25.md
-  [BlockBeats] 新快讯: 某休眠10.8年ETH早期鲸鱼苏醒，获利超6800倍
-推送成功: 【BLOCKBEATS - 融资】某休眠10.8年ETH早期鲸鱼苏醒，获利超6800倍
+  [BlockBeats] 新快讯: ASTEROID链上持仓第一地址现已浮亏67.5万美元
+推送成功: 【BLOCKBEATS - 融资】ASTEROID链上持仓第一地址现已浮亏67.5万美元
 已保存到 Markdown: ./output/blockbeats/2026-05-25.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -61,7 +52,7 @@ Call log:
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-Cycle completed. 2026-05-25 12:38:49.361401
+Cycle completed. 2026-05-25 15:53:57.073054
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -71,26 +62,21 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-2026-05-25 12:37:53,487 - INFO -   List: 透明度评分提升榜
-2026-05-25 12:38:08,714 - ERROR -   Failed to scrape list 透明度评分提升榜: Page.wait_for_selector: Timeout 15000ms exceeded.
+- INFO -   List: 交易所透明度排名
+2026-05-25 15:53:31,542 - ERROR -   Failed to scrape list 交易所透明度排名: Page.wait_for_selector: Timeout 15000ms exceeded.
 Call log:
   - waiting for locator("table tr, .list-item") to be visible
 
-2026-05-25 12:38:08,714 - INFO -   List: 交易所透明度排名
-2026-05-25 12:38:23,941 - ERROR -   Failed to scrape list 交易所透明度排名: Page.wait_for_selector: Timeout 15000ms exceeded.
-Call log:
-  - waiting for locator("table tr, .list-item") to be visible
-
-2026-05-25 12:38:23,941 - INFO -   Calendar Events...
-2026-05-25 12:38:39,143 - WARNING -   Calendar events fetch failed: Page.wait_for_selector: Timeout 15000ms exceeded.
+2026-05-25 15:53:31,542 - INFO -   Calendar Events...
+2026-05-25 15:53:46,798 - WARNING -   Calendar events fetch failed: Page.wait_for_selector: Timeout 15000ms exceeded.
 Call log:
   - waiting for locator(".list-table, .list-row") to be visible
 
-2026-05-25 12:38:39,143 - INFO -   Calendar Insight Image...
-2026-05-25 12:38:39,145 - WARNING -     Calendar insight icon not found
-2026-05-25 12:38:39,145 - INFO -   Market Image...
-2026-05-25 12:38:49,349 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+2026-05-25 15:53:46,798 - INFO -   Calendar Insight Image...
+2026-05-25 15:53:46,801 - WARNING -     Calendar insight icon not found
+2026-05-25 15:53:46,801 - INFO -   Market Image...
+2026-05-25 15:53:57,061 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-2026-05-25 12:38:49,361 - INFO - Cycle completed. 2026-05-25 12:38:49.361401
+2026-05-25 15:53:57,073 - INFO - Cycle completed. 2026-05-25 15:53:57.073054

@@ -1,23 +1,5 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: Anthropic联创：AI或引发大规模失业，援助失业者将成为「历史级道德责任」
-推送成功: 【BLOCKBEATS - 链上侦探】Anthropic联创：AI或引发大规模失业，援助失业者将成为「历史级道德责任」
-已保存到 Markdown: ./output/blockbeats/2026-05-25.md
-  [BlockBeats] 新快讯: 巨鲸nemorino.eth杠杆增持7,908.3枚ETH
-推送成功: 【BLOCKBEATS - 融资】巨鲸nemorino.eth杠杆增持7,908.3枚ETH
-已保存到 Markdown: ./output/blockbeats/2026-05-25.md
-  [BlockBeats] 新快讯: 某鲸鱼向Wintermute存入1756.6万枚ENA，亏损约360万美元
-推送成功: 【BLOCKBEATS - 融资】某鲸鱼向Wintermute存入1756.6万枚ENA，亏损约360万美元
-已保存到 Markdown: ./output/blockbeats/2026-05-25.md
-  [BlockBeats] 新快讯: 某巨鲸向OKX存入5,637枚ETH，价值约1192万美元
-推送成功: 【BLOCKBEATS - 融资】某巨鲸向OKX存入5,637枚ETH，价值约1192万美元
-已保存到 Markdown: ./output/blockbeats/2026-05-25.md
-  [BlockBeats] 新快讯: ESPORTS代币闪崩，DWF Labs疑为其做市商
-推送成功: 【BLOCKBEATS - 融资】ESPORTS代币闪崩，DWF Labs疑为其做市商
-已保存到 Markdown: ./output/blockbeats/2026-05-25.md
-  [BlockBeats] 新快讯: ASTEROID链上持仓第一地址现已浮亏67.5万美元
-推送成功: 【BLOCKBEATS - 融资】ASTEROID链上持仓第一地址现已浮亏67.5万美元
-已保存到 Markdown: ./output/blockbeats/2026-05-25.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
   Category: 项目动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1003&is_hot=1
@@ -52,7 +34,7 @@ Call log:
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-Cycle completed. 2026-05-25 15:53:57.073054
+Cycle completed. 2026-05-25 17:47:16.210946
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -62,21 +44,10 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-- INFO -   List: 交易所透明度排名
-2026-05-25 15:53:31,542 - ERROR -   Failed to scrape list 交易所透明度排名: Page.wait_for_selector: Timeout 15000ms exceeded.
-Call log:
-  - waiting for locator("table tr, .list-item") to be visible
-
-2026-05-25 15:53:31,542 - INFO -   Calendar Events...
-2026-05-25 15:53:46,798 - WARNING -   Calendar events fetch failed: Page.wait_for_selector: Timeout 15000ms exceeded.
-Call log:
-  - waiting for locator(".list-table, .list-row") to be visible
-
-2026-05-25 15:53:46,798 - INFO -   Calendar Insight Image...
-2026-05-25 15:53:46,801 - WARNING -     Calendar insight icon not found
-2026-05-25 15:53:46,801 - INFO -   Market Image...
-2026-05-25 15:53:57,061 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+   Calendar insight icon not found
+2026-05-25 17:47:05,969 - INFO -   Market Image...
+2026-05-25 17:47:16,199 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-2026-05-25 15:53:57,073 - INFO - Cycle completed. 2026-05-25 15:53:57.073054
+2026-05-25 17:47:16,210 - INFO - Cycle completed. 2026-05-25 17:47:16.210946

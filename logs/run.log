@@ -1,5 +1,35 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
+  [BlockBeats] 新快讯: 大模型已演化出恐惧与悲伤状态，Anthropic创始人坦承实验室无法自我修正
+推送成功: 【BLOCKBEATS - 链上侦探】大模型已演化出恐惧与悲伤状态，Anthropic创始人坦承实验室无法自我修正
+已保存到 Markdown: ./output/blockbeats/2026-05-26.md
+  [BlockBeats] 新快讯: 被特朗普政府列入黑名单，Anthropic携手教皇转战欧洲展开政商攻势
+推送成功: 【BLOCKBEATS - 链上侦探】被特朗普政府列入黑名单，Anthropic携手教皇转战欧洲展开政商攻势
+已保存到 Markdown: ./output/blockbeats/2026-05-26.md
+  [BlockBeats] 新快讯: 高盛CEO驳斥AI「就业末日论」：AI将提高生产率，创造新岗位
+推送成功: 【BLOCKBEATS - 链上侦探】高盛CEO驳斥AI「就业末日论」：AI将提高生产率，创造新岗位
+已保存到 Markdown: ./output/blockbeats/2026-05-26.md
+  [BlockBeats] 新快讯: Kraken于11小时前从EigenCloud赎回5.06万枚ETH，约合1.07亿美元
+推送成功: 【BLOCKBEATS - 融资】Kraken于11小时前从EigenCloud赎回5.06万枚ETH，约合1.07亿美元
+已保存到 Markdown: ./output/blockbeats/2026-05-26.md
+  [BlockBeats] 新快讯: 某BTC巨鲸两日爆仓2316万美元，接连登顶全网清算榜首
+推送成功: 【BLOCKBEATS - 融资】某BTC巨鲸两日爆仓2316万美元，接连登顶全网清算榜首
+已保存到 Markdown: ./output/blockbeats/2026-05-26.md
+  [BlockBeats] 新快讯: 某巨鲸平仓超1亿美元ETH空单，转而做多1343万美元BTC
+推送成功: 【BLOCKBEATS - 融资】某巨鲸平仓超1亿美元ETH空单，转而做多1343万美元BTC
+已保存到 Markdown: ./output/blockbeats/2026-05-26.md
+  [BlockBeats] 新快讯: 某巨鲸再次出售170,004枚HYPE，套现约1054万美元
+推送成功: 【BLOCKBEATS - 融资】某巨鲸再次出售170,004枚HYPE，套现约1054万美元
+已保存到 Markdown: ./output/blockbeats/2026-05-26.md
+  [BlockBeats] 新快讯: ESPORTS项目方关联地址集抛售2.53亿枚代币，套现1729万枚USDT
+推送成功: 【BLOCKBEATS - 融资】ESPORTS项目方关联地址集抛售2.53亿枚代币，套现1729万枚USDT
+已保存到 Markdown: ./output/blockbeats/2026-05-26.md
+  [BlockBeats] 新快讯: 某巨鲸做多2839枚ETH并做空9.4万枚HYPE，合计仓位1175万美元
+推送成功: 【BLOCKBEATS - 融资】某巨鲸做多2839枚ETH并做空9.4万枚HYPE，合计仓位1175万美元
+已保存到 Markdown: ./output/blockbeats/2026-05-26.md
+  [BlockBeats] 新快讯: 某鲸鱼过去10小时做多234万枚NEAR，约合645万美元
+推送成功: 【BLOCKBEATS - 融资】某鲸鱼过去10小时做多234万枚NEAR，约合645万美元
+已保存到 Markdown: ./output/blockbeats/2026-05-26.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
   Category: 项目动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1003&is_hot=1
@@ -34,7 +64,7 @@ Call log:
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-Cycle completed. 2026-05-25 23:06:29.696151
+Cycle completed. 2026-05-26 03:42:58.741998
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -44,10 +74,30 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-   Calendar insight icon not found
-2026-05-25 23:06:19,420 - INFO -   Market Image...
-2026-05-25 23:06:29,685 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator("table tr, .list-item") to be visible
+
+2026-05-26 03:42:02,552 - INFO -   List: 透明度评分提升榜
+2026-05-26 03:42:17,854 - ERROR -   Failed to scrape list 透明度评分提升榜: Page.wait_for_selector: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator("table tr, .list-item") to be visible
+
+2026-05-26 03:42:17,855 - INFO -   List: 交易所透明度排名
+2026-05-26 03:42:33,152 - ERROR -   Failed to scrape list 交易所透明度排名: Page.wait_for_selector: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator("table tr, .list-item") to be visible
+
+2026-05-26 03:42:33,152 - INFO -   Calendar Events...
+2026-05-26 03:42:48,452 - WARNING -   Calendar events fetch failed: Page.wait_for_selector: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator(".list-table, .list-row") to be visible
+
+2026-05-26 03:42:48,452 - INFO -   Calendar Insight Image...
+2026-05-26 03:42:48,455 - WARNING -     Calendar insight icon not found
+2026-05-26 03:42:48,455 - INFO -   Market Image...
+2026-05-26 03:42:58,731 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-2026-05-25 23:06:29,696 - INFO - Cycle completed. 2026-05-25 23:06:29.696151
+2026-05-26 03:42:58,742 - INFO - Cycle completed. 2026-05-26 03:42:58.741998

@@ -1,32 +1,5 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: Codex将于6月2日停用GPT-5.2和GPT-5.3-Codex
-推送成功: 【BLOCKBEATS - 链上侦探】Codex将于6月2日停用GPT-5.2和GPT-5.3-Codex
-已保存到 Markdown: ./output/blockbeats/2026-05-27.md
-  [BlockBeats] 新快讯: ChatGPT和API出现延迟问题，团队正在解决
-推送成功: 【BLOCKBEATS - 链上侦探】ChatGPT和API出现延迟问题，团队正在解决
-已保存到 Markdown: ./output/blockbeats/2026-05-27.md
-  [BlockBeats] 新快讯: AI编码公司Cognition完成10亿美元融资，Lux Capital等领投
-推送成功: 【BLOCKBEATS - 链上侦探】AI编码公司Cognition完成10亿美元融资，Lux Capital等领投
-已保存到 Markdown: ./output/blockbeats/2026-05-27.md
-  [BlockBeats] 新快讯: 罗福莉解密MiMo降本底牌：预填充注意力计算量降至10层全局GQA级别
-推送成功: 【BLOCKBEATS - 链上侦探】罗福莉解密MiMo降本底牌：预填充注意力计算量降至10层全局GQA级别
-已保存到 Markdown: ./output/blockbeats/2026-05-27.md
-  [BlockBeats] 新快讯: 蚂蚁首款AI眼镜低调上线淘宝，899元开售
-推送成功: 【BLOCKBEATS - 链上侦探】蚂蚁首款AI眼镜低调上线淘宝，899元开售
-已保存到 Markdown: ./output/blockbeats/2026-05-27.md
-  [BlockBeats] 新快讯: 「BTC OG内幕巨鲸」代理人加仓比特币多单，总持仓价值现为1.27亿美元
-推送成功: 【BLOCKBEATS - 融资】「BTC OG内幕巨鲸」代理人加仓比特币多单，总持仓价值现为1.27亿美元
-已保存到 Markdown: ./output/blockbeats/2026-05-27.md
-  [BlockBeats] 新快讯: 「pension-usdt.eth」平仓ETH 3倍空单，获利134万美元
-推送成功: 【BLOCKBEATS - 融资】「pension-usdt.eth」平仓ETH 3倍空单，获利134万美元
-已保存到 Markdown: ./output/blockbeats/2026-05-27.md
-  [BlockBeats] 新快讯: Bitwise HYPE ETF近两小时买入价值1131万美元HYPE
-推送成功: 【BLOCKBEATS - 融资】Bitwise HYPE ETF近两小时买入价值1131万美元HYPE
-已保存到 Markdown: ./output/blockbeats/2026-05-27.md
-  [BlockBeats] 新快讯: 某鲸鱼重仓以太坊ASTEROID，20天浮亏116万美元
-推送成功: 【BLOCKBEATS - 融资】某鲸鱼重仓以太坊ASTEROID，20天浮亏116万美元
-已保存到 Markdown: ./output/blockbeats/2026-05-27.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
   Category: 项目动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1003&is_hot=1
@@ -61,7 +34,7 @@ Call log:
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-Cycle completed. 2026-05-27 16:40:16.426116
+Cycle completed. 2026-05-27 19:27:43.826716
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -71,26 +44,10 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-2026-05-27 16:39:20,564 - INFO -   List: 透明度评分提升榜
-2026-05-27 16:39:35,788 - ERROR -   Failed to scrape list 透明度评分提升榜: Page.wait_for_selector: Timeout 15000ms exceeded.
-Call log:
-  - waiting for locator("table tr, .list-item") to be visible
-
-2026-05-27 16:39:35,788 - INFO -   List: 交易所透明度排名
-2026-05-27 16:39:51,009 - ERROR -   Failed to scrape list 交易所透明度排名: Page.wait_for_selector: Timeout 15000ms exceeded.
-Call log:
-  - waiting for locator("table tr, .list-item") to be visible
-
-2026-05-27 16:39:51,009 - INFO -   Calendar Events...
-2026-05-27 16:40:06,208 - WARNING -   Calendar events fetch failed: Page.wait_for_selector: Timeout 15000ms exceeded.
-Call log:
-  - waiting for locator(".list-table, .list-row") to be visible
-
-2026-05-27 16:40:06,208 - INFO -   Calendar Insight Image...
-2026-05-27 16:40:06,211 - WARNING -     Calendar insight icon not found
-2026-05-27 16:40:06,211 - INFO -   Market Image...
-2026-05-27 16:40:16,414 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+   Calendar insight icon not found
+2026-05-27 19:27:33,562 - INFO -   Market Image...
+2026-05-27 19:27:43,815 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-2026-05-27 16:40:16,426 - INFO - Cycle completed. 2026-05-27 16:40:16.426116
+2026-05-27 19:27:43,826 - INFO - Cycle completed. 2026-05-27 19:27:43.826716

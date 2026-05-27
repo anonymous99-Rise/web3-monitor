@@ -1,5 +1,11 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
+  [BlockBeats] 新快讯: 巨鲸交易员Evaded认亏后平多转空，开空7100万美元BTC
+推送成功: 【BLOCKBEATS - 融资】巨鲸交易员Evaded认亏后平多转空，开空7100万美元BTC
+已保存到 Markdown: ./output/blockbeats/2026-05-27.md
+  [BlockBeats] 新快讯: 某新建钱包囤积超50万枚HYPE代币，价值3093万美元
+推送成功: 【BLOCKBEATS - 融资】某新建钱包囤积超50万枚HYPE代币，价值3093万美元
+已保存到 Markdown: ./output/blockbeats/2026-05-27.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
   Category: 项目动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1003&is_hot=1
@@ -34,7 +40,7 @@ Call log:
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-Cycle completed. 2026-05-26 22:22:26.103862
+Cycle completed. 2026-05-27 00:08:15.901893
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -44,10 +50,15 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-   Calendar insight icon not found
-2026-05-26 22:22:15,785 - INFO -   Market Image...
-2026-05-26 22:22:26,091 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+imeout 15000ms exceeded.
+Call log:
+  - waiting for locator(".list-table, .list-row") to be visible
+
+2026-05-27 00:08:05,627 - INFO -   Calendar Insight Image...
+2026-05-27 00:08:05,629 - WARNING -     Calendar insight icon not found
+2026-05-27 00:08:05,629 - INFO -   Market Image...
+2026-05-27 00:08:15,890 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-2026-05-26 22:22:26,103 - INFO - Cycle completed. 2026-05-26 22:22:26.103862
+2026-05-27 00:08:15,901 - INFO - Cycle completed. 2026-05-27 00:08:15.901893

@@ -1,12 +1,53 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-Error in monitor loop: Page.goto: Navigation to "https://www.theblockbeats.info/newsflash?type=1" is interrupted by another navigation to "chrome-error://chromewebdata/"
+  Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
+  Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
+  Category: 项目动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1003&is_hot=1
+  Category: 市场观点 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1002&is_hot=1
+  Category: 链上数据 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1001&is_hot=1
+  Category: 融资动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1000&is_hot=1
+Scraping RootData...
+  List: Top 100 项目
+  Failed to scrape list Top 100 项目: Page.wait_for_selector: Timeout 15000ms exceeded.
 Call log:
-  - navigating to "https://www.theblockbeats.info/newsflash?type=1", waiting until "domcontentloaded"
+  - waiting for locator("table tr, .list-item") to be visible
 
+  List: 透明度评分提升榜
+  Failed to scrape list 透明度评分提升榜: Page.wait_for_selector: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator("table tr, .list-item") to be visible
+
+  List: 交易所透明度排名
+  Failed to scrape list 交易所透明度排名: Page.wait_for_selector: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator("table tr, .list-item") to be visible
+
+  Calendar Events...
+  Calendar events fetch failed: Page.wait_for_selector: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator(".list-table, .list-row") to be visible
+
+  Calendar Insight Image...
+    Calendar insight icon not found
+  Market Image...
+    Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(".v-data-table, table, .top-gainers") to be visible
+
+Cycle completed. 2026-05-29 23:16:23.909448
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
   Loaded RootData cookies
 Scraping BlockBeats...
   Category: 预测市场 - https://www.theblockbeats.info/newsflash?type=1
+  Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
+  Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
+Scraping TechFlow...
+   Calendar insight icon not found
+2026-05-29 23:16:13,669 - INFO -   Market Image...
+2026-05-29 23:16:23,899 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(".v-data-table, table, .top-gainers") to be visible
+
+2026-05-29 23:16:23,909 - INFO - Cycle completed. 2026-05-29 23:16:23.909448

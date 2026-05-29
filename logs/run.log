@@ -1,13 +1,19 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: HYPE最大多空头寸互为对手盘：某巨鲸做多浮盈超3670万美元，Loracle做空浮亏超3450万美元
-推送成功: 【BLOCKBEATS - 融资】HYPE最大多空头寸互为对手盘：某巨鲸做多浮盈超3670万美元，Loracle做空浮亏超3450万美元
+  [BlockBeats] 新快讯: 谷歌TPU或迎空前大单，私募巨头正为Anthropic筹划巨额芯片融资
+推送成功: 【BLOCKBEATS - 链上侦探】谷歌TPU或迎空前大单，私募巨头正为Anthropic筹划巨额芯片融资
 已保存到 Markdown: ./output/blockbeats/2026-05-29.md
-  [BlockBeats] 新快讯: 某巨鲸再次抛售1万枚ETH，约合1982万美元
-推送成功: 【BLOCKBEATS - 融资】某巨鲸再次抛售1万枚ETH，约合1982万美元
+  [BlockBeats] 新快讯: 三星、SK海力士股价飙升引发基金强制抛售，年内遭外资净卖出586亿美元
+推送成功: 【BLOCKBEATS - 链上侦探】三星、SK海力士股价飙升引发基金强制抛售，年内遭外资净卖出586亿美元
 已保存到 Markdown: ./output/blockbeats/2026-05-29.md
-  [BlockBeats] 新快讯: HYPE最大空头Loracle向Hyperliquid转入89.25万枚HYPE，并申请赎回70万枚HYPE
-推送成功: 【BLOCKBEATS - 融资】HYPE最大空头Loracle向Hyperliquid转入89.25万枚HYPE，并申请赎回70万枚HYPE
+  [BlockBeats] 新快讯: AI Agent安全平台Geordie完成3000万美元A轮融资，Balderton Capital领投
+推送成功: 【BLOCKBEATS - 链上侦探】AI Agent安全平台Geordie完成3000万美元A轮融资，Balderton Capital领投
+已保存到 Markdown: ./output/blockbeats/2026-05-29.md
+  [BlockBeats] 新快讯: 某鲸鱼平仓价值9674万美元的BTC和ETH空单，获利187万美元
+推送成功: 【BLOCKBEATS - 融资】某鲸鱼平仓价值9674万美元的BTC和ETH空单，获利187万美元
+已保存到 Markdown: ./output/blockbeats/2026-05-29.md
+  [BlockBeats] 新快讯: 某巨鲸25倍做多1.29万枚ETH，约合2610万美元
+推送成功: 【BLOCKBEATS - 融资】某巨鲸25倍做多1.29万枚ETH，约合2610万美元
 已保存到 Markdown: ./output/blockbeats/2026-05-29.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -43,7 +49,7 @@ Call log:
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-Cycle completed. 2026-05-29 15:39:01.466013
+Cycle completed. 2026-05-29 18:36:45.343512
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -53,16 +59,20 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-ts...
-2026-05-29 15:38:51,224 - WARNING -   Calendar events fetch failed: Page.wait_for_selector: Timeout 15000ms exceeded.
+ 交易所透明度排名: Page.wait_for_selector: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator("table tr, .list-item") to be visible
+
+2026-05-29 18:36:19,894 - INFO -   Calendar Events...
+2026-05-29 18:36:35,112 - WARNING -   Calendar events fetch failed: Page.wait_for_selector: Timeout 15000ms exceeded.
 Call log:
   - waiting for locator(".list-table, .list-row") to be visible
 
-2026-05-29 15:38:51,224 - INFO -   Calendar Insight Image...
-2026-05-29 15:38:51,226 - WARNING -     Calendar insight icon not found
-2026-05-29 15:38:51,226 - INFO -   Market Image...
-2026-05-29 15:39:01,455 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+2026-05-29 18:36:35,112 - INFO -   Calendar Insight Image...
+2026-05-29 18:36:35,114 - WARNING -     Calendar insight icon not found
+2026-05-29 18:36:35,114 - INFO -   Market Image...
+2026-05-29 18:36:45,332 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-2026-05-29 15:39:01,466 - INFO - Cycle completed. 2026-05-29 15:39:01.466013
+2026-05-29 18:36:45,343 - INFO - Cycle completed. 2026-05-29 18:36:45.343512

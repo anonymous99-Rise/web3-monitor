@@ -1,10 +1,10 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 分析：疑遭Circle冻结的约1260万美元资金与Overnight关联
-推送成功: 【BLOCKBEATS - 融资】分析：疑遭Circle冻结的约1260万美元资金与Overnight关联
+  [BlockBeats] 新快讯: 胡彦斌Vibe Coding成果落地：自研粉丝App「彦火」正式上线
+推送成功: 【BLOCKBEATS - 链上侦探】胡彦斌Vibe Coding成果落地：自研粉丝App「彦火」正式上线
 已保存到 Markdown: ./output/blockbeats/2026-05-30.md
-  [BlockBeats] 新快讯: 分析：XMR近日上涨受2300万美元黑客资金买盘推动
-推送成功: 【BLOCKBEATS - 融资】分析：XMR近日上涨受2300万美元黑客资金买盘推动
+  [BlockBeats] 新快讯: 5900万美元HYPE现货「抛售前兆」？Loracle开始小幅减仓HYPE空单
+推送成功: 【BLOCKBEATS - 融资】5900万美元HYPE现货「抛售前兆」？Loracle开始小幅减仓HYPE空单
 已保存到 Markdown: ./output/blockbeats/2026-05-30.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -40,7 +40,7 @@ Call log:
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-Cycle completed. 2026-05-30 09:21:21.984060
+Cycle completed. 2026-05-30 11:23:43.170721
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -54,11 +54,11 @@ imeout 15000ms exceeded.
 Call log:
   - waiting for locator(".list-table, .list-row") to be visible
 
-2026-05-30 09:21:11,761 - INFO -   Calendar Insight Image...
-2026-05-30 09:21:11,764 - WARNING -     Calendar insight icon not found
-2026-05-30 09:21:11,764 - INFO -   Market Image...
-2026-05-30 09:21:21,971 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+2026-05-30 11:23:32,843 - INFO -   Calendar Insight Image...
+2026-05-30 11:23:32,846 - WARNING -     Calendar insight icon not found
+2026-05-30 11:23:32,846 - INFO -   Market Image...
+2026-05-30 11:23:43,158 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-2026-05-30 09:21:21,984 - INFO - Cycle completed. 2026-05-30 09:21:21.984060
+2026-05-30 11:23:43,170 - INFO - Cycle completed. 2026-05-30 11:23:43.170721

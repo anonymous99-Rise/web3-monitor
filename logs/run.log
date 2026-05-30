@@ -1,10 +1,10 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 胡彦斌Vibe Coding成果落地：自研粉丝App「彦火」正式上线
-推送成功: 【BLOCKBEATS - 链上侦探】胡彦斌Vibe Coding成果落地：自研粉丝App「彦火」正式上线
+  [BlockBeats] 新快讯: 巨鲸Evaded链上做多3188万美元科技股，持仓包括微软、甲骨文
+推送成功: 【BLOCKBEATS - 融资】巨鲸Evaded链上做多3188万美元科技股，持仓包括微软、甲骨文
 已保存到 Markdown: ./output/blockbeats/2026-05-30.md
-  [BlockBeats] 新快讯: 5900万美元HYPE现货「抛售前兆」？Loracle开始小幅减仓HYPE空单
-推送成功: 【BLOCKBEATS - 融资】5900万美元HYPE现货「抛售前兆」？Loracle开始小幅减仓HYPE空单
+  [BlockBeats] 新快讯: Loracle连续5小时小幅减仓HYPE空单，市场关注5900万美元现货动向
+推送成功: 【BLOCKBEATS - 融资】Loracle连续5小时小幅减仓HYPE空单，市场关注5900万美元现货动向
 已保存到 Markdown: ./output/blockbeats/2026-05-30.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -40,7 +40,7 @@ Call log:
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-Cycle completed. 2026-05-30 11:23:43.170721
+Cycle completed. 2026-05-30 13:43:39.696599
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -54,11 +54,11 @@ imeout 15000ms exceeded.
 Call log:
   - waiting for locator(".list-table, .list-row") to be visible
 
-2026-05-30 11:23:32,843 - INFO -   Calendar Insight Image...
-2026-05-30 11:23:32,846 - WARNING -     Calendar insight icon not found
-2026-05-30 11:23:32,846 - INFO -   Market Image...
-2026-05-30 11:23:43,158 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+2026-05-30 13:43:29,463 - INFO -   Calendar Insight Image...
+2026-05-30 13:43:29,465 - WARNING -     Calendar insight icon not found
+2026-05-30 13:43:29,465 - INFO -   Market Image...
+2026-05-30 13:43:39,684 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-2026-05-30 11:23:43,170 - INFO - Cycle completed. 2026-05-30 11:23:43.170721
+2026-05-30 13:43:39,696 - INFO - Cycle completed. 2026-05-30 13:43:39.696599

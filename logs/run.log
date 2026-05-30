@@ -1,8 +1,5 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: Loracle连续9小时减仓HYPE空单，5900万美元现货悬而未动
-推送成功: 【BLOCKBEATS - 融资】Loracle连续9小时减仓HYPE空单，5900万美元现货悬而未动
-已保存到 Markdown: ./output/blockbeats/2026-05-30.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
   Category: 项目动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1003&is_hot=1
@@ -37,7 +34,7 @@ Call log:
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-Cycle completed. 2026-05-30 17:08:50.291387
+Cycle completed. 2026-05-30 19:20:12.285671
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -47,12 +44,10 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-
-2026-05-30 17:08:40,064 - INFO -   Calendar Insight Image...
-2026-05-30 17:08:40,067 - WARNING -     Calendar insight icon not found
-2026-05-30 17:08:40,067 - INFO -   Market Image...
-2026-05-30 17:08:50,280 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+   Calendar insight icon not found
+2026-05-30 19:20:02,069 - INFO -   Market Image...
+2026-05-30 19:20:12,271 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-2026-05-30 17:08:50,291 - INFO - Cycle completed. 2026-05-30 17:08:50.291387
+2026-05-30 19:20:12,285 - INFO - Cycle completed. 2026-05-30 19:20:12.285671

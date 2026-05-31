@@ -1,25 +1,7 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: OpenAI首席营收官大幅扩权，率Salesforce军团对决Anthropic
-推送成功: 【BLOCKBEATS - 链上侦探】OpenAI首席营收官大幅扩权，率Salesforce军团对决Anthropic
-已保存到 Markdown: ./output/blockbeats/2026-05-31.md
-  [BlockBeats] 新快讯: 微软下周将发自研编程模型，反击Cursor与Claude对Copilot的蚕食
-推送成功: 【BLOCKBEATS - 链上侦探】微软下周将发自研编程模型，反击Cursor与Claude对Copilot的蚕食
-已保存到 Markdown: ./output/blockbeats/2026-05-31.md
-  [BlockBeats] 新快讯: OpenClaw v2026.5.28发布，强化Codex恢复并上线iOS Pro UI
-推送成功: 【BLOCKBEATS - 链上侦探】OpenClaw v2026.5.28发布，强化Codex恢复并上线iOS Pro UI
-已保存到 Markdown: ./output/blockbeats/2026-05-31.md
-  [BlockBeats] 新快讯: Anthropic创始人与OpenAI总裁旧日恩怨：Dario曾因「插手项目排挤研究员」禁止Brockman参与ChatGPT前身开发
-推送成功: 【BLOCKBEATS - 链上侦探】Anthropic创始人与OpenAI总裁旧日恩怨：Dario曾因「插手项目排挤研究员」禁止Brockman参与ChatGPT前身开发
-已保存到 Markdown: ./output/blockbeats/2026-05-31.md
-  [BlockBeats] 新快讯: 大模型实现小时级自我进化，开源SkyRL并发训练栈带来2.8倍效率跃升
-推送成功: 【BLOCKBEATS - 链上侦探】大模型实现小时级自我进化，开源SkyRL并发训练栈带来2.8倍效率跃升
-已保存到 Markdown: ./output/blockbeats/2026-05-31.md
-  [BlockBeats] 新快讯: 考普斯总统奖得主苏炜杰加盟OpenAI参与模型训练，并晋升宾大正教授
-推送成功: 【BLOCKBEATS - 链上侦探】考普斯总统奖得主苏炜杰加盟OpenAI参与模型训练，并晋升宾大正教授
-已保存到 Markdown: ./output/blockbeats/2026-05-31.md
-  [BlockBeats] 新快讯: 某鲸鱼高位买入价值312万美元HYPE，均价68.09美元
-推送成功: 【BLOCKBEATS - 融资】某鲸鱼高位买入价值312万美元HYPE，均价68.09美元
+  [BlockBeats] 新快讯: 某以太坊鲸鱼沉寂7个月后选择「投降」，将1504枚ETH存入OKX
+推送成功: 【BLOCKBEATS - 融资】某以太坊鲸鱼沉寂7个月后选择「投降」，将1504枚ETH存入OKX
 已保存到 Markdown: ./output/blockbeats/2026-05-31.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -55,7 +37,7 @@ Call log:
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-Cycle completed. 2026-05-31 05:21:14.870177
+Cycle completed. 2026-05-31 08:48:44.451105
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -65,25 +47,12 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-.
-Call log:
-  - waiting for locator("table tr, .list-item") to be visible
 
-2026-05-31 05:20:33,978 - INFO -   List: 交易所透明度排名
-2026-05-31 05:20:49,268 - ERROR -   Failed to scrape list 交易所透明度排名: Page.wait_for_selector: Timeout 15000ms exceeded.
-Call log:
-  - waiting for locator("table tr, .list-item") to be visible
-
-2026-05-31 05:20:49,268 - INFO -   Calendar Events...
-2026-05-31 05:21:04,530 - WARNING -   Calendar events fetch failed: Page.wait_for_selector: Timeout 15000ms exceeded.
-Call log:
-  - waiting for locator(".list-table, .list-row") to be visible
-
-2026-05-31 05:21:04,530 - INFO -   Calendar Insight Image...
-2026-05-31 05:21:04,533 - WARNING -     Calendar insight icon not found
-2026-05-31 05:21:04,533 - INFO -   Market Image...
-2026-05-31 05:21:14,858 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+2026-05-31 08:48:34,160 - INFO -   Calendar Insight Image...
+2026-05-31 08:48:34,162 - WARNING -     Calendar insight icon not found
+2026-05-31 08:48:34,162 - INFO -   Market Image...
+2026-05-31 08:48:44,438 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-2026-05-31 05:21:14,870 - INFO - Cycle completed. 2026-05-31 05:21:14.870177
+2026-05-31 08:48:44,451 - INFO - Cycle completed. 2026-05-31 08:48:44.451105

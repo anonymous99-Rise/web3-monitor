@@ -1,17 +1,5 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: WSJ：OpenAI因人工智能造成的损害被美国佛罗里达州检察长起诉
-推送成功: 【BLOCKBEATS - 链上侦探】WSJ：OpenAI因人工智能造成的损害被美国佛罗里达州检察长起诉
-已保存到 Markdown: ./output/blockbeats/2026-06-01.md
-  [BlockBeats] 新快讯: Bitwise再次增持336,474枚HYPE，价值约2443万美元
-推送成功: 【BLOCKBEATS - 融资】Bitwise再次增持336,474枚HYPE，价值约2443万美元
-已保存到 Markdown: ./output/blockbeats/2026-06-01.md
-  [BlockBeats] 新快讯: 「麻吉」25倍ETH多单再遭部分清算，距下个清算点仅22美元
-推送成功: 【BLOCKBEATS - 融资】「麻吉」25倍ETH多单再遭部分清算，距下个清算点仅22美元
-已保存到 Markdown: ./output/blockbeats/2026-06-01.md
-  [BlockBeats] 新快讯: 某新地址从CEX提取126,739枚HYPE，价值约933万美元
-推送成功: 【BLOCKBEATS - 融资】某新地址从CEX提取126,739枚HYPE，价值约933万美元
-已保存到 Markdown: ./output/blockbeats/2026-06-01.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
   Category: 项目动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1003&is_hot=1
@@ -46,7 +34,7 @@ Call log:
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-Cycle completed. 2026-06-01 18:40:25.406232
+Cycle completed. 2026-06-01 22:12:30.590745
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -56,18 +44,10 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-for locator("table tr, .list-item") to be visible
-
-2026-06-01 18:39:59,822 - INFO -   Calendar Events...
-2026-06-01 18:40:15,110 - WARNING -   Calendar events fetch failed: Page.wait_for_selector: Timeout 15000ms exceeded.
-Call log:
-  - waiting for locator(".list-table, .list-row") to be visible
-
-2026-06-01 18:40:15,110 - INFO -   Calendar Insight Image...
-2026-06-01 18:40:15,112 - WARNING -     Calendar insight icon not found
-2026-06-01 18:40:15,112 - INFO -   Market Image...
-2026-06-01 18:40:25,392 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+   Calendar insight icon not found
+2026-06-01 22:12:20,264 - INFO -   Market Image...
+2026-06-01 22:12:30,578 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-2026-06-01 18:40:25,406 - INFO - Cycle completed. 2026-06-01 18:40:25.406232
+2026-06-01 22:12:30,590 - INFO - Cycle completed. 2026-06-01 22:12:30.590745

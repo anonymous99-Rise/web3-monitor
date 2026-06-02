@@ -1,5 +1,14 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
+  [BlockBeats] 新快讯: 谷歌拟筹集800亿美元，伯克希尔100亿美元跟投
+推送成功: 【BLOCKBEATS - 链上侦探】谷歌拟筹集800亿美元，伯克希尔100亿美元跟投
+已保存到 Markdown: ./output/blockbeats/2026-06-02.md
+  [BlockBeats] 新快讯: Anthropic已向美SEC秘密递交S-1招股说明书草案
+推送成功: 【BLOCKBEATS - 链上侦探】Anthropic已向美SEC秘密递交S-1招股说明书草案
+已保存到 Markdown: ./output/blockbeats/2026-06-02.md
+  [BlockBeats] 新快讯: 某巨鲸10倍做空21,948枚ETH，约合4400万美元
+推送成功: 【BLOCKBEATS - 融资】某巨鲸10倍做空21,948枚ETH，约合4400万美元
+已保存到 Markdown: ./output/blockbeats/2026-06-02.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
   Category: 项目动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1003&is_hot=1
@@ -34,7 +43,7 @@ Call log:
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-Cycle completed. 2026-06-01 22:12:30.590745
+Cycle completed. 2026-06-02 00:16:08.055969
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -44,10 +53,16 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-   Calendar insight icon not found
-2026-06-01 22:12:20,264 - INFO -   Market Image...
-2026-06-01 22:12:30,578 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+ts...
+2026-06-02 00:15:57,717 - WARNING -   Calendar events fetch failed: Page.wait_for_selector: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator(".list-table, .list-row") to be visible
+
+2026-06-02 00:15:57,717 - INFO -   Calendar Insight Image...
+2026-06-02 00:15:57,719 - WARNING -     Calendar insight icon not found
+2026-06-02 00:15:57,719 - INFO -   Market Image...
+2026-06-02 00:16:08,043 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-2026-06-01 22:12:30,590 - INFO - Cycle completed. 2026-06-01 22:12:30.590745
+2026-06-02 00:16:08,056 - INFO - Cycle completed. 2026-06-02 00:16:08.055969

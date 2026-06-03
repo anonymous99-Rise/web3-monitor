@@ -1,14 +1,5 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: Anthropic IPO由摩根士丹利和高盛牵头，摩根大通也将参与
-推送成功: 【BLOCKBEATS - 链上侦探】Anthropic IPO由摩根士丹利和高盛牵头，摩根大通也将参与
-已保存到 Markdown: ./output/blockbeats/2026-06-03.md
-  [BlockBeats] 新快讯: 月之暗面发布Kimi Work，最高支持300个Agent协作
-推送成功: 【BLOCKBEATS - 链上侦探】月之暗面发布Kimi Work，最高支持300个Agent协作
-已保存到 Markdown: ./output/blockbeats/2026-06-03.md
-  [BlockBeats] 新快讯: Hyperliquid最大BTC空头豪取21连胜，平仓9386万美元空单获利332万美元
-推送成功: 【BLOCKBEATS - 融资】Hyperliquid最大BTC空头豪取21连胜，平仓9386万美元空单获利332万美元
-已保存到 Markdown: ./output/blockbeats/2026-06-03.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
   Category: 项目动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1003&is_hot=1
@@ -43,7 +34,7 @@ Call log:
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-Cycle completed. 2026-06-03 18:46:22.403902
+Cycle completed. 2026-06-03 21:52:15.735368
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -53,16 +44,10 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-ts...
-2026-06-03 18:46:12,140 - WARNING -   Calendar events fetch failed: Page.wait_for_selector: Timeout 15000ms exceeded.
-Call log:
-  - waiting for locator(".list-table, .list-row") to be visible
-
-2026-06-03 18:46:12,140 - INFO -   Calendar Insight Image...
-2026-06-03 18:46:12,142 - WARNING -     Calendar insight icon not found
-2026-06-03 18:46:12,142 - INFO -   Market Image...
-2026-06-03 18:46:22,391 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+   Calendar insight icon not found
+2026-06-03 21:52:05,453 - INFO -   Market Image...
+2026-06-03 21:52:15,723 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-2026-06-03 18:46:22,403 - INFO - Cycle completed. 2026-06-03 18:46:22.403902
+2026-06-03 21:52:15,735 - INFO - Cycle completed. 2026-06-03 21:52:15.735368

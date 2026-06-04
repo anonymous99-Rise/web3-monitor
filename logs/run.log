@@ -1,19 +1,16 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 高盛：预计到2030年，SpaceX AI收入将增长100倍
-推送成功: 【BLOCKBEATS - 链上侦探】高盛：预计到2030年，SpaceX AI收入将增长100倍
+  [BlockBeats] 新快讯: OpenAI推出新一代ChatGPT记忆系统Dreaming，以优化新鲜度、连续性和相关性
+推送成功: 【BLOCKBEATS - 链上侦探】OpenAI推出新一代ChatGPT记忆系统Dreaming，以优化新鲜度、连续性和相关性
 已保存到 Markdown: ./output/blockbeats/2026-06-04.md
-  [BlockBeats] 新快讯: 企业支出管理平台Ramp完成7.5亿美元F轮融资，估值达440亿美元
-推送成功: 【BLOCKBEATS - 链上侦探】企业支出管理平台Ramp完成7.5亿美元F轮融资，估值达440亿美元
+  [BlockBeats] 新快讯: 英伟达正式开源旗舰级550B模型Nemotron 3 Ultra：首创Mamba-Transformer混合MoE架构，专为长程智能体而生
+推送成功: 【BLOCKBEATS - 链上侦探】英伟达正式开源旗舰级550B模型Nemotron 3 Ultra：首创Mamba-Transformer混合MoE架构，专为长程智能体而生
 已保存到 Markdown: ./output/blockbeats/2026-06-04.md
-  [BlockBeats] 新快讯: 某新建钱包从Binance收到600万枚「币安人生」，约合413万美元
-推送成功: 【BLOCKBEATS - 融资】某新建钱包从Binance收到600万枚「币安人生」，约合413万美元
+  [BlockBeats] 新快讯: 某沉寂3年钱包收到10,000枚ETH后全部卖出，获得1772万枚USDC
+推送成功: 【BLOCKBEATS - 融资】某沉寂3年钱包收到10,000枚ETH后全部卖出，获得1772万枚USDC
 已保存到 Markdown: ./output/blockbeats/2026-06-04.md
-  [BlockBeats] 新快讯: 贝莱德ETF过去10日净流出30,119枚BTC和161,829枚ETH
-推送成功: 【BLOCKBEATS - 融资】贝莱德ETF过去10日净流出30,119枚BTC和161,829枚ETH
-已保存到 Markdown: ./output/blockbeats/2026-06-04.md
-  [BlockBeats] 新快讯: 抄底巨鲸「7 Siblings」今日累计从Spark借款5800万美元买入32,919.2枚ETH
-推送成功: 【BLOCKBEATS - 融资】抄底巨鲸「7 Siblings」今日累计从Spark借款5800万美元买入32,919.2枚ETH
+  [BlockBeats] 新快讯: 某鲸鱼做多HYPE亏损204.7万美元，做空BTC目前浮亏超68万美元
+推送成功: 【BLOCKBEATS - 融资】某鲸鱼做多HYPE亏损204.7万美元，做空BTC目前浮亏超68万美元
 已保存到 Markdown: ./output/blockbeats/2026-06-04.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -23,33 +20,10 @@
   Category: 融资动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1000&is_hot=1
 Scraping RootData...
   List: Top 100 项目
-  Failed to scrape list Top 100 项目: Page.wait_for_selector: Timeout 15000ms exceeded.
+Error in monitor loop: Page.goto: Timeout 30000ms exceeded.
 Call log:
-  - waiting for locator("table tr, .list-item") to be visible
+  - navigating to "https://cn.rootdata.com/rootdatalist/2025/top-projects", waiting until "load"
 
-  List: 透明度评分提升榜
-  Failed to scrape list 透明度评分提升榜: Page.wait_for_selector: Timeout 15000ms exceeded.
-Call log:
-  - waiting for locator("table tr, .list-item") to be visible
-
-  List: 交易所透明度排名
-  Failed to scrape list 交易所透明度排名: Page.wait_for_selector: Timeout 15000ms exceeded.
-Call log:
-  - waiting for locator("table tr, .list-item") to be visible
-
-  Calendar Events...
-  Calendar events fetch failed: Page.wait_for_selector: Timeout 15000ms exceeded.
-Call log:
-  - waiting for locator(".list-table, .list-row") to be visible
-
-  Calendar Insight Image...
-    Calendar insight icon not found
-  Market Image...
-    Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
-Call log:
-  - waiting for locator(".v-data-table, table, .top-gainers") to be visible
-
-Cycle completed. 2026-06-04 15:20:39.857433
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -59,20 +33,10 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
- 交易所透明度排名: Page.wait_for_selector: Timeout 15000ms exceeded.
+ https://www.techflowpost.com/zh-CN/newsletter?articleType=1000&is_hot=1
+2026-06-04 18:18:54,904 - INFO - Scraping RootData...
+2026-06-04 18:18:54,946 - INFO -   List: Top 100 项目
+2026-06-04 18:19:24,951 - ERROR - Error in monitor loop: Page.goto: Timeout 30000ms exceeded.
 Call log:
-  - waiting for locator("table tr, .list-item") to be visible
+  - navigating to "https://cn.rootdata.com/rootdatalist/2025/top-projects", waiting until "load"
 
-2026-06-04 15:20:14,332 - INFO -   Calendar Events...
-2026-06-04 15:20:29,588 - WARNING -   Calendar events fetch failed: Page.wait_for_selector: Timeout 15000ms exceeded.
-Call log:
-  - waiting for locator(".list-table, .list-row") to be visible
-
-2026-06-04 15:20:29,588 - INFO -   Calendar Insight Image...
-2026-06-04 15:20:29,590 - WARNING -     Calendar insight icon not found
-2026-06-04 15:20:29,590 - INFO -   Market Image...
-2026-06-04 15:20:39,846 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
-Call log:
-  - waiting for locator(".v-data-table, table, .top-gainers") to be visible
-
-2026-06-04 15:20:39,857 - INFO - Cycle completed. 2026-06-04 15:20:39.857433

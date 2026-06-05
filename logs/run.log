@@ -1,5 +1,11 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
+  [BlockBeats] 新快讯: Anthropic呼吁全球暂缓前沿AI研发，Serenity解读为A社竞争策略
+推送成功: 【BLOCKBEATS - 链上侦探】Anthropic呼吁全球暂缓前沿AI研发，Serenity解读为A社竞争策略
+已保存到 Markdown: ./output/blockbeats/2026-06-05.md
+  [BlockBeats] 新快讯: 美国高级官员考虑接收AI巨头公司「自愿转让」的股份
+推送成功: 【BLOCKBEATS - 链上侦探】美国高级官员考虑接收AI巨头公司「自愿转让」的股份
+已保存到 Markdown: ./output/blockbeats/2026-06-05.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
   Category: 项目动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1003&is_hot=1
@@ -34,7 +40,7 @@ Call log:
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-Cycle completed. 2026-06-04 22:25:50.270332
+Cycle completed. 2026-06-05 00:11:29.894092
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -44,10 +50,15 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-   Calendar insight icon not found
-2026-06-04 22:25:39,978 - INFO -   Market Image...
-2026-06-04 22:25:50,257 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+imeout 15000ms exceeded.
+Call log:
+  - waiting for locator(".list-table, .list-row") to be visible
+
+2026-06-05 00:11:19,619 - INFO -   Calendar Insight Image...
+2026-06-05 00:11:19,621 - WARNING -     Calendar insight icon not found
+2026-06-05 00:11:19,622 - INFO -   Market Image...
+2026-06-05 00:11:29,880 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-2026-06-04 22:25:50,270 - INFO - Cycle completed. 2026-06-04 22:25:50.270332
+2026-06-05 00:11:29,894 - INFO - Cycle completed. 2026-06-05 00:11:29.894092

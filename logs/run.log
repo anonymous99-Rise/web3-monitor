@@ -1,34 +1,10 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 阿里发布智能体基准PawBench：优秀框架可助小模型「下克上」
-推送成功: 【BLOCKBEATS - 链上侦探】阿里发布智能体基准PawBench：优秀框架可助小模型「下克上」
+  [BlockBeats] 新快讯: 某做多5.8万枚ETH巨鲸距离清算线仅剩40美元
+推送成功: 【BLOCKBEATS - 融资】某做多5.8万枚ETH巨鲸距离清算线仅剩40美元
 已保存到 Markdown: ./output/blockbeats/2026-06-05.md
-  [BlockBeats] 新快讯: 英伟达ArtiFixer提速70倍：补齐3D重建盲区，画质领先SOTA近3dB
-推送成功: 【BLOCKBEATS - 链上侦探】英伟达ArtiFixer提速70倍：补齐3D重建盲区，画质领先SOTA近3dB
-已保存到 Markdown: ./output/blockbeats/2026-06-05.md
-  [BlockBeats] 新快讯: Anthropic Mythos新模型红测暂停：接口遭倒卖至国内API中转站
-推送成功: 【BLOCKBEATS - 链上侦探】Anthropic Mythos新模型红测暂停：接口遭倒卖至国内API中转站
-已保存到 Markdown: ./output/blockbeats/2026-06-05.md
-  [BlockBeats] 新快讯: Liquid AI开源小体量多模态模型：在端侧直接将图片提取为JSON结构化数据
-推送成功: 【BLOCKBEATS - 链上侦探】Liquid AI开源小体量多模态模型：在端侧直接将图片提取为JSON结构化数据
-已保存到 Markdown: ./output/blockbeats/2026-06-05.md
-  [BlockBeats] 新快讯: Liquid AI发布本地数据脱敏工具ShieldFlow，可在电脑端离线运行
-推送成功: 【BLOCKBEATS - 链上侦探】Liquid AI发布本地数据脱敏工具ShieldFlow，可在电脑端离线运行
-已保存到 Markdown: ./output/blockbeats/2026-06-05.md
-  [BlockBeats] 新快讯: 贝莱德ETF向Coinbase存入1978枚BTC和14,244枚ETH
-推送成功: 【BLOCKBEATS - 融资】贝莱德ETF向Coinbase存入1978枚BTC和14,244枚ETH
-已保存到 Markdown: ./output/blockbeats/2026-06-05.md
-  [BlockBeats] 新快讯: 某地址存入100万美元，继续增持「币安人生」
-推送成功: 【BLOCKBEATS - 融资】某地址存入100万美元，继续增持「币安人生」
-已保存到 Markdown: ./output/blockbeats/2026-06-05.md
-  [BlockBeats] 新快讯: 灰度Hyperliquid ETF上线首日净流入470万美元，相关该类ETF已累计吸金1.45亿美元
-推送成功: 【BLOCKBEATS - 融资】灰度Hyperliquid ETF上线首日净流入470万美元，相关该类ETF已累计吸金1.45亿美元
-已保存到 Markdown: ./output/blockbeats/2026-06-05.md
-  [BlockBeats] 新快讯: 某休眠5年巨鲸将602.26枚BTC转入Binance，浮盈3066万美元
-推送成功: 【BLOCKBEATS - 融资】某休眠5年巨鲸将602.26枚BTC转入Binance，浮盈3066万美元
-已保存到 Markdown: ./output/blockbeats/2026-06-05.md
-  [BlockBeats] 新快讯: 某鲸鱼从Binance提出37,316枚ZEC，约1312万美元
-推送成功: 【BLOCKBEATS - 融资】某鲸鱼从Binance提出37,316枚ZEC，约1312万美元
+  [BlockBeats] 新快讯: F2Pool联创王纯疑似抄底！半小时前从Binance提取9719枚ETH
+推送成功: 【BLOCKBEATS - 融资】F2Pool联创王纯疑似抄底！半小时前从Binance提取9719枚ETH
 已保存到 Markdown: ./output/blockbeats/2026-06-05.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -64,7 +40,7 @@ Call log:
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-Cycle completed. 2026-06-05 12:41:10.000437
+Cycle completed. 2026-06-05 15:56:58.822292
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -74,30 +50,15 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-Timeout 15000ms exceeded.
-Call log:
-  - waiting for locator("table tr, .list-item") to be visible
-
-2026-06-05 12:40:14,081 - INFO -   List: 透明度评分提升榜
-2026-06-05 12:40:29,320 - ERROR -   Failed to scrape list 透明度评分提升榜: Page.wait_for_selector: Timeout 15000ms exceeded.
-Call log:
-  - waiting for locator("table tr, .list-item") to be visible
-
-2026-06-05 12:40:29,320 - INFO -   List: 交易所透明度排名
-2026-06-05 12:40:44,553 - ERROR -   Failed to scrape list 交易所透明度排名: Page.wait_for_selector: Timeout 15000ms exceeded.
-Call log:
-  - waiting for locator("table tr, .list-item") to be visible
-
-2026-06-05 12:40:44,553 - INFO -   Calendar Events...
-2026-06-05 12:40:59,772 - WARNING -   Calendar events fetch failed: Page.wait_for_selector: Timeout 15000ms exceeded.
+imeout 15000ms exceeded.
 Call log:
   - waiting for locator(".list-table, .list-row") to be visible
 
-2026-06-05 12:40:59,772 - INFO -   Calendar Insight Image...
-2026-06-05 12:40:59,775 - WARNING -     Calendar insight icon not found
-2026-06-05 12:40:59,775 - INFO -   Market Image...
-2026-06-05 12:41:09,986 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+2026-06-05 15:56:48,556 - INFO -   Calendar Insight Image...
+2026-06-05 15:56:48,559 - WARNING -     Calendar insight icon not found
+2026-06-05 15:56:48,559 - INFO -   Market Image...
+2026-06-05 15:56:58,809 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-2026-06-05 12:41:10,000 - INFO - Cycle completed. 2026-06-05 12:41:10.000437
+2026-06-05 15:56:58,822 - INFO - Cycle completed. 2026-06-05 15:56:58.822292

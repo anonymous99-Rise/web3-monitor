@@ -1,19 +1,10 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: AI安全成资本新宠，投资者正押注「AI时代的公用事业」
-推送成功: 【BLOCKBEATS - 链上侦探】AI安全成资本新宠，投资者正押注「AI时代的公用事业」
+  [BlockBeats] 新快讯: Longling Capital将1万枚ETH转进Binance，价值约1568万美元
+推送成功: 【BLOCKBEATS - 融资】Longling Capital将1万枚ETH转进Binance，价值约1568万美元
 已保存到 Markdown: ./output/blockbeats/2026-06-06.md
-  [BlockBeats] 新快讯: 知情人士：美国政府考虑入股人工智能企业
-推送成功: 【BLOCKBEATS - 链上侦探】知情人士：美国政府考虑入股人工智能企业
-已保存到 Markdown: ./output/blockbeats/2026-06-06.md
-  [BlockBeats] 新快讯: 以太坊再临清算压力，三巨鲸持有的34.5万枚ETH面临风险，价值超5.3亿美元
-推送成功: 【BLOCKBEATS - 融资】以太坊再临清算压力，三巨鲸持有的34.5万枚ETH面临风险，价值超5.3亿美元
-已保存到 Markdown: ./output/blockbeats/2026-06-06.md
-  [BlockBeats] 新快讯: 某鲸鱼20倍做空1,588枚BTC，爆仓价63,939.37美元
-推送成功: 【BLOCKBEATS - 融资】某鲸鱼20倍做空1,588枚BTC，爆仓价63,939.37美元
-已保存到 Markdown: ./output/blockbeats/2026-06-06.md
-  [BlockBeats] 新快讯: 以太坊联创Joseph再补3万枚ETH抵押品，以避免仓位被清算
-推送成功: 【BLOCKBEATS - 融资】以太坊联创Joseph再补3万枚ETH抵押品，以避免仓位被清算
+  [BlockBeats] 新快讯: 某杠杆巨鲸今日以1,633美元增持9.33万枚ETH，清算价1,356美元
+推送成功: 【BLOCKBEATS - 融资】某杠杆巨鲸今日以1,633美元增持9.33万枚ETH，清算价1,356美元
 已保存到 Markdown: ./output/blockbeats/2026-06-06.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -49,7 +40,7 @@ Call log:
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-Cycle completed. 2026-06-06 11:29:33.863781
+Cycle completed. 2026-06-06 13:48:11.517910
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -59,20 +50,15 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
- 交易所透明度排名: Page.wait_for_selector: Timeout 15000ms exceeded.
-Call log:
-  - waiting for locator("table tr, .list-item") to be visible
-
-2026-06-06 11:29:08,249 - INFO -   Calendar Events...
-2026-06-06 11:29:23,565 - WARNING -   Calendar events fetch failed: Page.wait_for_selector: Timeout 15000ms exceeded.
+imeout 15000ms exceeded.
 Call log:
   - waiting for locator(".list-table, .list-row") to be visible
 
-2026-06-06 11:29:23,565 - INFO -   Calendar Insight Image...
-2026-06-06 11:29:23,567 - WARNING -     Calendar insight icon not found
-2026-06-06 11:29:23,567 - INFO -   Market Image...
-2026-06-06 11:29:33,851 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+2026-06-06 13:48:01,200 - INFO -   Calendar Insight Image...
+2026-06-06 13:48:01,202 - WARNING -     Calendar insight icon not found
+2026-06-06 13:48:01,202 - INFO -   Market Image...
+2026-06-06 13:48:11,505 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-2026-06-06 11:29:33,863 - INFO - Cycle completed. 2026-06-06 11:29:33.863781
+2026-06-06 13:48:11,517 - INFO - Cycle completed. 2026-06-06 13:48:11.517910

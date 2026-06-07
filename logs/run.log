@@ -1,19 +1,7 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: Anthropic敲定总额350亿美元债务融资方案，用于租赁谷歌TPU
-推送成功: 【BLOCKBEATS - 链上侦探】Anthropic敲定总额350亿美元债务融资方案，用于租赁谷歌TPU
-已保存到 Markdown: ./output/blockbeats/2026-06-07.md
-  [BlockBeats] 新快讯: 英国政府计划采购本土企业AI芯片，巩固全球竞争力
-推送成功: 【BLOCKBEATS - 链上侦探】英国政府计划采购本土企业AI芯片，巩固全球竞争力
-已保存到 Markdown: ./output/blockbeats/2026-06-07.md
-  [BlockBeats] 新快讯: 黄仁勋与SK集团董事长崔泰源将于周一宣布合作计划
-推送成功: 【BLOCKBEATS - 链上侦探】黄仁勋与SK集团董事长崔泰源将于周一宣布合作计划
-已保存到 Markdown: ./output/blockbeats/2026-06-07.md
-  [BlockBeats] 新快讯: Hyperliquid永续合约未平仓头寸市场份额达8%，创历史新高
-推送成功: 【BLOCKBEATS - 融资】Hyperliquid永续合约未平仓头寸市场份额达8%，创历史新高
-已保存到 Markdown: ./output/blockbeats/2026-06-07.md
-  [BlockBeats] 新快讯: 某巨鲸从Aave借出9000枚ETH后存入Binance，约1470万美元
-推送成功: 【BLOCKBEATS - 融资】某巨鲸从Aave借出9000枚ETH后存入Binance，约1470万美元
+  [BlockBeats] 新快讯: 「BTC OG内幕巨鲸」代理人平仓ZEC空单，盈利1124万美元
+推送成功: 【BLOCKBEATS - 融资】「BTC OG内幕巨鲸」代理人平仓ZEC空单，盈利1124万美元
 已保存到 Markdown: ./output/blockbeats/2026-06-07.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -49,7 +37,7 @@ Call log:
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-Cycle completed. 2026-06-07 13:57:17.609197
+Cycle completed. 2026-06-07 15:27:12.914311
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -59,20 +47,12 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
- 交易所透明度排名: Page.wait_for_selector: Timeout 15000ms exceeded.
-Call log:
-  - waiting for locator("table tr, .list-item") to be visible
 
-2026-06-07 13:56:52,043 - INFO -   Calendar Events...
-2026-06-07 13:57:07,310 - WARNING -   Calendar events fetch failed: Page.wait_for_selector: Timeout 15000ms exceeded.
-Call log:
-  - waiting for locator(".list-table, .list-row") to be visible
-
-2026-06-07 13:57:07,310 - INFO -   Calendar Insight Image...
-2026-06-07 13:57:07,312 - WARNING -     Calendar insight icon not found
-2026-06-07 13:57:07,312 - INFO -   Market Image...
-2026-06-07 13:57:17,597 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+2026-06-07 15:27:02,704 - INFO -   Calendar Insight Image...
+2026-06-07 15:27:02,706 - WARNING -     Calendar insight icon not found
+2026-06-07 15:27:02,706 - INFO -   Market Image...
+2026-06-07 15:27:12,904 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-2026-06-07 13:57:17,609 - INFO - Cycle completed. 2026-06-07 13:57:17.609197
+2026-06-07 15:27:12,914 - INFO - Cycle completed. 2026-06-07 15:27:12.914311

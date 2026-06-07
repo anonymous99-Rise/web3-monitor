@@ -1,5 +1,44 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
+  [BlockBeats] 新快讯: Boson AI开源4B音频模型Higgs Audio v3，支持流式情感控制
+推送成功: 【BLOCKBEATS - 链上侦探】Boson AI开源4B音频模型Higgs Audio v3，支持流式情感控制
+已保存到 Markdown: ./output/blockbeats/2026-06-07.md
+  [BlockBeats] 新快讯: 小红书开源全连续自回归TTS模型dots.tts，支持零样本声音克隆
+推送成功: 【BLOCKBEATS - 链上侦探】小红书开源全连续自回归TTS模型dots.tts，支持零样本声音克隆
+已保存到 Markdown: ./output/blockbeats/2026-06-07.md
+  [BlockBeats] 新快讯: JetBrains开源Mellum-2代码模型：内置MTP头支持投机解码加速
+推送成功: 【BLOCKBEATS - 链上侦探】JetBrains开源Mellum-2代码模型：内置MTP头支持投机解码加速
+已保存到 Markdown: ./output/blockbeats/2026-06-07.md
+  [BlockBeats] 新快讯: OpenAI硬件二号雇员Clive Chan加盟Anthropic，研发定制芯片
+推送成功: 【BLOCKBEATS - 链上侦探】OpenAI硬件二号雇员Clive Chan加盟Anthropic，研发定制芯片
+已保存到 Markdown: ./output/blockbeats/2026-06-07.md
+  [BlockBeats] 新快讯: 白宫AI政策顾问Sriram Krishnan宣布将于6月底离职，拟创立新机构支持政府AI计划
+推送成功: 【BLOCKBEATS - 链上侦探】白宫AI政策顾问Sriram Krishnan宣布将于6月底离职，拟创立新机构支持政府AI计划
+已保存到 Markdown: ./output/blockbeats/2026-06-07.md
+  [BlockBeats] 新快讯: ChatGPT锁定模式下放到个人用户，牺牲部分联网功能防数据外泄
+推送成功: 【BLOCKBEATS - 链上侦探】ChatGPT锁定模式下放到个人用户，牺牲部分联网功能防数据外泄
+已保存到 Markdown: ./output/blockbeats/2026-06-07.md
+  [BlockBeats] 新快讯: Joseph Lubin抵押412,430枚ETH借出2.59亿枚DAI，借贷健康度一度低于1.2
+推送成功: 【BLOCKBEATS - 融资】Joseph Lubin抵押412,430枚ETH借出2.59亿枚DAI，借贷健康度一度低于1.2
+已保存到 Markdown: ./output/blockbeats/2026-06-07.md
+  [BlockBeats] 新快讯: Hex Trust关联实体囤积1.82亿枚H代币，总价值1.21亿美元
+推送成功: 【BLOCKBEATS - 融资】Hex Trust关联实体囤积1.82亿枚H代币，总价值1.21亿美元
+已保存到 Markdown: ./output/blockbeats/2026-06-07.md
+  [BlockBeats] 新快讯: 某以太坊OG巨鲸再次入场，均价1563美元买入35723枚ETH
+推送成功: 【BLOCKBEATS - 融资】某以太坊OG巨鲸再次入场，均价1563美元买入35723枚ETH
+已保存到 Markdown: ./output/blockbeats/2026-06-07.md
+  [BlockBeats] 新快讯: 某巨鲸近24小时囤积约1723枚比特币，价值约1.0558亿美元
+推送成功: 【BLOCKBEATS - 融资】某巨鲸近24小时囤积约1723枚比特币，价值约1.0558亿美元
+已保存到 Markdown: ./output/blockbeats/2026-06-07.md
+  [BlockBeats] 新快讯: USDC Treasury在Solana链上新增铸造2.5亿枚USDC
+推送成功: 【BLOCKBEATS - 融资】USDC Treasury在Solana链上新增铸造2.5亿枚USDC
+已保存到 Markdown: ./output/blockbeats/2026-06-07.md
+  [BlockBeats] 新快讯: Plasma团队关联地址向Binance存入1.5亿枚XPL，价值约964万美元
+推送成功: 【BLOCKBEATS - 融资】Plasma团队关联地址向Binance存入1.5亿枚XPL，价值约964万美元
+已保存到 Markdown: ./output/blockbeats/2026-06-07.md
+  [BlockBeats] 新快讯: 「币安人生」庄家再次买入1000万美元代币，推动币价继续上涨15%
+推送成功: 【BLOCKBEATS - 融资】「币安人生」庄家再次买入1000万美元代币，推动币价继续上涨15%
+已保存到 Markdown: ./output/blockbeats/2026-06-07.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
   Category: 项目动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1003&is_hot=1
@@ -34,7 +73,7 @@ Call log:
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-Cycle completed. 2026-06-06 23:07:31.382288
+Cycle completed. 2026-06-07 04:06:12.825811
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -44,10 +83,33 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-   Calendar insight icon not found
-2026-06-06 23:07:21,093 - INFO -   Market Image...
-2026-06-06 23:07:31,370 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+: 融资动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1000&is_hot=1
+2026-06-07 04:04:58,909 - INFO - Scraping RootData...
+2026-06-07 04:04:58,945 - INFO -   List: Top 100 项目
+2026-06-07 04:05:16,623 - ERROR -   Failed to scrape list Top 100 项目: Page.wait_for_selector: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator("table tr, .list-item") to be visible
+
+2026-06-07 04:05:16,623 - INFO -   List: 透明度评分提升榜
+2026-06-07 04:05:31,933 - ERROR -   Failed to scrape list 透明度评分提升榜: Page.wait_for_selector: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator("table tr, .list-item") to be visible
+
+2026-06-07 04:05:31,933 - INFO -   List: 交易所透明度排名
+2026-06-07 04:05:47,240 - ERROR -   Failed to scrape list 交易所透明度排名: Page.wait_for_selector: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator("table tr, .list-item") to be visible
+
+2026-06-07 04:05:47,241 - INFO -   Calendar Events...
+2026-06-07 04:06:02,527 - WARNING -   Calendar events fetch failed: Page.wait_for_selector: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator(".list-table, .list-row") to be visible
+
+2026-06-07 04:06:02,527 - INFO -   Calendar Insight Image...
+2026-06-07 04:06:02,529 - WARNING -     Calendar insight icon not found
+2026-06-07 04:06:02,529 - INFO -   Market Image...
+2026-06-07 04:06:12,814 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-2026-06-06 23:07:31,382 - INFO - Cycle completed. 2026-06-06 23:07:31.382288
+2026-06-07 04:06:12,825 - INFO - Cycle completed. 2026-06-07 04:06:12.825811

@@ -1,19 +1,13 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 开源与闭源「抢钱大战」：价格差达40倍，开源模型正分流前沿巨头百亿营收
-推送成功: 【BLOCKBEATS - 链上侦探】开源与闭源「抢钱大战」：价格差达40倍，开源模型正分流前沿巨头百亿营收
+  [BlockBeats] 新快讯: 黄仁勋：明天可能会发布一些公告
+推送成功: 【BLOCKBEATS - 链上侦探】黄仁勋：明天可能会发布一些公告
 已保存到 Markdown: ./output/blockbeats/2026-06-07.md
-  [BlockBeats] 新快讯: 20B检索智能体Harness-1开源，状态外置实现极高数据效率
-推送成功: 【BLOCKBEATS - 链上侦探】20B检索智能体Harness-1开源，状态外置实现极高数据效率
+  [BlockBeats] 新快讯: 分析：币安人生控盘实体或为「BTC OG内幕巨鲸」代理人
+推送成功: 【BLOCKBEATS - 融资】分析：币安人生控盘实体或为「BTC OG内幕巨鲸」代理人
 已保存到 Markdown: ./output/blockbeats/2026-06-07.md
-  [BlockBeats] 新快讯: ChatGPT将大幅升级转型为「超级应用」，整合编程工具与人工智能体
-推送成功: 【BLOCKBEATS - 链上侦探】ChatGPT将大幅升级转型为「超级应用」，整合编程工具与人工智能体
-已保存到 Markdown: ./output/blockbeats/2026-06-07.md
-  [BlockBeats] 新快讯: 巨鲸「先定10个大目标」1.7亿美元多单或已浮盈超588万美元
-推送成功: 【BLOCKBEATS - 融资】巨鲸「先定10个大目标」1.7亿美元多单或已浮盈超588万美元
-已保存到 Markdown: ./output/blockbeats/2026-06-07.md
-  [BlockBeats] 新快讯: 币安人生3877万美元拉盘！庄家平台链上双线操盘，6月以来涨超52%
-推送成功: 【BLOCKBEATS - 融资】币安人生3877万美元拉盘！庄家平台链上双线操盘，6月以来涨超52%
+  [BlockBeats] 新快讯: 某巨鲸通过循环贷斥资3000万美元买入18,212枚ETH
+推送成功: 【BLOCKBEATS - 融资】某巨鲸通过循环贷斥资3000万美元买入18,212枚ETH
 已保存到 Markdown: ./output/blockbeats/2026-06-07.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -49,7 +43,7 @@ Call log:
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-Cycle completed. 2026-06-07 08:26:07.671133
+Cycle completed. 2026-06-07 11:11:55.143812
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -59,20 +53,16 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
- 交易所透明度排名: Page.wait_for_selector: Timeout 15000ms exceeded.
-Call log:
-  - waiting for locator("table tr, .list-item") to be visible
-
-2026-06-07 08:25:42,091 - INFO -   Calendar Events...
-2026-06-07 08:25:57,373 - WARNING -   Calendar events fetch failed: Page.wait_for_selector: Timeout 15000ms exceeded.
+ts...
+2026-06-07 11:11:44,857 - WARNING -   Calendar events fetch failed: Page.wait_for_selector: Timeout 15000ms exceeded.
 Call log:
   - waiting for locator(".list-table, .list-row") to be visible
 
-2026-06-07 08:25:57,373 - INFO -   Calendar Insight Image...
-2026-06-07 08:25:57,375 - WARNING -     Calendar insight icon not found
-2026-06-07 08:25:57,375 - INFO -   Market Image...
-2026-06-07 08:26:07,659 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+2026-06-07 11:11:44,857 - INFO -   Calendar Insight Image...
+2026-06-07 11:11:44,860 - WARNING -     Calendar insight icon not found
+2026-06-07 11:11:44,860 - INFO -   Market Image...
+2026-06-07 11:11:55,131 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-2026-06-07 08:26:07,671 - INFO - Cycle completed. 2026-06-07 08:26:07.671133
+2026-06-07 11:11:55,143 - INFO - Cycle completed. 2026-06-07 11:11:55.143812

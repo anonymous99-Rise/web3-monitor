@@ -1,16 +1,7 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: Anthropic：Mythos已能将公开漏洞转化为可运行攻击程序
-推送成功: 【BLOCKBEATS - 链上侦探】Anthropic：Mythos已能将公开漏洞转化为可运行攻击程序
-已保存到 Markdown: ./output/blockbeats/2026-06-08.md
-  [BlockBeats] 新快讯: 谷歌Gemini API爆天价「幽灵账单」漏洞：删除缓存也扣款、零输出也计费
-推送成功: 【BLOCKBEATS - 链上侦探】谷歌Gemini API爆天价「幽灵账单」漏洞：删除缓存也扣款、零输出也计费
-已保存到 Markdown: ./output/blockbeats/2026-06-08.md
-  [BlockBeats] 新快讯: 某巨鲸抛售近8.3万枚HYPE获利约206万美元
-推送成功: 【BLOCKBEATS - 融资】某巨鲸抛售近8.3万枚HYPE获利约206万美元
-已保存到 Markdown: ./output/blockbeats/2026-06-08.md
-  [BlockBeats] 新快讯: 波段巨鲸「nemorino.eth」以1692美元均价增持6329枚ETH
-推送成功: 【BLOCKBEATS - 融资】波段巨鲸「nemorino.eth」以1692美元均价增持6329枚ETH
+  [BlockBeats] 新快讯: 苹果发布新一代AI平台，包括人工智能版Siri
+推送成功: 【BLOCKBEATS - 链上侦探】苹果发布新一代AI平台，包括人工智能版Siri
 已保存到 Markdown: ./output/blockbeats/2026-06-08.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -46,7 +37,7 @@ Call log:
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-Cycle completed. 2026-06-08 17:56:59.861933
+Cycle completed. 2026-06-08 20:22:17.296032
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -56,18 +47,12 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-for locator("table tr, .list-item") to be visible
 
-2026-06-08 17:56:34,342 - INFO -   Calendar Events...
-2026-06-08 17:56:49,593 - WARNING -   Calendar events fetch failed: Page.wait_for_selector: Timeout 15000ms exceeded.
-Call log:
-  - waiting for locator(".list-table, .list-row") to be visible
-
-2026-06-08 17:56:49,593 - INFO -   Calendar Insight Image...
-2026-06-08 17:56:49,596 - WARNING -     Calendar insight icon not found
-2026-06-08 17:56:49,596 - INFO -   Market Image...
-2026-06-08 17:56:59,848 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+2026-06-08 20:22:06,985 - INFO -   Calendar Insight Image...
+2026-06-08 20:22:06,988 - WARNING -     Calendar insight icon not found
+2026-06-08 20:22:06,988 - INFO -   Market Image...
+2026-06-08 20:22:17,284 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-2026-06-08 17:56:59,861 - INFO - Cycle completed. 2026-06-08 17:56:59.861933
+2026-06-08 20:22:17,296 - INFO - Cycle completed. 2026-06-08 20:22:17.296032

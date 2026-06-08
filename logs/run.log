@@ -1,34 +1,16 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 阿里成立Token Foundry事业部，CEO吴泳铭直接负责
-推送成功: 【BLOCKBEATS - 链上侦探】阿里成立Token Foundry事业部，CEO吴泳铭直接负责
+  [BlockBeats] 新快讯: Anthropic：Mythos已能将公开漏洞转化为可运行攻击程序
+推送成功: 【BLOCKBEATS - 链上侦探】Anthropic：Mythos已能将公开漏洞转化为可运行攻击程序
 已保存到 Markdown: ./output/blockbeats/2026-06-08.md
-  [BlockBeats] 新快讯: 心洲科技旗下Mind Lab开源749B智能体Macaron-V1-Preview
-推送成功: 【BLOCKBEATS - 链上侦探】心洲科技旗下Mind Lab开源749B智能体Macaron-V1-Preview
+  [BlockBeats] 新快讯: 谷歌Gemini API爆天价「幽灵账单」漏洞：删除缓存也扣款、零输出也计费
+推送成功: 【BLOCKBEATS - 链上侦探】谷歌Gemini API爆天价「幽灵账单」漏洞：删除缓存也扣款、零输出也计费
 已保存到 Markdown: ./output/blockbeats/2026-06-08.md
-  [BlockBeats] 新快讯: 高德发布首个3D原生城市世界模型，10分钟低成本重建公里级3D城市
-推送成功: 【BLOCKBEATS - 链上侦探】高德发布首个3D原生城市世界模型，10分钟低成本重建公里级3D城市
+  [BlockBeats] 新快讯: 某巨鲸抛售近8.3万枚HYPE获利约206万美元
+推送成功: 【BLOCKBEATS - 融资】某巨鲸抛售近8.3万枚HYPE获利约206万美元
 已保存到 Markdown: ./output/blockbeats/2026-06-08.md
-  [BlockBeats] 新快讯: iPod之父警告切勿对AI「认知投降」：当代码失去门槛，品味是唯一壁垒
-推送成功: 【BLOCKBEATS - 链上侦探】iPod之父警告切勿对AI「认知投降」：当代码失去门槛，品味是唯一壁垒
-已保存到 Markdown: ./output/blockbeats/2026-06-08.md
-  [BlockBeats] 新快讯: 腾讯拟双币债筹资30亿美元，时隔五年重返美元债市场备战AI转型
-推送成功: 【BLOCKBEATS - 链上侦探】腾讯拟双币债筹资30亿美元，时隔五年重返美元债市场备战AI转型
-已保存到 Markdown: ./output/blockbeats/2026-06-08.md
-  [BlockBeats] 新快讯: 某地址向CEX存入80枚WBTC和6100枚ETH，预计亏损2005万美元
-推送成功: 【BLOCKBEATS - 融资】某地址向CEX存入80枚WBTC和6100枚ETH，预计亏损2005万美元
-已保存到 Markdown: ./output/blockbeats/2026-06-08.md
-  [BlockBeats] 新快讯: 某巨鲸抛售9781枚ETH，同时提交1909枚stETH解质押请求
-推送成功: 【BLOCKBEATS - 融资】某巨鲸抛售9781枚ETH，同时提交1909枚stETH解质押请求
-已保存到 Markdown: ./output/blockbeats/2026-06-08.md
-  [BlockBeats] 新快讯: 今日Hyperliquid未见千万级建仓者看涨BTC，第二大空头于6万美元挂单谋求保本离场
-推送成功: 【BLOCKBEATS - 融资】今日Hyperliquid未见千万级建仓者看涨BTC，第二大空头于6万美元挂单谋求保本离场
-已保存到 Markdown: ./output/blockbeats/2026-06-08.md
-  [BlockBeats] 新快讯: 某巨鲸抢跑SK海力士利好消息抄底，380万美元多仓已录可观盈利
-推送成功: 【BLOCKBEATS - 融资】某巨鲸抢跑SK海力士利好消息抄底，380万美元多仓已录可观盈利
-已保存到 Markdown: ./output/blockbeats/2026-06-08.md
-  [BlockBeats] 新快讯: SK海力士跃居Hyperliquid上TOP 1热门个股，盘后该合约一度续涨4%
-推送成功: 【BLOCKBEATS - 融资】SK海力士跃居Hyperliquid上TOP 1热门个股，盘后该合约一度续涨4%
+  [BlockBeats] 新快讯: 波段巨鲸「nemorino.eth」以1692美元均价增持6329枚ETH
+推送成功: 【BLOCKBEATS - 融资】波段巨鲸「nemorino.eth」以1692美元均价增持6329枚ETH
 已保存到 Markdown: ./output/blockbeats/2026-06-08.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -64,7 +46,7 @@ Call log:
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-Cycle completed. 2026-06-08 14:10:16.600024
+Cycle completed. 2026-06-08 17:56:59.861933
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -74,30 +56,18 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-Timeout 15000ms exceeded.
-Call log:
-  - waiting for locator("table tr, .list-item") to be visible
+for locator("table tr, .list-item") to be visible
 
-2026-06-08 14:09:20,427 - INFO -   List: 透明度评分提升榜
-2026-06-08 14:09:35,730 - ERROR -   Failed to scrape list 透明度评分提升榜: Page.wait_for_selector: Timeout 15000ms exceeded.
-Call log:
-  - waiting for locator("table tr, .list-item") to be visible
-
-2026-06-08 14:09:35,730 - INFO -   List: 交易所透明度排名
-2026-06-08 14:09:51,028 - ERROR -   Failed to scrape list 交易所透明度排名: Page.wait_for_selector: Timeout 15000ms exceeded.
-Call log:
-  - waiting for locator("table tr, .list-item") to be visible
-
-2026-06-08 14:09:51,028 - INFO -   Calendar Events...
-2026-06-08 14:10:06,306 - WARNING -   Calendar events fetch failed: Page.wait_for_selector: Timeout 15000ms exceeded.
+2026-06-08 17:56:34,342 - INFO -   Calendar Events...
+2026-06-08 17:56:49,593 - WARNING -   Calendar events fetch failed: Page.wait_for_selector: Timeout 15000ms exceeded.
 Call log:
   - waiting for locator(".list-table, .list-row") to be visible
 
-2026-06-08 14:10:06,306 - INFO -   Calendar Insight Image...
-2026-06-08 14:10:06,309 - WARNING -     Calendar insight icon not found
-2026-06-08 14:10:06,309 - INFO -   Market Image...
-2026-06-08 14:10:16,587 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+2026-06-08 17:56:49,593 - INFO -   Calendar Insight Image...
+2026-06-08 17:56:49,596 - WARNING -     Calendar insight icon not found
+2026-06-08 17:56:49,596 - INFO -   Market Image...
+2026-06-08 17:56:59,848 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-2026-06-08 14:10:16,600 - INFO - Cycle completed. 2026-06-08 14:10:16.600024
+2026-06-08 17:56:59,861 - INFO - Cycle completed. 2026-06-08 17:56:59.861933

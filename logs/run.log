@@ -1,22 +1,7 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: Founders Fund一年投完46亿美元基金，重仓OpenAI、Anthropic等头部AI及科技企业
-推送成功: 【BLOCKBEATS - 链上侦探】Founders Fund一年投完46亿美元基金，重仓OpenAI、Anthropic等头部AI及科技企业
-已保存到 Markdown: ./output/blockbeats/2026-06-09.md
-  [BlockBeats] 新快讯: 摩根大通招募野村证券国际AI战略负责人，预计7月入职
-推送成功: 【BLOCKBEATS - 链上侦探】摩根大通招募野村证券国际AI战略负责人，预计7月入职
-已保存到 Markdown: ./output/blockbeats/2026-06-09.md
-  [BlockBeats] 新快讯: 「BTC OG内幕巨鲸」代理人开启做多ZEC，建仓均价460美元
-推送成功: 【BLOCKBEATS - 融资】「BTC OG内幕巨鲸」代理人开启做多ZEC，建仓均价460美元
-已保存到 Markdown: ./output/blockbeats/2026-06-09.md
-  [BlockBeats] 新快讯: 某巨鲸加仓标普500指数空单头寸至1.476亿美元
-推送成功: 【BLOCKBEATS - 融资】某巨鲸加仓标普500指数空单头寸至1.476亿美元
-已保存到 Markdown: ./output/blockbeats/2026-06-09.md
-  [BlockBeats] 新快讯: Token of Power遭攻击，损失约158万美元
-推送成功: 【BLOCKBEATS - 融资】Token of Power遭攻击，损失约158万美元
-已保存到 Markdown: ./output/blockbeats/2026-06-09.md
-  [BlockBeats] 新快讯: H黑客再度增发10亿枚代币
-推送成功: 【BLOCKBEATS - 融资】H黑客再度增发10亿枚代币
+  [BlockBeats] 新快讯: Anthropic发布Claude Fable 5供公众使用
+推送成功: 【BLOCKBEATS - 链上侦探】Anthropic发布Claude Fable 5供公众使用
 已保存到 Markdown: ./output/blockbeats/2026-06-09.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -52,7 +37,7 @@ Call log:
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-Cycle completed. 2026-06-09 15:58:19.267095
+Cycle completed. 2026-06-09 18:11:02.503080
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -62,21 +47,12 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-- INFO -   List: 交易所透明度排名
-2026-06-09 15:57:53,710 - ERROR -   Failed to scrape list 交易所透明度排名: Page.wait_for_selector: Timeout 15000ms exceeded.
-Call log:
-  - waiting for locator("table tr, .list-item") to be visible
 
-2026-06-09 15:57:53,710 - INFO -   Calendar Events...
-2026-06-09 15:58:08,980 - WARNING -   Calendar events fetch failed: Page.wait_for_selector: Timeout 15000ms exceeded.
-Call log:
-  - waiting for locator(".list-table, .list-row") to be visible
-
-2026-06-09 15:58:08,980 - INFO -   Calendar Insight Image...
-2026-06-09 15:58:08,982 - WARNING -     Calendar insight icon not found
-2026-06-09 15:58:08,982 - INFO -   Market Image...
-2026-06-09 15:58:19,253 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+2026-06-09 18:10:52,229 - INFO -   Calendar Insight Image...
+2026-06-09 18:10:52,232 - WARNING -     Calendar insight icon not found
+2026-06-09 18:10:52,232 - INFO -   Market Image...
+2026-06-09 18:11:02,489 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-2026-06-09 15:58:19,267 - INFO - Cycle completed. 2026-06-09 15:58:19.267095
+2026-06-09 18:11:02,503 - INFO - Cycle completed. 2026-06-09 18:11:02.503080

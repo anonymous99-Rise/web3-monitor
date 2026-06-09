@@ -1,28 +1,22 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: Claude Code团队：手机端多智能体控制与上下文极简主义正重塑AI研发
-推送成功: 【BLOCKBEATS - 链上侦探】Claude Code团队：手机端多智能体控制与上下文极简主义正重塑AI研发
+  [BlockBeats] 新快讯: Founders Fund一年投完46亿美元基金，重仓OpenAI、Anthropic等头部AI及科技企业
+推送成功: 【BLOCKBEATS - 链上侦探】Founders Fund一年投完46亿美元基金，重仓OpenAI、Anthropic等头部AI及科技企业
 已保存到 Markdown: ./output/blockbeats/2026-06-09.md
-  [BlockBeats] 新快讯: OpenAI研究员Noam Brown倡导引入推理算力曲线，单一跑分已无法衡量前沿大模型
-推送成功: 【BLOCKBEATS - 链上侦探】OpenAI研究员Noam Brown倡导引入推理算力曲线，单一跑分已无法衡量前沿大模型
+  [BlockBeats] 新快讯: 摩根大通招募野村证券国际AI战略负责人，预计7月入职
+推送成功: 【BLOCKBEATS - 链上侦探】摩根大通招募野村证券国际AI战略负责人，预计7月入职
 已保存到 Markdown: ./output/blockbeats/2026-06-09.md
-  [BlockBeats] 新快讯: Perplexity联合哈佛发布智能体部署实测报告：大模型代劳使任务平均耗时缩短87%
-推送成功: 【BLOCKBEATS - 链上侦探】Perplexity联合哈佛发布智能体部署实测报告：大模型代劳使任务平均耗时缩短87%
+  [BlockBeats] 新快讯: 「BTC OG内幕巨鲸」代理人开启做多ZEC，建仓均价460美元
+推送成功: 【BLOCKBEATS - 融资】「BTC OG内幕巨鲸」代理人开启做多ZEC，建仓均价460美元
 已保存到 Markdown: ./output/blockbeats/2026-06-09.md
-  [BlockBeats] 新快讯: 港股将迎「通用决策大模型第一股」，中科闻歌通过港交所聆讯
-推送成功: 【BLOCKBEATS - 链上侦探】港股将迎「通用决策大模型第一股」，中科闻歌通过港交所聆讯
+  [BlockBeats] 新快讯: 某巨鲸加仓标普500指数空单头寸至1.476亿美元
+推送成功: 【BLOCKBEATS - 融资】某巨鲸加仓标普500指数空单头寸至1.476亿美元
 已保存到 Markdown: ./output/blockbeats/2026-06-09.md
-  [BlockBeats] 新快讯: 工具再溜也猜不透人心，美团发布智能体新基准VitaBench 2.0
-推送成功: 【BLOCKBEATS - 链上侦探】工具再溜也猜不透人心，美团发布智能体新基准VitaBench 2.0
+  [BlockBeats] 新快讯: Token of Power遭攻击，损失约158万美元
+推送成功: 【BLOCKBEATS - 融资】Token of Power遭攻击，损失约158万美元
 已保存到 Markdown: ./output/blockbeats/2026-06-09.md
-  [BlockBeats] 新快讯: 腾讯双币债认购订单破60亿美元，时隔五年首度重返美元债市场
-推送成功: 【BLOCKBEATS - 链上侦探】腾讯双币债认购订单破60亿美元，时隔五年首度重返美元债市场
-已保存到 Markdown: ./output/blockbeats/2026-06-09.md
-  [BlockBeats] 新快讯: 贝莱德向Coinbase存入3966枚BTC，约2.444亿美元
-推送成功: 【BLOCKBEATS - 融资】贝莱德向Coinbase存入3966枚BTC，约2.444亿美元
-已保存到 Markdown: ./output/blockbeats/2026-06-09.md
-  [BlockBeats] 新快讯: 美国CPI公布前夕，Hyperliquid巨鲸1.1亿美元做空标普500
-推送成功: 【BLOCKBEATS - 融资】美国CPI公布前夕，Hyperliquid巨鲸1.1亿美元做空标普500
+  [BlockBeats] 新快讯: H黑客再度增发10亿枚代币
+推送成功: 【BLOCKBEATS - 融资】H黑客再度增发10亿枚代币
 已保存到 Markdown: ./output/blockbeats/2026-06-09.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -58,7 +52,7 @@ Call log:
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-Cycle completed. 2026-06-09 12:40:46.400917
+Cycle completed. 2026-06-09 15:58:19.267095
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -68,25 +62,21 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-   Failed to scrape list 透明度评分提升榜: Page.wait_for_selector: Timeout 15000ms exceeded.
+- INFO -   List: 交易所透明度排名
+2026-06-09 15:57:53,710 - ERROR -   Failed to scrape list 交易所透明度排名: Page.wait_for_selector: Timeout 15000ms exceeded.
 Call log:
   - waiting for locator("table tr, .list-item") to be visible
 
-2026-06-09 12:40:05,434 - INFO -   List: 交易所透明度排名
-2026-06-09 12:40:20,764 - ERROR -   Failed to scrape list 交易所透明度排名: Page.wait_for_selector: Timeout 15000ms exceeded.
-Call log:
-  - waiting for locator("table tr, .list-item") to be visible
-
-2026-06-09 12:40:20,764 - INFO -   Calendar Events...
-2026-06-09 12:40:36,076 - WARNING -   Calendar events fetch failed: Page.wait_for_selector: Timeout 15000ms exceeded.
+2026-06-09 15:57:53,710 - INFO -   Calendar Events...
+2026-06-09 15:58:08,980 - WARNING -   Calendar events fetch failed: Page.wait_for_selector: Timeout 15000ms exceeded.
 Call log:
   - waiting for locator(".list-table, .list-row") to be visible
 
-2026-06-09 12:40:36,076 - INFO -   Calendar Insight Image...
-2026-06-09 12:40:36,078 - WARNING -     Calendar insight icon not found
-2026-06-09 12:40:36,078 - INFO -   Market Image...
-2026-06-09 12:40:46,388 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+2026-06-09 15:58:08,980 - INFO -   Calendar Insight Image...
+2026-06-09 15:58:08,982 - WARNING -     Calendar insight icon not found
+2026-06-09 15:58:08,982 - INFO -   Market Image...
+2026-06-09 15:58:19,253 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-2026-06-09 12:40:46,400 - INFO - Cycle completed. 2026-06-09 12:40:46.400917
+2026-06-09 15:58:19,267 - INFO - Cycle completed. 2026-06-09 15:58:19.267095

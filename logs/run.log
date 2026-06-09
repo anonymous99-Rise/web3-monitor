@@ -1,8 +1,5 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: Anthropic发布不具备网络安全功能的Mythos公开版
-推送成功: 【BLOCKBEATS - 链上侦探】Anthropic发布不具备网络安全功能的Mythos公开版
-已保存到 Markdown: ./output/blockbeats/2026-06-09.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
   Category: 项目动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1003&is_hot=1
@@ -37,7 +34,7 @@ Call log:
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-Cycle completed. 2026-06-09 21:00:49.700053
+Cycle completed. 2026-06-09 22:44:07.191859
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -47,12 +44,10 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-
-2026-06-09 21:00:39,423 - INFO -   Calendar Insight Image...
-2026-06-09 21:00:39,425 - WARNING -     Calendar insight icon not found
-2026-06-09 21:00:39,425 - INFO -   Market Image...
-2026-06-09 21:00:49,686 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+   Calendar insight icon not found
+2026-06-09 22:43:56,894 - INFO -   Market Image...
+2026-06-09 22:44:07,178 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-2026-06-09 21:00:49,700 - INFO - Cycle completed. 2026-06-09 21:00:49.700053
+2026-06-09 22:44:07,191 - INFO - Cycle completed. 2026-06-09 22:44:07.191859

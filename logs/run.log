@@ -1,20 +1,5 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: DeepSeek首度显露自建算力基础设施意图，官宣招聘IDC工程师
-推送成功: 【BLOCKBEATS - 链上侦探】DeepSeek首度显露自建算力基础设施意图，官宣招聘IDC工程师
-已保存到 Markdown: ./output/blockbeats/2026-06-10.md
-  [BlockBeats] 新快讯: 美国政府地址再次异动，转出约20.8万美元AAVE
-推送成功: 【BLOCKBEATS - 融资】美国政府地址再次异动，转出约20.8万美元AAVE
-已保存到 Markdown: ./output/blockbeats/2026-06-10.md
-  [BlockBeats] 新快讯: BitMine疑似再度增持25,000枚ETH，价值4093万美元
-推送成功: 【BLOCKBEATS - 融资】BitMine疑似再度增持25,000枚ETH，价值4093万美元
-已保存到 Markdown: ./output/blockbeats/2026-06-10.md
-  [BlockBeats] 新快讯: 灰度向Coinbase Prime存入19548枚ETH，约合3200万美元
-推送成功: 【BLOCKBEATS - 融资】灰度向Coinbase Prime存入19548枚ETH，约合3200万美元
-已保存到 Markdown: ./output/blockbeats/2026-06-10.md
-  [BlockBeats] 新快讯: 美国政府地址向Coinbase Prime转入近10万枚LINK，价值约76.9万美元
-推送成功: 【BLOCKBEATS - 融资】美国政府地址向Coinbase Prime转入近10万枚LINK，价值约76.9万美元
-已保存到 Markdown: ./output/blockbeats/2026-06-10.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
   Category: 项目动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1003&is_hot=1
@@ -49,7 +34,7 @@ Call log:
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-Cycle completed. 2026-06-10 17:59:53.090128
+Cycle completed. 2026-06-10 20:43:15.119161
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -59,20 +44,10 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
- 交易所透明度排名: Page.wait_for_selector: Timeout 15000ms exceeded.
-Call log:
-  - waiting for locator("table tr, .list-item") to be visible
-
-2026-06-10 17:59:27,517 - INFO -   Calendar Events...
-2026-06-10 17:59:42,797 - WARNING -   Calendar events fetch failed: Page.wait_for_selector: Timeout 15000ms exceeded.
-Call log:
-  - waiting for locator(".list-table, .list-row") to be visible
-
-2026-06-10 17:59:42,797 - INFO -   Calendar Insight Image...
-2026-06-10 17:59:42,800 - WARNING -     Calendar insight icon not found
-2026-06-10 17:59:42,800 - INFO -   Market Image...
-2026-06-10 17:59:53,075 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+   Calendar insight icon not found
+2026-06-10 20:43:04,827 - INFO -   Market Image...
+2026-06-10 20:43:15,105 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-2026-06-10 17:59:53,090 - INFO - Cycle completed. 2026-06-10 17:59:53.090128
+2026-06-10 20:43:15,119 - INFO - Cycle completed. 2026-06-10 20:43:15.119161

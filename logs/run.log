@@ -1,115 +1,12 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: Writer发现AI长期记忆副作用：错误率提高2至4倍，模型更易盲从用户偏见
-推送成功: 【BLOCKBEATS - 链上侦探】Writer发现AI长期记忆副作用：错误率提高2至4倍，模型更易盲从用户偏见
-已保存到 Markdown: ./output/blockbeats/2026-06-11.md
-  [BlockBeats] 新快讯: 刚结束发债，亚马逊又向银行借款175亿美元支撑AI支出
-推送成功: 【BLOCKBEATS - 链上侦探】刚结束发债，亚马逊又向银行借款175亿美元支撑AI支出
-已保存到 Markdown: ./output/blockbeats/2026-06-11.md
-  [BlockBeats] 新快讯: 彭博社：Meta完成与Manus运营和数据拆分，以应对监管机构强制拆解交易令
-推送成功: 【BLOCKBEATS - 链上侦探】彭博社：Meta完成与Manus运营和数据拆分，以应对监管机构强制拆解交易令
-已保存到 Markdown: ./output/blockbeats/2026-06-11.md
-  [BlockBeats] 新快讯: 特斯拉前内部黑客团队负责人创办AI网络安全公司Pi，估值1亿美元并获xAI采用
-推送成功: 【BLOCKBEATS - 链上侦探】特斯拉前内部黑客团队负责人创办AI网络安全公司Pi，估值1亿美元并获xAI采用
-已保存到 Markdown: ./output/blockbeats/2026-06-11.md
-  [BlockBeats] 新快讯: 字节系GUI Agent平台Core-Mate获数千万元融资，开源OpenGUI
-推送成功: 【BLOCKBEATS - 链上侦探】字节系GUI Agent平台Core-Mate获数千万元融资，开源OpenGUI
-已保存到 Markdown: ./output/blockbeats/2026-06-11.md
-  [BlockBeats] 新快讯: SemiAnalysis拆解大模型订阅账单：重度用户可致厂商亏损超16倍
-推送成功: 【BLOCKBEATS - 链上侦探】SemiAnalysis拆解大模型订阅账单：重度用户可致厂商亏损超16倍
-已保存到 Markdown: ./output/blockbeats/2026-06-11.md
-  [BlockBeats] 新快讯: 视社交媒体为AI前车之鉴，Anthropic CEO：极度厌恶成瘾模式，必须一次做对
-推送成功: 【BLOCKBEATS - 链上侦探】视社交媒体为AI前车之鉴，Anthropic CEO：极度厌恶成瘾模式，必须一次做对
-已保存到 Markdown: ./output/blockbeats/2026-06-11.md
-  [BlockBeats] 新快讯: OpenAI参投，AI合规初创Poetic以5亿美元估值融资5000万美元
-推送成功: 【BLOCKBEATS - 链上侦探】OpenAI参投，AI合规初创Poetic以5亿美元估值融资5000万美元
-已保存到 Markdown: ./output/blockbeats/2026-06-11.md
-  [BlockBeats] 新快讯: 不屑当「AI时代奥本海默」，Anthropic CEO：他是一个失败者，我更像西拉德
-推送成功: 【BLOCKBEATS - 链上侦探】不屑当「AI时代奥本海默」，Anthropic CEO：他是一个失败者，我更像西拉德
-已保存到 Markdown: ./output/blockbeats/2026-06-11.md
-  [BlockBeats] 新快讯: Anthropic CEO揭秘出走OpenAI内幕：奥特曼价值观表里不一且不诚实
-推送成功: 【BLOCKBEATS - 链上侦探】Anthropic CEO揭秘出走OpenAI内幕：奥特曼价值观表里不一且不诚实
-已保存到 Markdown: ./output/blockbeats/2026-06-11.md
-  [BlockBeats] 新快讯: 某地址2倍做空SPCX，成当前SPCX最大做空地址
-推送成功: 【BLOCKBEATS - 融资】某地址2倍做空SPCX，成当前SPCX最大做空地址
-已保存到 Markdown: ./output/blockbeats/2026-06-11.md
-  [BlockBeats] 新快讯: 巨鲸逆势重仓做多美光，持仓超2300万美元成链上最大多头
-推送成功: 【BLOCKBEATS - 融资】巨鲸逆势重仓做多美光，持仓超2300万美元成链上最大多头
-已保存到 Markdown: ./output/blockbeats/2026-06-11.md
-  [BlockBeats] 新快讯: FTX/Alameda解质押约20万枚SOL，价值约1299万美元
-推送成功: 【BLOCKBEATS - 融资】FTX/Alameda解质押约20万枚SOL，价值约1299万美元
-已保存到 Markdown: ./output/blockbeats/2026-06-11.md
-  Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
-  Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
-  Category: 项目动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1003&is_hot=1
-  Category: 市场观点 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1002&is_hot=1
-  Category: 链上数据 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1001&is_hot=1
-  Category: 融资动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1000&is_hot=1
-Scraping RootData...
-  List: Top 100 项目
-  Failed to scrape list Top 100 项目: Page.wait_for_selector: Timeout 15000ms exceeded.
+Error in monitor loop: Page.goto: Navigation to "https://www.theblockbeats.info/newsflash?type=1" is interrupted by another navigation to "chrome-error://chromewebdata/"
 Call log:
-  - waiting for locator("table tr, .list-item") to be visible
+  - navigating to "https://www.theblockbeats.info/newsflash?type=1", waiting until "domcontentloaded"
 
-  List: 透明度评分提升榜
-  Failed to scrape list 透明度评分提升榜: Page.wait_for_selector: Timeout 15000ms exceeded.
-Call log:
-  - waiting for locator("table tr, .list-item") to be visible
-
-  List: 交易所透明度排名
-  Failed to scrape list 交易所透明度排名: Page.wait_for_selector: Timeout 15000ms exceeded.
-Call log:
-  - waiting for locator("table tr, .list-item") to be visible
-
-  Calendar Events...
-  Calendar events fetch failed: Page.wait_for_selector: Timeout 15000ms exceeded.
-Call log:
-  - waiting for locator(".list-table, .list-row") to be visible
-
-  Calendar Insight Image...
-    Calendar insight icon not found
-  Market Image...
-    Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
-Call log:
-  - waiting for locator(".v-data-table, table, .top-gainers") to be visible
-
-Cycle completed. 2026-06-11 10:29:26.729437
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
   Loaded RootData cookies
 Scraping BlockBeats...
   Category: 预测市场 - https://www.theblockbeats.info/newsflash?type=1
-  Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
-  Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
-Scraping TechFlow...
-: 融资动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1000&is_hot=1
-2026-06-11 10:28:12,515 - INFO - Scraping RootData...
-2026-06-11 10:28:12,541 - INFO -   List: Top 100 项目
-2026-06-11 10:28:30,597 - ERROR -   Failed to scrape list Top 100 项目: Page.wait_for_selector: Timeout 15000ms exceeded.
-Call log:
-  - waiting for locator("table tr, .list-item") to be visible
-
-2026-06-11 10:28:30,598 - INFO -   List: 透明度评分提升榜
-2026-06-11 10:28:45,885 - ERROR -   Failed to scrape list 透明度评分提升榜: Page.wait_for_selector: Timeout 15000ms exceeded.
-Call log:
-  - waiting for locator("table tr, .list-item") to be visible
-
-2026-06-11 10:28:45,885 - INFO -   List: 交易所透明度排名
-2026-06-11 10:29:01,169 - ERROR -   Failed to scrape list 交易所透明度排名: Page.wait_for_selector: Timeout 15000ms exceeded.
-Call log:
-  - waiting for locator("table tr, .list-item") to be visible
-
-2026-06-11 10:29:01,169 - INFO -   Calendar Events...
-2026-06-11 10:29:16,449 - WARNING -   Calendar events fetch failed: Page.wait_for_selector: Timeout 15000ms exceeded.
-Call log:
-  - waiting for locator(".list-table, .list-row") to be visible
-
-2026-06-11 10:29:16,449 - INFO -   Calendar Insight Image...
-2026-06-11 10:29:16,451 - WARNING -     Calendar insight icon not found
-2026-06-11 10:29:16,451 - INFO -   Market Image...
-2026-06-11 10:29:26,717 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
-Call log:
-  - waiting for locator(".v-data-table, table, .top-gainers") to be visible
-
-2026-06-11 10:29:26,729 - INFO - Cycle completed. 2026-06-11 10:29:26.729437

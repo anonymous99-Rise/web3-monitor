@@ -1,12 +1,96 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-Error in monitor loop: Page.goto: Navigation to "https://www.theblockbeats.info/newsflash?type=1" is interrupted by another navigation to "chrome-error://chromewebdata/"
+  [BlockBeats] 新快讯: Anthropic正寻求签署首批数据中心租赁协议，并向谷歌寻求资金支持
+推送成功: 【BLOCKBEATS - 链上侦探】Anthropic正寻求签署首批数据中心租赁协议，并向谷歌寻求资金支持
+已保存到 Markdown: ./output/blockbeats/2026-06-11.md
+  [BlockBeats] 新快讯: OpenAI宣布收购Ona，以扩展Codex安全云执行与长时间代理能力
+推送成功: 【BLOCKBEATS - 链上侦探】OpenAI宣布收购Ona，以扩展Codex安全云执行与长时间代理能力
+已保存到 Markdown: ./output/blockbeats/2026-06-11.md
+  [BlockBeats] 新快讯: 谷歌据悉正与三星洽谈，共同研发下一代芯片
+推送成功: 【BLOCKBEATS - 链上侦探】谷歌据悉正与三星洽谈，共同研发下一代芯片
+已保存到 Markdown: ./output/blockbeats/2026-06-11.md
+  [BlockBeats] 新快讯: MiniMax开源Blackwell专属注意力库，M3权重预计本周五发布
+推送成功: 【BLOCKBEATS - 链上侦探】MiniMax开源Blackwell专属注意力库，M3权重预计本周五发布
+已保存到 Markdown: ./output/blockbeats/2026-06-11.md
+  [BlockBeats] 新快讯: 让AI自己改训练代码，Recursive刷新三项算法优化纪录
+推送成功: 【BLOCKBEATS - 链上侦探】让AI自己改训练代码，Recursive刷新三项算法优化纪录
+已保存到 Markdown: ./output/blockbeats/2026-06-11.md
+  [BlockBeats] 新快讯: Hermes Agent上线网页配置器，支持一站式可视化构建
+推送成功: 【BLOCKBEATS - 链上侦探】Hermes Agent上线网页配置器，支持一站式可视化构建
+已保存到 Markdown: ./output/blockbeats/2026-06-11.md
+  [BlockBeats] 新快讯: Vercel：DeepSeek的Token调用量超过OpenAI，成本仅占总支出1%
+推送成功: 【BLOCKBEATS - 链上侦探】Vercel：DeepSeek的Token调用量超过OpenAI，成本仅占总支出1%
+已保存到 Markdown: ./output/blockbeats/2026-06-11.md
+  [BlockBeats] 新快讯: 某新建钱包从Binance提取492枚BTC，约合3106万美元
+推送成功: 【BLOCKBEATS - 融资】某新建钱包从Binance提取492枚BTC，约合3106万美元
+已保存到 Markdown: ./output/blockbeats/2026-06-11.md
+  [BlockBeats] 新快讯: 贝莱德向Coinbase存入2100枚BTC和12,679枚ETH
+推送成功: 【BLOCKBEATS - 融资】贝莱德向Coinbase存入2100枚BTC和12,679枚ETH
+已保存到 Markdown: ./output/blockbeats/2026-06-11.md
+  Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
+  Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
+  Category: 项目动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1003&is_hot=1
+  Category: 市场观点 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1002&is_hot=1
+  Category: 链上数据 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1001&is_hot=1
+  Category: 融资动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1000&is_hot=1
+Scraping RootData...
+  List: Top 100 项目
+  Failed to scrape list Top 100 项目: Page.wait_for_selector: Timeout 15000ms exceeded.
 Call log:
-  - navigating to "https://www.theblockbeats.info/newsflash?type=1", waiting until "domcontentloaded"
+  - waiting for locator("table tr, .list-item") to be visible
 
+  List: 透明度评分提升榜
+  Failed to scrape list 透明度评分提升榜: Page.wait_for_selector: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator("table tr, .list-item") to be visible
+
+  List: 交易所透明度排名
+  Failed to scrape list 交易所透明度排名: Page.wait_for_selector: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator("table tr, .list-item") to be visible
+
+  Calendar Events...
+  Calendar events fetch failed: Page.wait_for_selector: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator(".list-table, .list-row") to be visible
+
+  Calendar Insight Image...
+    Calendar insight icon not found
+  Market Image...
+    Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(".v-data-table, table, .top-gainers") to be visible
+
+Cycle completed. 2026-06-11 21:23:48.496171
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
   Loaded RootData cookies
 Scraping BlockBeats...
   Category: 预测市场 - https://www.theblockbeats.info/newsflash?type=1
+  Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
+  Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
+Scraping TechFlow...
+2026-06-11 21:22:52,378 - INFO -   List: 透明度评分提升榜
+2026-06-11 21:23:07,665 - ERROR -   Failed to scrape list 透明度评分提升榜: Page.wait_for_selector: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator("table tr, .list-item") to be visible
+
+2026-06-11 21:23:07,665 - INFO -   List: 交易所透明度排名
+2026-06-11 21:23:22,948 - ERROR -   Failed to scrape list 交易所透明度排名: Page.wait_for_selector: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator("table tr, .list-item") to be visible
+
+2026-06-11 21:23:22,948 - INFO -   Calendar Events...
+2026-06-11 21:23:38,211 - WARNING -   Calendar events fetch failed: Page.wait_for_selector: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator(".list-table, .list-row") to be visible
+
+2026-06-11 21:23:38,211 - INFO -   Calendar Insight Image...
+2026-06-11 21:23:38,213 - WARNING -     Calendar insight icon not found
+2026-06-11 21:23:38,213 - INFO -   Market Image...
+2026-06-11 21:23:48,483 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(".v-data-table, table, .top-gainers") to be visible
+
+2026-06-11 21:23:48,496 - INFO - Cycle completed. 2026-06-11 21:23:48.496171

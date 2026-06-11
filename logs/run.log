@@ -1,5 +1,11 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
+  [BlockBeats] 新快讯: 美政府从FTX案没收资金中转移约21.6万美元资产，涉及LINK、AAVE等
+推送成功: 【BLOCKBEATS - 融资】美政府从FTX案没收资金中转移约21.6万美元资产，涉及LINK、AAVE等
+已保存到 Markdown: ./output/blockbeats/2026-06-11.md
+  [BlockBeats] 新快讯: 某新地址向Hyperliquid存入300万美元USDC，持有超3.6万枚ETH多单
+推送成功: 【BLOCKBEATS - 融资】某新地址向Hyperliquid存入300万美元USDC，持有超3.6万枚ETH多单
+已保存到 Markdown: ./output/blockbeats/2026-06-11.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
   Category: 项目动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1003&is_hot=1
@@ -34,7 +40,7 @@ Call log:
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-Cycle completed. 2026-06-10 22:53:39.537718
+Cycle completed. 2026-06-11 00:18:45.183720
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -44,10 +50,15 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-   Calendar insight icon not found
-2026-06-10 22:53:29,277 - INFO -   Market Image...
-2026-06-10 22:53:39,525 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+imeout 15000ms exceeded.
+Call log:
+  - waiting for locator(".list-table, .list-row") to be visible
+
+2026-06-11 00:18:34,894 - INFO -   Calendar Insight Image...
+2026-06-11 00:18:34,896 - WARNING -     Calendar insight icon not found
+2026-06-11 00:18:34,896 - INFO -   Market Image...
+2026-06-11 00:18:45,171 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-2026-06-10 22:53:39,537 - INFO - Cycle completed. 2026-06-10 22:53:39.537718
+2026-06-11 00:18:45,183 - INFO - Cycle completed. 2026-06-11 00:18:45.183720

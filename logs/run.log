@@ -1,16 +1,7 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 智谱推出GLM-5.2，下周上线API并开源
-推送成功: 【BLOCKBEATS - 链上侦探】智谱推出GLM-5.2，下周上线API并开源
-已保存到 Markdown: ./output/blockbeats/2026-06-13.md
-  [BlockBeats] 新快讯: a16z联创：反对扼杀AI创新的监管，但支持建立新时代的信任与安全护栏
-推送成功: 【BLOCKBEATS - 链上侦探】a16z联创：反对扼杀AI创新的监管，但支持建立新时代的信任与安全护栏
-已保存到 Markdown: ./output/blockbeats/2026-06-13.md
-  [BlockBeats] 新快讯: 知情人士：SK海力士倾向选择在纳斯达克挂牌上市
-推送成功: 【BLOCKBEATS - 链上侦探】知情人士：SK海力士倾向选择在纳斯达克挂牌上市
-已保存到 Markdown: ./output/blockbeats/2026-06-13.md
-  [BlockBeats] 新快讯: SIREN控盘者抛售1.18亿枚代币致币价跌超70%
-推送成功: 【BLOCKBEATS - 融资】SIREN控盘者抛售1.18亿枚代币致币价跌超70%
+  [BlockBeats] 新快讯: Hyperliquid永续合约未平仓头寸市场份额达8.2%，创历史新高
+推送成功: 【BLOCKBEATS - 融资】Hyperliquid永续合约未平仓头寸市场份额达8.2%，创历史新高
 已保存到 Markdown: ./output/blockbeats/2026-06-13.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -46,7 +37,7 @@ Call log:
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-Cycle completed. 2026-06-13 10:32:11.877748
+Cycle completed. 2026-06-13 12:28:30.488200
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -56,18 +47,12 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-for locator("table tr, .list-item") to be visible
 
-2026-06-13 10:31:46,324 - INFO -   Calendar Events...
-2026-06-13 10:32:01,589 - WARNING -   Calendar events fetch failed: Page.wait_for_selector: Timeout 15000ms exceeded.
-Call log:
-  - waiting for locator(".list-table, .list-row") to be visible
-
-2026-06-13 10:32:01,589 - INFO -   Calendar Insight Image...
-2026-06-13 10:32:01,591 - WARNING -     Calendar insight icon not found
-2026-06-13 10:32:01,591 - INFO -   Market Image...
-2026-06-13 10:32:11,865 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+2026-06-13 12:28:20,196 - INFO -   Calendar Insight Image...
+2026-06-13 12:28:20,199 - WARNING -     Calendar insight icon not found
+2026-06-13 12:28:20,199 - INFO -   Market Image...
+2026-06-13 12:28:30,475 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-2026-06-13 10:32:11,877 - INFO - Cycle completed. 2026-06-13 10:32:11.877748
+2026-06-13 12:28:30,488 - INFO - Cycle completed. 2026-06-13 12:28:30.488200

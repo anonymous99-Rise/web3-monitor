@@ -1,13 +1,19 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 扎克伯格承认Meta AI转型过程中出现失误，称今年不会再进行大规模裁员
-推送成功: 【BLOCKBEATS - 链上侦探】扎克伯格承认Meta AI转型过程中出现失误，称今年不会再进行大规模裁员
+  [BlockBeats] 新快讯: 智谱AI海外平台被曝缓存计费异常，Token扣费额度放大近19倍
+推送成功: 【BLOCKBEATS - 链上侦探】智谱AI海外平台被曝缓存计费异常，Token扣费额度放大近19倍
 已保存到 Markdown: ./output/blockbeats/2026-06-14.md
-  [BlockBeats] 新快讯: 谷歌发布OKF规范，标准化Andrej Karpathy的「LLM-Wiki」模式
-推送成功: 【BLOCKBEATS - 链上侦探】谷歌发布OKF规范，标准化Andrej Karpathy的「LLM-Wiki」模式
+  [BlockBeats] 新快讯: 剑指微信！支付宝拟引入AI助手「阿宝」，叫车点餐买基金一站式搞定
+推送成功: 【BLOCKBEATS - 链上侦探】剑指微信！支付宝拟引入AI助手「阿宝」，叫车点餐买基金一站式搞定
 已保存到 Markdown: ./output/blockbeats/2026-06-14.md
-  [BlockBeats] 新快讯: 某巨鲸提取150万枚TRUMP并转移至新地址，价值约316万美元
-推送成功: 【BLOCKBEATS - 融资】某巨鲸提取150万枚TRUMP并转移至新地址，价值约316万美元
+  [BlockBeats] 新快讯: 蚂蚁集团正秘密测试AI版支付宝
+推送成功: 【BLOCKBEATS - 链上侦探】蚂蚁集团正秘密测试AI版支付宝
+已保存到 Markdown: ./output/blockbeats/2026-06-14.md
+  [BlockBeats] 新快讯: BIT关联地址向Binance存入280万枚ASTER，价值约177万美元
+推送成功: 【BLOCKBEATS - 融资】BIT关联地址向Binance存入280万枚ASTER，价值约177万美元
+已保存到 Markdown: ./output/blockbeats/2026-06-14.md
+  [BlockBeats] 新快讯: 「BTC OG内幕巨鲸」代理人开出约2454万美元ZEC限价买单，计划买入均价409.12美元
+推送成功: 【BLOCKBEATS - 融资】「BTC OG内幕巨鲸」代理人开出约2454万美元ZEC限价买单，计划买入均价409.12美元
 已保存到 Markdown: ./output/blockbeats/2026-06-14.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -43,7 +49,7 @@ Call log:
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-Cycle completed. 2026-06-14 08:43:36.108255
+Cycle completed. 2026-06-14 11:33:33.594672
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -53,16 +59,20 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-ts...
-2026-06-14 08:43:25,826 - WARNING -   Calendar events fetch failed: Page.wait_for_selector: Timeout 15000ms exceeded.
+ 交易所透明度排名: Page.wait_for_selector: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator("table tr, .list-item") to be visible
+
+2026-06-14 11:33:08,061 - INFO -   Calendar Events...
+2026-06-14 11:33:23,319 - WARNING -   Calendar events fetch failed: Page.wait_for_selector: Timeout 15000ms exceeded.
 Call log:
   - waiting for locator(".list-table, .list-row") to be visible
 
-2026-06-14 08:43:25,826 - INFO -   Calendar Insight Image...
-2026-06-14 08:43:25,829 - WARNING -     Calendar insight icon not found
-2026-06-14 08:43:25,829 - INFO -   Market Image...
-2026-06-14 08:43:36,096 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+2026-06-14 11:33:23,319 - INFO -   Calendar Insight Image...
+2026-06-14 11:33:23,321 - WARNING -     Calendar insight icon not found
+2026-06-14 11:33:23,321 - INFO -   Market Image...
+2026-06-14 11:33:33,582 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-2026-06-14 08:43:36,108 - INFO - Cycle completed. 2026-06-14 08:43:36.108255
+2026-06-14 11:33:33,594 - INFO - Cycle completed. 2026-06-14 11:33:33.594672

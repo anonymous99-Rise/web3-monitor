@@ -1,7 +1,10 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 某巨鲸平仓3903万美元ETH空单，持仓仅18小时
-推送成功: 【BLOCKBEATS - 融资】某巨鲸平仓3903万美元ETH空单，持仓仅18小时
+  [BlockBeats] 新快讯: USDC Treasury在Solana链上新增铸造2.5亿枚USDC
+推送成功: 【BLOCKBEATS - 融资】USDC Treasury在Solana链上新增铸造2.5亿枚USDC
+已保存到 Markdown: ./output/blockbeats/2026-06-14.md
+  [BlockBeats] 新快讯: 「SIREN控盘者」一天半内抛售3.6亿枚代币，仍持有总量的44%
+推送成功: 【BLOCKBEATS - 融资】「SIREN控盘者」一天半内抛售3.6亿枚代币，仍持有总量的44%
 已保存到 Markdown: ./output/blockbeats/2026-06-14.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -37,7 +40,7 @@ Call log:
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-Cycle completed. 2026-06-14 14:07:23.938627
+Cycle completed. 2026-06-14 16:25:09.486148
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -47,12 +50,15 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
+imeout 15000ms exceeded.
+Call log:
+  - waiting for locator(".list-table, .list-row") to be visible
 
-2026-06-14 14:07:13,672 - INFO -   Calendar Insight Image...
-2026-06-14 14:07:13,674 - WARNING -     Calendar insight icon not found
-2026-06-14 14:07:13,674 - INFO -   Market Image...
-2026-06-14 14:07:23,927 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+2026-06-14 16:24:59,217 - INFO -   Calendar Insight Image...
+2026-06-14 16:24:59,219 - WARNING -     Calendar insight icon not found
+2026-06-14 16:24:59,219 - INFO -   Market Image...
+2026-06-14 16:25:09,474 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-2026-06-14 14:07:23,938 - INFO - Cycle completed. 2026-06-14 14:07:23.938627
+2026-06-14 16:25:09,486 - INFO - Cycle completed. 2026-06-14 16:25:09.486148

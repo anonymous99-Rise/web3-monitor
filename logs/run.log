@@ -1,5 +1,38 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
+  [BlockBeats] 新快讯: 退役手机建低碳云：谷歌计划用2000部旧Pixel提供50台服务器算力
+推送成功: 【BLOCKBEATS - 链上侦探】退役手机建低碳云：谷歌计划用2000部旧Pixel提供50台服务器算力
+已保存到 Markdown: ./output/blockbeats/2026-06-14.md
+  [BlockBeats] 新快讯: Databricks开源元排布工具Omnigent，支持跨Agent组合与安全管控
+推送成功: 【BLOCKBEATS - 链上侦探】Databricks开源元排布工具Omnigent，支持跨Agent组合与安全管控
+已保存到 Markdown: ./output/blockbeats/2026-06-14.md
+  [BlockBeats] 新快讯: 共享记忆正在毁掉多智能体？DecentMem准确率提升24%还省下一半Token
+推送成功: 【BLOCKBEATS - 链上侦探】共享记忆正在毁掉多智能体？DecentMem准确率提升24%还省下一半Token
+已保存到 Markdown: ./output/blockbeats/2026-06-14.md
+  [BlockBeats] 新快讯: OpenRouter推出Fusion复合模型：多模型并联合成，半价匹敌Fable 5
+推送成功: 【BLOCKBEATS - 链上侦探】OpenRouter推出Fusion复合模型：多模型并联合成，半价匹敌Fable 5
+已保存到 Markdown: ./output/blockbeats/2026-06-14.md
+  [BlockBeats] 新快讯: 里约市政府开源397B大模型，隐式推理让能力增幅接近翻倍
+推送成功: 【BLOCKBEATS - 链上侦探】里约市政府开源397B大模型，隐式推理让能力增幅接近翻倍
+已保存到 Markdown: ./output/blockbeats/2026-06-14.md
+  [BlockBeats] 新快讯: 观点：AI禁令撕开博弈防线，万亿巨头正迎来掐断大模型自主分发通路的历史契机
+推送成功: 【BLOCKBEATS - 链上侦探】观点：AI禁令撕开博弈防线，万亿巨头正迎来掐断大模型自主分发通路的历史契机
+已保存到 Markdown: ./output/blockbeats/2026-06-14.md
+  [BlockBeats] 新快讯: Anthropic最强AI连夜「猝死」内幕：大股东亚马逊背刺、白宫下90分钟死亡通牒
+推送成功: 【BLOCKBEATS - 链上侦探】Anthropic最强AI连夜「猝死」内幕：大股东亚马逊背刺、白宫下90分钟死亡通牒
+已保存到 Markdown: ./output/blockbeats/2026-06-14.md
+  [BlockBeats] 新快讯: 亚马逊CEO向美官员汇报后，特朗普政府收紧Anthropic模型使用限制
+推送成功: 【BLOCKBEATS - 链上侦探】亚马逊CEO向美官员汇报后，特朗普政府收紧Anthropic模型使用限制
+已保存到 Markdown: ./output/blockbeats/2026-06-14.md
+  [BlockBeats] 新快讯: 某新地址高杠杆做空2.3万枚ETH，爆仓价1863.2美元
+推送成功: 【BLOCKBEATS - 融资】某新地址高杠杆做空2.3万枚ETH，爆仓价1863.2美元
+已保存到 Markdown: ./output/blockbeats/2026-06-14.md
+  [BlockBeats] 新快讯: SIREN控盘地址14小时抛售2.01亿枚代币，约2770万枚USDT流入CEX
+推送成功: 【BLOCKBEATS - 融资】SIREN控盘地址14小时抛售2.01亿枚代币，约2770万枚USDT流入CEX
+已保存到 Markdown: ./output/blockbeats/2026-06-14.md
+  [BlockBeats] 新快讯: Garrett Jin再度加仓ZEC多单至46,013枚，浮亏超95万美元
+推送成功: 【BLOCKBEATS - 融资】Garrett Jin再度加仓ZEC多单至46,013枚，浮亏超95万美元
+已保存到 Markdown: ./output/blockbeats/2026-06-14.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
   Category: 项目动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1003&is_hot=1
@@ -34,7 +67,7 @@ Call log:
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-Cycle completed. 2026-06-13 23:07:57.322529
+Cycle completed. 2026-06-14 04:15:05.314869
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -44,10 +77,31 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-   Calendar insight icon not found
-2026-06-13 23:07:47,024 - INFO -   Market Image...
-2026-06-13 23:07:57,312 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+
+2026-06-14 04:14:09,215 - ERROR -   Failed to scrape list Top 100 项目: Page.wait_for_selector: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator("table tr, .list-item") to be visible
+
+2026-06-14 04:14:09,215 - INFO -   List: 透明度评分提升榜
+2026-06-14 04:14:24,496 - ERROR -   Failed to scrape list 透明度评分提升榜: Page.wait_for_selector: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator("table tr, .list-item") to be visible
+
+2026-06-14 04:14:24,496 - INFO -   List: 交易所透明度排名
+2026-06-14 04:14:39,774 - ERROR -   Failed to scrape list 交易所透明度排名: Page.wait_for_selector: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator("table tr, .list-item") to be visible
+
+2026-06-14 04:14:39,774 - INFO -   Calendar Events...
+2026-06-14 04:14:55,042 - WARNING -   Calendar events fetch failed: Page.wait_for_selector: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator(".list-table, .list-row") to be visible
+
+2026-06-14 04:14:55,042 - INFO -   Calendar Insight Image...
+2026-06-14 04:14:55,045 - WARNING -     Calendar insight icon not found
+2026-06-14 04:14:55,045 - INFO -   Market Image...
+2026-06-14 04:15:05,302 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-2026-06-13 23:07:57,322 - INFO - Cycle completed. 2026-06-13 23:07:57.322529
+2026-06-14 04:15:05,314 - INFO - Cycle completed. 2026-06-14 04:15:05.314869

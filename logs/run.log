@@ -1,7 +1,43 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: Anthropic本周末已与特朗普政府官员会面，寻求解除模型出口限制
-推送成功: 【BLOCKBEATS - 链上侦探】Anthropic本周末已与特朗普政府官员会面，寻求解除模型出口限制
+  [BlockBeats] 新快讯: 传字节跳动谈判采购天数智芯5万颗AI芯片，拟用于豆包推理
+推送成功: 【BLOCKBEATS - 链上侦探】传字节跳动谈判采购天数智芯5万颗AI芯片，拟用于豆包推理
+已保存到 Markdown: ./output/blockbeats/2026-06-15.md
+  [BlockBeats] 新快讯: 台积电正构建PLP量产体系，可显著提升AI芯片生产效率
+推送成功: 【BLOCKBEATS - 链上侦探】台积电正构建PLP量产体系，可显著提升AI芯片生产效率
+已保存到 Markdown: ./output/blockbeats/2026-06-15.md
+  [BlockBeats] 新快讯: 智谱旗舰模型GLM-5.2全量开放，股价盘中一度暴涨近48%后冲高回落
+推送成功: 【BLOCKBEATS - 链上侦探】智谱旗舰模型GLM-5.2全量开放，股价盘中一度暴涨近48%后冲高回落
+已保存到 Markdown: ./output/blockbeats/2026-06-15.md
+  [BlockBeats] 新快讯: 智谱：本公司并不知悉任何须予公布或披露的内幕消息
+推送成功: 【BLOCKBEATS - 链上侦探】智谱：本公司并不知悉任何须予公布或披露的内幕消息
+已保存到 Markdown: ./output/blockbeats/2026-06-15.md
+  [BlockBeats] 新快讯: 里约自研大模型被揭套壳，直接线性合并中国开源项目权重
+推送成功: 【BLOCKBEATS - 链上侦探】里约自研大模型被揭套壳，直接线性合并中国开源项目权重
+已保存到 Markdown: ./output/blockbeats/2026-06-15.md
+  [BlockBeats] 新快讯: 微信支付发布AI工具箱2.0，图表全部转为Mermaid让AI消耗Token减半
+推送成功: 【BLOCKBEATS - 链上侦探】微信支付发布AI工具箱2.0，图表全部转为Mermaid让AI消耗Token减半
+已保存到 Markdown: ./output/blockbeats/2026-06-15.md
+  [BlockBeats] 新快讯: Anthropic派高管与技术骨干赴华盛顿，紧急斡旋最强模型Mythos/Fable被封禁出口事件
+推送成功: 【BLOCKBEATS - 链上侦探】Anthropic派高管与技术骨干赴华盛顿，紧急斡旋最强模型Mythos/Fable被封禁出口事件
+已保存到 Markdown: ./output/blockbeats/2026-06-15.md
+  [BlockBeats] 新快讯: 某巨鲸272万美元全仓做多SPCX，预期加入纳指100前股价走强
+推送成功: 【BLOCKBEATS - 融资】某巨鲸272万美元全仓做多SPCX，预期加入纳指100前股价走强
+已保存到 Markdown: ./output/blockbeats/2026-06-15.md
+  [BlockBeats] 新快讯: 某巨鲸40倍追涨做多ETH，规模达4920万美元
+推送成功: 【BLOCKBEATS - 融资】某巨鲸40倍追涨做多ETH，规模达4920万美元
+已保存到 Markdown: ./output/blockbeats/2026-06-15.md
+  [BlockBeats] 新快讯: 社区挖出太空狗吉祥物现身SpaceX IPO，同名Meme币ASTEROID拉涨140%
+推送成功: 【BLOCKBEATS - 融资】社区挖出太空狗吉祥物现身SpaceX IPO，同名Meme币ASTEROID拉涨140%
+已保存到 Markdown: ./output/blockbeats/2026-06-15.md
+  [BlockBeats] 新快讯: Hyperliquid美股存储板块夜盘率先拉涨，MU与SNDK上涨逾4%
+推送成功: 【BLOCKBEATS - 融资】Hyperliquid美股存储板块夜盘率先拉涨，MU与SNDK上涨逾4%
+已保存到 Markdown: ./output/blockbeats/2026-06-15.md
+  [BlockBeats] 新快讯: 「SIREN控盘者」两天抛售总量94%的代币，币价狂跌96%
+推送成功: 【BLOCKBEATS - 融资】「SIREN控盘者」两天抛售总量94%的代币，币价狂跌96%
+已保存到 Markdown: ./output/blockbeats/2026-06-15.md
+  [BlockBeats] 新快讯: HYPE早间拉涨6%，最大多仓持有者已浮盈3400万美元
+推送成功: 【BLOCKBEATS - 融资】HYPE早间拉涨6%，最大多仓持有者已浮盈3400万美元
 已保存到 Markdown: ./output/blockbeats/2026-06-15.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -37,7 +73,7 @@ Call log:
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-Cycle completed. 2026-06-15 00:13:40.604211
+Cycle completed. 2026-06-15 06:27:14.422788
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -47,12 +83,33 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
+: 融资动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1000&is_hot=1
+2026-06-15 06:26:00,348 - INFO - Scraping RootData...
+2026-06-15 06:26:00,373 - INFO -   List: Top 100 项目
+2026-06-15 06:26:18,302 - ERROR -   Failed to scrape list Top 100 项目: Page.wait_for_selector: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator("table tr, .list-item") to be visible
 
-2026-06-15 00:13:30,307 - INFO -   Calendar Insight Image...
-2026-06-15 00:13:30,310 - WARNING -     Calendar insight icon not found
-2026-06-15 00:13:30,310 - INFO -   Market Image...
-2026-06-15 00:13:40,592 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+2026-06-15 06:26:18,303 - INFO -   List: 透明度评分提升榜
+2026-06-15 06:26:33,585 - ERROR -   Failed to scrape list 透明度评分提升榜: Page.wait_for_selector: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator("table tr, .list-item") to be visible
+
+2026-06-15 06:26:33,585 - INFO -   List: 交易所透明度排名
+2026-06-15 06:26:48,864 - ERROR -   Failed to scrape list 交易所透明度排名: Page.wait_for_selector: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator("table tr, .list-item") to be visible
+
+2026-06-15 06:26:48,864 - INFO -   Calendar Events...
+2026-06-15 06:27:04,146 - WARNING -   Calendar events fetch failed: Page.wait_for_selector: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator(".list-table, .list-row") to be visible
+
+2026-06-15 06:27:04,146 - INFO -   Calendar Insight Image...
+2026-06-15 06:27:04,148 - WARNING -     Calendar insight icon not found
+2026-06-15 06:27:04,148 - INFO -   Market Image...
+2026-06-15 06:27:14,412 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-2026-06-15 00:13:40,604 - INFO - Cycle completed. 2026-06-15 00:13:40.604211
+2026-06-15 06:27:14,422 - INFO - Cycle completed. 2026-06-15 06:27:14.422788

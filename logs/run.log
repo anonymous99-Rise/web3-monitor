@@ -1,5 +1,8 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
+  [BlockBeats] 新快讯: Anthropic本周末已与特朗普政府官员会面，寻求解除模型出口限制
+推送成功: 【BLOCKBEATS - 链上侦探】Anthropic本周末已与特朗普政府官员会面，寻求解除模型出口限制
+已保存到 Markdown: ./output/blockbeats/2026-06-15.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
   Category: 项目动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1003&is_hot=1
@@ -34,7 +37,7 @@ Call log:
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-Cycle completed. 2026-06-14 22:14:02.153836
+Cycle completed. 2026-06-15 00:13:40.604211
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -44,10 +47,12 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-   Calendar insight icon not found
-2026-06-14 22:13:51,872 - INFO -   Market Image...
-2026-06-14 22:14:02,140 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+
+2026-06-15 00:13:30,307 - INFO -   Calendar Insight Image...
+2026-06-15 00:13:30,310 - WARNING -     Calendar insight icon not found
+2026-06-15 00:13:30,310 - INFO -   Market Image...
+2026-06-15 00:13:40,592 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-2026-06-14 22:14:02,153 - INFO - Cycle completed. 2026-06-14 22:14:02.153836
+2026-06-15 00:13:40,604 - INFO - Cycle completed. 2026-06-15 00:13:40.604211

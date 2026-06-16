@@ -1,8 +1,5 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 「麻吉」持续加仓做多ETH，现浮盈逾32万美元
-推送成功: 【BLOCKBEATS - 融资】「麻吉」持续加仓做多ETH，现浮盈逾32万美元
-已保存到 Markdown: ./output/blockbeats/2026-06-16.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
   Category: 项目动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1003&is_hot=1
@@ -37,7 +34,7 @@ Call log:
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-Cycle completed. 2026-06-16 19:39:32.288828
+Cycle completed. 2026-06-16 22:15:09.820390
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -47,12 +44,10 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-
-2026-06-16 19:39:22,016 - INFO -   Calendar Insight Image...
-2026-06-16 19:39:22,018 - WARNING -     Calendar insight icon not found
-2026-06-16 19:39:22,019 - INFO -   Market Image...
-2026-06-16 19:39:32,275 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+   Calendar insight icon not found
+2026-06-16 22:14:59,549 - INFO -   Market Image...
+2026-06-16 22:15:09,807 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-2026-06-16 19:39:32,288 - INFO - Cycle completed. 2026-06-16 19:39:32.288828
+2026-06-16 22:15:09,820 - INFO - Cycle completed. 2026-06-16 22:15:09.820390

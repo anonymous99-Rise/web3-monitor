@@ -1,40 +1,7 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: Limitless Labs完成2000万美元A轮融资，用于扩展「物理AI」基础模型及精密制造平台
-推送成功: 【BLOCKBEATS - 链上侦探】Limitless Labs完成2000万美元A轮融资，用于扩展「物理AI」基础模型及精密制造平台
-已保存到 Markdown: ./output/blockbeats/2026-06-16.md
-  [BlockBeats] 新快讯: AI初创公司Probably完成900万美元种子轮融资，a16z领投
-推送成功: 【BLOCKBEATS - 链上侦探】AI初创公司Probably完成900万美元种子轮融资，a16z领投
-已保存到 Markdown: ./output/blockbeats/2026-06-16.md
-  [BlockBeats] 新快讯: 微信支付正测试AI支付功能，最快将于本周上线
-推送成功: 【BLOCKBEATS - 链上侦探】微信支付正测试AI支付功能，最快将于本周上线
-已保存到 Markdown: ./output/blockbeats/2026-06-16.md
-  [BlockBeats] 新快讯: 英国监管机构权衡限制高峰时段数据中心用电量
-推送成功: 【BLOCKBEATS - 链上侦探】英国监管机构权衡限制高峰时段数据中心用电量
-已保存到 Markdown: ./output/blockbeats/2026-06-16.md
-  [BlockBeats] 新快讯: 大模型后训练新发现：用自己生成的数据做「同轨训练」是学生超越导师且不退化的关键
-推送成功: 【BLOCKBEATS - 链上侦探】大模型后训练新发现：用自己生成的数据做「同轨训练」是学生超越导师且不退化的关键
-已保存到 Markdown: ./output/blockbeats/2026-06-16.md
-  [BlockBeats] 新快讯: DeepSeek首轮融资中创始人梁文锋出资200亿元，为最大单一出资方
-推送成功: 【BLOCKBEATS - 链上侦探】DeepSeek首轮融资中创始人梁文锋出资200亿元，为最大单一出资方
-已保存到 Markdown: ./output/blockbeats/2026-06-16.md
-  [BlockBeats] 新快讯: Cartesia发布全新TTS与STT模型Sonic-3.5与Ink-2
-推送成功: 【BLOCKBEATS - 链上侦探】Cartesia发布全新TTS与STT模型Sonic-3.5与Ink-2
-已保存到 Markdown: ./output/blockbeats/2026-06-16.md
-  [BlockBeats] 新快讯: OpenAI CEO：算力短缺或将永久化，相比UBI更倾向公民财富基金
-推送成功: 【BLOCKBEATS - 链上侦探】OpenAI CEO：算力短缺或将永久化，相比UBI更倾向公民财富基金
-已保存到 Markdown: ./output/blockbeats/2026-06-16.md
-  [BlockBeats] 新快讯: Artificial Analysis新AI评测显示Claude比DeepSeek贵44倍
-推送成功: 【BLOCKBEATS - 链上侦探】Artificial Analysis新AI评测显示Claude比DeepSeek贵44倍
-已保存到 Markdown: ./output/blockbeats/2026-06-16.md
-  [BlockBeats] 新快讯: 灰度向Coinbase存入1863枚BTC，约1.2366亿美元
-推送成功: 【BLOCKBEATS - 融资】灰度向Coinbase存入1863枚BTC，约1.2366亿美元
-已保存到 Markdown: ./output/blockbeats/2026-06-16.md
-  [BlockBeats] 新快讯: ETH最大空头「pension-usdt.eth」启动平仓，近期因反弹回吐590万美元浮盈
-推送成功: 【BLOCKBEATS - 融资】ETH最大空头「pension-usdt.eth」启动平仓，近期因反弹回吐590万美元浮盈
-已保存到 Markdown: ./output/blockbeats/2026-06-16.md
-  [BlockBeats] 新快讯: HIP-3美股涨幅榜：SPCX涨幅居首，存储半导体板块集体走强
-推送成功: 【BLOCKBEATS - 融资】HIP-3美股涨幅榜：SPCX涨幅居首，存储半导体板块集体走强
+  [BlockBeats] 新快讯: 「麻吉」持续加仓做多ETH，现浮盈逾32万美元
+推送成功: 【BLOCKBEATS - 融资】「麻吉」持续加仓做多ETH，现浮盈逾32万美元
 已保存到 Markdown: ./output/blockbeats/2026-06-16.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -70,7 +37,7 @@ Call log:
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-Cycle completed. 2026-06-16 15:57:42.884138
+Cycle completed. 2026-06-16 19:39:32.288828
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -80,32 +47,12 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
- 15:56:28,163 - INFO - Scraping RootData...
-2026-06-16 15:56:28,201 - INFO -   List: Top 100 项目
-2026-06-16 15:56:46,713 - ERROR -   Failed to scrape list Top 100 项目: Page.wait_for_selector: Timeout 15000ms exceeded.
-Call log:
-  - waiting for locator("table tr, .list-item") to be visible
 
-2026-06-16 15:56:46,713 - INFO -   List: 透明度评分提升榜
-2026-06-16 15:57:02,015 - ERROR -   Failed to scrape list 透明度评分提升榜: Page.wait_for_selector: Timeout 15000ms exceeded.
-Call log:
-  - waiting for locator("table tr, .list-item") to be visible
-
-2026-06-16 15:57:02,015 - INFO -   List: 交易所透明度排名
-2026-06-16 15:57:17,317 - ERROR -   Failed to scrape list 交易所透明度排名: Page.wait_for_selector: Timeout 15000ms exceeded.
-Call log:
-  - waiting for locator("table tr, .list-item") to be visible
-
-2026-06-16 15:57:17,317 - INFO -   Calendar Events...
-2026-06-16 15:57:32,592 - WARNING -   Calendar events fetch failed: Page.wait_for_selector: Timeout 15000ms exceeded.
-Call log:
-  - waiting for locator(".list-table, .list-row") to be visible
-
-2026-06-16 15:57:32,592 - INFO -   Calendar Insight Image...
-2026-06-16 15:57:32,595 - WARNING -     Calendar insight icon not found
-2026-06-16 15:57:32,595 - INFO -   Market Image...
-2026-06-16 15:57:42,871 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+2026-06-16 19:39:22,016 - INFO -   Calendar Insight Image...
+2026-06-16 19:39:22,018 - WARNING -     Calendar insight icon not found
+2026-06-16 19:39:22,019 - INFO -   Market Image...
+2026-06-16 19:39:32,275 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-2026-06-16 15:57:42,884 - INFO - Cycle completed. 2026-06-16 15:57:42.884138
+2026-06-16 19:39:32,288 - INFO - Cycle completed. 2026-06-16 19:39:32.288828

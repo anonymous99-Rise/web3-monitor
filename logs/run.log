@@ -1,22 +1,10 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: Anthropic开设首尔办事处，并宣布与韩国AI生态伙伴建立新合作
-推送成功: 【BLOCKBEATS - 链上侦探】Anthropic开设首尔办事处，并宣布与韩国AI生态伙伴建立新合作
+  [BlockBeats] 新快讯: Dragonfly合伙人称赞智谱：模型基准表现出色，此前对开源与闭源模型差距判断错误
+推送成功: 【BLOCKBEATS - 链上侦探】Dragonfly合伙人称赞智谱：模型基准表现出色，此前对开源与闭源模型差距判断错误
 已保存到 Markdown: ./output/blockbeats/2026-06-17.md
-  [BlockBeats] 新快讯: 爱沙尼亚拟为AI智能体颁发数字身份证以确立法律地位并追究责任
-推送成功: 【BLOCKBEATS - 链上侦探】爱沙尼亚拟为AI智能体颁发数字身份证以确立法律地位并追究责任
-已保存到 Markdown: ./output/blockbeats/2026-06-17.md
-  [BlockBeats] 新快讯: 英伟达让 Codex 和 Claude Code 训机器人：动作几乎全靠自学，成功率被刷到 99%
-推送成功: 【BLOCKBEATS - 链上侦探】英伟达让 Codex 和 Claude Code 训机器人：动作几乎全靠自学，成功率被刷到 99%
-已保存到 Markdown: ./output/blockbeats/2026-06-17.md
-  [BlockBeats] 新快讯: 知名交易员Technorevenant仍持有8000万枚XPL，浮亏收窄至8660万美元
-推送成功: 【BLOCKBEATS - 融资】知名交易员Technorevenant仍持有8000万枚XPL，浮亏收窄至8660万美元
-已保存到 Markdown: ./output/blockbeats/2026-06-17.md
-  [BlockBeats] 新快讯: UXLINK攻击者花费650万枚DAI买入3686枚ETH
-推送成功: 【BLOCKBEATS - 融资】UXLINK攻击者花费650万枚DAI买入3686枚ETH
-已保存到 Markdown: ./output/blockbeats/2026-06-17.md
-  [BlockBeats] 新快讯: 不丹王国将533.2枚BTC转入Binance，约合3452万美元
-推送成功: 【BLOCKBEATS - 融资】不丹王国将533.2枚BTC转入Binance，约合3452万美元
+  [BlockBeats] 新快讯: UXLINK攻击者已将1460万枚DAI兑换为8298.6枚ETH
+推送成功: 【BLOCKBEATS - 融资】UXLINK攻击者已将1460万枚DAI兑换为8298.6枚ETH
 已保存到 Markdown: ./output/blockbeats/2026-06-17.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -52,7 +40,7 @@ Call log:
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-Cycle completed. 2026-06-17 15:36:24.790273
+Cycle completed. 2026-06-17 18:21:34.535188
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -62,21 +50,15 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-- INFO -   List: 交易所透明度排名
-2026-06-17 15:35:59,220 - ERROR -   Failed to scrape list 交易所透明度排名: Page.wait_for_selector: Timeout 15000ms exceeded.
-Call log:
-  - waiting for locator("table tr, .list-item") to be visible
-
-2026-06-17 15:35:59,220 - INFO -   Calendar Events...
-2026-06-17 15:36:14,499 - WARNING -   Calendar events fetch failed: Page.wait_for_selector: Timeout 15000ms exceeded.
+imeout 15000ms exceeded.
 Call log:
   - waiting for locator(".list-table, .list-row") to be visible
 
-2026-06-17 15:36:14,499 - INFO -   Calendar Insight Image...
-2026-06-17 15:36:14,502 - WARNING -     Calendar insight icon not found
-2026-06-17 15:36:14,502 - INFO -   Market Image...
-2026-06-17 15:36:24,777 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+2026-06-17 18:21:24,246 - INFO -   Calendar Insight Image...
+2026-06-17 18:21:24,248 - WARNING -     Calendar insight icon not found
+2026-06-17 18:21:24,248 - INFO -   Market Image...
+2026-06-17 18:21:34,521 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-2026-06-17 15:36:24,790 - INFO - Cycle completed. 2026-06-17 15:36:24.790273
+2026-06-17 18:21:34,535 - INFO - Cycle completed. 2026-06-17 18:21:34.535188

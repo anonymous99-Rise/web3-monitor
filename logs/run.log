@@ -1,5 +1,32 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
+  [BlockBeats] 新快讯: 智谱与MiniMax股价走势两极分化，港股上演中国大模型「买强卖弱」配对交易
+推送成功: 【BLOCKBEATS - 链上侦探】智谱与MiniMax股价走势两极分化，港股上演中国大模型「买强卖弱」配对交易
+已保存到 Markdown: ./output/blockbeats/2026-06-18.md
+  [BlockBeats] 新快讯: 彭博：字节跳动年花逾十亿美元买微软AI服务，OpenAI私下抱怨防蒸馏不力
+推送成功: 【BLOCKBEATS - 链上侦探】彭博：字节跳动年花逾十亿美元买微软AI服务，OpenAI私下抱怨防蒸馏不力
+已保存到 Markdown: ./output/blockbeats/2026-06-18.md
+  [BlockBeats] 新快讯: 白宫铁锤引发内部大地震，Anthropic员工担忧IPO遭毁直呼被霸凌
+推送成功: 【BLOCKBEATS - 链上侦探】白宫铁锤引发内部大地震，Anthropic员工担忧IPO遭毁直呼被霸凌
+已保存到 Markdown: ./output/blockbeats/2026-06-18.md
+  [BlockBeats] 新快讯: 中国AI应用最大单轮融资纪录诞生：演语科技获近3亿美元融资，ARR达3亿比肩Suno
+推送成功: 【BLOCKBEATS - 链上侦探】中国AI应用最大单轮融资纪录诞生：演语科技获近3亿美元融资，ARR达3亿比肩Suno
+已保存到 Markdown: ./output/blockbeats/2026-06-18.md
+  [BlockBeats] 新快讯: G7午宴冰火两重天，Altman贴特朗普喜形于色，模型被卡的Amodei神色凝重
+推送成功: 【BLOCKBEATS - 链上侦探】G7午宴冰火两重天，Altman贴特朗普喜形于色，模型被卡的Amodei神色凝重
+已保存到 Markdown: ./output/blockbeats/2026-06-18.md
+  [BlockBeats] 新快讯: Transformer奠基人Noam Shazeer再次告别谷歌加盟OpenAI
+推送成功: 【BLOCKBEATS - 链上侦探】Transformer奠基人Noam Shazeer再次告别谷歌加盟OpenAI
+已保存到 Markdown: ./output/blockbeats/2026-06-18.md
+  [BlockBeats] 新快讯: SK海力士续创盘中新高，交易员「yixie」浮盈扩大至147万美元
+推送成功: 【BLOCKBEATS - 融资】SK海力士续创盘中新高，交易员「yixie」浮盈扩大至147万美元
+已保存到 Markdown: ./output/blockbeats/2026-06-18.md
+  [BlockBeats] 新快讯: 「币安人生」短时拉涨6.5%，市值回涨至7.2亿美元
+推送成功: 【BLOCKBEATS - 融资】「币安人生」短时拉涨6.5%，市值回涨至7.2亿美元
+已保存到 Markdown: ./output/blockbeats/2026-06-18.md
+  [BlockBeats] 新快讯: 「SPCX最大空头」空单回补至2770万美元，日盈140万美元
+推送成功: 【BLOCKBEATS - 融资】「SPCX最大空头」空单回补至2770万美元，日盈140万美元
+已保存到 Markdown: ./output/blockbeats/2026-06-18.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
   Category: 项目动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1003&is_hot=1
@@ -34,7 +61,7 @@ Call log:
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-Cycle completed. 2026-06-17 23:37:26.883134
+Cycle completed. 2026-06-18 04:08:13.956186
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -44,10 +71,26 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-   Calendar insight icon not found
-2026-06-17 23:37:16,610 - INFO -   Market Image...
-2026-06-17 23:37:26,869 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+2026-06-18 04:07:17,866 - INFO -   List: 透明度评分提升榜
+2026-06-18 04:07:33,145 - ERROR -   Failed to scrape list 透明度评分提升榜: Page.wait_for_selector: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator("table tr, .list-item") to be visible
+
+2026-06-18 04:07:33,145 - INFO -   List: 交易所透明度排名
+2026-06-18 04:07:48,428 - ERROR -   Failed to scrape list 交易所透明度排名: Page.wait_for_selector: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator("table tr, .list-item") to be visible
+
+2026-06-18 04:07:48,428 - INFO -   Calendar Events...
+2026-06-18 04:08:03,682 - WARNING -   Calendar events fetch failed: Page.wait_for_selector: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator(".list-table, .list-row") to be visible
+
+2026-06-18 04:08:03,683 - INFO -   Calendar Insight Image...
+2026-06-18 04:08:03,685 - WARNING -     Calendar insight icon not found
+2026-06-18 04:08:03,685 - INFO -   Market Image...
+2026-06-18 04:08:13,944 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-2026-06-17 23:37:26,883 - INFO - Cycle completed. 2026-06-17 23:37:26.883134
+2026-06-18 04:08:13,956 - INFO - Cycle completed. 2026-06-18 04:08:13.956186

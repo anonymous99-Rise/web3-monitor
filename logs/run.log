@@ -1,5 +1,17 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
+  [BlockBeats] 新快讯: 米哈游原国际化总裁金雯怡加盟月之暗面，全面负责Kimi业务线商业化
+推送成功: 【BLOCKBEATS - 链上侦探】米哈游原国际化总裁金雯怡加盟月之暗面，全面负责Kimi业务线商业化
+已保存到 Markdown: ./output/blockbeats/2026-06-18.md
+  [BlockBeats] 新快讯: 钉钉新CEO陈宇森发布首封全员信，启动向Agent友好的「双引擎」AI改造
+推送成功: 【BLOCKBEATS - 链上侦探】钉钉新CEO陈宇森发布首封全员信，启动向Agent友好的「双引擎」AI改造
+已保存到 Markdown: ./output/blockbeats/2026-06-18.md
+  [BlockBeats] 新快讯: 「干净代码」与逐行审查已死，Ramp主管宣告AI终结传统软件开发
+推送成功: 【BLOCKBEATS - 链上侦探】「干净代码」与逐行审查已死，Ramp主管宣告AI终结传统软件开发
+已保存到 Markdown: ./output/blockbeats/2026-06-18.md
+  [BlockBeats] 新快讯: 「科学语法」大模型LOGOS开源：以纯序列打通多领域AI4S建模
+推送成功: 【BLOCKBEATS - 链上侦探】「科学语法」大模型LOGOS开源：以纯序列打通多领域AI4S建模
+已保存到 Markdown: ./output/blockbeats/2026-06-18.md
   [BlockBeats] 新快讯: 里约大模型套壳丑闻后续：官方辩称模型丢失被迫重训，被指借AI项目侵吞公款
 推送成功: 【BLOCKBEATS - 链上侦探】里约大模型套壳丑闻后续：官方辩称模型丢失被迫重训，被指借AI项目侵吞公款
 已保存到 Markdown: ./output/blockbeats/2026-06-18.md
@@ -18,17 +30,14 @@
   [BlockBeats] 新快讯: 摩根大通禁止香港员工访问Anthropic，继高盛后收紧合规防线
 推送成功: 【BLOCKBEATS - 链上侦探】摩根大通禁止香港员工访问Anthropic，继高盛后收紧合规防线
 已保存到 Markdown: ./output/blockbeats/2026-06-18.md
-  [BlockBeats] 新快讯: OpenAI正式加入Rust基金会成为白金会员，并追加注资60万美元支持生态建设
-推送成功: 【BLOCKBEATS - 链上侦探】OpenAI正式加入Rust基金会成为白金会员，并追加注资60万美元支持生态建设
+  [BlockBeats] 新快讯: Hyperliquid ETF维续净流入态势，近三日吸金2800万美元但流入放缓
+推送成功: 【BLOCKBEATS - 融资】Hyperliquid ETF维续净流入态势，近三日吸金2800万美元但流入放缓
 已保存到 Markdown: ./output/blockbeats/2026-06-18.md
-  [BlockBeats] 新快讯: DeepSeek研究员陈德里开源Deli AutoResearch：AI已能自主做285B大模型实验并写论文
-推送成功: 【BLOCKBEATS - 链上侦探】DeepSeek研究员陈德里开源Deli AutoResearch：AI已能自主做285B大模型实验并写论文
+  [BlockBeats] 新快讯: 疑似a16z钱包向Hyperliquid转入2400万枚USDC以买入HYPE
+推送成功: 【BLOCKBEATS - 融资】疑似a16z钱包向Hyperliquid转入2400万枚USDC以买入HYPE
 已保存到 Markdown: ./output/blockbeats/2026-06-18.md
-  [BlockBeats] 新快讯: Midjourney跨界医疗大健康：发布「超声CT」硬件扫描仪并计划开设高端水疗中心
-推送成功: 【BLOCKBEATS - 链上侦探】Midjourney跨界医疗大健康：发布「超声CT」硬件扫描仪并计划开设高端水疗中心
-已保存到 Markdown: ./output/blockbeats/2026-06-18.md
-  [BlockBeats] 新快讯: 流形空间获十亿融资，推出十分之一参数的机器人实时世界模型
-推送成功: 【BLOCKBEATS - 链上侦探】流形空间获十亿融资，推出十分之一参数的机器人实时世界模型
+  [BlockBeats] 新快讯: 纳指100纳入预期提振NBIS日涨10%，某交易员持仓两日浮盈131万美元
+推送成功: 【BLOCKBEATS - 融资】纳指100纳入预期提振NBIS日涨10%，某交易员持仓两日浮盈131万美元
 已保存到 Markdown: ./output/blockbeats/2026-06-18.md
   [BlockBeats] 新快讯: ETH最大空头「pension-usdt.eth」止盈减仓，已累计平仓2047万美元
 推送成功: 【BLOCKBEATS - 融资】ETH最大空头「pension-usdt.eth」止盈减仓，已累计平仓2047万美元
@@ -66,27 +75,64 @@ Call log:
   - waiting for locator("table tr, .list-item") to be visible
 
   List: 交易所透明度排名
-，约7468万美元
-2026-06-18 09:42:57,570 - INFO - 推送成功: 【BLOCKBEATS - 融资】某巨鲸向Binance存入43,235枚ETH，约7468万美元
-2026-06-18 09:42:57,572 - INFO - 已保存到 Markdown: ./output/blockbeats/2026-06-18.md
-2026-06-18 09:42:57,591 - INFO -   [BlockBeats] 新快讯: 「今日BTC最大建仓」开立1550万美元空单，半日浮盈本金63%
-2026-06-18 09:42:57,874 - INFO - 推送成功: 【BLOCKBEATS - 融资】「今日BTC最大建仓」开立1550万美元空单，半日浮盈本金63%
-2026-06-18 09:42:57,875 - INFO - 已保存到 Markdown: ./output/blockbeats/2026-06-18.md
-2026-06-18 09:42:57,974 - INFO -   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
-2026-06-18 09:42:59,350 - INFO -   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
-2026-06-18 09:43:00,378 - INFO -   Category: 项目动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1003&is_hot=1
-2026-06-18 09:43:01,771 - INFO -   Category: 市场观点 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1002&is_hot=1
-2026-06-18 09:43:03,104 - INFO -   Category: 链上数据 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1001&is_hot=1
-2026-06-18 09:43:04,489 - INFO -   Category: 融资动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1000&is_hot=1
-2026-06-18 09:43:05,917 - INFO - Scraping RootData...
-2026-06-18 09:43:05,947 - INFO -   List: Top 100 项目
-2026-06-18 09:43:23,056 - ERROR -   Failed to scrape list Top 100 项目: Page.wait_for_selector: Timeout 15000ms exceeded.
+  Failed to scrape list 交易所透明度排名: Page.wait_for_selector: Timeout 15000ms exceeded.
 Call log:
   - waiting for locator("table tr, .list-item") to be visible
 
-2026-06-18 09:43:23,056 - INFO -   List: 透明度评分提升榜
-2026-06-18 09:43:38,325 - ERROR -   Failed to scrape list 透明度评分提升榜: Page.wait_for_selector: Timeout 15000ms exceeded.
+  Calendar Events...
+  Calendar events fetch failed: Page.wait_for_selector: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator(".list-table, .list-row") to be visible
+
+  Calendar Insight Image...
+    Calendar insight icon not found
+  Market Image...
+    Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(".v-data-table, table, .top-gainers") to be visible
+
+Cycle completed. 2026-06-18 12:56:27.070757
+  Database initialized: data.db
+  Loaded BlockBeats cookies
+  Loaded TechFlow cookies
+  Loaded RootData cookies
+Scraping BlockBeats...
+  Category: 预测市场 - https://www.theblockbeats.info/newsflash?type=1
+  Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
+  Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
+Scraping TechFlow...
+icleType=1005&is_hot=1
+2026-06-18 12:55:03,963 - INFO -   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
+2026-06-18 12:55:05,583 - INFO -   Category: 项目动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1003&is_hot=1
+2026-06-18 12:55:07,221 - INFO -   Category: 市场观点 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1002&is_hot=1
+2026-06-18 12:55:08,985 - INFO -   Category: 链上数据 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1001&is_hot=1
+2026-06-18 12:55:10,747 - INFO -   Category: 融资动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1000&is_hot=1
+2026-06-18 12:55:12,599 - INFO - Scraping RootData...
+2026-06-18 12:55:12,629 - INFO -   List: Top 100 项目
+2026-06-18 12:55:30,924 - ERROR -   Failed to scrape list Top 100 项目: Page.wait_for_selector: Timeout 15000ms exceeded.
 Call log:
   - waiting for locator("table tr, .list-item") to be visible
 
-2026-06-18 09:43:38,325 - INFO -   List: 交易所透明度排名
+2026-06-18 12:55:30,924 - INFO -   List: 透明度评分提升榜
+2026-06-18 12:55:46,231 - ERROR -   Failed to scrape list 透明度评分提升榜: Page.wait_for_selector: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator("table tr, .list-item") to be visible
+
+2026-06-18 12:55:46,231 - INFO -   List: 交易所透明度排名
+2026-06-18 12:56:01,521 - ERROR -   Failed to scrape list 交易所透明度排名: Page.wait_for_selector: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator("table tr, .list-item") to be visible
+
+2026-06-18 12:56:01,521 - INFO -   Calendar Events...
+2026-06-18 12:56:16,791 - WARNING -   Calendar events fetch failed: Page.wait_for_selector: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator(".list-table, .list-row") to be visible
+
+2026-06-18 12:56:16,791 - INFO -   Calendar Insight Image...
+2026-06-18 12:56:16,793 - WARNING -     Calendar insight icon not found
+2026-06-18 12:56:16,794 - INFO -   Market Image...
+2026-06-18 12:56:27,058 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(".v-data-table, table, .top-gainers") to be visible
+
+2026-06-18 12:56:27,070 - INFO - Cycle completed. 2026-06-18 12:56:27.070757

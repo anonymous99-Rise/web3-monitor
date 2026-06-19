@@ -1,34 +1,10 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 印度RMZ集团将在350亿美元投资推动下扩大数据中心容量
-推送成功: 【BLOCKBEATS - 链上侦探】印度RMZ集团将在350亿美元投资推动下扩大数据中心容量
+  [BlockBeats] 新快讯: 某巨鲸清仓1105枚BTC，亏损2690万美元
+推送成功: 【BLOCKBEATS - 融资】某巨鲸清仓1105枚BTC，亏损2690万美元
 已保存到 Markdown: ./output/blockbeats/2026-06-19.md
-  [BlockBeats] 新快讯: Elastic同意以至多8500万美元收购AI驱动软件漏洞检测与修复公司Deductive
-推送成功: 【BLOCKBEATS - 链上侦探】Elastic同意以至多8500万美元收购AI驱动软件漏洞检测与修复公司Deductive
-已保存到 Markdown: ./output/blockbeats/2026-06-19.md
-  [BlockBeats] 新快讯: Snap因成本压力将其AI视频团队拆分为新公司Dotmo
-推送成功: 【BLOCKBEATS - 链上侦探】Snap因成本压力将其AI视频团队拆分为新公司Dotmo
-已保存到 Markdown: ./output/blockbeats/2026-06-19.md
-  [BlockBeats] 新快讯: AI营销工作流自动化公司Gradial完成6500万美元C轮融资
-推送成功: 【BLOCKBEATS - 链上侦探】AI营销工作流自动化公司Gradial完成6500万美元C轮融资
-已保存到 Markdown: ./output/blockbeats/2026-06-19.md
-  [BlockBeats] 新快讯: 世界模型初创公司General Intuition正洽谈融资约3亿美元
-推送成功: 【BLOCKBEATS - 链上侦探】世界模型初创公司General Intuition正洽谈融资约3亿美元
-已保存到 Markdown: ./output/blockbeats/2026-06-19.md
-  [BlockBeats] 新快讯: 美国政府为AI数据中心并网「开绿灯」，要求运营商加快审批流程
-推送成功: 【BLOCKBEATS - 链上侦探】美国政府为AI数据中心并网「开绿灯」，要求运营商加快审批流程
-已保存到 Markdown: ./output/blockbeats/2026-06-19.md
-  [BlockBeats] 新快讯: Meta与数据中心开发商Crusoe达成新AI算力合作协议
-推送成功: 【BLOCKBEATS - 链上侦探】Meta与数据中心开发商Crusoe达成新AI算力合作协议
-已保存到 Markdown: ./output/blockbeats/2026-06-19.md
-  [BlockBeats] 新快讯: 美国核能公司Standard Nuclear提交IPO申请
-推送成功: 【BLOCKBEATS - 链上侦探】美国核能公司Standard Nuclear提交IPO申请
-已保存到 Markdown: ./output/blockbeats/2026-06-19.md
-  [BlockBeats] 新快讯: Arthur Hayes向FalconX和Galaxy转入总计6000枚ETH
-推送成功: 【BLOCKBEATS - 融资】Arthur Hayes向FalconX和Galaxy转入总计6000枚ETH
-已保存到 Markdown: ./output/blockbeats/2026-06-19.md
-  [BlockBeats] 新快讯: 比特币于2小时前在高度954352处挖出空区块
-推送成功: 【BLOCKBEATS - 融资】比特币于2小时前在高度954352处挖出空区块
+  [BlockBeats] 新快讯: F2Pool联创王纯过去4小时从Binance提出7650枚ETH和124.18枚WBTC，总价值约2066.6万美元
+推送成功: 【BLOCKBEATS - 融资】F2Pool联创王纯过去4小时从Binance提出7650枚ETH和124.18枚WBTC，总价值约2066.6万美元
 已保存到 Markdown: ./output/blockbeats/2026-06-19.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -64,7 +40,7 @@ Call log:
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-Cycle completed. 2026-06-19 11:26:14.164692
+Cycle completed. 2026-06-19 15:22:33.040389
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -74,30 +50,15 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-Timeout 15000ms exceeded.
-Call log:
-  - waiting for locator("table tr, .list-item") to be visible
-
-2026-06-19 11:25:17,975 - INFO -   List: 透明度评分提升榜
-2026-06-19 11:25:33,286 - ERROR -   Failed to scrape list 透明度评分提升榜: Page.wait_for_selector: Timeout 15000ms exceeded.
-Call log:
-  - waiting for locator("table tr, .list-item") to be visible
-
-2026-06-19 11:25:33,286 - INFO -   List: 交易所透明度排名
-2026-06-19 11:25:48,587 - ERROR -   Failed to scrape list 交易所透明度排名: Page.wait_for_selector: Timeout 15000ms exceeded.
-Call log:
-  - waiting for locator("table tr, .list-item") to be visible
-
-2026-06-19 11:25:48,587 - INFO -   Calendar Events...
-2026-06-19 11:26:03,867 - WARNING -   Calendar events fetch failed: Page.wait_for_selector: Timeout 15000ms exceeded.
+imeout 15000ms exceeded.
 Call log:
   - waiting for locator(".list-table, .list-row") to be visible
 
-2026-06-19 11:26:03,867 - INFO -   Calendar Insight Image...
-2026-06-19 11:26:03,869 - WARNING -     Calendar insight icon not found
-2026-06-19 11:26:03,869 - INFO -   Market Image...
-2026-06-19 11:26:14,150 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+2026-06-19 15:22:22,769 - INFO -   Calendar Insight Image...
+2026-06-19 15:22:22,772 - WARNING -     Calendar insight icon not found
+2026-06-19 15:22:22,772 - INFO -   Market Image...
+2026-06-19 15:22:33,026 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-2026-06-19 11:26:14,164 - INFO - Cycle completed. 2026-06-19 11:26:14.164692
+2026-06-19 15:22:33,040 - INFO - Cycle completed. 2026-06-19 15:22:33.040389

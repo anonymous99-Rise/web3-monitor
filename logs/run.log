@@ -1,10 +1,37 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: Anthropic承诺与白宫展开更紧密合作，努力解决模型安全隐患
-推送成功: 【BLOCKBEATS - 链上侦探】Anthropic承诺与白宫展开更紧密合作，努力解决模型安全隐患
+  [BlockBeats] 新快讯: 彼得·蒂尔神秘学会暗黑评级曝光：大佬被分三六九等，C级最高A级垫底，价格按名气打折
+推送成功: 【BLOCKBEATS - 链上侦探】彼得·蒂尔神秘学会暗黑评级曝光：大佬被分三六九等，C级最高A级垫底，价格按名气打折
 已保存到 Markdown: ./output/blockbeats/2026-06-19.md
-  [BlockBeats] 新快讯: 疑似归属同一巨鲸的两地址卖出11,888枚ETH，约合2028万美元
-推送成功: 【BLOCKBEATS - 融资】疑似归属同一巨鲸的两地址卖出11,888枚ETH，约合2028万美元
+  [BlockBeats] 新快讯: AI随时可能造反？谷歌DeepMind像防内鬼一样防AI，派监工全程盯防
+推送成功: 【BLOCKBEATS - 链上侦探】AI随时可能造反？谷歌DeepMind像防内鬼一样防AI，派监工全程盯防
+已保存到 Markdown: ./output/blockbeats/2026-06-19.md
+  [BlockBeats] 新快讯: Perplexity推出智能体内存系统Brain：从任务中自适应学习
+推送成功: 【BLOCKBEATS - 链上侦探】Perplexity推出智能体内存系统Brain：从任务中自适应学习
+已保存到 Markdown: ./output/blockbeats/2026-06-19.md
+  [BlockBeats] 新快讯: 只教AI在健康对话里当好人，它连写代码也变老实了？OpenAI证实对齐强泛化
+推送成功: 【BLOCKBEATS - 链上侦探】只教AI在健康对话里当好人，它连写代码也变老实了？OpenAI证实对齐强泛化
+已保存到 Markdown: ./output/blockbeats/2026-06-19.md
+  [BlockBeats] 新快讯: AA-Briefcase发布：Claude Fable5夺冠，GLM-5.2挤进前三
+推送成功: 【BLOCKBEATS - 链上侦探】AA-Briefcase发布：Claude Fable5夺冠，GLM-5.2挤进前三
+已保存到 Markdown: ./output/blockbeats/2026-06-19.md
+  [BlockBeats] 新快讯: 终端变交互画布：Anthropic推出Claude Code版Artifacts
+推送成功: 【BLOCKBEATS - 链上侦探】终端变交互画布：Anthropic推出Claude Code版Artifacts
+已保存到 Markdown: ./output/blockbeats/2026-06-19.md
+  [BlockBeats] 新快讯: OpenAI推出Codex「录制与复现」功能，可将演示工作流直接转化为AI技能
+推送成功: 【BLOCKBEATS - 链上侦探】OpenAI推出Codex「录制与复现」功能，可将演示工作流直接转化为AI技能
+已保存到 Markdown: ./output/blockbeats/2026-06-19.md
+  [BlockBeats] 新快讯: 杨立昆直言xAI失败，指出人才难招且被迫出租算力
+推送成功: 【BLOCKBEATS - 链上侦探】杨立昆直言xAI失败，指出人才难招且被迫出租算力
+已保存到 Markdown: ./output/blockbeats/2026-06-19.md
+  [BlockBeats] 新快讯: 前白宫AI顾问Dean Ball加盟OpenAI执掌前沿政策新团队
+推送成功: 【BLOCKBEATS - 链上侦探】前白宫AI顾问Dean Ball加盟OpenAI执掌前沿政策新团队
+已保存到 Markdown: ./output/blockbeats/2026-06-19.md
+  [BlockBeats] 新快讯: 某巨鲸向Kraken和Bybit存入30.8万枚SOL，预计亏损1606万美元
+推送成功: 【BLOCKBEATS - 融资】某巨鲸向Kraken和Bybit存入30.8万枚SOL，预计亏损1606万美元
+已保存到 Markdown: ./output/blockbeats/2026-06-19.md
+  [BlockBeats] 新快讯: 「BTC OG内幕巨鲸」已平仓ZEC和UNI多单，仍持有8000万美元BTC多单
+推送成功: 【BLOCKBEATS - 融资】「BTC OG内幕巨鲸」已平仓ZEC和UNI多单，仍持有8000万美元BTC多单
 已保存到 Markdown: ./output/blockbeats/2026-06-19.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -40,7 +67,7 @@ Call log:
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-Cycle completed. 2026-06-19 00:29:43.524096
+Cycle completed. 2026-06-19 06:23:21.766709
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -50,15 +77,31 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-imeout 15000ms exceeded.
+
+2026-06-19 06:22:25,674 - ERROR -   Failed to scrape list Top 100 项目: Page.wait_for_selector: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator("table tr, .list-item") to be visible
+
+2026-06-19 06:22:25,674 - INFO -   List: 透明度评分提升榜
+2026-06-19 06:22:40,953 - ERROR -   Failed to scrape list 透明度评分提升榜: Page.wait_for_selector: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator("table tr, .list-item") to be visible
+
+2026-06-19 06:22:40,954 - INFO -   List: 交易所透明度排名
+2026-06-19 06:22:56,237 - ERROR -   Failed to scrape list 交易所透明度排名: Page.wait_for_selector: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator("table tr, .list-item") to be visible
+
+2026-06-19 06:22:56,237 - INFO -   Calendar Events...
+2026-06-19 06:23:11,495 - WARNING -   Calendar events fetch failed: Page.wait_for_selector: Timeout 15000ms exceeded.
 Call log:
   - waiting for locator(".list-table, .list-row") to be visible
 
-2026-06-19 00:29:33,235 - INFO -   Calendar Insight Image...
-2026-06-19 00:29:33,237 - WARNING -     Calendar insight icon not found
-2026-06-19 00:29:33,237 - INFO -   Market Image...
-2026-06-19 00:29:43,511 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+2026-06-19 06:23:11,495 - INFO -   Calendar Insight Image...
+2026-06-19 06:23:11,497 - WARNING -     Calendar insight icon not found
+2026-06-19 06:23:11,497 - INFO -   Market Image...
+2026-06-19 06:23:21,752 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-2026-06-19 00:29:43,524 - INFO - Cycle completed. 2026-06-19 00:29:43.524096
+2026-06-19 06:23:21,766 - INFO - Cycle completed. 2026-06-19 06:23:21.766709

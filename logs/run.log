@@ -34,7 +34,7 @@ Call log:
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-Cycle completed. 2026-06-20 18:14:41.824602
+Cycle completed. 2026-06-20 20:17:49.257161
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -45,9 +45,9 @@ Scraping BlockBeats...
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
    Calendar insight icon not found
-2026-06-20 18:14:31,555 - INFO -   Market Image...
-2026-06-20 18:14:41,812 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+2026-06-20 20:17:38,960 - INFO -   Market Image...
+2026-06-20 20:17:49,243 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-2026-06-20 18:14:41,824 - INFO - Cycle completed. 2026-06-20 18:14:41.824602
+2026-06-20 20:17:49,257 - INFO - Cycle completed. 2026-06-20 20:17:49.257161

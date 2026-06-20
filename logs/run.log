@@ -1,7 +1,10 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: Humanity攻击者将部分盗取资金兑换为USDC后存入CEX
-推送成功: 【BLOCKBEATS - 融资】Humanity攻击者将部分盗取资金兑换为USDC后存入CEX
+  [BlockBeats] 新快讯: 某鲸鱼清仓112.86枚WBTC，两个月亏损78.2万美元
+推送成功: 【BLOCKBEATS - 融资】某鲸鱼清仓112.86枚WBTC，两个月亏损78.2万美元
+已保存到 Markdown: ./output/blockbeats/2026-06-20.md
+  [BlockBeats] 新快讯: 派盾：BSC上OLPC流动性池遭攻击，黑客将盗取资金跨链为633.4枚ETH存入Tornado Cash
+推送成功: 【BLOCKBEATS - 融资】派盾：BSC上OLPC流动性池遭攻击，黑客将盗取资金跨链为633.4枚ETH存入Tornado Cash
 已保存到 Markdown: ./output/blockbeats/2026-06-20.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -37,7 +40,7 @@ Call log:
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-Cycle completed. 2026-06-20 11:58:35.835537
+Cycle completed. 2026-06-20 14:13:55.161862
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -47,12 +50,15 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
+imeout 15000ms exceeded.
+Call log:
+  - waiting for locator(".list-table, .list-row") to be visible
 
-2026-06-20 11:58:25,542 - INFO -   Calendar Insight Image...
-2026-06-20 11:58:25,545 - WARNING -     Calendar insight icon not found
-2026-06-20 11:58:25,545 - INFO -   Market Image...
-2026-06-20 11:58:35,821 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+2026-06-20 14:13:44,890 - INFO -   Calendar Insight Image...
+2026-06-20 14:13:44,892 - WARNING -     Calendar insight icon not found
+2026-06-20 14:13:44,892 - INFO -   Market Image...
+2026-06-20 14:13:55,148 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-2026-06-20 11:58:35,835 - INFO - Cycle completed. 2026-06-20 11:58:35.835537
+2026-06-20 14:13:55,161 - INFO - Cycle completed. 2026-06-20 14:13:55.161862

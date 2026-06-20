@@ -1,31 +1,10 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 无需Mac中转与自托管，开源智能体Hermes接入iMessage
-推送成功: 【BLOCKBEATS - 链上侦探】无需Mac中转与自托管，开源智能体Hermes接入iMessage
+  [BlockBeats] 新快讯: 腾讯客服：微信正灰度测试AI助手「小微」
+推送成功: 【BLOCKBEATS - 链上侦探】腾讯客服：微信正灰度测试AI助手「小微」
 已保存到 Markdown: ./output/blockbeats/2026-06-20.md
-  [BlockBeats] 新快讯: 最强模型即将解封？特朗普称G7面谈后不再视Anthropic为威胁
-推送成功: 【BLOCKBEATS - 链上侦探】最强模型即将解封？特朗普称G7面谈后不再视Anthropic为威胁
-已保存到 Markdown: ./output/blockbeats/2026-06-20.md
-  [BlockBeats] 新快讯: 美前沿AI管制令留缝隙，思科等机构仍可访问Anthropic最强安全模型
-推送成功: 【BLOCKBEATS - 链上侦探】美前沿AI管制令留缝隙，思科等机构仍可访问Anthropic最强安全模型
-已保存到 Markdown: ./output/blockbeats/2026-06-20.md
-  [BlockBeats] 新快讯: 诺奖得主John Jumper离开DeepMind，谷歌两日内连失两名AI高管
-推送成功: 【BLOCKBEATS - 链上侦探】诺奖得主John Jumper离开DeepMind，谷歌两日内连失两名AI高管
-已保存到 Markdown: ./output/blockbeats/2026-06-20.md
-  [BlockBeats] 新快讯: SemiAnalysis：AI网络并非铜缆与光通信二选一，两者均将受益于GPU集群扩张
-推送成功: 【BLOCKBEATS - 链上侦探】SemiAnalysis：AI网络并非铜缆与光通信二选一，两者均将受益于GPU集群扩张
-已保存到 Markdown: ./output/blockbeats/2026-06-20.md
-  [BlockBeats] 新快讯: F2Pool联创王纯过去半个月累计从Binance提出5.45万枚ETH，约合9325万美元
-推送成功: 【BLOCKBEATS - 融资】F2Pool联创王纯过去半个月累计从Binance提出5.45万枚ETH，约合9325万美元
-已保存到 Markdown: ./output/blockbeats/2026-06-20.md
-  [BlockBeats] 新快讯: F2Pool联创王纯过去15小时增持价值3341.1万美元ETH和WBTC
-推送成功: 【BLOCKBEATS - 融资】F2Pool联创王纯过去15小时增持价值3341.1万美元ETH和WBTC
-已保存到 Markdown: ./output/blockbeats/2026-06-20.md
-  [BlockBeats] 新快讯: 某巨鲸向Kraken存入5900枚ETH，预计亏损980万美元
-推送成功: 【BLOCKBEATS - 融资】某巨鲸向Kraken存入5900枚ETH，预计亏损980万美元
-已保存到 Markdown: ./output/blockbeats/2026-06-20.md
-  [BlockBeats] 新快讯: Chainlink非流通供应钱包向Binance存入1837.5万枚LINK，约合1.4493亿美元
-推送成功: 【BLOCKBEATS - 融资】Chainlink非流通供应钱包向Binance存入1837.5万枚LINK，约合1.4493亿美元
+  [BlockBeats] 新快讯: 某鲸鱼过去3小时花费1655.5万枚USDC买入23.49万枚SOL
+推送成功: 【BLOCKBEATS - 融资】某鲸鱼过去3小时花费1655.5万枚USDC买入23.49万枚SOL
 已保存到 Markdown: ./output/blockbeats/2026-06-20.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -61,7 +40,7 @@ Call log:
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-Cycle completed. 2026-06-20 05:17:36.206558
+Cycle completed. 2026-06-20 09:18:43.573897
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -71,26 +50,15 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-2026-06-20 05:16:40,126 - INFO -   List: 透明度评分提升榜
-2026-06-20 05:16:55,403 - ERROR -   Failed to scrape list 透明度评分提升榜: Page.wait_for_selector: Timeout 15000ms exceeded.
-Call log:
-  - waiting for locator("table tr, .list-item") to be visible
-
-2026-06-20 05:16:55,403 - INFO -   List: 交易所透明度排名
-2026-06-20 05:17:10,677 - ERROR -   Failed to scrape list 交易所透明度排名: Page.wait_for_selector: Timeout 15000ms exceeded.
-Call log:
-  - waiting for locator("table tr, .list-item") to be visible
-
-2026-06-20 05:17:10,677 - INFO -   Calendar Events...
-2026-06-20 05:17:25,934 - WARNING -   Calendar events fetch failed: Page.wait_for_selector: Timeout 15000ms exceeded.
+imeout 15000ms exceeded.
 Call log:
   - waiting for locator(".list-table, .list-row") to be visible
 
-2026-06-20 05:17:25,934 - INFO -   Calendar Insight Image...
-2026-06-20 05:17:25,936 - WARNING -     Calendar insight icon not found
-2026-06-20 05:17:25,936 - INFO -   Market Image...
-2026-06-20 05:17:36,191 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+2026-06-20 09:18:33,303 - INFO -   Calendar Insight Image...
+2026-06-20 09:18:33,305 - WARNING -     Calendar insight icon not found
+2026-06-20 09:18:33,306 - INFO -   Market Image...
+2026-06-20 09:18:43,560 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-2026-06-20 05:17:36,206 - INFO - Cycle completed. 2026-06-20 05:17:36.206558
+2026-06-20 09:18:43,573 - INFO - Cycle completed. 2026-06-20 09:18:43.573897

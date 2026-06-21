@@ -1,5 +1,29 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
+  [BlockBeats] 新快讯: Tinygrad称GLM5.2可在双机互联Blackwell配置下跑出120tok/s，售价15万美元
+推送成功: 【BLOCKBEATS - 链上侦探】Tinygrad称GLM5.2可在双机互联Blackwell配置下跑出120tok/s，售价15万美元
+已保存到 Markdown: ./output/blockbeats/2026-06-21.md
+  [BlockBeats] 新快讯: AI重塑加密安全行业：审计成本或趋近于零，安全标准被重新定义
+推送成功: 【BLOCKBEATS - 链上侦探】AI重塑加密安全行业：审计成本或趋近于零，安全标准被重新定义
+已保存到 Markdown: ./output/blockbeats/2026-06-21.md
+  [BlockBeats] 新快讯: 桑德斯提案对AI巨头征50%股权税，背后推手为DeepMind科学家之妻
+推送成功: 【BLOCKBEATS - 链上侦探】桑德斯提案对AI巨头征50%股权税，背后推手为DeepMind科学家之妻
+已保存到 Markdown: ./output/blockbeats/2026-06-21.md
+  [BlockBeats] 新快讯: 智谱GLM-5.2登顶DeepSWE开源第一：解决44%复杂开发任务，力压主力闭源模型
+推送成功: 【BLOCKBEATS - 链上侦探】智谱GLM-5.2登顶DeepSWE开源第一：解决44%复杂开发任务，力压主力闭源模型
+已保存到 Markdown: ./output/blockbeats/2026-06-21.md
+  [BlockBeats] 新快讯: 特斯拉AI工程师：算法调优不是万能药，数据质量决定AI上限
+推送成功: 【BLOCKBEATS - 链上侦探】特斯拉AI工程师：算法调优不是万能药，数据质量决定AI上限
+已保存到 Markdown: ./output/blockbeats/2026-06-21.md
+  [BlockBeats] 新快讯: 前OpenAI研究员称中国已掌握美AI巨头所有代码，遭业内群嘲
+推送成功: 【BLOCKBEATS - 链上侦探】前OpenAI研究员称中国已掌握美AI巨头所有代码，遭业内群嘲
+已保存到 Markdown: ./output/blockbeats/2026-06-21.md
+  [BlockBeats] 新快讯: 万斯主张国家入股AI巨头，马斯克公开唱反调：直接给民众发钱，未来是大通缩
+推送成功: 【BLOCKBEATS - 链上侦探】万斯主张国家入股AI巨头，马斯克公开唱反调：直接给民众发钱，未来是大通缩
+已保存到 Markdown: ./output/blockbeats/2026-06-21.md
+  [BlockBeats] 新快讯: 巨鲸Pension 3倍做空2.65万枚ETH，价值约4600万美元
+推送成功: 【BLOCKBEATS - 融资】巨鲸Pension 3倍做空2.65万枚ETH，价值约4600万美元
+已保存到 Markdown: ./output/blockbeats/2026-06-21.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
   Category: 项目动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1003&is_hot=1
@@ -34,7 +58,7 @@ Call log:
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-Cycle completed. 2026-06-21 00:10:05.774068
+Cycle completed. 2026-06-21 06:04:53.295660
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -44,10 +68,25 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-   Calendar insight icon not found
-2026-06-21 00:09:55,479 - INFO -   Market Image...
-2026-06-21 00:10:05,760 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+   Failed to scrape list 透明度评分提升榜: Page.wait_for_selector: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator("table tr, .list-item") to be visible
+
+2026-06-21 06:04:12,476 - INFO -   List: 交易所透明度排名
+2026-06-21 06:04:27,758 - ERROR -   Failed to scrape list 交易所透明度排名: Page.wait_for_selector: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator("table tr, .list-item") to be visible
+
+2026-06-21 06:04:27,758 - INFO -   Calendar Events...
+2026-06-21 06:04:43,019 - WARNING -   Calendar events fetch failed: Page.wait_for_selector: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator(".list-table, .list-row") to be visible
+
+2026-06-21 06:04:43,019 - INFO -   Calendar Insight Image...
+2026-06-21 06:04:43,022 - WARNING -     Calendar insight icon not found
+2026-06-21 06:04:43,022 - INFO -   Market Image...
+2026-06-21 06:04:53,281 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-2026-06-21 00:10:05,774 - INFO - Cycle completed. 2026-06-21 00:10:05.774068
+2026-06-21 06:04:53,295 - INFO - Cycle completed. 2026-06-21 06:04:53.295660

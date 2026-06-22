@@ -1,32 +1,5 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 做空机构Muddy Waters创始人：AI或引发大规模失业冲击股市，并推动基本收入制度
-推送成功: 【BLOCKBEATS - 链上侦探】做空机构Muddy Waters创始人：AI或引发大规模失业冲击股市，并推动基本收入制度
-已保存到 Markdown: ./output/blockbeats/2026-06-22.md
-  [BlockBeats] 新快讯: 欧洲宣布部署35台英伟达AI超级计算机，构建区域最大AI算力扩张
-推送成功: 【BLOCKBEATS - 链上侦探】欧洲宣布部署35台英伟达AI超级计算机，构建区域最大AI算力扩张
-已保存到 Markdown: ./output/blockbeats/2026-06-22.md
-  [BlockBeats] 新快讯: 港大开源AgentSpace，支持将Claude与OpenClaw路由为数字员工
-推送成功: 【BLOCKBEATS - 链上侦探】港大开源AgentSpace，支持将Claude与OpenClaw路由为数字员工
-已保存到 Markdown: ./output/blockbeats/2026-06-22.md
-  [BlockBeats] 新快讯: Sakana AI发布多智能体系统Fugu，多项推理与编程评测击败Fable 5
-推送成功: 【BLOCKBEATS - 链上侦探】Sakana AI发布多智能体系统Fugu，多项推理与编程评测击败Fable 5
-已保存到 Markdown: ./output/blockbeats/2026-06-22.md
-  [BlockBeats] 新快讯: 某巨鲸做多SpaceX亏损近120万美元，爆仓价105.89美元
-推送成功: 【BLOCKBEATS - 融资】某巨鲸做多SpaceX亏损近120万美元，爆仓价105.89美元
-已保存到 Markdown: ./output/blockbeats/2026-06-22.md
-  [BlockBeats] 新快讯: SHIB巨鲸抛售3.8万亿枚代币，价值约2073万美元
-推送成功: 【BLOCKBEATS - 融资】SHIB巨鲸抛售3.8万亿枚代币，价值约2073万美元
-已保存到 Markdown: ./output/blockbeats/2026-06-22.md
-  [BlockBeats] 新快讯: 某巨鲸将2,480枚BTC存入Binance，账面亏损超3,900万美元
-推送成功: 【BLOCKBEATS - 融资】某巨鲸将2,480枚BTC存入Binance，账面亏损超3,900万美元
-已保存到 Markdown: ./output/blockbeats/2026-06-22.md
-  [BlockBeats] 新快讯: 贝莱德向Coinbase存入1,241枚比特币和7,547枚以太坊
-推送成功: 【BLOCKBEATS - 融资】贝莱德向Coinbase存入1,241枚比特币和7,547枚以太坊
-已保存到 Markdown: ./output/blockbeats/2026-06-22.md
-  [BlockBeats] 新快讯: 美光财报日临近，链上某巨鲸10倍开立1050万美元多仓
-推送成功: 【BLOCKBEATS - 融资】美光财报日临近，链上某巨鲸10倍开立1050万美元多仓
-已保存到 Markdown: ./output/blockbeats/2026-06-22.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
   Category: 项目动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1003&is_hot=1
@@ -61,7 +34,7 @@ Call log:
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-Cycle completed. 2026-06-22 15:54:35.109414
+Cycle completed. 2026-06-22 19:31:40.664009
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -71,26 +44,10 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-2026-06-22 15:53:38,889 - INFO -   List: 透明度评分提升榜
-2026-06-22 15:53:54,201 - ERROR -   Failed to scrape list 透明度评分提升榜: Page.wait_for_selector: Timeout 15000ms exceeded.
-Call log:
-  - waiting for locator("table tr, .list-item") to be visible
-
-2026-06-22 15:53:54,201 - INFO -   List: 交易所透明度排名
-2026-06-22 15:54:09,514 - ERROR -   Failed to scrape list 交易所透明度排名: Page.wait_for_selector: Timeout 15000ms exceeded.
-Call log:
-  - waiting for locator("table tr, .list-item") to be visible
-
-2026-06-22 15:54:09,514 - INFO -   Calendar Events...
-2026-06-22 15:54:24,805 - WARNING -   Calendar events fetch failed: Page.wait_for_selector: Timeout 15000ms exceeded.
-Call log:
-  - waiting for locator(".list-table, .list-row") to be visible
-
-2026-06-22 15:54:24,805 - INFO -   Calendar Insight Image...
-2026-06-22 15:54:24,808 - WARNING -     Calendar insight icon not found
-2026-06-22 15:54:24,808 - INFO -   Market Image...
-2026-06-22 15:54:35,096 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+   Calendar insight icon not found
+2026-06-22 19:31:30,391 - INFO -   Market Image...
+2026-06-22 19:31:40,650 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-2026-06-22 15:54:35,109 - INFO - Cycle completed. 2026-06-22 15:54:35.109414
+2026-06-22 19:31:40,664 - INFO - Cycle completed. 2026-06-22 19:31:40.664009

@@ -1,7 +1,31 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: Jaredfromsubway攻击者通过Tornado Cash转移2000枚ETH，并卖出1422枚ETH
-推送成功: 【BLOCKBEATS - 融资】Jaredfromsubway攻击者通过Tornado Cash转移2000枚ETH，并卖出1422枚ETH
+  [BlockBeats] 新快讯: 字节跳动正式开放豆包Seed2.1大模型API：Pro版本多项评测超GPT-5.5
+推送成功: 【BLOCKBEATS - 链上侦探】字节跳动正式开放豆包Seed2.1大模型API：Pro版本多项评测超GPT-5.5
+已保存到 Markdown: ./output/blockbeats/2026-06-23.md
+  [BlockBeats] 新快讯: OpenAI发布Codex新版限制日志写入，但首批反馈显示尚未完全根治
+推送成功: 【BLOCKBEATS - 链上侦探】OpenAI发布Codex新版限制日志写入，但首批反馈显示尚未完全根治
+已保存到 Markdown: ./output/blockbeats/2026-06-23.md
+  [BlockBeats] 新快讯: AI基建短缺推升芯片均价：中国5月半导体出口额暴涨111%，出货量仅增2%
+推送成功: 【BLOCKBEATS - 链上侦探】AI基建短缺推升芯片均价：中国5月半导体出口额暴涨111%，出货量仅增2%
+已保存到 Markdown: ./output/blockbeats/2026-06-23.md
+  [BlockBeats] 新快讯: OpenAI发布GPT-5.5-Cyber完整版，跑分85.6%超Mythos 5
+推送成功: 【BLOCKBEATS - 链上侦探】OpenAI发布GPT-5.5-Cyber完整版，跑分85.6%超Mythos 5
+已保存到 Markdown: ./output/blockbeats/2026-06-23.md
+  [BlockBeats] 新快讯: 押注美股回调延续，某链上交易员1小时前以50倍高杠杆做空SP500
+推送成功: 【BLOCKBEATS - 融资】押注美股回调延续，某链上交易员1小时前以50倍高杠杆做空SP500
+已保存到 Markdown: ./output/blockbeats/2026-06-23.md
+  [BlockBeats] 新快讯: 链上巨鲸此前做多价值超300万美元xyz:DRAM，已在76-77美元附近挂单止盈
+推送成功: 【BLOCKBEATS - 融资】链上巨鲸此前做多价值超300万美元xyz:DRAM，已在76-77美元附近挂单止盈
+已保存到 Markdown: ./output/blockbeats/2026-06-23.md
+  [BlockBeats] 新快讯: Ondo团队多签地址转移1.5亿枚ONDO，价值4956万美元
+推送成功: 【BLOCKBEATS - 融资】Ondo团队多签地址转移1.5亿枚ONDO，价值4956万美元
+已保存到 Markdown: ./output/blockbeats/2026-06-23.md
+  [BlockBeats] 新快讯: 两巨鲸今日同步做多BTC，合计仓位价值约1.75亿美元
+推送成功: 【BLOCKBEATS - 融资】两巨鲸今日同步做多BTC，合计仓位价值约1.75亿美元
+已保存到 Markdown: ./output/blockbeats/2026-06-23.md
+  [BlockBeats] 新快讯: 某钱包沉寂一年后从BitGo接收500枚BTC，约合3231万美元
+推送成功: 【BLOCKBEATS - 融资】某钱包沉寂一年后从BitGo接收500枚BTC，约合3231万美元
 已保存到 Markdown: ./output/blockbeats/2026-06-23.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -37,7 +61,7 @@ Call log:
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-Cycle completed. 2026-06-23 00:09:37.849248
+Cycle completed. 2026-06-23 05:04:06.299126
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -47,12 +71,26 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
+2026-06-23 05:03:10,204 - INFO -   List: 透明度评分提升榜
+2026-06-23 05:03:25,483 - ERROR -   Failed to scrape list 透明度评分提升榜: Page.wait_for_selector: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator("table tr, .list-item") to be visible
 
-2026-06-23 00:09:27,556 - INFO -   Calendar Insight Image...
-2026-06-23 00:09:27,559 - WARNING -     Calendar insight icon not found
-2026-06-23 00:09:27,559 - INFO -   Market Image...
-2026-06-23 00:09:37,836 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+2026-06-23 05:03:25,483 - INFO -   List: 交易所透明度排名
+2026-06-23 05:03:40,756 - ERROR -   Failed to scrape list 交易所透明度排名: Page.wait_for_selector: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator("table tr, .list-item") to be visible
+
+2026-06-23 05:03:40,756 - INFO -   Calendar Events...
+2026-06-23 05:03:56,012 - WARNING -   Calendar events fetch failed: Page.wait_for_selector: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator(".list-table, .list-row") to be visible
+
+2026-06-23 05:03:56,012 - INFO -   Calendar Insight Image...
+2026-06-23 05:03:56,014 - WARNING -     Calendar insight icon not found
+2026-06-23 05:03:56,014 - INFO -   Market Image...
+2026-06-23 05:04:06,286 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-2026-06-23 00:09:37,849 - INFO - Cycle completed. 2026-06-23 00:09:37.849248
+2026-06-23 05:04:06,299 - INFO - Cycle completed. 2026-06-23 05:04:06.299126

@@ -1,28 +1,10 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: MiniMax授出超6亿港元股权激励：赵鹏宇独得1.29亿，无绩效考核要求
-推送成功: 【BLOCKBEATS - 链上侦探】MiniMax授出超6亿港元股权激励：赵鹏宇独得1.29亿，无绩效考核要求
+  [BlockBeats] 新快讯: 黑石集团计划向日本AI数据中心投资300亿美元
+推送成功: 【BLOCKBEATS - 链上侦探】黑石集团计划向日本AI数据中心投资300亿美元
 已保存到 Markdown: ./output/blockbeats/2026-06-23.md
-  [BlockBeats] 新快讯: 微软在威斯康星州的首个数据中心竣工，现已全面投入运行
-推送成功: 【BLOCKBEATS - 链上侦探】微软在威斯康星州的首个数据中心竣工，现已全面投入运行
-已保存到 Markdown: ./output/blockbeats/2026-06-23.md
-  [BlockBeats] 新快讯: 全球首只纯内存ETF DRAM美股盘前大幅下挫逾13%
-推送成功: 【BLOCKBEATS - 链上侦探】全球首只纯内存ETF DRAM美股盘前大幅下挫逾13%
-已保存到 Markdown: ./output/blockbeats/2026-06-23.md
-  [BlockBeats] 新快讯: 英伟达发布BIONEMO智能体工具包，旨在助力智能体加速科学发现
-推送成功: 【BLOCKBEATS - 链上侦探】英伟达发布BIONEMO智能体工具包，旨在助力智能体加速科学发现
-已保存到 Markdown: ./output/blockbeats/2026-06-23.md
-  [BlockBeats] 新快讯: a16z关联地址从Binance提出12,780枚ETH，约2122万美元
-推送成功: 【BLOCKBEATS - 融资】a16z关联地址从Binance提出12,780枚ETH，约2122万美元
-已保存到 Markdown: ./output/blockbeats/2026-06-23.md
-  [BlockBeats] 新快讯: 「链上最大多头」现浮亏逾9100万美元
-推送成功: 【BLOCKBEATS - 融资】「链上最大多头」现浮亏逾9100万美元
-已保存到 Markdown: ./output/blockbeats/2026-06-23.md
-  [BlockBeats] 新快讯: 某鲸鱼增持4万枚HYPE，约251万美元
-推送成功: 【BLOCKBEATS - 融资】某鲸鱼增持4万枚HYPE，约251万美元
-已保存到 Markdown: ./output/blockbeats/2026-06-23.md
-  [BlockBeats] 新快讯: 一新地址从Binance提出1683枚BTC，约1.0487亿美元
-推送成功: 【BLOCKBEATS - 融资】一新地址从Binance提出1683枚BTC，约1.0487亿美元
+  [BlockBeats] 新快讯: 「麻吉」无惧清算坚持做多，现浮亏3.6万美元
+推送成功: 【BLOCKBEATS - 融资】「麻吉」无惧清算坚持做多，现浮亏3.6万美元
 已保存到 Markdown: ./output/blockbeats/2026-06-23.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -58,7 +40,7 @@ Call log:
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-Cycle completed. 2026-06-23 15:50:49.898827
+Cycle completed. 2026-06-23 17:59:08.664268
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -68,25 +50,15 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-   Failed to scrape list 透明度评分提升榜: Page.wait_for_selector: Timeout 15000ms exceeded.
-Call log:
-  - waiting for locator("table tr, .list-item") to be visible
-
-2026-06-23 15:50:09,053 - INFO -   List: 交易所透明度排名
-2026-06-23 15:50:24,345 - ERROR -   Failed to scrape list 交易所透明度排名: Page.wait_for_selector: Timeout 15000ms exceeded.
-Call log:
-  - waiting for locator("table tr, .list-item") to be visible
-
-2026-06-23 15:50:24,345 - INFO -   Calendar Events...
-2026-06-23 15:50:39,618 - WARNING -   Calendar events fetch failed: Page.wait_for_selector: Timeout 15000ms exceeded.
+imeout 15000ms exceeded.
 Call log:
   - waiting for locator(".list-table, .list-row") to be visible
 
-2026-06-23 15:50:39,619 - INFO -   Calendar Insight Image...
-2026-06-23 15:50:39,620 - WARNING -     Calendar insight icon not found
-2026-06-23 15:50:39,620 - INFO -   Market Image...
-2026-06-23 15:50:49,886 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+2026-06-23 17:58:58,378 - INFO -   Calendar Insight Image...
+2026-06-23 17:58:58,380 - WARNING -     Calendar insight icon not found
+2026-06-23 17:58:58,381 - INFO -   Market Image...
+2026-06-23 17:59:08,650 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-2026-06-23 15:50:49,898 - INFO - Cycle completed. 2026-06-23 15:50:49.898827
+2026-06-23 17:59:08,664 - INFO - Cycle completed. 2026-06-23 17:59:08.664268

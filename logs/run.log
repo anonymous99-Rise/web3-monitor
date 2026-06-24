@@ -1,11 +1,5 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: OpenAI首款芯片Jalapeño亮相：9个月流片，拟2026年底吉瓦级部署
-推送成功: 【BLOCKBEATS - 链上侦探】OpenAI首款芯片Jalapeño亮相：9个月流片，拟2026年底吉瓦级部署
-已保存到 Markdown: ./output/blockbeats/2026-06-24.md
-  [BlockBeats] 新快讯: 高通将收购Modular，构建开放AI软件生态
-推送成功: 【BLOCKBEATS - 链上侦探】高通将收购Modular，构建开放AI软件生态
-已保存到 Markdown: ./output/blockbeats/2026-06-24.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
   Category: 项目动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1003&is_hot=1
@@ -40,7 +34,7 @@ Call log:
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-Cycle completed. 2026-06-24 14:35:24.803873
+Cycle completed. 2026-06-24 17:07:12.129062
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -50,15 +44,10 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-imeout 15000ms exceeded.
-Call log:
-  - waiting for locator(".list-table, .list-row") to be visible
-
-2026-06-24 14:35:14,531 - INFO -   Calendar Insight Image...
-2026-06-24 14:35:14,534 - WARNING -     Calendar insight icon not found
-2026-06-24 14:35:14,534 - INFO -   Market Image...
-2026-06-24 14:35:24,792 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+   Calendar insight icon not found
+2026-06-24 17:07:01,844 - INFO -   Market Image...
+2026-06-24 17:07:12,115 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-2026-06-24 14:35:24,803 - INFO - Cycle completed. 2026-06-24 14:35:24.803873
+2026-06-24 17:07:12,129 - INFO - Cycle completed. 2026-06-24 17:07:12.129062

@@ -1,16 +1,7 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 中国广电总局发布AI微短剧分类分层标准
-推送成功: 【BLOCKBEATS - 链上侦探】中国广电总局发布AI微短剧分类分层标准
-已保存到 Markdown: ./output/blockbeats/2026-06-25.md
-  [BlockBeats] 新快讯: 以太坊在1472美元处存在价值1.14亿美元潜在清算
-推送成功: 【BLOCKBEATS - 融资】以太坊在1472美元处存在价值1.14亿美元潜在清算
-已保存到 Markdown: ./output/blockbeats/2026-06-25.md
-  [BlockBeats] 新快讯: 「BTC OG内幕巨鲸」代理人比特币5倍多单已浮亏2112万美元
-推送成功: 【BLOCKBEATS - 融资】「BTC OG内幕巨鲸」代理人比特币5倍多单已浮亏2112万美元
-已保存到 Markdown: ./output/blockbeats/2026-06-25.md
-  [BlockBeats] 新快讯: 某鲸鱼BTC和XRP多头仓位遭全部清算，损失约842万美元
-推送成功: 【BLOCKBEATS - 融资】某鲸鱼BTC和XRP多头仓位遭全部清算，损失约842万美元
+  [BlockBeats] 新快讯: 苹果将跳过高端M6 Mac芯片，发力打造具备AI功能的M7系列
+推送成功: 【BLOCKBEATS - 链上侦探】苹果将跳过高端M6 Mac芯片，发力打造具备AI功能的M7系列
 已保存到 Markdown: ./output/blockbeats/2026-06-25.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -46,7 +37,7 @@ Call log:
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-Cycle completed. 2026-06-25 16:28:00.591967
+Cycle completed. 2026-06-25 19:07:18.283918
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -56,18 +47,12 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-for locator("table tr, .list-item") to be visible
 
-2026-06-25 16:27:35,066 - INFO -   Calendar Events...
-2026-06-25 16:27:50,322 - WARNING -   Calendar events fetch failed: Page.wait_for_selector: Timeout 15000ms exceeded.
-Call log:
-  - waiting for locator(".list-table, .list-row") to be visible
-
-2026-06-25 16:27:50,322 - INFO -   Calendar Insight Image...
-2026-06-25 16:27:50,324 - WARNING -     Calendar insight icon not found
-2026-06-25 16:27:50,324 - INFO -   Market Image...
-2026-06-25 16:28:00,577 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+2026-06-25 19:07:07,978 - INFO -   Calendar Insight Image...
+2026-06-25 19:07:07,980 - WARNING -     Calendar insight icon not found
+2026-06-25 19:07:07,980 - INFO -   Market Image...
+2026-06-25 19:07:18,269 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-2026-06-25 16:28:00,592 - INFO - Cycle completed. 2026-06-25 16:28:00.591967
+2026-06-25 19:07:18,283 - INFO - Cycle completed. 2026-06-25 19:07:18.283918

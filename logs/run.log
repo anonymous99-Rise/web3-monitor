@@ -1,8 +1,5 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 苹果将跳过高端M6 Mac芯片，发力打造具备AI功能的M7系列
-推送成功: 【BLOCKBEATS - 链上侦探】苹果将跳过高端M6 Mac芯片，发力打造具备AI功能的M7系列
-已保存到 Markdown: ./output/blockbeats/2026-06-25.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
   Category: 项目动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1003&is_hot=1
@@ -37,7 +34,7 @@ Call log:
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-Cycle completed. 2026-06-25 19:07:18.283918
+Cycle completed. 2026-06-25 21:46:13.206166
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -47,12 +44,10 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-
-2026-06-25 19:07:07,978 - INFO -   Calendar Insight Image...
-2026-06-25 19:07:07,980 - WARNING -     Calendar insight icon not found
-2026-06-25 19:07:07,980 - INFO -   Market Image...
-2026-06-25 19:07:18,269 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+   Calendar insight icon not found
+2026-06-25 21:46:02,937 - INFO -   Market Image...
+2026-06-25 21:46:13,193 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-2026-06-25 19:07:18,283 - INFO - Cycle completed. 2026-06-25 19:07:18.283918
+2026-06-25 21:46:13,206 - INFO - Cycle completed. 2026-06-25 21:46:13.206166

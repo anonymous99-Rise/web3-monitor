@@ -1,92 +1,12 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 以防止Altman变坏为名进行集权，前员工曝Anthropic反深陷「好人」神话一言堂
-推送成功: 【BLOCKBEATS - 链上侦探】以防止Altman变坏为名进行集权，前员工曝Anthropic反深陷「好人」神话一言堂
-已保存到 Markdown: ./output/blockbeats/2026-06-26.md
-  [BlockBeats] 新快讯: 别再傻堆算力了！研究表明大模型越训越「死板」，增大参数也无能为力
-推送成功: 【BLOCKBEATS - 链上侦探】别再傻堆算力了！研究表明大模型越训越「死板」，增大参数也无能为力
-已保存到 Markdown: ./output/blockbeats/2026-06-26.md
-  [BlockBeats] 新快讯: Claude付费个人用户暴涨75%，加速追赶ChatGPT
-推送成功: 【BLOCKBEATS - 链上侦探】Claude付费个人用户暴涨75%，加速追赶ChatGPT
-已保存到 Markdown: ./output/blockbeats/2026-06-26.md
-  [BlockBeats] 新快讯: 分配专属角色、要求周报复盘，Anthropic是如何给AI派活的？
-推送成功: 【BLOCKBEATS - 链上侦探】分配专属角色、要求周报复盘，Anthropic是如何给AI派活的？
-已保存到 Markdown: ./output/blockbeats/2026-06-26.md
-  [BlockBeats] 新快讯: 某巨鲸沉寂8个月后追空以太坊，空单价值1970万美元
-推送成功: 【BLOCKBEATS - 融资】某巨鲸沉寂8个月后追空以太坊，空单价值1970万美元
-已保存到 Markdown: ./output/blockbeats/2026-06-26.md
-  [BlockBeats] 新快讯: 「麻吉」ETH多单再遭部分清算，近1个月亏损243万美元
-推送成功: 【BLOCKBEATS - 融资】「麻吉」ETH多单再遭部分清算，近1个月亏损243万美元
-已保存到 Markdown: ./output/blockbeats/2026-06-26.md
-  [BlockBeats] 新快讯: 某巨鲸抛售464枚比特币换仓17750枚ETH，价值2756万美元
-推送成功: 【BLOCKBEATS - 融资】某巨鲸抛售464枚比特币换仓17750枚ETH，价值2756万美元
-已保存到 Markdown: ./output/blockbeats/2026-06-26.md
-  [BlockBeats] 新快讯: 贝莱德ETF地址向Coinbase存入2700枚BTC和41,996枚ETH
-推送成功: 【BLOCKBEATS - 融资】贝莱德ETF地址向Coinbase存入2700枚BTC和41,996枚ETH
-已保存到 Markdown: ./output/blockbeats/2026-06-26.md
-  Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
-  Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
-  Category: 项目动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1003&is_hot=1
-  Category: 市场观点 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1002&is_hot=1
-  Category: 链上数据 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1001&is_hot=1
-  Category: 融资动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1000&is_hot=1
-Scraping RootData...
-  List: Top 100 项目
-  Failed to scrape list Top 100 项目: Page.wait_for_selector: Timeout 15000ms exceeded.
+Error in monitor loop: Page.goto: Navigation to "https://www.theblockbeats.info/newsflash?type=1" is interrupted by another navigation to "chrome-error://chromewebdata/"
 Call log:
-  - waiting for locator("table tr, .list-item") to be visible
+  - navigating to "https://www.theblockbeats.info/newsflash?type=1", waiting until "domcontentloaded"
 
-  List: 透明度评分提升榜
-  Failed to scrape list 透明度评分提升榜: Page.wait_for_selector: Timeout 15000ms exceeded.
-Call log:
-  - waiting for locator("table tr, .list-item") to be visible
-
-  List: 交易所透明度排名
-  Failed to scrape list 交易所透明度排名: Page.wait_for_selector: Timeout 15000ms exceeded.
-Call log:
-  - waiting for locator("table tr, .list-item") to be visible
-
-  Calendar Events...
-  Calendar events fetch failed: Page.wait_for_selector: Timeout 15000ms exceeded.
-Call log:
-  - waiting for locator(".list-table, .list-row") to be visible
-
-  Calendar Insight Image...
-    Calendar insight icon not found
-  Market Image...
-    Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
-Call log:
-  - waiting for locator(".v-data-table, table, .top-gainers") to be visible
-
-Cycle completed. 2026-06-26 13:14:44.400899
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
   Loaded RootData cookies
 Scraping BlockBeats...
   Category: 预测市场 - https://www.theblockbeats.info/newsflash?type=1
-  Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
-  Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
-Scraping TechFlow...
-   Failed to scrape list 透明度评分提升榜: Page.wait_for_selector: Timeout 15000ms exceeded.
-Call log:
-  - waiting for locator("table tr, .list-item") to be visible
-
-2026-06-26 13:14:03,507 - INFO -   List: 交易所透明度排名
-2026-06-26 13:14:18,817 - ERROR -   Failed to scrape list 交易所透明度排名: Page.wait_for_selector: Timeout 15000ms exceeded.
-Call log:
-  - waiting for locator("table tr, .list-item") to be visible
-
-2026-06-26 13:14:18,817 - INFO -   Calendar Events...
-2026-06-26 13:14:34,100 - WARNING -   Calendar events fetch failed: Page.wait_for_selector: Timeout 15000ms exceeded.
-Call log:
-  - waiting for locator(".list-table, .list-row") to be visible
-
-2026-06-26 13:14:34,100 - INFO -   Calendar Insight Image...
-2026-06-26 13:14:34,102 - WARNING -     Calendar insight icon not found
-2026-06-26 13:14:34,102 - INFO -   Market Image...
-2026-06-26 13:14:44,387 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
-Call log:
-  - waiting for locator(".v-data-table, table, .top-gainers") to be visible
-
-2026-06-26 13:14:44,400 - INFO - Cycle completed. 2026-06-26 13:14:44.400899

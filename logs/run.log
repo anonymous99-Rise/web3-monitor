@@ -1,5 +1,41 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
+  [BlockBeats] 新快讯: 谷歌限制Meta对Gemini的使用，因AI需求挤压算力容量
+推送成功: 【BLOCKBEATS - 链上侦探】谷歌限制Meta对Gemini的使用，因AI需求挤压算力容量
+已保存到 Markdown: ./output/blockbeats/2026-06-28.md
+  [BlockBeats] 新快讯: Coinbase将默认AI模型切换至GLM5.2、Kimi2.7等开源模型，AI成本减半
+推送成功: 【BLOCKBEATS - 链上侦探】Coinbase将默认AI模型切换至GLM5.2、Kimi2.7等开源模型，AI成本减半
+已保存到 Markdown: ./output/blockbeats/2026-06-28.md
+  [BlockBeats] 新快讯: 谷歌Pixel部署零拷贝MTP，Gemini Nano推理提速超50%且省内存
+推送成功: 【BLOCKBEATS - 链上侦探】谷歌Pixel部署零拷贝MTP，Gemini Nano推理提速超50%且省内存
+已保存到 Markdown: ./output/blockbeats/2026-06-28.md
+  [BlockBeats] 新快讯: 在线策略自蒸馏与做梦模拟或成大模型持续学习新解法
+推送成功: 【BLOCKBEATS - 链上侦探】在线策略自蒸馏与做梦模拟或成大模型持续学习新解法
+已保存到 Markdown: ./output/blockbeats/2026-06-28.md
+  [BlockBeats] 新快讯: 分析：中美开源大模型与闭源前沿差距仅剩3至6个月，极低成本加速全球平替潮
+推送成功: 【BLOCKBEATS - 链上侦探】分析：中美开源大模型与闭源前沿差距仅剩3至6个月，极低成本加速全球平替潮
+已保存到 Markdown: ./output/blockbeats/2026-06-28.md
+  [BlockBeats] 新快讯: OpenAI升级Codex体验：支持长对话悬停跳转与缩放对齐
+推送成功: 【BLOCKBEATS - 链上侦探】OpenAI升级Codex体验：支持长对话悬停跳转与缩放对齐
+已保存到 Markdown: ./output/blockbeats/2026-06-28.md
+  [BlockBeats] 新快讯: Token实际成本降至0.99美元，SemiAnalysis披露大模型消费已占薪酬30%
+推送成功: 【BLOCKBEATS - 链上侦探】Token实际成本降至0.99美元，SemiAnalysis披露大模型消费已占薪酬30%
+已保存到 Markdown: ./output/blockbeats/2026-06-28.md
+  [BlockBeats] 新快讯: DCG旗下Yuma推出Bittensor生态机构基金，去中心化AI叙事因Anthropic模型受限事件获新动力
+推送成功: 【BLOCKBEATS - 链上侦探】DCG旗下Yuma推出Bittensor生态机构基金，去中心化AI叙事因Anthropic模型受限事件获新动力
+已保存到 Markdown: ./output/blockbeats/2026-06-28.md
+  [BlockBeats] 新快讯: 麻吉「卖猴补仓」，近期抛售34枚BAYC NFT获得326枚ETH，亏损399枚ETH
+推送成功: 【BLOCKBEATS - 融资】麻吉「卖猴补仓」，近期抛售34枚BAYC NFT获得326枚ETH，亏损399枚ETH
+已保存到 Markdown: ./output/blockbeats/2026-06-28.md
+  [BlockBeats] 新快讯: 鲸鱼「sat0shi777」多空两头同时被套，1.02亿美元仓位合计浮亏逾300万美元
+推送成功: 【BLOCKBEATS - 融资】鲸鱼「sat0shi777」多空两头同时被套，1.02亿美元仓位合计浮亏逾300万美元
+已保存到 Markdown: ./output/blockbeats/2026-06-28.md
+  [BlockBeats] 新快讯: 某新地址增持1350枚BTC，价值约8187万美元
+推送成功: 【BLOCKBEATS - 融资】某新地址增持1350枚BTC，价值约8187万美元
+已保存到 Markdown: ./output/blockbeats/2026-06-28.md
+  [BlockBeats] 新快讯: SharpLink三日累计增持39,196枚ETH，耗资6243万美元
+推送成功: 【BLOCKBEATS - 融资】SharpLink三日累计增持39,196枚ETH，耗资6243万美元
+已保存到 Markdown: ./output/blockbeats/2026-06-28.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
   Category: 项目动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1003&is_hot=1
@@ -34,7 +70,7 @@ Call log:
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-Cycle completed. 2026-06-28 00:05:51.542095
+Cycle completed. 2026-06-28 05:19:51.461832
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -44,10 +80,32 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-   Calendar insight icon not found
-2026-06-28 00:05:41,242 - INFO -   Market Image...
-2026-06-28 00:05:51,527 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+ 05:18:37,357 - INFO - Scraping RootData...
+2026-06-28 05:18:37,386 - INFO -   List: Top 100 项目
+2026-06-28 05:18:55,334 - ERROR -   Failed to scrape list Top 100 项目: Page.wait_for_selector: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator("table tr, .list-item") to be visible
+
+2026-06-28 05:18:55,335 - INFO -   List: 透明度评分提升榜
+2026-06-28 05:19:10,623 - ERROR -   Failed to scrape list 透明度评分提升榜: Page.wait_for_selector: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator("table tr, .list-item") to be visible
+
+2026-06-28 05:19:10,623 - INFO -   List: 交易所透明度排名
+2026-06-28 05:19:25,918 - ERROR -   Failed to scrape list 交易所透明度排名: Page.wait_for_selector: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator("table tr, .list-item") to be visible
+
+2026-06-28 05:19:25,919 - INFO -   Calendar Events...
+2026-06-28 05:19:41,183 - WARNING -   Calendar events fetch failed: Page.wait_for_selector: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator(".list-table, .list-row") to be visible
+
+2026-06-28 05:19:41,183 - INFO -   Calendar Insight Image...
+2026-06-28 05:19:41,185 - WARNING -     Calendar insight icon not found
+2026-06-28 05:19:41,185 - INFO -   Market Image...
+2026-06-28 05:19:51,450 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-2026-06-28 00:05:51,542 - INFO - Cycle completed. 2026-06-28 00:05:51.542095
+2026-06-28 05:19:51,461 - INFO - Cycle completed. 2026-06-28 05:19:51.461832

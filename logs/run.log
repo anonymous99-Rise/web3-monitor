@@ -1,16 +1,13 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 美国数据中心建设支出达500亿美元，已超过机场、港口和公共交通总和
-推送成功: 【BLOCKBEATS - 链上侦探】美国数据中心建设支出达500亿美元，已超过机场、港口和公共交通总和
+  [BlockBeats] 新快讯: 马斯克宣布Grok 4.5已在SpaceX和Tesla进入内部私测，性能已接近或超越Opus
+推送成功: 【BLOCKBEATS - 链上侦探】马斯克宣布Grok 4.5已在SpaceX和Tesla进入内部私测，性能已接近或超越Opus
 已保存到 Markdown: ./output/blockbeats/2026-06-28.md
-  [BlockBeats] 新快讯: 消息称OpenAI或将IPO推迟至2027年，Anthropic估值升至9650亿美元
-推送成功: 【BLOCKBEATS - 链上侦探】消息称OpenAI或将IPO推迟至2027年，Anthropic估值升至9650亿美元
+  [BlockBeats] 新快讯: 加密KOL Ansem持续喊单同名Meme币，ANSEM市值短时突破7800万美元
+推送成功: 【BLOCKBEATS - 融资】加密KOL Ansem持续喊单同名Meme币，ANSEM市值短时突破7800万美元
 已保存到 Markdown: ./output/blockbeats/2026-06-28.md
-  [BlockBeats] 新快讯: F2Pool联创王纯再次增持4,950枚ETH，近期累计增持9.2万枚ETH
-推送成功: 【BLOCKBEATS - 融资】F2Pool联创王纯再次增持4,950枚ETH，近期累计增持9.2万枚ETH
-已保存到 Markdown: ./output/blockbeats/2026-06-28.md
-  [BlockBeats] 新快讯: 某交易员押注ANSEM获261倍回报，2300美元浮盈超61万美元
-推送成功: 【BLOCKBEATS - 融资】某交易员押注ANSEM获261倍回报，2300美元浮盈超61万美元
+  [BlockBeats] 新快讯: 某巨鲸在Binance单笔买入545.5万美元SK海力士，合约价格短时升至1830美元
+推送成功: 【BLOCKBEATS - 融资】某巨鲸在Binance单笔买入545.5万美元SK海力士，合约价格短时升至1830美元
 已保存到 Markdown: ./output/blockbeats/2026-06-28.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -46,7 +43,7 @@ Call log:
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-Cycle completed. 2026-06-28 08:55:33.722234
+Cycle completed. 2026-06-28 11:10:12.920065
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -56,18 +53,16 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-for locator("table tr, .list-item") to be visible
-
-2026-06-28 08:55:08,144 - INFO -   Calendar Events...
-2026-06-28 08:55:23,422 - WARNING -   Calendar events fetch failed: Page.wait_for_selector: Timeout 15000ms exceeded.
+ts...
+2026-06-28 11:10:02,623 - WARNING -   Calendar events fetch failed: Page.wait_for_selector: Timeout 15000ms exceeded.
 Call log:
   - waiting for locator(".list-table, .list-row") to be visible
 
-2026-06-28 08:55:23,422 - INFO -   Calendar Insight Image...
-2026-06-28 08:55:23,424 - WARNING -     Calendar insight icon not found
-2026-06-28 08:55:23,424 - INFO -   Market Image...
-2026-06-28 08:55:33,708 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+2026-06-28 11:10:02,623 - INFO -   Calendar Insight Image...
+2026-06-28 11:10:02,626 - WARNING -     Calendar insight icon not found
+2026-06-28 11:10:02,626 - INFO -   Market Image...
+2026-06-28 11:10:12,906 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-2026-06-28 08:55:33,722 - INFO - Cycle completed. 2026-06-28 08:55:33.722234
+2026-06-28 11:10:12,920 - INFO - Cycle completed. 2026-06-28 11:10:12.920065

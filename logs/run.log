@@ -1,13 +1,13 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 马斯克宣布Grok 4.5已在SpaceX和Tesla进入内部私测，性能已接近或超越Opus
-推送成功: 【BLOCKBEATS - 链上侦探】马斯克宣布Grok 4.5已在SpaceX和Tesla进入内部私测，性能已接近或超越Opus
+  [BlockBeats] 新快讯: 马克·安德森：智谱GLM-5.2匹敌美国头部公开模型，大模型能力逐步走向多极化竞争格局
+推送成功: 【BLOCKBEATS - 链上侦探】马克·安德森：智谱GLM-5.2匹敌美国头部公开模型，大模型能力逐步走向多极化竞争格局
 已保存到 Markdown: ./output/blockbeats/2026-06-28.md
-  [BlockBeats] 新快讯: 加密KOL Ansem持续喊单同名Meme币，ANSEM市值短时突破7800万美元
-推送成功: 【BLOCKBEATS - 融资】加密KOL Ansem持续喊单同名Meme币，ANSEM市值短时突破7800万美元
+  [BlockBeats] 新快讯: 马斯克再开「月更」空头支票：旧模型跳票两月，新大饼悄然登场
+推送成功: 【BLOCKBEATS - 链上侦探】马斯克再开「月更」空头支票：旧模型跳票两月，新大饼悄然登场
 已保存到 Markdown: ./output/blockbeats/2026-06-28.md
-  [BlockBeats] 新快讯: 某巨鲸在Binance单笔买入545.5万美元SK海力士，合约价格短时升至1830美元
-推送成功: 【BLOCKBEATS - 融资】某巨鲸在Binance单笔买入545.5万美元SK海力士，合约价格短时升至1830美元
+  [BlockBeats] 新快讯: Meme币ANSEM榜一浮盈5550万美元，由加密KOL Ansem控制
+推送成功: 【BLOCKBEATS - 融资】Meme币ANSEM榜一浮盈5550万美元，由加密KOL Ansem控制
 已保存到 Markdown: ./output/blockbeats/2026-06-28.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -43,7 +43,7 @@ Call log:
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-Cycle completed. 2026-06-28 11:10:12.920065
+Cycle completed. 2026-06-28 13:50:28.250645
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -54,15 +54,15 @@ Scraping BlockBeats...
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
 ts...
-2026-06-28 11:10:02,623 - WARNING -   Calendar events fetch failed: Page.wait_for_selector: Timeout 15000ms exceeded.
+2026-06-28 13:50:17,962 - WARNING -   Calendar events fetch failed: Page.wait_for_selector: Timeout 15000ms exceeded.
 Call log:
   - waiting for locator(".list-table, .list-row") to be visible
 
-2026-06-28 11:10:02,623 - INFO -   Calendar Insight Image...
-2026-06-28 11:10:02,626 - WARNING -     Calendar insight icon not found
-2026-06-28 11:10:02,626 - INFO -   Market Image...
-2026-06-28 11:10:12,906 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+2026-06-28 13:50:17,963 - INFO -   Calendar Insight Image...
+2026-06-28 13:50:17,965 - WARNING -     Calendar insight icon not found
+2026-06-28 13:50:17,965 - INFO -   Market Image...
+2026-06-28 13:50:28,238 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-2026-06-28 11:10:12,920 - INFO - Cycle completed. 2026-06-28 11:10:12.920065
+2026-06-28 13:50:28,250 - INFO - Cycle completed. 2026-06-28 13:50:28.250645

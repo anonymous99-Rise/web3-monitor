@@ -1,37 +1,7 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 字节跳动最早明年初完成下一代自研CPU设计，目标明年下半年量产并大规模部署
-推送成功: 【BLOCKBEATS - 链上侦探】字节跳动最早明年初完成下一代自研CPU设计，目标明年下半年量产并大规模部署
-已保存到 Markdown: ./output/blockbeats/2026-06-29.md
-  [BlockBeats] 新快讯: Palantir将与英伟达合作，将Nvidia Nemotron开放AI模型部署于主权环境中
-推送成功: 【BLOCKBEATS - 链上侦探】Palantir将与英伟达合作，将Nvidia Nemotron开放AI模型部署于主权环境中
-已保存到 Markdown: ./output/blockbeats/2026-06-29.md
-  [BlockBeats] 新快讯: DeepSeek V4正式版定档7月中旬上线，引入峰谷双倍定价
-推送成功: 【BLOCKBEATS - 链上侦探】DeepSeek V4正式版定档7月中旬上线，引入峰谷双倍定价
-已保存到 Markdown: ./output/blockbeats/2026-06-29.md
-  [BlockBeats] 新快讯: 谷歌云将提供用于科学研究的专业AI模型
-推送成功: 【BLOCKBEATS - 链上侦探】谷歌云将提供用于科学研究的专业AI模型
-已保存到 Markdown: ./output/blockbeats/2026-06-29.md
-  [BlockBeats] 新快讯: 字节豆包上线内置轻导航功能：支持步骑行原生播报
-推送成功: 【BLOCKBEATS - 链上侦探】字节豆包上线内置轻导航功能：支持步骑行原生播报
-已保存到 Markdown: ./output/blockbeats/2026-06-29.md
-  [BlockBeats] 新快讯: BinEval框架用是非题自动给AI打分，解决裁判模型虚报满分和不透明痛点
-推送成功: 【BLOCKBEATS - 链上侦探】BinEval框架用是非题自动给AI打分，解决裁判模型虚报满分和不透明痛点
-已保存到 Markdown: ./output/blockbeats/2026-06-29.md
-  [BlockBeats] 新快讯: 数据中心运营商AirTrunk接近在新加坡提交IPO申请
-推送成功: 【BLOCKBEATS - 链上侦探】数据中心运营商AirTrunk接近在新加坡提交IPO申请
-已保存到 Markdown: ./output/blockbeats/2026-06-29.md
-  [BlockBeats] 新快讯: 贝莱德向Coinbase存入7432枚BTC和8150枚ETH
-推送成功: 【BLOCKBEATS - 融资】贝莱德向Coinbase存入7432枚BTC和8150枚ETH
-已保存到 Markdown: ./output/blockbeats/2026-06-29.md
-  [BlockBeats] 新快讯: Meme币「龙虾」午后拉涨33%，市值回涨至1200万美元
-推送成功: 【BLOCKBEATS - 融资】Meme币「龙虾」午后拉涨33%，市值回涨至1200万美元
-已保存到 Markdown: ./output/blockbeats/2026-06-29.md
-  [BlockBeats] 新快讯: 疑现「马甲账户」多地址分散埋伏美光科技，合开1000万规模MU多仓
-推送成功: 【BLOCKBEATS - 融资】疑现「马甲账户」多地址分散埋伏美光科技，合开1000万规模MU多仓
-已保存到 Markdown: ./output/blockbeats/2026-06-29.md
-  [BlockBeats] 新快讯: 美光「MU」3倍涨幅行情，这两地址踏准主升浪录360%及1900%回报率
-推送成功: 【BLOCKBEATS - 融资】美光「MU」3倍涨幅行情，这两地址踏准主升浪录360%及1900%回报率
+  [BlockBeats] 新快讯: 因成本高企，亚马逊与Anthropic重新谈判协议，同时考虑其他AI模型
+推送成功: 【BLOCKBEATS - 链上侦探】因成本高企，亚马逊与Anthropic重新谈判协议，同时考虑其他AI模型
 已保存到 Markdown: ./output/blockbeats/2026-06-29.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -67,7 +37,7 @@ Call log:
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-Cycle completed. 2026-06-29 14:07:16.219083
+Cycle completed. 2026-06-29 17:39:47.539406
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -78,30 +48,11 @@ Scraping BlockBeats...
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
 
-2026-06-29 14:06:20,055 - ERROR -   Failed to scrape list Top 100 项目: Page.wait_for_selector: Timeout 15000ms exceeded.
-Call log:
-  - waiting for locator("table tr, .list-item") to be visible
-
-2026-06-29 14:06:20,055 - INFO -   List: 透明度评分提升榜
-2026-06-29 14:06:35,354 - ERROR -   Failed to scrape list 透明度评分提升榜: Page.wait_for_selector: Timeout 15000ms exceeded.
-Call log:
-  - waiting for locator("table tr, .list-item") to be visible
-
-2026-06-29 14:06:35,354 - INFO -   List: 交易所透明度排名
-2026-06-29 14:06:50,652 - ERROR -   Failed to scrape list 交易所透明度排名: Page.wait_for_selector: Timeout 15000ms exceeded.
-Call log:
-  - waiting for locator("table tr, .list-item") to be visible
-
-2026-06-29 14:06:50,652 - INFO -   Calendar Events...
-2026-06-29 14:07:05,926 - WARNING -   Calendar events fetch failed: Page.wait_for_selector: Timeout 15000ms exceeded.
-Call log:
-  - waiting for locator(".list-table, .list-row") to be visible
-
-2026-06-29 14:07:05,926 - INFO -   Calendar Insight Image...
-2026-06-29 14:07:05,929 - WARNING -     Calendar insight icon not found
-2026-06-29 14:07:05,929 - INFO -   Market Image...
-2026-06-29 14:07:16,205 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+2026-06-29 17:39:37,269 - INFO -   Calendar Insight Image...
+2026-06-29 17:39:37,271 - WARNING -     Calendar insight icon not found
+2026-06-29 17:39:37,271 - INFO -   Market Image...
+2026-06-29 17:39:47,525 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-2026-06-29 14:07:16,219 - INFO - Cycle completed. 2026-06-29 14:07:16.219083
+2026-06-29 17:39:47,539 - INFO - Cycle completed. 2026-06-29 17:39:47.539406

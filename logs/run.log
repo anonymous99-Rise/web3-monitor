@@ -1,20 +1,5 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 欧股上半年收官：蓝筹指数涨逾9%，德、英、法股指仅录得个位数涨幅
-推送成功: 【BLOCKBEATS - 预测市场】欧股上半年收官：蓝筹指数涨逾9%，德、英、法股指仅录得个位数涨幅
-已保存到 Markdown: ./output/blockbeats/2026-06-30.md
-  [BlockBeats] 新快讯: Circle跌超13%，Visa、贝莱德等巨头将联合推出新稳定币OUSD
-推送成功: 【BLOCKBEATS - 预测市场】Circle跌超13%，Visa、贝莱德等巨头将联合推出新稳定币OUSD
-已保存到 Markdown: ./output/blockbeats/2026-06-30.md
-  [BlockBeats] 新快讯: 日本斥资约23.83亿美元扶持软银牵头开发国产AI模型
-推送成功: 【BLOCKBEATS - 融资】日本斥资约23.83亿美元扶持软银牵头开发国产AI模型
-已保存到 Markdown: ./output/blockbeats/2026-06-30.md
-  [BlockBeats] 新快讯: AI芯片公司Etched结束隐身运营，宣布获8亿美元融资及逾10亿美元客户合同
-推送成功: 【BLOCKBEATS - 融资】AI芯片公司Etched结束隐身运营，宣布获8亿美元融资及逾10亿美元客户合同
-已保存到 Markdown: ./output/blockbeats/2026-06-30.md
-  [BlockBeats] 新快讯: 英国央行官员暗示将出台新规监管智能体式AI
-推送成功: 【BLOCKBEATS - 融资】英国央行官员暗示将出台新规监管智能体式AI
-已保存到 Markdown: ./output/blockbeats/2026-06-30.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
   Category: 项目动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1003&is_hot=1
@@ -49,7 +34,7 @@ Call log:
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-Cycle completed. 2026-06-30 20:03:01.551363
+Cycle completed. 2026-06-30 21:47:51.310896
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -59,20 +44,10 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
- 交易所透明度排名: Page.wait_for_selector: Timeout 15000ms exceeded.
-Call log:
-  - waiting for locator("table tr, .list-item") to be visible
-
-2026-06-30 20:02:36,009 - INFO -   Calendar Events...
-2026-06-30 20:02:51,271 - WARNING -   Calendar events fetch failed: Page.wait_for_selector: Timeout 15000ms exceeded.
-Call log:
-  - waiting for locator(".list-table, .list-row") to be visible
-
-2026-06-30 20:02:51,271 - INFO -   Calendar Insight Image...
-2026-06-30 20:02:51,273 - WARNING -     Calendar insight icon not found
-2026-06-30 20:02:51,273 - INFO -   Market Image...
-2026-06-30 20:03:01,538 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+   Calendar insight icon not found
+2026-06-30 21:47:41,041 - INFO -   Market Image...
+2026-06-30 21:47:51,298 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-2026-06-30 20:03:01,551 - INFO - Cycle completed. 2026-06-30 20:03:01.551363
+2026-06-30 21:47:51,310 - INFO - Cycle completed. 2026-06-30 21:47:51.310896

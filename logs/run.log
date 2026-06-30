@@ -1,34 +1,19 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: Claude Code更新预告：下一版本将默认让子智能体在后台执行任务
-推送成功: 【BLOCKBEATS - 链上侦探】Claude Code更新预告：下一版本将默认让子智能体在后台执行任务
+  [BlockBeats] 新快讯: 电网瓶颈成AI算力扩张最大障碍，全球逾2500吉瓦项目排队等待并网
+推送成功: 【BLOCKBEATS - 链上侦探】电网瓶颈成AI算力扩张最大障碍，全球逾2500吉瓦项目排队等待并网
 已保存到 Markdown: ./output/blockbeats/2026-06-30.md
-  [BlockBeats] 新快讯: Claude Fable 5或引入身份验证机制，并独立于订阅计划计费
-推送成功: 【BLOCKBEATS - 链上侦探】Claude Fable 5或引入身份验证机制，并独立于订阅计划计费
+  [BlockBeats] 新快讯: Serenity：中美AI竞赛已现「现代冷战」特征，供应链相互依存或难再抑制对抗升级
+推送成功: 【BLOCKBEATS - 链上侦探】Serenity：中美AI竞赛已现「现代冷战」特征，供应链相互依存或难再抑制对抗升级
 已保存到 Markdown: ./output/blockbeats/2026-06-30.md
-  [BlockBeats] 新快讯: 美团开源首个从训练到推理都用国产芯片的万亿大模型LongCat-2.0
-推送成功: 【BLOCKBEATS - 链上侦探】美团开源首个从训练到推理都用国产芯片的万亿大模型LongCat-2.0
+  [BlockBeats] 新快讯: 贝莱德向Coinbase Prime存入价值约3.44亿美元比特币与以太坊
+推送成功: 【BLOCKBEATS - 融资】贝莱德向Coinbase Prime存入价值约3.44亿美元比特币与以太坊
 已保存到 Markdown: ./output/blockbeats/2026-06-30.md
-  [BlockBeats] 新快讯: Meta限制员工使用Claude与Codex，严防「模型蒸馏」违规
-推送成功: 【BLOCKBEATS - 链上侦探】Meta限制员工使用Claude与Codex，严防「模型蒸馏」违规
+  [BlockBeats] 新快讯: SpaceX入纳指7日倒计时，1名巨鲸提前布局开立326万美元SPCX多仓
+推送成功: 【BLOCKBEATS - 融资】SpaceX入纳指7日倒计时，1名巨鲸提前布局开立326万美元SPCX多仓
 已保存到 Markdown: ./output/blockbeats/2026-06-30.md
-  [BlockBeats] 新快讯: Cognition推出Devin Fusion：主智能体带「副手」并行，开发成本降低35%
-推送成功: 【BLOCKBEATS - 链上侦探】Cognition推出Devin Fusion：主智能体带「副手」并行，开发成本降低35%
-已保存到 Markdown: ./output/blockbeats/2026-06-30.md
-  [BlockBeats] 新快讯: Vibe Coding平台Base44推出首个自研模型Base 1，用数千万真实开发记录训练「产品直觉」
-推送成功: 【BLOCKBEATS - 链上侦探】Vibe Coding平台Base44推出首个自研模型Base 1，用数千万真实开发记录训练「产品直觉」
-已保存到 Markdown: ./output/blockbeats/2026-06-30.md
-  [BlockBeats] 新快讯: Kimi估值升至315亿美元，ARR突破3亿美元，收入曲线现Anthropic早期特征
-推送成功: 【BLOCKBEATS - 链上侦探】Kimi估值升至315亿美元，ARR突破3亿美元，收入曲线现Anthropic早期特征
-已保存到 Markdown: ./output/blockbeats/2026-06-30.md
-  [BlockBeats] 新快讯: 以太坊基金会通过Lido质押4938枚ETH
-推送成功: 【BLOCKBEATS - 融资】以太坊基金会通过Lido质押4938枚ETH
-已保存到 Markdown: ./output/blockbeats/2026-06-30.md
-  [BlockBeats] 新快讯: ANSEM部署者卖飞后高频量产「名人币」：7日卷走600万盈利，累计创建102种代币
-推送成功: 【BLOCKBEATS - 融资】ANSEM部署者卖飞后高频量产「名人币」：7日卷走600万盈利，累计创建102种代币
-已保存到 Markdown: ./output/blockbeats/2026-06-30.md
-  [BlockBeats] 新快讯: Solana「名人币」再起热潮？ANSEM之后TJR市值速通2000万美元
-推送成功: 【BLOCKBEATS - 融资】Solana「名人币」再起热潮？ANSEM之后TJR市值速通2000万美元
+  [BlockBeats] 新快讯: 智谱ZHIPU日内回涨8.3%，某交易员低点止盈空单后3倍杠杆反手做多
+推送成功: 【BLOCKBEATS - 融资】智谱ZHIPU日内回涨8.3%，某交易员低点止盈空单后3倍杠杆反手做多
 已保存到 Markdown: ./output/blockbeats/2026-06-30.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -64,7 +49,7 @@ Call log:
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-Cycle completed. 2026-06-30 09:40:08.759915
+Cycle completed. 2026-06-30 12:11:50.005245
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -74,30 +59,20 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-Timeout 15000ms exceeded.
+ 交易所透明度排名: Page.wait_for_selector: Timeout 15000ms exceeded.
 Call log:
   - waiting for locator("table tr, .list-item") to be visible
 
-2026-06-30 09:39:12,664 - INFO -   List: 透明度评分提升榜
-2026-06-30 09:39:27,943 - ERROR -   Failed to scrape list 透明度评分提升榜: Page.wait_for_selector: Timeout 15000ms exceeded.
-Call log:
-  - waiting for locator("table tr, .list-item") to be visible
-
-2026-06-30 09:39:27,943 - INFO -   List: 交易所透明度排名
-2026-06-30 09:39:43,223 - ERROR -   Failed to scrape list 交易所透明度排名: Page.wait_for_selector: Timeout 15000ms exceeded.
-Call log:
-  - waiting for locator("table tr, .list-item") to be visible
-
-2026-06-30 09:39:43,223 - INFO -   Calendar Events...
-2026-06-30 09:39:58,482 - WARNING -   Calendar events fetch failed: Page.wait_for_selector: Timeout 15000ms exceeded.
+2026-06-30 12:11:24,435 - INFO -   Calendar Events...
+2026-06-30 12:11:39,713 - WARNING -   Calendar events fetch failed: Page.wait_for_selector: Timeout 15000ms exceeded.
 Call log:
   - waiting for locator(".list-table, .list-row") to be visible
 
-2026-06-30 09:39:58,482 - INFO -   Calendar Insight Image...
-2026-06-30 09:39:58,484 - WARNING -     Calendar insight icon not found
-2026-06-30 09:39:58,484 - INFO -   Market Image...
-2026-06-30 09:40:08,746 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+2026-06-30 12:11:39,713 - INFO -   Calendar Insight Image...
+2026-06-30 12:11:39,715 - WARNING -     Calendar insight icon not found
+2026-06-30 12:11:39,715 - INFO -   Market Image...
+2026-06-30 12:11:49,992 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-2026-06-30 09:40:08,759 - INFO - Cycle completed. 2026-06-30 09:40:08.759915
+2026-06-30 12:11:50,005 - INFO - Cycle completed. 2026-06-30 12:11:50.005245

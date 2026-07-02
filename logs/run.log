@@ -1,25 +1,10 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 费城半导体指数跌超5%，美股存储、光通信板块全线下挫
-推送成功: 【BLOCKBEATS - 预测市场】费城半导体指数跌超5%，美股存储、光通信板块全线下挫
+  [BlockBeats] 新快讯: 交易观点：技术面信号显示短期看空半导体，韩股KOSPI指数作为领先指标已跌破50日均线
+推送成功: 【BLOCKBEATS - 预测市场】交易观点：技术面信号显示短期看空半导体，韩股KOSPI指数作为领先指标已跌破50日均线
 已保存到 Markdown: ./output/blockbeats/2026-07-02.md
-  [BlockBeats] 新快讯: 韩股三星电子与SK海力士预期明日将延续小幅下跌
-推送成功: 【BLOCKBEATS - 预测市场】韩股三星电子与SK海力士预期明日将延续小幅下跌
-已保存到 Markdown: ./output/blockbeats/2026-07-02.md
-  [BlockBeats] 新快讯: 观点：Neocloud与内存板块出现持仓出清，回撤往往带来最好建仓机会
-推送成功: 【BLOCKBEATS - 预测市场】观点：Neocloud与内存板块出现持仓出清，回撤往往带来最好建仓机会
-已保存到 Markdown: ./output/blockbeats/2026-07-02.md
-  [BlockBeats] 新快讯: Securitize今日以股票代码「SECZ」登录纽交所，市值暂报19.65亿美元
-推送成功: 【BLOCKBEATS - 预测市场】Securitize今日以股票代码「SECZ」登录纽交所，市值暂报19.65亿美元
-已保存到 Markdown: ./output/blockbeats/2026-07-02.md
-  [BlockBeats] 新快讯: 特朗普今日两度盛赞美光仍未挽救存储跌势，MU失守1000美元大关，闪迪跌超10%
-推送成功: 【BLOCKBEATS - 预测市场】特朗普今日两度盛赞美光仍未挽救存储跌势，MU失守1000美元大关，闪迪跌超10%
-已保存到 Markdown: ./output/blockbeats/2026-07-02.md
-  [BlockBeats] 新快讯: 纳指100盘中转跌，美股存储板块大幅下跌，闪迪、希捷跌超5%
-推送成功: 【BLOCKBEATS - 预测市场】纳指100盘中转跌，美股存储板块大幅下跌，闪迪、希捷跌超5%
-已保存到 Markdown: ./output/blockbeats/2026-07-02.md
-  [BlockBeats] 新快讯: 微软调动6000名员工帮企业部署AI，甚至主动协助客户替换昂贵模型
-推送成功: 【BLOCKBEATS - 融资】微软调动6000名员工帮企业部署AI，甚至主动协助客户替换昂贵模型
+  [BlockBeats] 新快讯: David Sacks力挺Palantir CEO炮轰AI实验室：真正的企业AI安全是掌控自己的数据、模型和算力
+推送成功: 【BLOCKBEATS - 融资】David Sacks力挺Palantir CEO炮轰AI实验室：真正的企业AI安全是掌控自己的数据、模型和算力
 已保存到 Markdown: ./output/blockbeats/2026-07-02.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -55,7 +40,7 @@ Call log:
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-Cycle completed. 2026-07-02 16:52:22.068374
+Cycle completed. 2026-07-02 18:28:24.622956
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -65,25 +50,15 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-.
-Call log:
-  - waiting for locator("table tr, .list-item") to be visible
-
-2026-07-02 16:51:41,245 - INFO -   List: 交易所透明度排名
-2026-07-02 16:51:56,530 - ERROR -   Failed to scrape list 交易所透明度排名: Page.wait_for_selector: Timeout 15000ms exceeded.
-Call log:
-  - waiting for locator("table tr, .list-item") to be visible
-
-2026-07-02 16:51:56,530 - INFO -   Calendar Events...
-2026-07-02 16:52:11,790 - WARNING -   Calendar events fetch failed: Page.wait_for_selector: Timeout 15000ms exceeded.
+imeout 15000ms exceeded.
 Call log:
   - waiting for locator(".list-table, .list-row") to be visible
 
-2026-07-02 16:52:11,790 - INFO -   Calendar Insight Image...
-2026-07-02 16:52:11,793 - WARNING -     Calendar insight icon not found
-2026-07-02 16:52:11,793 - INFO -   Market Image...
-2026-07-02 16:52:22,054 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+2026-07-02 18:28:14,347 - INFO -   Calendar Insight Image...
+2026-07-02 18:28:14,349 - WARNING -     Calendar insight icon not found
+2026-07-02 18:28:14,350 - INFO -   Market Image...
+2026-07-02 18:28:24,610 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-2026-07-02 16:52:22,068 - INFO - Cycle completed. 2026-07-02 16:52:22.068374
+2026-07-02 18:28:24,622 - INFO - Cycle completed. 2026-07-02 18:28:24.622956

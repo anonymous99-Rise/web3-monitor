@@ -1,11 +1,5 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 交易观点：技术面信号显示短期看空半导体，韩股KOSPI指数作为领先指标已跌破50日均线
-推送成功: 【BLOCKBEATS - 预测市场】交易观点：技术面信号显示短期看空半导体，韩股KOSPI指数作为领先指标已跌破50日均线
-已保存到 Markdown: ./output/blockbeats/2026-07-02.md
-  [BlockBeats] 新快讯: David Sacks力挺Palantir CEO炮轰AI实验室：真正的企业AI安全是掌控自己的数据、模型和算力
-推送成功: 【BLOCKBEATS - 融资】David Sacks力挺Palantir CEO炮轰AI实验室：真正的企业AI安全是掌控自己的数据、模型和算力
-已保存到 Markdown: ./output/blockbeats/2026-07-02.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
   Category: 项目动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1003&is_hot=1
@@ -40,7 +34,7 @@ Call log:
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-Cycle completed. 2026-07-02 18:28:24.622956
+Cycle completed. 2026-07-02 20:21:21.541590
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -50,15 +44,10 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-imeout 15000ms exceeded.
-Call log:
-  - waiting for locator(".list-table, .list-row") to be visible
-
-2026-07-02 18:28:14,347 - INFO -   Calendar Insight Image...
-2026-07-02 18:28:14,349 - WARNING -     Calendar insight icon not found
-2026-07-02 18:28:14,350 - INFO -   Market Image...
-2026-07-02 18:28:24,610 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+   Calendar insight icon not found
+2026-07-02 20:21:11,243 - INFO -   Market Image...
+2026-07-02 20:21:21,527 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-2026-07-02 18:28:24,622 - INFO - Cycle completed. 2026-07-02 18:28:24.622956
+2026-07-02 20:21:21,541 - INFO - Cycle completed. 2026-07-02 20:21:21.541590

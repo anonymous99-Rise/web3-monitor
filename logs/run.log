@@ -1,5 +1,17 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
+  [BlockBeats] 新快讯: 美股加密概念股逆势收涨，Strategy大涨7.9%，永续优先股STRC收报87.87美元
+推送成功: 【BLOCKBEATS - 预测市场】美股加密概念股逆势收涨，Strategy大涨7.9%，永续优先股STRC收报87.87美元
+已保存到 Markdown: ./output/blockbeats/2026-07-03.md
+  [BlockBeats] 新快讯: 美股收盘半导体指数两日累跌11%，存储板块大跌，闪迪跌超14%
+推送成功: 【BLOCKBEATS - 预测市场】美股收盘半导体指数两日累跌11%，存储板块大跌，闪迪跌超14%
+已保存到 Markdown: ./output/blockbeats/2026-07-03.md
+  [BlockBeats] 新快讯: 「大空头」Michael Burry在1051.87美元狙击做空美光科技
+推送成功: 【BLOCKBEATS - 预测市场】「大空头」Michael Burry在1051.87美元狙击做空美光科技
+已保存到 Markdown: ./output/blockbeats/2026-07-03.md
+  [BlockBeats] 新快讯: 美国政府和Anthropic并未讨论政府参股事宜
+推送成功: 【BLOCKBEATS - 融资】美国政府和Anthropic并未讨论政府参股事宜
+已保存到 Markdown: ./output/blockbeats/2026-07-03.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
   Category: 项目动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1003&is_hot=1
@@ -34,7 +46,7 @@ Call log:
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-Cycle completed. 2026-07-02 22:10:00.200967
+Cycle completed. 2026-07-03 00:08:55.478621
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -44,10 +56,18 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-   Calendar insight icon not found
-2026-07-02 22:09:49,955 - INFO -   Market Image...
-2026-07-02 22:10:00,188 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+for locator("table tr, .list-item") to be visible
+
+2026-07-03 00:08:29,945 - INFO -   Calendar Events...
+2026-07-03 00:08:45,205 - WARNING -   Calendar events fetch failed: Page.wait_for_selector: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator(".list-table, .list-row") to be visible
+
+2026-07-03 00:08:45,205 - INFO -   Calendar Insight Image...
+2026-07-03 00:08:45,207 - WARNING -     Calendar insight icon not found
+2026-07-03 00:08:45,207 - INFO -   Market Image...
+2026-07-03 00:08:55,464 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-2026-07-02 22:10:00,201 - INFO - Cycle completed. 2026-07-02 22:10:00.200967
+2026-07-03 00:08:55,478 - INFO - Cycle completed. 2026-07-03 00:08:55.478621

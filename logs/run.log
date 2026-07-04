@@ -1,5 +1,26 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
+  [BlockBeats] 新快讯: 半导体需求复苏从AI向更广泛工业终端市场扩散，供应链紧张从数字芯片向模拟芯片传导
+推送成功: 【BLOCKBEATS - 预测市场】半导体需求复苏从AI向更广泛工业终端市场扩散，供应链紧张从数字芯片向模拟芯片传导
+已保存到 Markdown: ./output/blockbeats/2026-07-04.md
+  [BlockBeats] 新快讯: 三星DRAM第三季度拟提价20%，已通过口头报价通知部分客户
+推送成功: 【BLOCKBEATS - 预测市场】三星DRAM第三季度拟提价20%，已通过口头报价通知部分客户
+已保存到 Markdown: ./output/blockbeats/2026-07-04.md
+  [BlockBeats] 新快讯: SemiAnalysis：内存占云商资本开支比例将突破40%，市场尚未对此充分定价
+推送成功: 【BLOCKBEATS - 预测市场】SemiAnalysis：内存占云商资本开支比例将突破40%，市场尚未对此充分定价
+已保存到 Markdown: ./output/blockbeats/2026-07-04.md
+  [BlockBeats] 新快讯: Critini分析师：Token价格战已经触底，中国AI「开源」玩家正在涨价或转向闭源
+推送成功: 【BLOCKBEATS - 融资】Critini分析师：Token价格战已经触底，中国AI「开源」玩家正在涨价或转向闭源
+已保存到 Markdown: ./output/blockbeats/2026-07-04.md
+  [BlockBeats] 新快讯: 定理证明也开始卷成本：Mistral开源Leanstral 1.5，每题约4美元
+推送成功: 【BLOCKBEATS - 融资】定理证明也开始卷成本：Mistral开源Leanstral 1.5，每题约4美元
+已保存到 Markdown: ./output/blockbeats/2026-07-04.md
+  [BlockBeats] 新快讯: Mistral AI创始人警告：闭源模型会偷企业数据并抢夺客户
+推送成功: 【BLOCKBEATS - 融资】Mistral AI创始人警告：闭源模型会偷企业数据并抢夺客户
+已保存到 Markdown: ./output/blockbeats/2026-07-04.md
+  [BlockBeats] 新快讯: 豆包智能体功能将于7月15日下线
+推送成功: 【BLOCKBEATS - 融资】豆包智能体功能将于7月15日下线
+已保存到 Markdown: ./output/blockbeats/2026-07-04.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
   Category: 项目动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1003&is_hot=1
@@ -34,7 +55,7 @@ Call log:
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-Cycle completed. 2026-07-04 00:07:30.942536
+Cycle completed. 2026-07-04 04:38:18.920105
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -44,10 +65,25 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-   Calendar insight icon not found
-2026-07-04 00:07:20,727 - INFO -   Market Image...
-2026-07-04 00:07:30,928 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+.
+Call log:
+  - waiting for locator("table tr, .list-item") to be visible
+
+2026-07-04 04:37:37,939 - INFO -   List: 交易所透明度排名
+2026-07-04 04:37:53,275 - ERROR -   Failed to scrape list 交易所透明度排名: Page.wait_for_selector: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator("table tr, .list-item") to be visible
+
+2026-07-04 04:37:53,275 - INFO -   Calendar Events...
+2026-07-04 04:38:08,588 - WARNING -   Calendar events fetch failed: Page.wait_for_selector: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator(".list-table, .list-row") to be visible
+
+2026-07-04 04:38:08,588 - INFO -   Calendar Insight Image...
+2026-07-04 04:38:08,591 - WARNING -     Calendar insight icon not found
+2026-07-04 04:38:08,591 - INFO -   Market Image...
+2026-07-04 04:38:18,905 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-2026-07-04 00:07:30,942 - INFO - Cycle completed. 2026-07-04 00:07:30.942536
+2026-07-04 04:38:18,920 - INFO - Cycle completed. 2026-07-04 04:38:18.920105

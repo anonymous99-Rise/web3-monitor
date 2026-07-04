@@ -1,7 +1,7 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 数据中心运营商Crusoe正洽谈融资30亿美元，估值或升至300亿美元
-推送成功: 【BLOCKBEATS - 融资】数据中心运营商Crusoe正洽谈融资30亿美元，估值或升至300亿美元
+  [BlockBeats] 新快讯: 加拿大养老基金投资委员会将投资17.5亿美元，支持EQT扩建AI基础设施
+推送成功: 【BLOCKBEATS - 融资】加拿大养老基金投资委员会将投资17.5亿美元，支持EQT扩建AI基础设施
 已保存到 Markdown: ./output/blockbeats/2026-07-04.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -37,7 +37,7 @@ Call log:
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-Cycle completed. 2026-07-04 14:40:43.850289
+Cycle completed. 2026-07-04 16:05:31.354850
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -48,11 +48,11 @@ Scraping BlockBeats...
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
 
-2026-07-04 14:40:33,626 - INFO -   Calendar Insight Image...
-2026-07-04 14:40:33,629 - WARNING -     Calendar insight icon not found
-2026-07-04 14:40:33,629 - INFO -   Market Image...
-2026-07-04 14:40:43,835 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+2026-07-04 16:05:21,080 - INFO -   Calendar Insight Image...
+2026-07-04 16:05:21,083 - WARNING -     Calendar insight icon not found
+2026-07-04 16:05:21,083 - INFO -   Market Image...
+2026-07-04 16:05:31,341 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-2026-07-04 14:40:43,850 - INFO - Cycle completed. 2026-07-04 14:40:43.850289
+2026-07-04 16:05:31,354 - INFO - Cycle completed. 2026-07-04 16:05:31.354850

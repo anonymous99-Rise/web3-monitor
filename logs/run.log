@@ -1,25 +1,13 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 预告：字节炒股赚3000万主角明晚现身Binance广场直播并回答现场提问
-推送成功: 【BLOCKBEATS - 预测市场】预告：字节炒股赚3000万主角明晚现身Binance广场直播并回答现场提问
+  [BlockBeats] 新快讯: 韩国散户上半年净买入中国AI资产逾28亿美元，北方华创、寒武纪成首选
+推送成功: 【BLOCKBEATS - 预测市场】韩国散户上半年净买入中国AI资产逾28亿美元，北方华创、寒武纪成首选
 已保存到 Markdown: ./output/blockbeats/2026-07-04.md
-  [BlockBeats] 新快讯: Serenity关注浮动AI数据中心：三星重工目标2028年商用，免费海水冷却解决电力与土地瓶颈
-推送成功: 【BLOCKBEATS - 预测市场】Serenity关注浮动AI数据中心：三星重工目标2028年商用，免费海水冷却解决电力与土地瓶颈
+  [BlockBeats] 新快讯: Trendforce：预计传统DRAM价格Q3上涨13%至18%
+推送成功: 【BLOCKBEATS - 融资】Trendforce：预计传统DRAM价格Q3上涨13%至18%
 已保存到 Markdown: ./output/blockbeats/2026-07-04.md
-  [BlockBeats] 新快讯: 美光90亿美元扩建日本西部芯片工厂，预计2028年夏季前后投产出货
-推送成功: 【BLOCKBEATS - 预测市场】美光90亿美元扩建日本西部芯片工厂，预计2028年夏季前后投产出货
-已保存到 Markdown: ./output/blockbeats/2026-07-04.md
-  [BlockBeats] 新快讯: 字节炒股赚3000万主角谈存储行情：市场进入连锁清算，降杠杆长期来看更健康
-推送成功: 【BLOCKBEATS - 预测市场】字节炒股赚3000万主角谈存储行情：市场进入连锁清算，降杠杆长期来看更健康
-已保存到 Markdown: ./output/blockbeats/2026-07-04.md
-  [BlockBeats] 新快讯: 高盛维持MiniMax「买入」评级，目标价860港元
-推送成功: 【BLOCKBEATS - 预测市场】高盛维持MiniMax「买入」评级，目标价860港元
-已保存到 Markdown: ./output/blockbeats/2026-07-04.md
-  [BlockBeats] 新快讯: 华为「韬定律」V2版论文发布：Kirin 2026数据首次公开，补充工程细节与实测数据
-推送成功: 【BLOCKBEATS - 融资】华为「韬定律」V2版论文发布：Kirin 2026数据首次公开，补充工程细节与实测数据
-已保存到 Markdown: ./output/blockbeats/2026-07-04.md
-  [BlockBeats] 新快讯: 豆包、千问智能体功能将于7月15日下线
-推送成功: 【BLOCKBEATS - 融资】豆包、千问智能体功能将于7月15日下线
+  [BlockBeats] 新快讯: SK海力士考虑在ADR发行中向投行支付募资总额约0.5%承销费
+推送成功: 【BLOCKBEATS - 融资】SK海力士考虑在ADR发行中向投行支付募资总额约0.5%承销费
 已保存到 Markdown: ./output/blockbeats/2026-07-04.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -55,7 +43,7 @@ Call log:
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-Cycle completed. 2026-07-04 07:49:32.093061
+Cycle completed. 2026-07-04 10:13:51.310799
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -65,25 +53,16 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-.
-Call log:
-  - waiting for locator("table tr, .list-item") to be visible
-
-2026-07-04 07:48:51,140 - INFO -   List: 交易所透明度排名
-2026-07-04 07:49:06,467 - ERROR -   Failed to scrape list 交易所透明度排名: Page.wait_for_selector: Timeout 15000ms exceeded.
-Call log:
-  - waiting for locator("table tr, .list-item") to be visible
-
-2026-07-04 07:49:06,467 - INFO -   Calendar Events...
-2026-07-04 07:49:21,771 - WARNING -   Calendar events fetch failed: Page.wait_for_selector: Timeout 15000ms exceeded.
+ts...
+2026-07-04 10:13:41,092 - WARNING -   Calendar events fetch failed: Page.wait_for_selector: Timeout 15000ms exceeded.
 Call log:
   - waiting for locator(".list-table, .list-row") to be visible
 
-2026-07-04 07:49:21,771 - INFO -   Calendar Insight Image...
-2026-07-04 07:49:21,774 - WARNING -     Calendar insight icon not found
-2026-07-04 07:49:21,774 - INFO -   Market Image...
-2026-07-04 07:49:32,079 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+2026-07-04 10:13:41,092 - INFO -   Calendar Insight Image...
+2026-07-04 10:13:41,094 - WARNING -     Calendar insight icon not found
+2026-07-04 10:13:41,095 - INFO -   Market Image...
+2026-07-04 10:13:51,296 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-2026-07-04 07:49:32,093 - INFO - Cycle completed. 2026-07-04 07:49:32.093061
+2026-07-04 10:13:51,310 - INFO - Cycle completed. 2026-07-04 10:13:51.310799

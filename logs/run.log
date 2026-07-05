@@ -1,11 +1,5 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 美股韩股周一价格预告：美光盘前预计涨超6%，三星电子预计开涨4%
-推送成功: 【BLOCKBEATS - 预测市场】美股韩股周一价格预告：美光盘前预计涨超6%，三星电子预计开涨4%
-已保存到 Markdown: ./output/blockbeats/2026-07-05.md
-  [BlockBeats] 新快讯: SK海力士寻求通过在美上市吸引更多AI投资者
-推送成功: 【BLOCKBEATS - 预测市场】SK海力士寻求通过在美上市吸引更多AI投资者
-已保存到 Markdown: ./output/blockbeats/2026-07-05.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
   Category: 项目动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1003&is_hot=1
@@ -40,7 +34,7 @@ Call log:
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-Cycle completed. 2026-07-05 16:13:01.452444
+Cycle completed. 2026-07-05 18:06:47.919606
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -50,15 +44,10 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-imeout 15000ms exceeded.
-Call log:
-  - waiting for locator(".list-table, .list-row") to be visible
-
-2026-07-05 16:12:51,234 - INFO -   Calendar Insight Image...
-2026-07-05 16:12:51,237 - WARNING -     Calendar insight icon not found
-2026-07-05 16:12:51,237 - INFO -   Market Image...
-2026-07-05 16:13:01,438 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+   Calendar insight icon not found
+2026-07-05 18:06:37,648 - INFO -   Market Image...
+2026-07-05 18:06:47,906 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-2026-07-05 16:13:01,452 - INFO - Cycle completed. 2026-07-05 16:13:01.452444
+2026-07-05 18:06:47,919 - INFO - Cycle completed. 2026-07-05 18:06:47.919606

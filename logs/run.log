@@ -1,11 +1,5 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 韩国芯片股杠杆集中度极高，SK海力士杠杆ETF资产规模为其日均成交额4倍以上
-推送成功: 【BLOCKBEATS - 预测市场】韩国芯片股杠杆集中度极高，SK海力士杠杆ETF资产规模为其日均成交额4倍以上
-已保存到 Markdown: ./output/blockbeats/2026-07-05.md
-  [BlockBeats] 新快讯: Anthropic拟收购澳大利亚数据中心算力资源
-推送成功: 【BLOCKBEATS - 融资】Anthropic拟收购澳大利亚数据中心算力资源
-已保存到 Markdown: ./output/blockbeats/2026-07-05.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
   Category: 项目动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1003&is_hot=1
@@ -40,7 +34,7 @@ Call log:
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-Cycle completed. 2026-07-05 10:16:59.672521
+Cycle completed. 2026-07-05 12:19:21.918638
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -50,15 +44,10 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-imeout 15000ms exceeded.
-Call log:
-  - waiting for locator(".list-table, .list-row") to be visible
-
-2026-07-05 10:16:49,441 - INFO -   Calendar Insight Image...
-2026-07-05 10:16:49,444 - WARNING -     Calendar insight icon not found
-2026-07-05 10:16:49,444 - INFO -   Market Image...
-2026-07-05 10:16:59,659 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+   Calendar insight icon not found
+2026-07-05 12:19:11,651 - INFO -   Market Image...
+2026-07-05 12:19:21,903 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-2026-07-05 10:16:59,672 - INFO - Cycle completed. 2026-07-05 10:16:59.672521
+2026-07-05 12:19:21,918 - INFO - Cycle completed. 2026-07-05 12:19:21.918638

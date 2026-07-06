@@ -1,5 +1,44 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
+  [BlockBeats] 新快讯: 多因素推动韩股回调：获利盘与外资集体撤出，供给过剩风险放大基本面担忧
+推送成功: 【BLOCKBEATS - 预测市场】多因素推动韩股回调：获利盘与外资集体撤出，供给过剩风险放大基本面担忧
+已保存到 Markdown: ./output/blockbeats/2026-07-06.md
+  [BlockBeats] 新快讯: 高盛为韩股注入强心针：下半年再涨20%！市场杠杆风险被高估，机会将扩散至六大主线
+推送成功: 【BLOCKBEATS - 预测市场】高盛为韩股注入强心针：下半年再涨20%！市场杠杆风险被高估，机会将扩散至六大主线
+已保存到 Markdown: ./output/blockbeats/2026-07-06.md
+  [BlockBeats] 新快讯: Critini分析师：三星与海力士正重新评估HBM采用混合键合时机，技术换轨或被推迟
+推送成功: 【BLOCKBEATS - 预测市场】Critini分析师：三星与海力士正重新评估HBM采用混合键合时机，技术换轨或被推迟
+已保存到 Markdown: ./output/blockbeats/2026-07-06.md
+  [BlockBeats] 新快讯: 三星电子今年营业利润有望超40年累计总和，二季度或创全球科技企业史上最高纪录
+推送成功: 【BLOCKBEATS - 预测市场】三星电子今年营业利润有望超40年累计总和，二季度或创全球科技企业史上最高纪录
+已保存到 Markdown: ./output/blockbeats/2026-07-06.md
+  [BlockBeats] 新快讯: 韩国KOSPI指数盘中跌幅扩大至3%，SK海力士跌超5%
+推送成功: 【BLOCKBEATS - 预测市场】韩国KOSPI指数盘中跌幅扩大至3%，SK海力士跌超5%
+已保存到 Markdown: ./output/blockbeats/2026-07-06.md
+  [BlockBeats] 新快讯: DRAM走弱，内存链延续调整，盘中反弹后再度承压
+推送成功: 【BLOCKBEATS - 预测市场】DRAM走弱，内存链延续调整，盘中反弹后再度承压
+已保存到 Markdown: ./output/blockbeats/2026-07-06.md
+  [BlockBeats] 新快讯: 美股夜盘纳指承压但半导体与存储板块强劲反弹，存储链领涨科技股
+推送成功: 【BLOCKBEATS - 预测市场】美股夜盘纳指承压但半导体与存储板块强劲反弹，存储链领涨科技股
+已保存到 Markdown: ./output/blockbeats/2026-07-06.md
+  [BlockBeats] 新快讯: SK海力士盘中持续回落4.4%，两名巨鲸短时开立330万美元SKHX多仓
+推送成功: 【BLOCKBEATS - 预测市场】SK海力士盘中持续回落4.4%，两名巨鲸短时开立330万美元SKHX多仓
+已保存到 Markdown: ./output/blockbeats/2026-07-06.md
+  [BlockBeats] 新快讯: 韩国KOSPI指数日内涨幅达2%
+推送成功: 【BLOCKBEATS - 预测市场】韩国KOSPI指数日内涨幅达2%
+已保存到 Markdown: ./output/blockbeats/2026-07-06.md
+  [BlockBeats] 新快讯: 生数科技融资5亿美元，创中国国内通用世界模型最大单笔纪录
+推送成功: 【BLOCKBEATS - 融资】生数科技融资5亿美元，创中国国内通用世界模型最大单笔纪录
+已保存到 Markdown: ./output/blockbeats/2026-07-06.md
+  [BlockBeats] 新快讯: 现实版「哈利波特魔法日记」：写下的字会自己消失，AI还在纸上一笔一划跟你对话
+推送成功: 【BLOCKBEATS - 融资】现实版「哈利波特魔法日记」：写下的字会自己消失，AI还在纸上一笔一划跟你对话
+已保存到 Markdown: ./output/blockbeats/2026-07-06.md
+  [BlockBeats] 新快讯: 企业微信发布首批AI录音笔：线下开会一键转纪要，打通日程与工作台
+推送成功: 【BLOCKBEATS - 融资】企业微信发布首批AI录音笔：线下开会一键转纪要，打通日程与工作台
+已保存到 Markdown: ./output/blockbeats/2026-07-06.md
+  [BlockBeats] 新快讯: 美团开源万亿参数大模型LongCat-2.0，同步开放中国国产卡推理代码
+推送成功: 【BLOCKBEATS - 融资】美团开源万亿参数大模型LongCat-2.0，同步开放中国国产卡推理代码
+已保存到 Markdown: ./output/blockbeats/2026-07-06.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
   Category: 项目动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1003&is_hot=1
@@ -34,7 +73,7 @@ Call log:
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-Cycle completed. 2026-07-06 00:09:16.372530
+Cycle completed. 2026-07-06 05:15:05.021497
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -44,10 +83,33 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-   Calendar insight icon not found
-2026-07-06 00:09:06,098 - INFO -   Market Image...
-2026-07-06 00:09:16,358 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+: 融资动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1000&is_hot=1
+2026-07-06 05:13:50,669 - INFO - Scraping RootData...
+2026-07-06 05:13:50,704 - INFO -   List: Top 100 项目
+2026-07-06 05:14:08,922 - ERROR -   Failed to scrape list Top 100 项目: Page.wait_for_selector: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator("table tr, .list-item") to be visible
+
+2026-07-06 05:14:08,922 - INFO -   List: 透明度评分提升榜
+2026-07-06 05:14:24,206 - ERROR -   Failed to scrape list 透明度评分提升榜: Page.wait_for_selector: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator("table tr, .list-item") to be visible
+
+2026-07-06 05:14:24,207 - INFO -   List: 交易所透明度排名
+2026-07-06 05:14:39,490 - ERROR -   Failed to scrape list 交易所透明度排名: Page.wait_for_selector: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator("table tr, .list-item") to be visible
+
+2026-07-06 05:14:39,490 - INFO -   Calendar Events...
+2026-07-06 05:14:54,748 - WARNING -   Calendar events fetch failed: Page.wait_for_selector: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator(".list-table, .list-row") to be visible
+
+2026-07-06 05:14:54,748 - INFO -   Calendar Insight Image...
+2026-07-06 05:14:54,750 - WARNING -     Calendar insight icon not found
+2026-07-06 05:14:54,750 - INFO -   Market Image...
+2026-07-06 05:15:05,008 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-2026-07-06 00:09:16,372 - INFO - Cycle completed. 2026-07-06 00:09:16.372530
+2026-07-06 05:15:05,021 - INFO - Cycle completed. 2026-07-06 05:15:05.021497

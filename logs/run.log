@@ -1,13 +1,13 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 美股芯片、光通信及存储板块集体走强，CRDO涨超11%、西部数据涨超9%
-推送成功: 【BLOCKBEATS - 预测市场】美股芯片、光通信及存储板块集体走强，CRDO涨超11%、西部数据涨超9%
+  [BlockBeats] 新快讯: 英伟达驳斥SemiAnalysis称其产品延期报道，称AI芯片路线图保持不变
+推送成功: 【BLOCKBEATS - 预测市场】英伟达驳斥SemiAnalysis称其产品延期报道，称AI芯片路线图保持不变
 已保存到 Markdown: ./output/blockbeats/2026-07-06.md
-  [BlockBeats] 新快讯: 理财AI游离于监管之外，英国FCA拟扩权管辖OpenAI与Anthropic等AI巨头
-推送成功: 【BLOCKBEATS - 融资】理财AI游离于监管之外，英国FCA拟扩权管辖OpenAI与Anthropic等AI巨头
+  [BlockBeats] 新快讯: 美股加密概念股普涨，BitMine涨超8%
+推送成功: 【BLOCKBEATS - 预测市场】美股加密概念股普涨，BitMine涨超8%
 已保存到 Markdown: ./output/blockbeats/2026-07-06.md
-  [BlockBeats] 新快讯: 大摩与瑞银对AI投资主线现分歧：前者看好云服务商轮动，后者押注AI基础设施价值重估
-推送成功: 【BLOCKBEATS - 融资】大摩与瑞银对AI投资主线现分歧：前者看好云服务商轮动，后者押注AI基础设施价值重估
+  [BlockBeats] 新快讯: 受特朗普「喊单」影响，戴尔股价涨超8%
+推送成功: 【BLOCKBEATS - 预测市场】受特朗普「喊单」影响，戴尔股价涨超8%
 已保存到 Markdown: ./output/blockbeats/2026-07-06.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -43,7 +43,7 @@ Call log:
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-Cycle completed. 2026-07-06 14:28:26.029424
+Cycle completed. 2026-07-06 17:46:11.285693
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -54,15 +54,15 @@ Scraping BlockBeats...
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
 ts...
-2026-07-06 14:28:15,756 - WARNING -   Calendar events fetch failed: Page.wait_for_selector: Timeout 15000ms exceeded.
+2026-07-06 17:46:01,001 - WARNING -   Calendar events fetch failed: Page.wait_for_selector: Timeout 15000ms exceeded.
 Call log:
   - waiting for locator(".list-table, .list-row") to be visible
 
-2026-07-06 14:28:15,756 - INFO -   Calendar Insight Image...
-2026-07-06 14:28:15,758 - WARNING -     Calendar insight icon not found
-2026-07-06 14:28:15,758 - INFO -   Market Image...
-2026-07-06 14:28:26,015 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+2026-07-06 17:46:01,001 - INFO -   Calendar Insight Image...
+2026-07-06 17:46:01,003 - WARNING -     Calendar insight icon not found
+2026-07-06 17:46:01,004 - INFO -   Market Image...
+2026-07-06 17:46:11,271 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-2026-07-06 14:28:26,029 - INFO - Cycle completed. 2026-07-06 14:28:26.029424
+2026-07-06 17:46:11,285 - INFO - Cycle completed. 2026-07-06 17:46:11.285693

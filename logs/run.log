@@ -1,89 +1,12 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 闪迪、希捷、西数已较历史高点跌超30%
-推送成功: 【BLOCKBEATS - 预测市场】闪迪、希捷、西数已较历史高点跌超30%
-已保存到 Markdown: ./output/blockbeats/2026-07-07.md
-  [BlockBeats] 新快讯: 美股芯片股持续走低，西数、闪迪均跌超10%
-推送成功: 【BLOCKBEATS - 预测市场】美股芯片股持续走低，西数、闪迪均跌超10%
-已保存到 Markdown: ./output/blockbeats/2026-07-07.md
-  [BlockBeats] 新快讯: SPCX盘中跌超5%，多家华尔街机构今日给出「买入」评级+高目标价
-推送成功: 【BLOCKBEATS - 预测市场】SPCX盘中跌超5%，多家华尔街机构今日给出「买入」评级+高目标价
-已保存到 Markdown: ./output/blockbeats/2026-07-07.md
-  [BlockBeats] 新快讯: 美股股指走势分化，纳指100跌1.5%，道指一度涨近0.5%创历史新高
-推送成功: 【BLOCKBEATS - 预测市场】美股股指走势分化，纳指100跌1.5%，道指一度涨近0.5%创历史新高
-已保存到 Markdown: ./output/blockbeats/2026-07-07.md
-  [BlockBeats] 新快讯: 观点：尽管股价表现疲软，但AI产业「仍围绕英伟达运转」
-推送成功: 【BLOCKBEATS - 融资】观点：尽管股价表现疲软，但AI产业「仍围绕英伟达运转」
-已保存到 Markdown: ./output/blockbeats/2026-07-07.md
-  [BlockBeats] 新快讯: 前OpenAI华人研究员田永龙加入腾讯混元团队
-推送成功: 【BLOCKBEATS - 融资】前OpenAI华人研究员田永龙加入腾讯混元团队
-已保存到 Markdown: ./output/blockbeats/2026-07-07.md
-  [BlockBeats] 新快讯: 智谱考虑自研AI芯片，以应对GLM模型需求快速增长
-推送成功: 【BLOCKBEATS - 融资】智谱考虑自研AI芯片，以应对GLM模型需求快速增长
-已保存到 Markdown: ./output/blockbeats/2026-07-07.md
-  Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
-  Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
-  Category: 项目动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1003&is_hot=1
-  Category: 市场观点 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1002&is_hot=1
-  Category: 链上数据 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1001&is_hot=1
-  Category: 融资动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1000&is_hot=1
-Scraping RootData...
-  List: Top 100 项目
-  Failed to scrape list Top 100 项目: Page.wait_for_selector: Timeout 15000ms exceeded.
+Error in monitor loop: Page.goto: Navigation to "https://www.theblockbeats.info/newsflash?type=1" is interrupted by another navigation to "chrome-error://chromewebdata/"
 Call log:
-  - waiting for locator("table tr, .list-item") to be visible
+  - navigating to "https://www.theblockbeats.info/newsflash?type=1", waiting until "domcontentloaded"
 
-  List: 透明度评分提升榜
-  Failed to scrape list 透明度评分提升榜: Page.wait_for_selector: Timeout 15000ms exceeded.
-Call log:
-  - waiting for locator("table tr, .list-item") to be visible
-
-  List: 交易所透明度排名
-  Failed to scrape list 交易所透明度排名: Page.wait_for_selector: Timeout 15000ms exceeded.
-Call log:
-  - waiting for locator("table tr, .list-item") to be visible
-
-  Calendar Events...
-  Calendar events fetch failed: Page.wait_for_selector: Timeout 15000ms exceeded.
-Call log:
-  - waiting for locator(".list-table, .list-row") to be visible
-
-  Calendar Insight Image...
-    Calendar insight icon not found
-  Market Image...
-    Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
-Call log:
-  - waiting for locator(".v-data-table, table, .top-gainers") to be visible
-
-Cycle completed. 2026-07-07 16:34:29.854498
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
   Loaded RootData cookies
 Scraping BlockBeats...
   Category: 预测市场 - https://www.theblockbeats.info/newsflash?type=1
-  Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
-  Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
-Scraping TechFlow...
-.
-Call log:
-  - waiting for locator("table tr, .list-item") to be visible
-
-2026-07-07 16:33:48,969 - INFO -   List: 交易所透明度排名
-2026-07-07 16:34:04,272 - ERROR -   Failed to scrape list 交易所透明度排名: Page.wait_for_selector: Timeout 15000ms exceeded.
-Call log:
-  - waiting for locator("table tr, .list-item") to be visible
-
-2026-07-07 16:34:04,272 - INFO -   Calendar Events...
-2026-07-07 16:34:19,554 - WARNING -   Calendar events fetch failed: Page.wait_for_selector: Timeout 15000ms exceeded.
-Call log:
-  - waiting for locator(".list-table, .list-row") to be visible
-
-2026-07-07 16:34:19,554 - INFO -   Calendar Insight Image...
-2026-07-07 16:34:19,557 - WARNING -     Calendar insight icon not found
-2026-07-07 16:34:19,557 - INFO -   Market Image...
-2026-07-07 16:34:29,840 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
-Call log:
-  - waiting for locator(".v-data-table, table, .top-gainers") to be visible
-
-2026-07-07 16:34:29,854 - INFO - Cycle completed. 2026-07-07 16:34:29.854498

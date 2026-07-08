@@ -1,20 +1,5 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 美股存储板块全面转跌，美光科技跌超2.5%
-推送成功: 【BLOCKBEATS - 预测市场】美股存储板块全面转跌，美光科技跌超2.5%
-已保存到 Markdown: ./output/blockbeats/2026-07-08.md
-  [BlockBeats] 新快讯: 美股三大指数日内均跌超1%
-推送成功: 【BLOCKBEATS - 预测市场】美股三大指数日内均跌超1%
-已保存到 Markdown: ./output/blockbeats/2026-07-08.md
-  [BlockBeats] 新快讯: 纳斯达克100指数跌幅扩大至1%
-推送成功: 【BLOCKBEATS - 预测市场】纳斯达克100指数跌幅扩大至1%
-已保存到 Markdown: ./output/blockbeats/2026-07-08.md
-  [BlockBeats] 新快讯: 字节跳动上线多模态图像创作模型Seedream 5.0 Pro
-推送成功: 【BLOCKBEATS - 融资】字节跳动上线多模态图像创作模型Seedream 5.0 Pro
-已保存到 Markdown: ./output/blockbeats/2026-07-08.md
-  [BlockBeats] 新快讯: Paradigm为投资AI及机器人赛道筹集12亿美元新基金
-推送成功: 【BLOCKBEATS - 融资】Paradigm为投资AI及机器人赛道筹集12亿美元新基金
-已保存到 Markdown: ./output/blockbeats/2026-07-08.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
   Category: 项目动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1003&is_hot=1
@@ -49,7 +34,7 @@ Call log:
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-Cycle completed. 2026-07-08 16:41:52.776592
+Cycle completed. 2026-07-08 18:20:13.809144
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -59,20 +44,10 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
- 交易所透明度排名: Page.wait_for_selector: Timeout 15000ms exceeded.
-Call log:
-  - waiting for locator("table tr, .list-item") to be visible
-
-2026-07-08 16:41:27,265 - INFO -   Calendar Events...
-2026-07-08 16:41:42,512 - WARNING -   Calendar events fetch failed: Page.wait_for_selector: Timeout 15000ms exceeded.
-Call log:
-  - waiting for locator(".list-table, .list-row") to be visible
-
-2026-07-08 16:41:42,512 - INFO -   Calendar Insight Image...
-2026-07-08 16:41:42,514 - WARNING -     Calendar insight icon not found
-2026-07-08 16:41:42,514 - INFO -   Market Image...
-2026-07-08 16:41:52,762 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+   Calendar insight icon not found
+2026-07-08 18:20:03,546 - INFO -   Market Image...
+2026-07-08 18:20:13,794 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-2026-07-08 16:41:52,776 - INFO - Cycle completed. 2026-07-08 16:41:52.776592
+2026-07-08 18:20:13,809 - INFO - Cycle completed. 2026-07-08 18:20:13.809144

@@ -1,10 +1,34 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 特朗普表态前1小时完成空单加码，疑似内幕地址2100万规模「多油空纳指」仓位大赚
-推送成功: 【BLOCKBEATS - 预测市场】特朗普表态前1小时完成空单加码，疑似内幕地址2100万规模「多油空纳指」仓位大赚
+  [BlockBeats] 新快讯: 苹果与博通签署超300亿美元定制ASIC协议，将在美生产150亿颗芯片，合作延至2031年
+推送成功: 【BLOCKBEATS - 预测市场】苹果与博通签署超300亿美元定制ASIC协议，将在美生产150亿颗芯片，合作延至2031年
 已保存到 Markdown: ./output/blockbeats/2026-07-08.md
-  [BlockBeats] 新快讯: 纳斯达克100指数期货跌幅扩大至1.5%，跌至四周低点
-推送成功: 【BLOCKBEATS - 预测市场】纳斯达克100指数期货跌幅扩大至1.5%，跌至四周低点
+  [BlockBeats] 新快讯: 美股开盘后半导体、存储板块走强，闪迪、西数涨超3%
+推送成功: 【BLOCKBEATS - 预测市场】美股开盘后半导体、存储板块走强，闪迪、西数涨超3%
+已保存到 Markdown: ./output/blockbeats/2026-07-08.md
+  [BlockBeats] 新快讯: 美国银行向OpenAl提供5.2亿美元信贷额度助力上市
+推送成功: 【BLOCKBEATS - 预测市场】美国银行向OpenAl提供5.2亿美元信贷额度助力上市
+已保存到 Markdown: ./output/blockbeats/2026-07-08.md
+  [BlockBeats] 新快讯: 美股开盘三大指数低开，纳指跌0.31%
+推送成功: 【BLOCKBEATS - 预测市场】美股开盘三大指数低开，纳指跌0.31%
+已保存到 Markdown: ./output/blockbeats/2026-07-08.md
+  [BlockBeats] 新快讯: AI算力军备竞赛进入利润验证期，Anthropic成为华尔街新样本
+推送成功: 【BLOCKBEATS - 预测市场】AI算力军备竞赛进入利润验证期，Anthropic成为华尔街新样本
+已保存到 Markdown: ./output/blockbeats/2026-07-08.md
+  [BlockBeats] 新快讯: 智谱通过配售发行1980万股H股
+推送成功: 【BLOCKBEATS - 预测市场】智谱通过配售发行1980万股H股
+已保存到 Markdown: ./output/blockbeats/2026-07-08.md
+  [BlockBeats] 新快讯: Mistral AI发布机器人专用模型，加速布局具身智能
+推送成功: 【BLOCKBEATS - 融资】Mistral AI发布机器人专用模型，加速布局具身智能
+已保存到 Markdown: ./output/blockbeats/2026-07-08.md
+  [BlockBeats] 新快讯: Paradigm为投资AI筹集12亿美元
+推送成功: 【BLOCKBEATS - 融资】Paradigm为投资AI筹集12亿美元
+已保存到 Markdown: ./output/blockbeats/2026-07-08.md
+  [BlockBeats] 新快讯: 特朗普政府解除对OpenAI GPT 5.6的限制
+推送成功: 【BLOCKBEATS - 融资】特朗普政府解除对OpenAI GPT 5.6的限制
+已保存到 Markdown: ./output/blockbeats/2026-07-08.md
+  [BlockBeats] 新快讯: MiniMax三季度或开源2.7万亿参数模型，有望成为全球最大开源大模型
+推送成功: 【BLOCKBEATS - 融资】MiniMax三季度或开源2.7万亿参数模型，有望成为全球最大开源大模型
 已保存到 Markdown: ./output/blockbeats/2026-07-08.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -40,7 +64,7 @@ Call log:
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-Cycle completed. 2026-07-08 11:07:36.010179
+Cycle completed. 2026-07-08 14:13:39.172440
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -50,15 +74,30 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-imeout 15000ms exceeded.
+Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator("table tr, .list-item") to be visible
+
+2026-07-08 14:12:43,056 - INFO -   List: 透明度评分提升榜
+2026-07-08 14:12:58,343 - ERROR -   Failed to scrape list 透明度评分提升榜: Page.wait_for_selector: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator("table tr, .list-item") to be visible
+
+2026-07-08 14:12:58,343 - INFO -   List: 交易所透明度排名
+2026-07-08 14:13:13,626 - ERROR -   Failed to scrape list 交易所透明度排名: Page.wait_for_selector: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator("table tr, .list-item") to be visible
+
+2026-07-08 14:13:13,627 - INFO -   Calendar Events...
+2026-07-08 14:13:28,890 - WARNING -   Calendar events fetch failed: Page.wait_for_selector: Timeout 15000ms exceeded.
 Call log:
   - waiting for locator(".list-table, .list-row") to be visible
 
-2026-07-08 11:07:25,678 - INFO -   Calendar Insight Image...
-2026-07-08 11:07:25,680 - WARNING -     Calendar insight icon not found
-2026-07-08 11:07:25,680 - INFO -   Market Image...
-2026-07-08 11:07:35,997 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+2026-07-08 14:13:28,890 - INFO -   Calendar Insight Image...
+2026-07-08 14:13:28,892 - WARNING -     Calendar insight icon not found
+2026-07-08 14:13:28,892 - INFO -   Market Image...
+2026-07-08 14:13:39,158 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-2026-07-08 11:07:36,010 - INFO - Cycle completed. 2026-07-08 11:07:36.010179
+2026-07-08 14:13:39,172 - INFO - Cycle completed. 2026-07-08 14:13:39.172440

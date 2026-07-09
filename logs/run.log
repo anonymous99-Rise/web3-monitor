@@ -1,5 +1,26 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
+  [BlockBeats] 新快讯: 贝恩资本清仓铠侠全部股份
+推送成功: 【BLOCKBEATS - 融资】贝恩资本清仓铠侠全部股份
+已保存到 Markdown: ./output/blockbeats/2026-07-09.md
+  [BlockBeats] 新快讯: 长鑫科技7月16日开启新股申购
+推送成功: 【BLOCKBEATS - 融资】长鑫科技7月16日开启新股申购
+已保存到 Markdown: ./output/blockbeats/2026-07-09.md
+  [BlockBeats] 新快讯: AI芯片公司Positron洽谈约7.5亿美元融资，估值最高或达50亿美元
+推送成功: 【BLOCKBEATS - 融资】AI芯片公司Positron洽谈约7.5亿美元融资，估值最高或达50亿美元
+已保存到 Markdown: ./output/blockbeats/2026-07-09.md
+  [BlockBeats] 新快讯: SK海力士美国IPO获超7倍超额认购
+推送成功: 【BLOCKBEATS - 融资】SK海力士美国IPO获超7倍超额认购
+已保存到 Markdown: ./output/blockbeats/2026-07-09.md
+  [BlockBeats] 新快讯: Meta宣布将在加拿大建设一座价值130亿加元的数据中心
+推送成功: 【BLOCKBEATS - 融资】Meta宣布将在加拿大建设一座价值130亿加元的数据中心
+已保存到 Markdown: ./output/blockbeats/2026-07-09.md
+  [BlockBeats] 新快讯: 智谱：拟折价约13%配股筹资逾314亿港元
+推送成功: 【BLOCKBEATS - 融资】智谱：拟折价约13%配股筹资逾314亿港元
+已保存到 Markdown: ./output/blockbeats/2026-07-09.md
+  [BlockBeats] 新快讯: SpaceX AI与Cursor发布面向法律、金融场景的Grok AI模型
+推送成功: 【BLOCKBEATS - 融资】SpaceX AI与Cursor发布面向法律、金融场景的Grok AI模型
+已保存到 Markdown: ./output/blockbeats/2026-07-09.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
   Category: 项目动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1003&is_hot=1
@@ -34,7 +55,7 @@ Call log:
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-Cycle completed. 2026-07-08 22:08:42.088764
+Cycle completed. 2026-07-09 00:13:33.677768
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -44,10 +65,25 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-   Calendar insight icon not found
-2026-07-08 22:08:31,855 - INFO -   Market Image...
-2026-07-08 22:08:42,075 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+.
+Call log:
+  - waiting for locator("table tr, .list-item") to be visible
+
+2026-07-09 00:12:52,890 - INFO -   List: 交易所透明度排名
+2026-07-09 00:13:08,161 - ERROR -   Failed to scrape list 交易所透明度排名: Page.wait_for_selector: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator("table tr, .list-item") to be visible
+
+2026-07-09 00:13:08,162 - INFO -   Calendar Events...
+2026-07-09 00:13:23,412 - WARNING -   Calendar events fetch failed: Page.wait_for_selector: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator(".list-table, .list-row") to be visible
+
+2026-07-09 00:13:23,412 - INFO -   Calendar Insight Image...
+2026-07-09 00:13:23,414 - WARNING -     Calendar insight icon not found
+2026-07-09 00:13:23,414 - INFO -   Market Image...
+2026-07-09 00:13:33,663 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-2026-07-08 22:08:42,088 - INFO - Cycle completed. 2026-07-08 22:08:42.088764
+2026-07-09 00:13:33,677 - INFO - Cycle completed. 2026-07-09 00:13:33.677768

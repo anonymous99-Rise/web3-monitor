@@ -1,43 +1,7 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 美光上调美国投资计划至2500亿美元，押注AI存储芯片需求
-推送成功: 【BLOCKBEATS - 预测市场】美光上调美国投资计划至2500亿美元，押注AI存储芯片需求
-已保存到 Markdown: ./output/blockbeats/2026-07-09.md
-  [BlockBeats] 新快讯: 阿里巴巴累计向长鑫科技投入约76亿元，为持股比例最高行业投资者
-推送成功: 【BLOCKBEATS - 预测市场】阿里巴巴累计向长鑫科技投入约76亿元，为持股比例最高行业投资者
-已保存到 Markdown: ./output/blockbeats/2026-07-09.md
-  [BlockBeats] 新快讯: SK海力士将美国ADR发行指导价定价较韩国收盘价溢价3.1%
-推送成功: 【BLOCKBEATS - 预测市场】SK海力士将美国ADR发行指导价定价较韩国收盘价溢价3.1%
-已保存到 Markdown: ./output/blockbeats/2026-07-09.md
-  [BlockBeats] 新快讯: 美股开盘前夕，某鲸鱼计划做多价值约2200万美元纳斯达克100指数
-推送成功: 【BLOCKBEATS - 预测市场】美股开盘前夕，某鲸鱼计划做多价值约2200万美元纳斯达克100指数
-已保存到 Markdown: ./output/blockbeats/2026-07-09.md
-  [BlockBeats] 新快讯: 美股盘前要闻一览：AI股利好密集，或在海力士带领下企稳反弹
-推送成功: 【BLOCKBEATS - 预测市场】美股盘前要闻一览：AI股利好密集，或在海力士带领下企稳反弹
-已保存到 Markdown: ./output/blockbeats/2026-07-09.md
-  [BlockBeats] 新快讯: Meta已与闪迪签订闪存的长期供应协议，并与三星签订内存供应协议
-推送成功: 【BLOCKBEATS - 预测市场】Meta已与闪迪签订闪存的长期供应协议，并与三星签订内存供应协议
-已保存到 Markdown: ./output/blockbeats/2026-07-09.md
-  [BlockBeats] 新快讯: 美光科技计划投资30亿美元
-推送成功: 【BLOCKBEATS - 预测市场】美光科技计划投资30亿美元
-已保存到 Markdown: ./output/blockbeats/2026-07-09.md
-  [BlockBeats] 新快讯: 总盈利达942万美元的鲸鱼持续加仓海力士多单
-推送成功: 【BLOCKBEATS - 预测市场】总盈利达942万美元的鲸鱼持续加仓海力士多单
-已保存到 Markdown: ./output/blockbeats/2026-07-09.md
-  [BlockBeats] 新快讯: OpenAI：在与特朗普政府磋商后对GPT-5.6做出多项调整
-推送成功: 【BLOCKBEATS - 融资】OpenAI：在与特朗普政府磋商后对GPT-5.6做出多项调整
-已保存到 Markdown: ./output/blockbeats/2026-07-09.md
-  [BlockBeats] 新快讯: PrismML把Qwen3.6压到4GB，27B模型塞进iPhone
-推送成功: 【BLOCKBEATS - 融资】PrismML把Qwen3.6压到4GB，27B模型塞进iPhone
-已保存到 Markdown: ./output/blockbeats/2026-07-09.md
-  [BlockBeats] 新快讯: Ollama完成6500万美元B轮融资，要把开源模型变得更好用
-推送成功: 【BLOCKBEATS - 融资】Ollama完成6500万美元B轮融资，要把开源模型变得更好用
-已保存到 Markdown: ./output/blockbeats/2026-07-09.md
-  [BlockBeats] 新快讯: Altman：媒体报道的OpenAI拟向美国政府出让5%股份事件「并不准确」
-推送成功: 【BLOCKBEATS - 融资】Altman：媒体报道的OpenAI拟向美国政府出让5%股份事件「并不准确」
-已保存到 Markdown: ./output/blockbeats/2026-07-09.md
-  [BlockBeats] 新快讯: Meta首次推出付费AI开发者模型Muse Spark 1.1
-推送成功: 【BLOCKBEATS - 融资】Meta首次推出付费AI开发者模型Muse Spark 1.1
+  [BlockBeats] 新快讯: 美股盘中加密概念股持续走强，MARA大涨15.27%
+推送成功: 【BLOCKBEATS - 预测市场】美股盘中加密概念股持续走强，MARA大涨15.27%
 已保存到 Markdown: ./output/blockbeats/2026-07-09.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -73,7 +37,7 @@ Call log:
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-Cycle completed. 2026-07-09 15:58:11.110173
+Cycle completed. 2026-07-09 17:59:36.220117
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -83,33 +47,12 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-: 融资动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1000&is_hot=1
-2026-07-09 15:56:57,417 - INFO - Scraping RootData...
-2026-07-09 15:56:57,463 - INFO -   List: Top 100 项目
-2026-07-09 15:57:15,006 - ERROR -   Failed to scrape list Top 100 项目: Page.wait_for_selector: Timeout 15000ms exceeded.
-Call log:
-  - waiting for locator("table tr, .list-item") to be visible
 
-2026-07-09 15:57:15,006 - INFO -   List: 透明度评分提升榜
-2026-07-09 15:57:30,290 - ERROR -   Failed to scrape list 透明度评分提升榜: Page.wait_for_selector: Timeout 15000ms exceeded.
-Call log:
-  - waiting for locator("table tr, .list-item") to be visible
-
-2026-07-09 15:57:30,291 - INFO -   List: 交易所透明度排名
-2026-07-09 15:57:45,575 - ERROR -   Failed to scrape list 交易所透明度排名: Page.wait_for_selector: Timeout 15000ms exceeded.
-Call log:
-  - waiting for locator("table tr, .list-item") to be visible
-
-2026-07-09 15:57:45,575 - INFO -   Calendar Events...
-2026-07-09 15:58:00,835 - WARNING -   Calendar events fetch failed: Page.wait_for_selector: Timeout 15000ms exceeded.
-Call log:
-  - waiting for locator(".list-table, .list-row") to be visible
-
-2026-07-09 15:58:00,835 - INFO -   Calendar Insight Image...
-2026-07-09 15:58:00,837 - WARNING -     Calendar insight icon not found
-2026-07-09 15:58:00,837 - INFO -   Market Image...
-2026-07-09 15:58:11,095 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+2026-07-09 17:59:25,938 - INFO -   Calendar Insight Image...
+2026-07-09 17:59:25,940 - WARNING -     Calendar insight icon not found
+2026-07-09 17:59:25,940 - INFO -   Market Image...
+2026-07-09 17:59:36,206 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-2026-07-09 15:58:11,110 - INFO - Cycle completed. 2026-07-09 15:58:11.110173
+2026-07-09 17:59:36,220 - INFO - Cycle completed. 2026-07-09 17:59:36.220117

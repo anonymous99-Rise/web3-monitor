@@ -1,16 +1,10 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 美股盘前存储、光通信板块普跌，美光、闪迪跌幅约3%
-推送成功: 【BLOCKBEATS - 预测市场】美股盘前存储、光通信板块普跌，美光、闪迪跌幅约3%
+  [BlockBeats] 新快讯: Reve 2.1发布，继续把图片当代码，生成和修改更精准
+推送成功: 【BLOCKBEATS - 融资】Reve 2.1发布，继续把图片当代码，生成和修改更精准
 已保存到 Markdown: ./output/blockbeats/2026-07-10.md
-  [BlockBeats] 新快讯: SemiAnalysis：存储还有两到三倍空间，CPO大规模量产推迟至2028年末
-推送成功: 【BLOCKBEATS - 预测市场】SemiAnalysis：存储还有两到三倍空间，CPO大规模量产推迟至2028年末
-已保存到 Markdown: ./output/blockbeats/2026-07-10.md
-  [BlockBeats] 新快讯: 观点：投资者仍将AI繁荣视为结构性趋势，近期回调创造了更清晰入场点
-推送成功: 【BLOCKBEATS - 预测市场】观点：投资者仍将AI繁荣视为结构性趋势，近期回调创造了更清晰入场点
-已保存到 Markdown: ./output/blockbeats/2026-07-10.md
-  [BlockBeats] 新快讯: Kimi Code开放额度加购，偶尔超额不用升级套餐
-推送成功: 【BLOCKBEATS - 融资】Kimi Code开放额度加购，偶尔超额不用升级套餐
+  [BlockBeats] 新快讯: 观点：AI投资周期已进入「加时赛」，四项指标可预警资本开支泡沫
+推送成功: 【BLOCKBEATS - 融资】观点：AI投资周期已进入「加时赛」，四项指标可预警资本开支泡沫
 已保存到 Markdown: ./output/blockbeats/2026-07-10.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -46,7 +40,7 @@ Call log:
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-Cycle completed. 2026-07-10 10:57:09.591085
+Cycle completed. 2026-07-10 13:14:26.882267
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -56,18 +50,15 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-for locator("table tr, .list-item") to be visible
-
-2026-07-10 10:56:43,960 - INFO -   Calendar Events...
-2026-07-10 10:56:59,268 - WARNING -   Calendar events fetch failed: Page.wait_for_selector: Timeout 15000ms exceeded.
+imeout 15000ms exceeded.
 Call log:
   - waiting for locator(".list-table, .list-row") to be visible
 
-2026-07-10 10:56:59,268 - INFO -   Calendar Insight Image...
-2026-07-10 10:56:59,270 - WARNING -     Calendar insight icon not found
-2026-07-10 10:56:59,271 - INFO -   Market Image...
-2026-07-10 10:57:09,577 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+2026-07-10 13:14:16,615 - INFO -   Calendar Insight Image...
+2026-07-10 13:14:16,617 - WARNING -     Calendar insight icon not found
+2026-07-10 13:14:16,617 - INFO -   Market Image...
+2026-07-10 13:14:26,871 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-2026-07-10 10:57:09,591 - INFO - Cycle completed. 2026-07-10 10:57:09.591085
+2026-07-10 13:14:26,882 - INFO - Cycle completed. 2026-07-10 13:14:26.882267

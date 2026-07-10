@@ -1,10 +1,25 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: Reve 2.1发布，继续把图片当代码，生成和修改更精准
-推送成功: 【BLOCKBEATS - 融资】Reve 2.1发布，继续把图片当代码，生成和修改更精准
+  [BlockBeats] 新快讯: SK海力士美国ADR开盘报170美元
+推送成功: 【BLOCKBEATS - 预测市场】SK海力士美国ADR开盘报170美元
 已保存到 Markdown: ./output/blockbeats/2026-07-10.md
-  [BlockBeats] 新快讯: 观点：AI投资周期已进入「加时赛」，四项指标可预警资本开支泡沫
-推送成功: 【BLOCKBEATS - 融资】观点：AI投资周期已进入「加时赛」，四项指标可预警资本开支泡沫
+  [BlockBeats] 新快讯: Meta涨幅扩大至逾6%
+推送成功: 【BLOCKBEATS - 预测市场】Meta涨幅扩大至逾6%
+已保存到 Markdown: ./output/blockbeats/2026-07-10.md
+  [BlockBeats] 新快讯: 美联储任命a16z联创Marc Andreessen参与AI政策研究
+推送成功: 【BLOCKBEATS - 融资】美联储任命a16z联创Marc Andreessen参与AI政策研究
+已保存到 Markdown: ./output/blockbeats/2026-07-10.md
+  [BlockBeats] 新快讯: 美联储：AI相关投资推动产出强劲增长，伊朗战争不确定性仍是主要风险
+推送成功: 【BLOCKBEATS - 融资】美联储：AI相关投资推动产出强劲增长，伊朗战争不确定性仍是主要风险
+已保存到 Markdown: ./output/blockbeats/2026-07-10.md
+  [BlockBeats] 新快讯: SK董事长：在AI达到通用人工智能之前，内存需求不会恢复正常
+推送成功: 【BLOCKBEATS - 融资】SK董事长：在AI达到通用人工智能之前，内存需求不会恢复正常
+已保存到 Markdown: ./output/blockbeats/2026-07-10.md
+  [BlockBeats] 新快讯: 押中字节的SIG逐步关闭中国创投团队，但不撤出中国
+推送成功: 【BLOCKBEATS - 融资】押中字节的SIG逐步关闭中国创投团队，但不撤出中国
+已保存到 Markdown: ./output/blockbeats/2026-07-10.md
+  [BlockBeats] 新快讯: OpenAI推出ChatGPT Sites，AI建站功能正式开放公测
+推送成功: 【BLOCKBEATS - 融资】OpenAI推出ChatGPT Sites，AI建站功能正式开放公测
 已保存到 Markdown: ./output/blockbeats/2026-07-10.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -40,7 +55,7 @@ Call log:
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-Cycle completed. 2026-07-10 13:14:26.882267
+Cycle completed. 2026-07-10 16:27:58.575736
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -50,15 +65,25 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-imeout 15000ms exceeded.
+.
+Call log:
+  - waiting for locator("table tr, .list-item") to be visible
+
+2026-07-10 16:27:17,748 - INFO -   List: 交易所透明度排名
+2026-07-10 16:27:33,032 - ERROR -   Failed to scrape list 交易所透明度排名: Page.wait_for_selector: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator("table tr, .list-item") to be visible
+
+2026-07-10 16:27:33,032 - INFO -   Calendar Events...
+2026-07-10 16:27:48,297 - WARNING -   Calendar events fetch failed: Page.wait_for_selector: Timeout 15000ms exceeded.
 Call log:
   - waiting for locator(".list-table, .list-row") to be visible
 
-2026-07-10 13:14:16,615 - INFO -   Calendar Insight Image...
-2026-07-10 13:14:16,617 - WARNING -     Calendar insight icon not found
-2026-07-10 13:14:16,617 - INFO -   Market Image...
-2026-07-10 13:14:26,871 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+2026-07-10 16:27:48,297 - INFO -   Calendar Insight Image...
+2026-07-10 16:27:48,299 - WARNING -     Calendar insight icon not found
+2026-07-10 16:27:48,299 - INFO -   Market Image...
+2026-07-10 16:27:58,562 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-2026-07-10 13:14:26,882 - INFO - Cycle completed. 2026-07-10 13:14:26.882267
+2026-07-10 16:27:58,575 - INFO - Cycle completed. 2026-07-10 16:27:58.575736

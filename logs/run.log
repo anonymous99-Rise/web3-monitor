@@ -1,7 +1,10 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: OpenAI重组安全团队，原安全系统负责人离职
-推送成功: 【BLOCKBEATS - 融资】OpenAI重组安全团队，原安全系统负责人离职
+  [BlockBeats] 新快讯: 散户放缓美股购买步伐：过去一个月净买入130亿美元，为2020年以来最低水平
+推送成功: 【BLOCKBEATS - 预测市场】散户放缓美股购买步伐：过去一个月净买入130亿美元，为2020年以来最低水平
+已保存到 Markdown: ./output/blockbeats/2026-07-11.md
+  [BlockBeats] 新快讯: 智谱创始人发布内部信：继续聚焦于AGI研究，而非短期商业变现
+推送成功: 【BLOCKBEATS - 融资】智谱创始人发布内部信：继续聚焦于AGI研究，而非短期商业变现
 已保存到 Markdown: ./output/blockbeats/2026-07-11.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -37,7 +40,7 @@ Call log:
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-Cycle completed. 2026-07-11 10:17:40.260260
+Cycle completed. 2026-07-11 11:55:03.242363
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -47,12 +50,15 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
+imeout 15000ms exceeded.
+Call log:
+  - waiting for locator(".list-table, .list-row") to be visible
 
-2026-07-11 10:17:29,967 - INFO -   Calendar Insight Image...
-2026-07-11 10:17:29,969 - WARNING -     Calendar insight icon not found
-2026-07-11 10:17:29,970 - INFO -   Market Image...
-2026-07-11 10:17:40,245 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+2026-07-11 11:54:53,021 - INFO -   Calendar Insight Image...
+2026-07-11 11:54:53,023 - WARNING -     Calendar insight icon not found
+2026-07-11 11:54:53,024 - INFO -   Market Image...
+2026-07-11 11:55:03,227 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-2026-07-11 10:17:40,260 - INFO - Cycle completed. 2026-07-11 10:17:40.260260
+2026-07-11 11:55:03,242 - INFO - Cycle completed. 2026-07-11 11:55:03.242363

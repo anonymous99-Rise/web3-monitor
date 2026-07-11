@@ -1,13 +1,7 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 摩根大通测试AI投资智能体，可自主调整股票债券配置
-推送成功: 【BLOCKBEATS - 融资】摩根大通测试AI投资智能体，可自主调整股票债券配置
-已保存到 Markdown: ./output/blockbeats/2026-07-11.md
-  [BlockBeats] 新快讯: 以太坊基金会利用AI挖掘漏洞：成功发现安全缺陷，称人工审核仍不可替代
-推送成功: 【BLOCKBEATS - 融资】以太坊基金会利用AI挖掘漏洞：成功发现安全缺陷，称人工审核仍不可替代
-已保存到 Markdown: ./output/blockbeats/2026-07-11.md
-  [BlockBeats] 新快讯: Critini分析师：听闻英伟达Rubin架构再次延期
-推送成功: 【BLOCKBEATS - 融资】Critini分析师：听闻英伟达Rubin架构再次延期
+  [BlockBeats] 新快讯: 美国上市ETF管理规模升至15.6万亿美元，创历史新高
+推送成功: 【BLOCKBEATS - 预测市场】美国上市ETF管理规模升至15.6万亿美元，创历史新高
 已保存到 Markdown: ./output/blockbeats/2026-07-11.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -43,7 +37,7 @@ Call log:
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-Cycle completed. 2026-07-11 14:56:50.989139
+Cycle completed. 2026-07-11 15:59:05.121071
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -53,16 +47,12 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-ts...
-2026-07-11 14:56:40,770 - WARNING -   Calendar events fetch failed: Page.wait_for_selector: Timeout 15000ms exceeded.
-Call log:
-  - waiting for locator(".list-table, .list-row") to be visible
 
-2026-07-11 14:56:40,770 - INFO -   Calendar Insight Image...
-2026-07-11 14:56:40,772 - WARNING -     Calendar insight icon not found
-2026-07-11 14:56:40,772 - INFO -   Market Image...
-2026-07-11 14:56:50,975 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+2026-07-11 15:58:54,794 - INFO -   Calendar Insight Image...
+2026-07-11 15:58:54,797 - WARNING -     Calendar insight icon not found
+2026-07-11 15:58:54,797 - INFO -   Market Image...
+2026-07-11 15:59:05,105 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-2026-07-11 14:56:50,989 - INFO - Cycle completed. 2026-07-11 14:56:50.989139
+2026-07-11 15:59:05,121 - INFO - Cycle completed. 2026-07-11 15:59:05.121071

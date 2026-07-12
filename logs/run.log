@@ -1,7 +1,7 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: Serenity：放大技术细节唱空科技巨头正演变为新的流量策略
-推送成功: 【BLOCKBEATS - 预测市场】Serenity：放大技术细节唱空科技巨头正演变为新的流量策略
+  [BlockBeats] 新快讯: 美股韩股周一价格预告：SK海力士潜在开盘涨幅21美元，美股盘前预计多数微涨
+推送成功: 【BLOCKBEATS - 预测市场】美股韩股周一价格预告：SK海力士潜在开盘涨幅21美元，美股盘前预计多数微涨
 已保存到 Markdown: ./output/blockbeats/2026-07-12.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -37,7 +37,7 @@ Call log:
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-Cycle completed. 2026-07-12 13:23:31.383472
+Cycle completed. 2026-07-12 14:59:19.701268
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -48,11 +48,11 @@ Scraping BlockBeats...
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
 
-2026-07-12 13:23:21,083 - INFO -   Calendar Insight Image...
-2026-07-12 13:23:21,085 - WARNING -     Calendar insight icon not found
-2026-07-12 13:23:21,085 - INFO -   Market Image...
-2026-07-12 13:23:31,368 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+2026-07-12 14:59:09,424 - INFO -   Calendar Insight Image...
+2026-07-12 14:59:09,426 - WARNING -     Calendar insight icon not found
+2026-07-12 14:59:09,426 - INFO -   Market Image...
+2026-07-12 14:59:19,687 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-2026-07-12 13:23:31,383 - INFO - Cycle completed. 2026-07-12 13:23:31.383472
+2026-07-12 14:59:19,701 - INFO - Cycle completed. 2026-07-12 14:59:19.701268

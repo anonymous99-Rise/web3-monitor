@@ -1,5 +1,17 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
+  [BlockBeats] 新快讯: OpenAI把K-pop搬进ICML，AI人才战卷成演唱会
+推送成功: 【BLOCKBEATS - 融资】OpenAI把K-pop搬进ICML，AI人才战卷成演唱会
+已保存到 Markdown: ./output/blockbeats/2026-07-12.md
+  [BlockBeats] 新快讯: 奥特曼称AI目前反而在净增就业，和自己预想相反
+推送成功: 【BLOCKBEATS - 融资】奥特曼称AI目前反而在净增就业，和自己预想相反
+已保存到 Markdown: ./output/blockbeats/2026-07-12.md
+  [BlockBeats] 新快讯: 苹果起诉OpenAI后，马斯克骂奥特曼诈骗，奥特曼反讽他向股民画饼
+推送成功: 【BLOCKBEATS - 融资】苹果起诉OpenAI后，马斯克骂奥特曼诈骗，奥特曼反讽他向股民画饼
+已保存到 Markdown: ./output/blockbeats/2026-07-12.md
+  [BlockBeats] 新快讯: 智谱启动「摸高计划」，未来两年不追短期变现
+推送成功: 【BLOCKBEATS - 融资】智谱启动「摸高计划」，未来两年不追短期变现
+已保存到 Markdown: ./output/blockbeats/2026-07-12.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
   Category: 项目动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1003&is_hot=1
@@ -34,7 +46,7 @@ Call log:
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-Cycle completed. 2026-07-11 23:58:06.005388
+Cycle completed. 2026-07-12 02:56:42.296919
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -44,10 +56,18 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-   Calendar insight icon not found
-2026-07-11 23:57:55,685 - INFO -   Market Image...
-2026-07-11 23:58:05,991 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+for locator("table tr, .list-item") to be visible
+
+2026-07-12 02:56:16,765 - INFO -   Calendar Events...
+2026-07-12 02:56:32,023 - WARNING -   Calendar events fetch failed: Page.wait_for_selector: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator(".list-table, .list-row") to be visible
+
+2026-07-12 02:56:32,023 - INFO -   Calendar Insight Image...
+2026-07-12 02:56:32,025 - WARNING -     Calendar insight icon not found
+2026-07-12 02:56:32,025 - INFO -   Market Image...
+2026-07-12 02:56:42,282 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-2026-07-11 23:58:06,005 - INFO - Cycle completed. 2026-07-11 23:58:06.005388
+2026-07-12 02:56:42,296 - INFO - Cycle completed. 2026-07-12 02:56:42.296919

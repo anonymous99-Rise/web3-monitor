@@ -1,31 +1,10 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 花旗将西部数据目标价从685美元上调至800美元
-推送成功: 【BLOCKBEATS - 预测市场】花旗将西部数据目标价从685美元上调至800美元
+  [BlockBeats] 新快讯: 阶跃星辰正式做手机，STEPX Neo首秀
+推送成功: 【BLOCKBEATS - 融资】阶跃星辰正式做手机，STEPX Neo首秀
 已保存到 Markdown: ./output/blockbeats/2026-07-13.md
-  [BlockBeats] 新快讯: trade.xyz将上线中国科创50 ETF合约交易
-推送成功: 【BLOCKBEATS - 预测市场】trade.xyz将上线中国科创50 ETF合约交易
-已保存到 Markdown: ./output/blockbeats/2026-07-13.md
-  [BlockBeats] 新快讯: SK海力士美股ADR较韩股溢价23.4%，2名巨鲸以1400万美元预期价差收敛
-推送成功: 【BLOCKBEATS - 预测市场】SK海力士美股ADR较韩股溢价23.4%，2名巨鲸以1400万美元预期价差收敛
-已保存到 Markdown: ./output/blockbeats/2026-07-13.md
-  [BlockBeats] 新快讯: BBC调查称Instagram仍出现儿童性虐待内容广告，Meta AI审核机制再遭质疑
-推送成功: 【BLOCKBEATS - 融资】BBC调查称Instagram仍出现儿童性虐待内容广告，Meta AI审核机制再遭质疑
-已保存到 Markdown: ./output/blockbeats/2026-07-13.md
-  [BlockBeats] 新快讯: 英特尔将投资50亿欧元扩建其爱尔兰工厂
-推送成功: 【BLOCKBEATS - 融资】英特尔将投资50亿欧元扩建其爱尔兰工厂
-已保存到 Markdown: ./output/blockbeats/2026-07-13.md
-  [BlockBeats] 新快讯: 智谱害怕成为下一个MiniMax？内部信淡化Coding，全面押注AGI与Agent
-推送成功: 【BLOCKBEATS - 融资】智谱害怕成为下一个MiniMax？内部信淡化Coding，全面押注AGI与Agent
-已保存到 Markdown: ./output/blockbeats/2026-07-13.md
-  [BlockBeats] 新快讯: Sakana AI做出会自检的智能砖块，不靠中央电脑也能发现故障
-推送成功: 【BLOCKBEATS - 融资】Sakana AI做出会自检的智能砖块，不靠中央电脑也能发现故障
-已保存到 Markdown: ./output/blockbeats/2026-07-13.md
-  [BlockBeats] 新快讯: 理想披露Mach-Mind-4-Flash训练方法：十多个专家合成一个模型
-推送成功: 【BLOCKBEATS - 融资】理想披露Mach-Mind-4-Flash训练方法：十多个专家合成一个模型
-已保存到 Markdown: ./output/blockbeats/2026-07-13.md
-  [BlockBeats] 新快讯: 趋境科技半年融资超10亿，万亿级Token工厂已投产
-推送成功: 【BLOCKBEATS - 融资】趋境科技半年融资超10亿，万亿级Token工厂已投产
+  [BlockBeats] 新快讯: 英伟达真的开始「出卡」，但这次不是显卡，推出首套集换式卡牌
+推送成功: 【BLOCKBEATS - 融资】英伟达真的开始「出卡」，但这次不是显卡，推出首套集换式卡牌
 已保存到 Markdown: ./output/blockbeats/2026-07-13.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -61,7 +40,7 @@ Call log:
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-Cycle completed. 2026-07-13 13:27:09.774833
+Cycle completed. 2026-07-13 16:36:50.366983
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -71,26 +50,15 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-2026-07-13 13:26:13,701 - INFO -   List: 透明度评分提升榜
-2026-07-13 13:26:28,976 - ERROR -   Failed to scrape list 透明度评分提升榜: Page.wait_for_selector: Timeout 15000ms exceeded.
-Call log:
-  - waiting for locator("table tr, .list-item") to be visible
-
-2026-07-13 13:26:28,976 - INFO -   List: 交易所透明度排名
-2026-07-13 13:26:44,249 - ERROR -   Failed to scrape list 交易所透明度排名: Page.wait_for_selector: Timeout 15000ms exceeded.
-Call log:
-  - waiting for locator("table tr, .list-item") to be visible
-
-2026-07-13 13:26:44,249 - INFO -   Calendar Events...
-2026-07-13 13:26:59,506 - WARNING -   Calendar events fetch failed: Page.wait_for_selector: Timeout 15000ms exceeded.
+imeout 15000ms exceeded.
 Call log:
   - waiting for locator(".list-table, .list-row") to be visible
 
-2026-07-13 13:26:59,506 - INFO -   Calendar Insight Image...
-2026-07-13 13:26:59,507 - WARNING -     Calendar insight icon not found
-2026-07-13 13:26:59,508 - INFO -   Market Image...
-2026-07-13 13:27:09,760 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+2026-07-13 16:36:40,047 - INFO -   Calendar Insight Image...
+2026-07-13 16:36:40,049 - WARNING -     Calendar insight icon not found
+2026-07-13 16:36:40,049 - INFO -   Market Image...
+2026-07-13 16:36:50,351 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-2026-07-13 13:27:09,774 - INFO - Cycle completed. 2026-07-13 13:27:09.774833
+2026-07-13 16:36:50,367 - INFO - Cycle completed. 2026-07-13 16:36:50.366983

@@ -1,5 +1,29 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
+  [BlockBeats] 新快讯: 过去4小时SK海力士爆仓居全网首位，3名巨鲸遭连环清算1400万美元多单
+推送成功: 【BLOCKBEATS - 预测市场】过去4小时SK海力士爆仓居全网首位，3名巨鲸遭连环清算1400万美元多单
+已保存到 Markdown: ./output/blockbeats/2026-07-13.md
+  [BlockBeats] 新快讯: 美股海力士短时跌破160美元，SKHY最大多头千万美元仓位浮亏140万美元
+推送成功: 【BLOCKBEATS - 预测市场】美股海力士短时跌破160美元，SKHY最大多头千万美元仓位浮亏140万美元
+已保存到 Markdown: ./output/blockbeats/2026-07-13.md
+  [BlockBeats] 新快讯: KIS下调海力士两年营业利润预测，维持目标价不变
+推送成功: 【BLOCKBEATS - 预测市场】KIS下调海力士两年营业利润预测，维持目标价不变
+已保存到 Markdown: ./output/blockbeats/2026-07-13.md
+  [BlockBeats] 新快讯: 韩国KOSPI指数跌幅扩大至2%，SK海力士跌近7%
+推送成功: 【BLOCKBEATS - 预测市场】韩国KOSPI指数跌幅扩大至2%，SK海力士跌近7%
+已保存到 Markdown: ./output/blockbeats/2026-07-13.md
+  [BlockBeats] 新快讯: 韩国KOSPI指数开盘跌1%后快速转涨，SK海力士跌3.5%
+推送成功: 【BLOCKBEATS - 预测市场】韩国KOSPI指数开盘跌1%后快速转涨，SK海力士跌3.5%
+已保存到 Markdown: ./output/blockbeats/2026-07-13.md
+  [BlockBeats] 新快讯: Grok Build被曝上传整个代码库，密钥和Git历史都可能被偷走
+推送成功: 【BLOCKBEATS - 融资】Grok Build被曝上传整个代码库，密钥和Git历史都可能被偷走
+已保存到 Markdown: ./output/blockbeats/2026-07-13.md
+  [BlockBeats] 新快讯: Codex用户冲到600万，OpenAI临时取消5小时用量上限
+推送成功: 【BLOCKBEATS - 融资】Codex用户冲到600万，OpenAI临时取消5小时用量上限
+已保存到 Markdown: ./output/blockbeats/2026-07-13.md
+  [BlockBeats] 新快讯: Claude Fable5再次续杯，付费用户免加钱用到7月19日
+推送成功: 【BLOCKBEATS - 融资】Claude Fable5再次续杯，付费用户免加钱用到7月19日
+已保存到 Markdown: ./output/blockbeats/2026-07-13.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
   Category: 项目动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1003&is_hot=1
@@ -34,7 +58,7 @@ Call log:
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-Cycle completed. 2026-07-12 23:57:40.588254
+Cycle completed. 2026-07-13 02:57:25.805864
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -44,10 +68,25 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-   Calendar insight icon not found
-2026-07-12 23:57:30,267 - INFO -   Market Image...
-2026-07-12 23:57:40,574 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+   Failed to scrape list 透明度评分提升榜: Page.wait_for_selector: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator("table tr, .list-item") to be visible
+
+2026-07-13 02:56:45,181 - INFO -   List: 交易所透明度排名
+2026-07-13 02:57:00,397 - ERROR -   Failed to scrape list 交易所透明度排名: Page.wait_for_selector: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator("table tr, .list-item") to be visible
+
+2026-07-13 02:57:00,397 - INFO -   Calendar Events...
+2026-07-13 02:57:15,595 - WARNING -   Calendar events fetch failed: Page.wait_for_selector: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator(".list-table, .list-row") to be visible
+
+2026-07-13 02:57:15,595 - INFO -   Calendar Insight Image...
+2026-07-13 02:57:15,597 - WARNING -     Calendar insight icon not found
+2026-07-13 02:57:15,597 - INFO -   Market Image...
+2026-07-13 02:57:25,794 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-2026-07-12 23:57:40,588 - INFO - Cycle completed. 2026-07-12 23:57:40.588254
+2026-07-13 02:57:25,805 - INFO - Cycle completed. 2026-07-13 02:57:25.805864

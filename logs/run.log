@@ -1,28 +1,28 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 套利与抄底盘致SK海力士资费高企，交易员「yixie」净付48.1万美元资金费
-推送成功: 【BLOCKBEATS - 预测市场】套利与抄底盘致SK海力士资费高企，交易员「yixie」净付48.1万美元资金费
+  [BlockBeats] 新快讯: 花旗美股盘前跌超1%
+推送成功: 【BLOCKBEATS - 预测市场】花旗美股盘前跌超1%
 已保存到 Markdown: ./output/blockbeats/2026-07-14.md
-  [BlockBeats] 新快讯: 「巨鲸发现」午间SK海力士回落后掀起抄底潮，当前最大赢家回报率接近100%
-推送成功: 【BLOCKBEATS - 预测市场】「巨鲸发现」午间SK海力士回落后掀起抄底潮，当前最大赢家回报率接近100%
+  [BlockBeats] 新快讯: CleanSpark美股盘前涨超16%，获66亿美元20年期限数据中心租约
+推送成功: 【BLOCKBEATS - 预测市场】CleanSpark美股盘前涨超16%，获66亿美元20年期限数据中心租约
 已保存到 Markdown: ./output/blockbeats/2026-07-14.md
-  [BlockBeats] 新快讯: 腾讯混元把Hy3压到1bit，2950亿参数单卡可跑
-推送成功: 【BLOCKBEATS - 融资】腾讯混元把Hy3压到1bit，2950亿参数单卡可跑
+  [BlockBeats] 新快讯: IBM美股盘前跌幅扩大至逾20%
+推送成功: 【BLOCKBEATS - 预测市场】IBM美股盘前跌幅扩大至逾20%
 已保存到 Markdown: ./output/blockbeats/2026-07-14.md
-  [BlockBeats] 新快讯: 阶跃手机和豆包手机有何不同：一个调接口，一个点屏幕
-推送成功: 【BLOCKBEATS - 融资】阶跃手机和豆包手机有何不同：一个调接口，一个点屏幕
+  [BlockBeats] 新快讯: 摩根大通季度利润创纪录新高，股票交易收入达60亿美元
+推送成功: 【BLOCKBEATS - 预测市场】摩根大通季度利润创纪录新高，股票交易收入达60亿美元
 已保存到 Markdown: ./output/blockbeats/2026-07-14.md
-  [BlockBeats] 新快讯: 商汤开源7B视觉模型，一个模型包办检测、分割和3D
-推送成功: 【BLOCKBEATS - 融资】商汤开源7B视觉模型，一个模型包办检测、分割和3D
+  [BlockBeats] 新快讯: 高盛美股盘前涨超2%，Q2股票销售与交易收入远超预期
+推送成功: 【BLOCKBEATS - 预测市场】高盛美股盘前涨超2%，Q2股票销售与交易收入远超预期
 已保存到 Markdown: ./output/blockbeats/2026-07-14.md
-  [BlockBeats] 新快讯: 谷歌DeepMind负责人呼吁建立由美国主导的全球AI监管机构
-推送成功: 【BLOCKBEATS - 融资】谷歌DeepMind负责人呼吁建立由美国主导的全球AI监管机构
+  [BlockBeats] 新快讯: IBM美股盘前跌超12%，第二财季初步营收不及预期
+推送成功: 【BLOCKBEATS - 预测市场】IBM美股盘前跌超12%，第二财季初步营收不及预期
 已保存到 Markdown: ./output/blockbeats/2026-07-14.md
-  [BlockBeats] 新快讯: Gemini 3.5 Pro还要等？团队成员发帖或暗示8月才发布
-推送成功: 【BLOCKBEATS - 融资】Gemini 3.5 Pro还要等？团队成员发帖或暗示8月才发布
+  [BlockBeats] 新快讯: CPI前夕1名巨鲸持7400万纳指重仓，多单规模独占该合约21%持仓量
+推送成功: 【BLOCKBEATS - 预测市场】CPI前夕1名巨鲸持7400万纳指重仓，多单规模独占该合约21%持仓量
 已保存到 Markdown: ./output/blockbeats/2026-07-14.md
-  [BlockBeats] 新快讯: 纽约将暂时禁止大型新数据中心建设
-推送成功: 【BLOCKBEATS - 融资】纽约将暂时禁止大型新数据中心建设
+  [BlockBeats] 新快讯: 阿里云：下调GLM-5.2 Fast mode模式价格
+推送成功: 【BLOCKBEATS - 融资】阿里云：下调GLM-5.2 Fast mode模式价格
 已保存到 Markdown: ./output/blockbeats/2026-07-14.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -58,7 +58,7 @@ Call log:
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-Cycle completed. 2026-07-14 10:49:01.242079
+Cycle completed. 2026-07-14 12:15:23.736199
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -72,21 +72,21 @@ Scraping TechFlow...
 Call log:
   - waiting for locator("table tr, .list-item") to be visible
 
-2026-07-14 10:48:20,410 - INFO -   List: 交易所透明度排名
-2026-07-14 10:48:35,696 - ERROR -   Failed to scrape list 交易所透明度排名: Page.wait_for_selector: Timeout 15000ms exceeded.
+2026-07-14 12:14:42,902 - INFO -   List: 交易所透明度排名
+2026-07-14 12:14:58,189 - ERROR -   Failed to scrape list 交易所透明度排名: Page.wait_for_selector: Timeout 15000ms exceeded.
 Call log:
   - waiting for locator("table tr, .list-item") to be visible
 
-2026-07-14 10:48:35,697 - INFO -   Calendar Events...
-2026-07-14 10:48:50,961 - WARNING -   Calendar events fetch failed: Page.wait_for_selector: Timeout 15000ms exceeded.
+2026-07-14 12:14:58,189 - INFO -   Calendar Events...
+2026-07-14 12:15:13,453 - WARNING -   Calendar events fetch failed: Page.wait_for_selector: Timeout 15000ms exceeded.
 Call log:
   - waiting for locator(".list-table, .list-row") to be visible
 
-2026-07-14 10:48:50,961 - INFO -   Calendar Insight Image...
-2026-07-14 10:48:50,963 - WARNING -     Calendar insight icon not found
-2026-07-14 10:48:50,963 - INFO -   Market Image...
-2026-07-14 10:49:01,228 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+2026-07-14 12:15:13,453 - INFO -   Calendar Insight Image...
+2026-07-14 12:15:13,456 - WARNING -     Calendar insight icon not found
+2026-07-14 12:15:13,456 - INFO -   Market Image...
+2026-07-14 12:15:23,722 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-2026-07-14 10:49:01,242 - INFO - Cycle completed. 2026-07-14 10:49:01.242079
+2026-07-14 12:15:23,736 - INFO - Cycle completed. 2026-07-14 12:15:23.736199

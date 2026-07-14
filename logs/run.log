@@ -1,16 +1,13 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 花旗跌幅扩大至5.5%，该公司正举行分析师电话会议
-推送成功: 【BLOCKBEATS - 预测市场】花旗跌幅扩大至5.5%，该公司正举行分析师电话会议
+  [BlockBeats] 新快讯: SK海力士ADR大涨22％
+推送成功: 【BLOCKBEATS - 预测市场】SK海力士ADR大涨22％
 已保存到 Markdown: ./output/blockbeats/2026-07-14.md
-  [BlockBeats] 新快讯: SK海力士ADR涨幅扩大至19%
-推送成功: 【BLOCKBEATS - 预测市场】SK海力士ADR涨幅扩大至19%
+  [BlockBeats] 新快讯: Coinbase涨超2%，此前开放中国用户注册
+推送成功: 【BLOCKBEATS - 预测市场】Coinbase涨超2%，此前开放中国用户注册
 已保存到 Markdown: ./output/blockbeats/2026-07-14.md
-  [BlockBeats] 新快讯: 美国软件股重挫，IBM业绩逊于预期引发投资者担忧
-推送成功: 【BLOCKBEATS - 预测市场】美国软件股重挫，IBM业绩逊于预期引发投资者担忧
-已保存到 Markdown: ./output/blockbeats/2026-07-14.md
-  [BlockBeats] 新快讯: 数据中心公司Switch最早Q4 IPO，目标估值800亿美元
-推送成功: 【BLOCKBEATS - 融资】数据中心公司Switch最早Q4 IPO，目标估值800亿美元
+  [BlockBeats] 新快讯: 美国商务部官员：有关芯片和AI的监管措施即将出台
+推送成功: 【BLOCKBEATS - 融资】美国商务部官员：有关芯片和AI的监管措施即将出台
 已保存到 Markdown: ./output/blockbeats/2026-07-14.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -46,7 +43,7 @@ Call log:
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-Cycle completed. 2026-07-14 16:18:09.245918
+Cycle completed. 2026-07-14 18:05:53.936504
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -56,18 +53,16 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-for locator("table tr, .list-item") to be visible
-
-2026-07-14 16:17:43,702 - INFO -   Calendar Events...
-2026-07-14 16:17:58,965 - WARNING -   Calendar events fetch failed: Page.wait_for_selector: Timeout 15000ms exceeded.
+ts...
+2026-07-14 18:05:43,608 - WARNING -   Calendar events fetch failed: Page.wait_for_selector: Timeout 15000ms exceeded.
 Call log:
   - waiting for locator(".list-table, .list-row") to be visible
 
-2026-07-14 16:17:58,966 - INFO -   Calendar Insight Image...
-2026-07-14 16:17:58,968 - WARNING -     Calendar insight icon not found
-2026-07-14 16:17:58,968 - INFO -   Market Image...
-2026-07-14 16:18:09,234 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+2026-07-14 18:05:43,609 - INFO -   Calendar Insight Image...
+2026-07-14 18:05:43,611 - WARNING -     Calendar insight icon not found
+2026-07-14 18:05:43,611 - INFO -   Market Image...
+2026-07-14 18:05:53,923 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-2026-07-14 16:18:09,245 - INFO - Cycle completed. 2026-07-14 16:18:09.245918
+2026-07-14 18:05:53,936 - INFO - Cycle completed. 2026-07-14 18:05:53.936504

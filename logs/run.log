@@ -1,14 +1,5 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: SK海力士ADR大涨22％
-推送成功: 【BLOCKBEATS - 预测市场】SK海力士ADR大涨22％
-已保存到 Markdown: ./output/blockbeats/2026-07-14.md
-  [BlockBeats] 新快讯: Coinbase涨超2%，此前开放中国用户注册
-推送成功: 【BLOCKBEATS - 预测市场】Coinbase涨超2%，此前开放中国用户注册
-已保存到 Markdown: ./output/blockbeats/2026-07-14.md
-  [BlockBeats] 新快讯: 美国商务部官员：有关芯片和AI的监管措施即将出台
-推送成功: 【BLOCKBEATS - 融资】美国商务部官员：有关芯片和AI的监管措施即将出台
-已保存到 Markdown: ./output/blockbeats/2026-07-14.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
   Category: 项目动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1003&is_hot=1
@@ -43,7 +34,7 @@ Call log:
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-Cycle completed. 2026-07-14 18:05:53.936504
+Cycle completed. 2026-07-14 20:14:35.467380
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -53,16 +44,10 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-ts...
-2026-07-14 18:05:43,608 - WARNING -   Calendar events fetch failed: Page.wait_for_selector: Timeout 15000ms exceeded.
-Call log:
-  - waiting for locator(".list-table, .list-row") to be visible
-
-2026-07-14 18:05:43,609 - INFO -   Calendar Insight Image...
-2026-07-14 18:05:43,611 - WARNING -     Calendar insight icon not found
-2026-07-14 18:05:43,611 - INFO -   Market Image...
-2026-07-14 18:05:53,923 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+   Calendar insight icon not found
+2026-07-14 20:14:25,194 - INFO -   Market Image...
+2026-07-14 20:14:35,452 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-2026-07-14 18:05:53,936 - INFO - Cycle completed. 2026-07-14 18:05:53.936504
+2026-07-14 20:14:35,467 - INFO - Cycle completed. 2026-07-14 20:14:35.467380

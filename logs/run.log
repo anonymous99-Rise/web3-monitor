@@ -1,5 +1,23 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
+  [BlockBeats] 新快讯: PrismML开源Bonsai27B，手机版只有3.9GB
+推送成功: 【BLOCKBEATS - 融资】PrismML开源Bonsai27B，手机版只有3.9GB
+已保存到 Markdown: ./output/blockbeats/2026-07-15.md
+  [BlockBeats] 新快讯: Codex和ChatGPT Work两天涨200万活跃用户
+推送成功: 【BLOCKBEATS - 融资】Codex和ChatGPT Work两天涨200万活跃用户
+已保存到 Markdown: ./output/blockbeats/2026-07-15.md
+  [BlockBeats] 新快讯: Coinbase：超95%的代码已由AI参与编写，几乎所有员工每天都在使用AI
+推送成功: 【BLOCKBEATS - 融资】Coinbase：超95%的代码已由AI参与编写，几乎所有员工每天都在使用AI
+已保存到 Markdown: ./output/blockbeats/2026-07-15.md
+  [BlockBeats] 新快讯: 印媒：印度科技企业悄然转向中国AI大模型，成本仅为OpenAI的十分之一
+推送成功: 【BLOCKBEATS - 融资】印媒：印度科技企业悄然转向中国AI大模型，成本仅为OpenAI的十分之一
+已保存到 Markdown: ./output/blockbeats/2026-07-15.md
+  [BlockBeats] 新快讯: OpenAI涉足苹果「舒适区」，拟推首款AI硬件
+推送成功: 【BLOCKBEATS - 融资】OpenAI涉足苹果「舒适区」，拟推首款AI硬件
+已保存到 Markdown: ./output/blockbeats/2026-07-15.md
+  [BlockBeats] 新快讯: 苹果洽谈AI初创公司，拟让大模型直接运行于iPhone
+推送成功: 【BLOCKBEATS - 融资】苹果洽谈AI初创公司，拟让大模型直接运行于iPhone
+已保存到 Markdown: ./output/blockbeats/2026-07-15.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
   Category: 项目动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1003&is_hot=1
@@ -34,7 +52,7 @@ Call log:
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-Cycle completed. 2026-07-14 23:05:22.345867
+Cycle completed. 2026-07-15 02:34:12.402781
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -44,10 +62,21 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-   Calendar insight icon not found
-2026-07-14 23:05:12,074 - INFO -   Market Image...
-2026-07-14 23:05:22,332 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+- INFO -   List: 交易所透明度排名
+2026-07-15 02:33:46,863 - ERROR -   Failed to scrape list 交易所透明度排名: Page.wait_for_selector: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator("table tr, .list-item") to be visible
+
+2026-07-15 02:33:46,863 - INFO -   Calendar Events...
+2026-07-15 02:34:02,122 - WARNING -   Calendar events fetch failed: Page.wait_for_selector: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator(".list-table, .list-row") to be visible
+
+2026-07-15 02:34:02,122 - INFO -   Calendar Insight Image...
+2026-07-15 02:34:02,124 - WARNING -     Calendar insight icon not found
+2026-07-15 02:34:02,124 - INFO -   Market Image...
+2026-07-15 02:34:12,388 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-2026-07-14 23:05:22,345 - INFO - Cycle completed. 2026-07-14 23:05:22.345867
+2026-07-15 02:34:12,402 - INFO - Cycle completed. 2026-07-15 02:34:12.402781

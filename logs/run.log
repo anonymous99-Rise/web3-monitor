@@ -1,14 +1,5 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 巴菲特最新访谈：批评当下市场投机潮，承认亲自主导对谷歌投资
-推送成功: 【BLOCKBEATS - 预测市场】巴菲特最新访谈：批评当下市场投机潮，承认亲自主导对谷歌投资
-已保存到 Markdown: ./output/blockbeats/2026-07-15.md
-  [BlockBeats] 新快讯: 三星2纳米工艺订单激增致人力吃紧，谷歌TPU I/O芯片后端设计拟外包
-推送成功: 【BLOCKBEATS - 预测市场】三星2纳米工艺订单激增致人力吃紧，谷歌TPU I/O芯片后端设计拟外包
-已保存到 Markdown: ./output/blockbeats/2026-07-15.md
-  [BlockBeats] 新快讯: 高盛观点：存储市场显露结构性变化，NAND部分替代DRAM用以降本成为实际趋势
-推送成功: 【BLOCKBEATS - 预测市场】高盛观点：存储市场显露结构性变化，NAND部分替代DRAM用以降本成为实际趋势
-已保存到 Markdown: ./output/blockbeats/2026-07-15.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
   Category: 项目动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1003&is_hot=1
@@ -43,7 +34,7 @@ Call log:
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-Cycle completed. 2026-07-15 18:10:19.438210
+Cycle completed. 2026-07-15 20:11:36.817955
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -53,16 +44,10 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-ts...
-2026-07-15 18:10:09,102 - WARNING -   Calendar events fetch failed: Page.wait_for_selector: Timeout 15000ms exceeded.
-Call log:
-  - waiting for locator(".list-table, .list-row") to be visible
-
-2026-07-15 18:10:09,102 - INFO -   Calendar Insight Image...
-2026-07-15 18:10:09,105 - WARNING -     Calendar insight icon not found
-2026-07-15 18:10:09,105 - INFO -   Market Image...
-2026-07-15 18:10:19,422 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+   Calendar insight icon not found
+2026-07-15 20:11:26,520 - INFO -   Market Image...
+2026-07-15 20:11:36,803 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-2026-07-15 18:10:19,438 - INFO - Cycle completed. 2026-07-15 18:10:19.438210
+2026-07-15 20:11:36,817 - INFO - Cycle completed. 2026-07-15 20:11:36.817955

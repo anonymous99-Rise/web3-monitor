@@ -1,40 +1,19 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 美股盘前半导体、存储板块及光通信普跌，西部数据跌逾7%、SK海力士ADR跌超6%
-推送成功: 【BLOCKBEATS - 预测市场】美股盘前半导体、存储板块及光通信普跌，西部数据跌逾7%、SK海力士ADR跌超6%
+  [BlockBeats] 新快讯: 美股开盘，SK海力士ADR跌超5%
+推送成功: 【BLOCKBEATS - 预测市场】美股开盘，SK海力士ADR跌超5%
 已保存到 Markdown: ./output/blockbeats/2026-07-16.md
-  [BlockBeats] 新快讯: 三星代工业务接近盈利拐点却不愿被折旧拖累，财务表现被视为优先于竞争追赶
-推送成功: 【BLOCKBEATS - 预测市场】三星代工业务接近盈利拐点却不愿被折旧拖累，财务表现被视为优先于竞争追赶
+  [BlockBeats] 新快讯: 美股盘前要闻一览：台积电Q2净利润同比增长77%大超预期盘前仍跌超4%，大摩预计DRAM合约价增速预计在2026年Q4见顶
+推送成功: 【BLOCKBEATS - 预测市场】美股盘前要闻一览：台积电Q2净利润同比增长77%大超预期盘前仍跌超4%，大摩预计DRAM合约价增速预计在2026年Q4见顶
 已保存到 Markdown: ./output/blockbeats/2026-07-16.md
-  [BlockBeats] 新快讯: 百度寻求港美双重主要上市，美股盘前拉涨近3%
-推送成功: 【BLOCKBEATS - 预测市场】百度寻求港美双重主要上市，美股盘前拉涨近3%
+  [BlockBeats] 新快讯: 台积电盘前跌4.64%，此前宣布上调未来三年资本支出
+推送成功: 【BLOCKBEATS - 预测市场】台积电盘前跌4.64%，此前宣布上调未来三年资本支出
 已保存到 Markdown: ./output/blockbeats/2026-07-16.md
-  [BlockBeats] 新快讯: React专项实测：GPT-5.6 Sol第一，但最好成绩仅43.1%
-推送成功: 【BLOCKBEATS - 融资】React专项实测：GPT-5.6 Sol第一，但最好成绩仅43.1%
+  [BlockBeats] 新快讯: 英伟达支持的Fireworks完成15亿美元融资，估值达175亿美元
+推送成功: 【BLOCKBEATS - 融资】英伟达支持的Fireworks完成15亿美元融资，估值达175亿美元
 已保存到 Markdown: ./output/blockbeats/2026-07-16.md
-  [BlockBeats] 新快讯: 微软安全业务大换血：裁员数百人，押注AI防御
-推送成功: 【BLOCKBEATS - 融资】微软安全业务大换血：裁员数百人，押注AI防御
-已保存到 Markdown: ./output/blockbeats/2026-07-16.md
-  [BlockBeats] 新快讯: 美国美团DoorDash开放AI代下单，Agent可直接搜店付款
-推送成功: 【BLOCKBEATS - 融资】美国美团DoorDash开放AI代下单，Agent可直接搜店付款
-已保存到 Markdown: ./output/blockbeats/2026-07-16.md
-  [BlockBeats] 新快讯: 百川最后一位联创离职，王小川独自押注AI医疗
-推送成功: 【BLOCKBEATS - 融资】百川最后一位联创离职，王小川独自押注AI医疗
-已保存到 Markdown: ./output/blockbeats/2026-07-16.md
-  [BlockBeats] 新快讯: 月之暗面Kimi K3发布将近，预计将超越Opus 4.8
-推送成功: 【BLOCKBEATS - 融资】月之暗面Kimi K3发布将近，预计将超越Opus 4.8
-已保存到 Markdown: ./output/blockbeats/2026-07-16.md
-  [BlockBeats] 新快讯: 谷歌解释扩散模型为何能「创作」：关键可能是不死记图片
-推送成功: 【BLOCKBEATS - 融资】谷歌解释扩散模型为何能「创作」：关键可能是不死记图片
-已保存到 Markdown: ./output/blockbeats/2026-07-16.md
-  [BlockBeats] 新快讯: Cursor全套餐模型额度翻倍，Grok 4.5和Composer 2.5可用量增加
-推送成功: 【BLOCKBEATS - 融资】Cursor全套餐模型额度翻倍，Grok 4.5和Composer 2.5可用量增加
-已保存到 Markdown: ./output/blockbeats/2026-07-16.md
-  [BlockBeats] 新快讯: 百度港股拟「转正」，内地资金入口有望打开
-推送成功: 【BLOCKBEATS - 融资】百度港股拟「转正」，内地资金入口有望打开
-已保存到 Markdown: ./output/blockbeats/2026-07-16.md
-  [BlockBeats] 新快讯: AWS CloudFront局部故障，部分网站出现504超时
-推送成功: 【BLOCKBEATS - 融资】AWS CloudFront局部故障，部分网站出现504超时
+  [BlockBeats] 新快讯: DeepSeek估值超3500亿元
+推送成功: 【BLOCKBEATS - 融资】DeepSeek估值超3500亿元
 已保存到 Markdown: ./output/blockbeats/2026-07-16.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -70,7 +49,7 @@ Call log:
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-Cycle completed. 2026-07-16 11:42:16.041845
+Cycle completed. 2026-07-16 13:55:01.288736
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -80,32 +59,20 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
- 11:41:02,542 - INFO - Scraping RootData...
-2026-07-16 11:41:02,581 - INFO -   List: Top 100 项目
-2026-07-16 11:41:20,155 - ERROR -   Failed to scrape list Top 100 项目: Page.wait_for_selector: Timeout 15000ms exceeded.
+ 交易所透明度排名: Page.wait_for_selector: Timeout 15000ms exceeded.
 Call log:
   - waiting for locator("table tr, .list-item") to be visible
 
-2026-07-16 11:41:20,155 - INFO -   List: 透明度评分提升榜
-2026-07-16 11:41:35,385 - ERROR -   Failed to scrape list 透明度评分提升榜: Page.wait_for_selector: Timeout 15000ms exceeded.
-Call log:
-  - waiting for locator("table tr, .list-item") to be visible
-
-2026-07-16 11:41:35,385 - INFO -   List: 交易所透明度排名
-2026-07-16 11:41:50,613 - ERROR -   Failed to scrape list 交易所透明度排名: Page.wait_for_selector: Timeout 15000ms exceeded.
-Call log:
-  - waiting for locator("table tr, .list-item") to be visible
-
-2026-07-16 11:41:50,613 - INFO -   Calendar Events...
-2026-07-16 11:42:05,820 - WARNING -   Calendar events fetch failed: Page.wait_for_selector: Timeout 15000ms exceeded.
+2026-07-16 13:54:35,857 - INFO -   Calendar Events...
+2026-07-16 13:54:51,066 - WARNING -   Calendar events fetch failed: Page.wait_for_selector: Timeout 15000ms exceeded.
 Call log:
   - waiting for locator(".list-table, .list-row") to be visible
 
-2026-07-16 11:42:05,821 - INFO -   Calendar Insight Image...
-2026-07-16 11:42:05,823 - WARNING -     Calendar insight icon not found
-2026-07-16 11:42:05,823 - INFO -   Market Image...
-2026-07-16 11:42:16,027 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+2026-07-16 13:54:51,066 - INFO -   Calendar Insight Image...
+2026-07-16 13:54:51,068 - WARNING -     Calendar insight icon not found
+2026-07-16 13:54:51,068 - INFO -   Market Image...
+2026-07-16 13:55:01,277 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-2026-07-16 11:42:16,041 - INFO - Cycle completed. 2026-07-16 11:42:16.041845
+2026-07-16 13:55:01,288 - INFO - Cycle completed. 2026-07-16 13:55:01.288736

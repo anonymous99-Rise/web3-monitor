@@ -1,14 +1,5 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 美股加密货币概念股普涨，MSTR涨5.49%，BMNR涨超10%
-推送成功: 【BLOCKBEATS - 预测市场】美股加密货币概念股普涨，MSTR涨5.49%，BMNR涨超10%
-已保存到 Markdown: ./output/blockbeats/2026-07-27.md
-  [BlockBeats] 新快讯: 闪迪跌近13%，SK海力士跌超8%，美股存储概念股集体跳水
-推送成功: 【BLOCKBEATS - 预测市场】闪迪跌近13%，SK海力士跌超8%，美股存储概念股集体跳水
-已保存到 Markdown: ./output/blockbeats/2026-07-27.md
-  [BlockBeats] 新快讯: 瑞士加密银行AMINA探索上市路径，Cantor担任顾问
-推送成功: 【BLOCKBEATS - 链上侦探】瑞士加密银行AMINA探索上市路径，Cantor担任顾问
-已保存到 Markdown: ./output/blockbeats/2026-07-27.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
   Category: 项目动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1003&is_hot=1
@@ -43,7 +34,7 @@ Call log:
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-Cycle completed. 2026-07-27 16:59:36.713277
+Cycle completed. 2026-07-27 18:29:02.033320
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -53,16 +44,10 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-ts...
-2026-07-27 16:59:26,445 - WARNING -   Calendar events fetch failed: Page.wait_for_selector: Timeout 15000ms exceeded.
-Call log:
-  - waiting for locator(".list-table, .list-row") to be visible
-
-2026-07-27 16:59:26,445 - INFO -   Calendar Insight Image...
-2026-07-27 16:59:26,448 - WARNING -     Calendar insight icon not found
-2026-07-27 16:59:26,448 - INFO -   Market Image...
-2026-07-27 16:59:36,698 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+   Calendar insight icon not found
+2026-07-27 18:28:51,771 - INFO -   Market Image...
+2026-07-27 18:29:02,019 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-2026-07-27 16:59:36,713 - INFO - Cycle completed. 2026-07-27 16:59:36.713277
+2026-07-27 18:29:02,033 - INFO - Cycle completed. 2026-07-27 18:29:02.033320

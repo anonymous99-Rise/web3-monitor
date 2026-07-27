@@ -1,28 +1,13 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 股市「弹药」接近极限？高盛称美国家庭与机构股票仓位创历史新高
-推送成功: 【BLOCKBEATS - 预测市场】股市「弹药」接近极限？高盛称美国家庭与机构股票仓位创历史新高
+  [BlockBeats] 新快讯: 美股加密货币概念股普涨，MSTR涨5.49%，BMNR涨超10%
+推送成功: 【BLOCKBEATS - 预测市场】美股加密货币概念股普涨，MSTR涨5.49%，BMNR涨超10%
 已保存到 Markdown: ./output/blockbeats/2026-07-27.md
-  [BlockBeats] 新快讯: 美光科技总市值跌破万亿美元，今日跌超4%
-推送成功: 【BLOCKBEATS - 预测市场】美光科技总市值跌破万亿美元，今日跌超4%
+  [BlockBeats] 新快讯: 闪迪跌近13%，SK海力士跌超8%，美股存储概念股集体跳水
+推送成功: 【BLOCKBEATS - 预测市场】闪迪跌近13%，SK海力士跌超8%，美股存储概念股集体跳水
 已保存到 Markdown: ./output/blockbeats/2026-07-27.md
-  [BlockBeats] 新快讯: 美股软件概念股走高，甲骨文涨约5%
-推送成功: 【BLOCKBEATS - 预测市场】美股软件概念股走高，甲骨文涨约5%
-已保存到 Markdown: ./output/blockbeats/2026-07-27.md
-  [BlockBeats] 新快讯: 美股三大股指高开，存储概念走高，SK海力士涨超2%
-推送成功: 【BLOCKBEATS - 预测市场】美股三大股指高开，存储概念走高，SK海力士涨超2%
-已保存到 Markdown: ./output/blockbeats/2026-07-27.md
-  [BlockBeats] 新快讯: Michael Saylor：Strategy不会在STRC低于100美元时发行新股
-推送成功: 【BLOCKBEATS - 链上侦探】Michael Saylor：Strategy不会在STRC低于100美元时发行新股
-已保存到 Markdown: ./output/blockbeats/2026-07-27.md
-  [BlockBeats] 新快讯: Strategy上周未增持比特币，美元储备升至37.5亿美元
-推送成功: 【BLOCKBEATS - 链上侦探】Strategy上周未增持比特币，美元储备升至37.5亿美元
-已保存到 Markdown: ./output/blockbeats/2026-07-27.md
-  [BlockBeats] 新快讯: 数据：6月以来77家加密交易平台净流出近10亿美元，Binance逆势录得3690万美元净流入
-推送成功: 【BLOCKBEATS - 链上侦探】数据：6月以来77家加密交易平台净流出近10亿美元，Binance逆势录得3690万美元净流入
-已保存到 Markdown: ./output/blockbeats/2026-07-27.md
-  [BlockBeats] 新快讯: SparkKitty恶意软件潜入苹果、谷歌应用商店，专门窃取加密钱包助记词
-推送成功: 【BLOCKBEATS - 链上侦探】SparkKitty恶意软件潜入苹果、谷歌应用商店，专门窃取加密钱包助记词
+  [BlockBeats] 新快讯: 瑞士加密银行AMINA探索上市路径，Cantor担任顾问
+推送成功: 【BLOCKBEATS - 链上侦探】瑞士加密银行AMINA探索上市路径，Cantor担任顾问
 已保存到 Markdown: ./output/blockbeats/2026-07-27.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -58,7 +43,7 @@ Call log:
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-Cycle completed. 2026-07-27 14:38:12.459941
+Cycle completed. 2026-07-27 16:59:36.713277
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -68,25 +53,16 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-   Failed to scrape list 透明度评分提升榜: Page.wait_for_selector: Timeout 15000ms exceeded.
-Call log:
-  - waiting for locator("table tr, .list-item") to be visible
-
-2026-07-27 14:37:31,658 - INFO -   List: 交易所透明度排名
-2026-07-27 14:37:46,934 - ERROR -   Failed to scrape list 交易所透明度排名: Page.wait_for_selector: Timeout 15000ms exceeded.
-Call log:
-  - waiting for locator("table tr, .list-item") to be visible
-
-2026-07-27 14:37:46,934 - INFO -   Calendar Events...
-2026-07-27 14:38:02,189 - WARNING -   Calendar events fetch failed: Page.wait_for_selector: Timeout 15000ms exceeded.
+ts...
+2026-07-27 16:59:26,445 - WARNING -   Calendar events fetch failed: Page.wait_for_selector: Timeout 15000ms exceeded.
 Call log:
   - waiting for locator(".list-table, .list-row") to be visible
 
-2026-07-27 14:38:02,189 - INFO -   Calendar Insight Image...
-2026-07-27 14:38:02,191 - WARNING -     Calendar insight icon not found
-2026-07-27 14:38:02,192 - INFO -   Market Image...
-2026-07-27 14:38:12,446 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+2026-07-27 16:59:26,445 - INFO -   Calendar Insight Image...
+2026-07-27 16:59:26,448 - WARNING -     Calendar insight icon not found
+2026-07-27 16:59:26,448 - INFO -   Market Image...
+2026-07-27 16:59:36,698 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-2026-07-27 14:38:12,459 - INFO - Cycle completed. 2026-07-27 14:38:12.459941
+2026-07-27 16:59:36,713 - INFO - Cycle completed. 2026-07-27 16:59:36.713277

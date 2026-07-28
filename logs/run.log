@@ -1,14 +1,5 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 美股收盘闪迪跌超14%，较高点腰斩；美光、海力士跌约9%
-推送成功: 【BLOCKBEATS - 预测市场】美股收盘闪迪跌超14%，较高点腰斩；美光、海力士跌约9%
-已保存到 Markdown: ./output/blockbeats/2026-07-28.md
-  [BlockBeats] 新快讯: SpaceX逆市涨超3%，市值回升至1.54万亿美元
-推送成功: 【BLOCKBEATS - 预测市场】SpaceX逆市涨超3%，市值回升至1.54万亿美元
-已保存到 Markdown: ./output/blockbeats/2026-07-28.md
-  [BlockBeats] 新快讯: 以太坊L2 TVL跌至两年低点，生态动能减弱
-推送成功: 【BLOCKBEATS - 链上侦探】以太坊L2 TVL跌至两年低点，生态动能减弱
-已保存到 Markdown: ./output/blockbeats/2026-07-28.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
   Category: 项目动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1003&is_hot=1
@@ -43,7 +34,7 @@ Call log:
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-Cycle completed. 2026-07-28 21:11:20.249825
+Cycle completed. 2026-07-28 23:01:09.182836
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -53,16 +44,10 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-ts...
-2026-07-28 21:11:09,957 - WARNING -   Calendar events fetch failed: Page.wait_for_selector: Timeout 15000ms exceeded.
-Call log:
-  - waiting for locator(".list-table, .list-row") to be visible
-
-2026-07-28 21:11:09,957 - INFO -   Calendar Insight Image...
-2026-07-28 21:11:09,959 - WARNING -     Calendar insight icon not found
-2026-07-28 21:11:09,959 - INFO -   Market Image...
-2026-07-28 21:11:20,235 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+   Calendar insight icon not found
+2026-07-28 23:00:58,858 - INFO -   Market Image...
+2026-07-28 23:01:09,167 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-2026-07-28 21:11:20,249 - INFO - Cycle completed. 2026-07-28 21:11:20.249825
+2026-07-28 23:01:09,182 - INFO - Cycle completed. 2026-07-28 23:01:09.182836

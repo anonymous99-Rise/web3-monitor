@@ -1,37 +1,13 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 华尔街大行被视为「AI周边板块」，分析师称股价料因多重利好而跑赢大盘
-推送成功: 【BLOCKBEATS - 预测市场】华尔街大行被视为「AI周边板块」，分析师称股价料因多重利好而跑赢大盘
+  [BlockBeats] 新快讯: 比特币矿企Ionic Digital上市首日股价上涨4%
+推送成功: 【BLOCKBEATS - 预测市场】比特币矿企Ionic Digital上市首日股价上涨4%
 已保存到 Markdown: ./output/blockbeats/2026-07-28.md
-  [BlockBeats] 新快讯: 标普500指数转涨，纳斯达克100指数跌幅收窄
-推送成功: 【BLOCKBEATS - 预测市场】标普500指数转涨，纳斯达克100指数跌幅收窄
+  [BlockBeats] 新快讯: 美股反弹，道指现涨超1%
+推送成功: 【BLOCKBEATS - 预测市场】美股反弹，道指现涨超1%
 已保存到 Markdown: ./output/blockbeats/2026-07-28.md
-  [BlockBeats] 新快讯: 美股存储板块大跌，闪迪跌超16%
-推送成功: 【BLOCKBEATS - 预测市场】美股存储板块大跌，闪迪跌超16%
-已保存到 Markdown: ./output/blockbeats/2026-07-28.md
-  [BlockBeats] 新快讯: 戴尔科技大跌13.5%
-推送成功: 【BLOCKBEATS - 预测市场】戴尔科技大跌13.5%
-已保存到 Markdown: ./output/blockbeats/2026-07-28.md
-  [BlockBeats] 新快讯: 标普500保险指数涨2.3%，创历史新高
-推送成功: 【BLOCKBEATS - 预测市场】标普500保险指数涨2.3%，创历史新高
-已保存到 Markdown: ./output/blockbeats/2026-07-28.md
-  [BlockBeats] 新快讯: 纳期斯达克100指数自纪录高点下跌10%，势将进入回调
-推送成功: 【BLOCKBEATS - 预测市场】纳期斯达克100指数自纪录高点下跌10%，势将进入回调
-已保存到 Markdown: ./output/blockbeats/2026-07-28.md
-  [BlockBeats] 新快讯: 美股半导体板块下挫，费城半导体指数日内跌超5%
-推送成功: 【BLOCKBEATS - 预测市场】美股半导体板块下挫，费城半导体指数日内跌超5%
-已保存到 Markdown: ./output/blockbeats/2026-07-28.md
-  [BlockBeats] 新快讯: SpaceX股价自IPO发行价下跌20%，市值从峰值蒸发逾1.2万亿美元
-推送成功: 【BLOCKBEATS - 预测市场】SpaceX股价自IPO发行价下跌20%，市值从峰值蒸发逾1.2万亿美元
-已保存到 Markdown: ./output/blockbeats/2026-07-28.md
-  [BlockBeats] 新快讯: 可口可乐涨超6%，创历史新高
-推送成功: 【BLOCKBEATS - 预测市场】可口可乐涨超6%，创历史新高
-已保存到 Markdown: ./output/blockbeats/2026-07-28.md
-  [BlockBeats] 新快讯: 苹果市值首次突破5万亿美元
-推送成功: 【BLOCKBEATS - 预测市场】苹果市值首次突破5万亿美元
-已保存到 Markdown: ./output/blockbeats/2026-07-28.md
-  [BlockBeats] 新快讯: 摩根士丹利推出以太坊、Solana现货ETP
-推送成功: 【BLOCKBEATS - 链上侦探】摩根士丹利推出以太坊、Solana现货ETP
+  [BlockBeats] 新快讯: 美股加密货币概念股普跌，RIOT跌近5%
+推送成功: 【BLOCKBEATS - 链上侦探】美股加密货币概念股普跌，RIOT跌近5%
 已保存到 Markdown: ./output/blockbeats/2026-07-28.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -67,7 +43,7 @@ Call log:
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-Cycle completed. 2026-07-28 15:23:58.738747
+Cycle completed. 2026-07-28 17:29:59.220105
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -77,31 +53,16 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-
-2026-07-28 15:23:02,437 - ERROR -   Failed to scrape list Top 100 项目: Page.wait_for_selector: Timeout 15000ms exceeded.
-Call log:
-  - waiting for locator("table tr, .list-item") to be visible
-
-2026-07-28 15:23:02,437 - INFO -   List: 透明度评分提升榜
-2026-07-28 15:23:17,773 - ERROR -   Failed to scrape list 透明度评分提升榜: Page.wait_for_selector: Timeout 15000ms exceeded.
-Call log:
-  - waiting for locator("table tr, .list-item") to be visible
-
-2026-07-28 15:23:17,773 - INFO -   List: 交易所透明度排名
-2026-07-28 15:23:33,103 - ERROR -   Failed to scrape list 交易所透明度排名: Page.wait_for_selector: Timeout 15000ms exceeded.
-Call log:
-  - waiting for locator("table tr, .list-item") to be visible
-
-2026-07-28 15:23:33,103 - INFO -   Calendar Events...
-2026-07-28 15:23:48,411 - WARNING -   Calendar events fetch failed: Page.wait_for_selector: Timeout 15000ms exceeded.
+ts...
+2026-07-28 17:29:48,928 - WARNING -   Calendar events fetch failed: Page.wait_for_selector: Timeout 15000ms exceeded.
 Call log:
   - waiting for locator(".list-table, .list-row") to be visible
 
-2026-07-28 15:23:48,411 - INFO -   Calendar Insight Image...
-2026-07-28 15:23:48,414 - WARNING -     Calendar insight icon not found
-2026-07-28 15:23:48,414 - INFO -   Market Image...
-2026-07-28 15:23:58,723 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+2026-07-28 17:29:48,928 - INFO -   Calendar Insight Image...
+2026-07-28 17:29:48,931 - WARNING -     Calendar insight icon not found
+2026-07-28 17:29:48,931 - INFO -   Market Image...
+2026-07-28 17:29:59,204 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-2026-07-28 15:23:58,738 - INFO - Cycle completed. 2026-07-28 15:23:58.738747
+2026-07-28 17:29:59,220 - INFO - Cycle completed. 2026-07-28 17:29:59.220105

@@ -1,28 +1,16 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 长江存储：网传「核心3DNAND专利全部19项权利要求被裁定无效」系严重误导性描述
-推送成功: 【BLOCKBEATS - 预测市场】长江存储：网传「核心3DNAND专利全部19项权利要求被裁定无效」系严重误导性描述
+  [BlockBeats] 新快讯: 美银：AI与半导体行业股票存在七大持续隐患
+推送成功: 【BLOCKBEATS - 预测市场】美银：AI与半导体行业股票存在七大持续隐患
 已保存到 Markdown: ./output/blockbeats/2026-07-29.md
-  [BlockBeats] 新快讯: 美股AI保险公司Lemonade Q2财报营收同比增长79%，股价再度见光死，今日跌超20%
-推送成功: 【BLOCKBEATS - 预测市场】美股AI保险公司Lemonade Q2财报营收同比增长79%，股价再度见光死，今日跌超20%
+  [BlockBeats] 新快讯: 美股三大股指悉数跌超1%
+推送成功: 【BLOCKBEATS - 预测市场】美股三大股指悉数跌超1%
 已保存到 Markdown: ./output/blockbeats/2026-07-29.md
-  [BlockBeats] 新快讯: 美股AI板块再度全面转跌，闪迪跌超7%
-推送成功: 【BLOCKBEATS - 预测市场】美股AI板块再度全面转跌，闪迪跌超7%
+  [BlockBeats] 新快讯: 美银客户连续四周买入美股，机构投资者录得自2020年12月以来最大的周度净买入额
+推送成功: 【BLOCKBEATS - 预测市场】美银客户连续四周买入美股，机构投资者录得自2020年12月以来最大的周度净买入额
 已保存到 Markdown: ./output/blockbeats/2026-07-29.md
-  [BlockBeats] 新快讯: 韩国投资证券将SK海力士目标价上调至3236美元
-推送成功: 【BLOCKBEATS - 预测市场】韩国投资证券将SK海力士目标价上调至3236美元
-已保存到 Markdown: ./output/blockbeats/2026-07-29.md
-  [BlockBeats] 新快讯: 美股开盘股指低开，AI股涨跌互现
-推送成功: 【BLOCKBEATS - 预测市场】美股开盘股指低开，AI股涨跌互现
-已保存到 Markdown: ./output/blockbeats/2026-07-29.md
-  [BlockBeats] 新快讯: Binance Alpha将于7月30日上线Grvt（GRVT）
-推送成功: 【BLOCKBEATS - 链上侦探】Binance Alpha将于7月30日上线Grvt（GRVT）
-已保存到 Markdown: ./output/blockbeats/2026-07-29.md
-  [BlockBeats] 新快讯: Tether合规稳定币USAT上线Celo，为继以太坊后第二次主网部署
-推送成功: 【BLOCKBEATS - 链上侦探】Tether合规稳定币USAT上线Celo，为继以太坊后第二次主网部署
-已保存到 Markdown: ./output/blockbeats/2026-07-29.md
-  [BlockBeats] 新快讯: 灰度CEO申请出售GXRP ETF股份，成为第三位套现内部人士
-推送成功: 【BLOCKBEATS - 链上侦探】灰度CEO申请出售GXRP ETF股份，成为第三位套现内部人士
+  [BlockBeats] 新快讯: Coinbase将上线GRVT，充值功能待项目方解锁转账后开放
+推送成功: 【BLOCKBEATS - 链上侦探】Coinbase将上线GRVT，充值功能待项目方解锁转账后开放
 已保存到 Markdown: ./output/blockbeats/2026-07-29.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -58,7 +46,7 @@ Call log:
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-Cycle completed. 2026-07-29 15:51:18.804932
+Cycle completed. 2026-07-29 17:17:16.904834
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -68,25 +56,18 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-   Failed to scrape list 透明度评分提升榜: Page.wait_for_selector: Timeout 15000ms exceeded.
-Call log:
-  - waiting for locator("table tr, .list-item") to be visible
+for locator("table tr, .list-item") to be visible
 
-2026-07-29 15:50:37,988 - INFO -   List: 交易所透明度排名
-2026-07-29 15:50:53,269 - ERROR -   Failed to scrape list 交易所透明度排名: Page.wait_for_selector: Timeout 15000ms exceeded.
-Call log:
-  - waiting for locator("table tr, .list-item") to be visible
-
-2026-07-29 15:50:53,270 - INFO -   Calendar Events...
-2026-07-29 15:51:08,527 - WARNING -   Calendar events fetch failed: Page.wait_for_selector: Timeout 15000ms exceeded.
+2026-07-29 17:16:51,370 - INFO -   Calendar Events...
+2026-07-29 17:17:06,629 - WARNING -   Calendar events fetch failed: Page.wait_for_selector: Timeout 15000ms exceeded.
 Call log:
   - waiting for locator(".list-table, .list-row") to be visible
 
-2026-07-29 15:51:08,527 - INFO -   Calendar Insight Image...
-2026-07-29 15:51:08,529 - WARNING -     Calendar insight icon not found
-2026-07-29 15:51:08,529 - INFO -   Market Image...
-2026-07-29 15:51:18,790 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+2026-07-29 17:17:06,629 - INFO -   Calendar Insight Image...
+2026-07-29 17:17:06,632 - WARNING -     Calendar insight icon not found
+2026-07-29 17:17:06,632 - INFO -   Market Image...
+2026-07-29 17:17:16,890 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-2026-07-29 15:51:18,804 - INFO - Cycle completed. 2026-07-29 15:51:18.804932
+2026-07-29 17:17:16,904 - INFO - Cycle completed. 2026-07-29 17:17:16.904834

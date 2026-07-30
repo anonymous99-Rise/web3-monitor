@@ -1,5 +1,17 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
+  [BlockBeats] 新快讯: 三星电子：AI推动下半年服务器与内存需求走强，预计全年盈利持续增长
+推送成功: 【BLOCKBEATS - 预测市场】三星电子：AI推动下半年服务器与内存需求走强，预计全年盈利持续增长
+已保存到 Markdown: ./output/blockbeats/2026-07-30.md
+  [BlockBeats] 新快讯: Meta营收创纪录，但AI成本拖累股价下跌近7%
+推送成功: 【BLOCKBEATS - 预测市场】Meta营收创纪录，但AI成本拖累股价下跌近7%
+已保存到 Markdown: ./output/blockbeats/2026-07-30.md
+  [BlockBeats] 新快讯: 微软Q4营收900亿美元超市场预期，股价盘后涨8.5%
+推送成功: 【BLOCKBEATS - 预测市场】微软Q4营收900亿美元超市场预期，股价盘后涨8.5%
+已保存到 Markdown: ./output/blockbeats/2026-07-30.md
+  [BlockBeats] 新快讯: 美股收盘道指跌超2%，美光科技跌近10%
+推送成功: 【BLOCKBEATS - 预测市场】美股收盘道指跌超2%，美光科技跌近10%
+已保存到 Markdown: ./output/blockbeats/2026-07-30.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
   Category: 项目动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1003&is_hot=1
@@ -34,7 +46,7 @@ Call log:
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-Cycle completed. 2026-07-29 22:05:31.229454
+Cycle completed. 2026-07-30 00:01:51.789132
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -44,10 +56,18 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-   Calendar insight icon not found
-2026-07-29 22:05:20,996 - INFO -   Market Image...
-2026-07-29 22:05:31,213 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+for locator("table tr, .list-item") to be visible
+
+2026-07-30 00:01:26,370 - INFO -   Calendar Events...
+2026-07-30 00:01:41,571 - WARNING -   Calendar events fetch failed: Page.wait_for_selector: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator(".list-table, .list-row") to be visible
+
+2026-07-30 00:01:41,571 - INFO -   Calendar Insight Image...
+2026-07-30 00:01:41,573 - WARNING -     Calendar insight icon not found
+2026-07-30 00:01:41,573 - INFO -   Market Image...
+2026-07-30 00:01:51,773 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-2026-07-29 22:05:31,229 - INFO - Cycle completed. 2026-07-29 22:05:31.229454
+2026-07-30 00:01:51,789 - INFO - Cycle completed. 2026-07-30 00:01:51.789132

@@ -1,37 +1,10 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 卖出后大暴涨！华尔街AI股神清盘股全线涨超20%
-推送成功: 【BLOCKBEATS - 预测市场】卖出后大暴涨！华尔街AI股神清盘股全线涨超20%
+  [BlockBeats] 新快讯: 交易员欧阳拽白评存储暴力反弹：物极必反，交易层面一致看多会产生反向清杠杆势能
+推送成功: 【BLOCKBEATS - 预测市场】交易员欧阳拽白评存储暴力反弹：物极必反，交易层面一致看多会产生反向清杠杆势能
 已保存到 Markdown: ./output/blockbeats/2026-07-30.md
-  [BlockBeats] 新快讯: AI股神旗下基金大部分投资组合已被出售，买方为Ken Griffin旗下城堡投资
-推送成功: 【BLOCKBEATS - 预测市场】AI股神旗下基金大部分投资组合已被出售，买方为Ken Griffin旗下城堡投资
-已保存到 Markdown: ./output/blockbeats/2026-07-30.md
-  [BlockBeats] 新快讯: 韩股明日大涨预定，KOSPI 200隔夜期货触及涨停板
-推送成功: 【BLOCKBEATS - 预测市场】韩股明日大涨预定，KOSPI 200隔夜期货触及涨停板
-已保存到 Markdown: ./output/blockbeats/2026-07-30.md
-  [BlockBeats] 新快讯: 3100万美元看多海力士巨鲸扭亏为盈，入场价981.59美元
-推送成功: 【BLOCKBEATS - 预测市场】3100万美元看多海力士巨鲸扭亏为盈，入场价981.59美元
-已保存到 Markdown: ./output/blockbeats/2026-07-30.md
-  [BlockBeats] 新快讯: 宇树科技员工资管计划拟参与IPO战略配售，王兴兴认购1500万
-推送成功: 【BLOCKBEATS - 预测市场】宇树科技员工资管计划拟参与IPO战略配售，王兴兴认购1500万
-已保存到 Markdown: ./output/blockbeats/2026-07-30.md
-  [BlockBeats] 新快讯: 链上长鑫最大空头继续加仓做空，持仓高达2226万美元
-推送成功: 【BLOCKBEATS - 预测市场】链上长鑫最大空头继续加仓做空，持仓高达2226万美元
-已保存到 Markdown: ./output/blockbeats/2026-07-30.md
-  [BlockBeats] 新快讯: 美股存储板块全线暴涨，闪迪涨超23%，美光、海力士双双涨超16%
-推送成功: 【BLOCKBEATS - 预测市场】美股存储板块全线暴涨，闪迪涨超23%，美光、海力士双双涨超16%
-已保存到 Markdown: ./output/blockbeats/2026-07-30.md
-  [BlockBeats] 新快讯: AI股神倒在黎明前？旗下基金平仓所有公开上市股票资产，开启逐步清算
-推送成功: 【BLOCKBEATS - 预测市场】AI股神倒在黎明前？旗下基金平仓所有公开上市股票资产，开启逐步清算
-已保存到 Markdown: ./output/blockbeats/2026-07-30.md
-  [BlockBeats] 新快讯: Ondo Finance正在评估潜在收购，金额为2.5亿美元至5亿美元
-推送成功: 【BLOCKBEATS - 链上侦探】Ondo Finance正在评估潜在收购，金额为2.5亿美元至5亿美元
-已保存到 Markdown: ./output/blockbeats/2026-07-30.md
-  [BlockBeats] 新快讯: Ethereum Institutional发文庆祝以太坊11周年：加密领域最大的去中心化金融生态系统
-推送成功: 【BLOCKBEATS - 链上侦探】Ethereum Institutional发文庆祝以太坊11周年：加密领域最大的去中心化金融生态系统
-已保存到 Markdown: ./output/blockbeats/2026-07-30.md
-  [BlockBeats] 新快讯: Uniswap推出Web应用新功能Launches，用于发现新代币发行项目
-推送成功: 【BLOCKBEATS - 链上侦探】Uniswap推出Web应用新功能Launches，用于发现新代币发行项目
+  [BlockBeats] 新快讯: Strategy Q2财报公布在即，STRC盘中涨超2%创7月2日以来新高
+推送成功: 【BLOCKBEATS - 预测市场】Strategy Q2财报公布在即，STRC盘中涨超2%创7月2日以来新高
 已保存到 Markdown: ./output/blockbeats/2026-07-30.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
@@ -67,7 +40,7 @@ Call log:
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-Cycle completed. 2026-07-30 16:28:31.118579
+Cycle completed. 2026-07-30 18:18:02.810067
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -77,31 +50,15 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-
-2026-07-30 16:27:34,957 - ERROR -   Failed to scrape list Top 100 项目: Page.wait_for_selector: Timeout 15000ms exceeded.
-Call log:
-  - waiting for locator("table tr, .list-item") to be visible
-
-2026-07-30 16:27:34,958 - INFO -   List: 透明度评分提升榜
-2026-07-30 16:27:50,257 - ERROR -   Failed to scrape list 透明度评分提升榜: Page.wait_for_selector: Timeout 15000ms exceeded.
-Call log:
-  - waiting for locator("table tr, .list-item") to be visible
-
-2026-07-30 16:27:50,257 - INFO -   List: 交易所透明度排名
-2026-07-30 16:28:05,553 - ERROR -   Failed to scrape list 交易所透明度排名: Page.wait_for_selector: Timeout 15000ms exceeded.
-Call log:
-  - waiting for locator("table tr, .list-item") to be visible
-
-2026-07-30 16:28:05,553 - INFO -   Calendar Events...
-2026-07-30 16:28:20,826 - WARNING -   Calendar events fetch failed: Page.wait_for_selector: Timeout 15000ms exceeded.
+imeout 15000ms exceeded.
 Call log:
   - waiting for locator(".list-table, .list-row") to be visible
 
-2026-07-30 16:28:20,826 - INFO -   Calendar Insight Image...
-2026-07-30 16:28:20,829 - WARNING -     Calendar insight icon not found
-2026-07-30 16:28:20,829 - INFO -   Market Image...
-2026-07-30 16:28:31,103 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+2026-07-30 18:17:52,577 - INFO -   Calendar Insight Image...
+2026-07-30 18:17:52,579 - WARNING -     Calendar insight icon not found
+2026-07-30 18:17:52,579 - INFO -   Market Image...
+2026-07-30 18:18:02,795 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-2026-07-30 16:28:31,118 - INFO - Cycle completed. 2026-07-30 16:28:31.118579
+2026-07-30 18:18:02,810 - INFO - Cycle completed. 2026-07-30 18:18:02.810067

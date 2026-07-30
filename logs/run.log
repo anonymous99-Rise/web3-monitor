@@ -1,11 +1,5 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
-  [BlockBeats] 新快讯: 交易员欧阳拽白评存储暴力反弹：物极必反，交易层面一致看多会产生反向清杠杆势能
-推送成功: 【BLOCKBEATS - 预测市场】交易员欧阳拽白评存储暴力反弹：物极必反，交易层面一致看多会产生反向清杠杆势能
-已保存到 Markdown: ./output/blockbeats/2026-07-30.md
-  [BlockBeats] 新快讯: Strategy Q2财报公布在即，STRC盘中涨超2%创7月2日以来新高
-推送成功: 【BLOCKBEATS - 预测市场】Strategy Q2财报公布在即，STRC盘中涨超2%创7月2日以来新高
-已保存到 Markdown: ./output/blockbeats/2026-07-30.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
   Category: 项目动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1003&is_hot=1
@@ -40,7 +34,7 @@ Call log:
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-Cycle completed. 2026-07-30 18:18:02.810067
+Cycle completed. 2026-07-30 20:16:36.394363
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -50,15 +44,10 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-imeout 15000ms exceeded.
-Call log:
-  - waiting for locator(".list-table, .list-row") to be visible
-
-2026-07-30 18:17:52,577 - INFO -   Calendar Insight Image...
-2026-07-30 18:17:52,579 - WARNING -     Calendar insight icon not found
-2026-07-30 18:17:52,579 - INFO -   Market Image...
-2026-07-30 18:18:02,795 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+   Calendar insight icon not found
+2026-07-30 20:16:26,176 - INFO -   Market Image...
+2026-07-30 20:16:36,379 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-2026-07-30 18:18:02,810 - INFO - Cycle completed. 2026-07-30 18:18:02.810067
+2026-07-30 20:16:36,394 - INFO - Cycle completed. 2026-07-30 20:16:36.394363

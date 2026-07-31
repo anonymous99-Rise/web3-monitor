@@ -1,5 +1,8 @@
   Total 28 cookies loaded
 推送成功: 🚀 Web3-Monitor 已启动!
+  [BlockBeats] 新快讯: 微软单日市值暴增4500亿美元，创历史之最
+推送成功: 【BLOCKBEATS - 预测市场】微软单日市值暴增4500亿美元，创历史之最
+已保存到 Markdown: ./output/blockbeats/2026-07-31.md
   Category: AI前沿 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1005&is_hot=1
   Category: 加密股票 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1004&is_hot=1
   Category: 项目动态 - https://www.techflowpost.com/zh-CN/newsletter?articleType=1003&is_hot=1
@@ -34,7 +37,7 @@ Call log:
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-Cycle completed. 2026-07-30 22:11:47.742426
+Cycle completed. 2026-07-31 00:04:07.144155
   Database initialized: data.db
   Loaded BlockBeats cookies
   Loaded TechFlow cookies
@@ -44,10 +47,12 @@ Scraping BlockBeats...
   Category: 链上侦探 - https://www.theblockbeats.info/newsflash?type=2
   Category: 融资 - https://www.theblockbeats.info/newsflash?type=3
 Scraping TechFlow...
-   Calendar insight icon not found
-2026-07-30 22:11:37,461 - INFO -   Market Image...
-2026-07-30 22:11:47,728 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+
+2026-07-31 00:03:56,874 - INFO -   Calendar Insight Image...
+2026-07-31 00:03:56,877 - WARNING -     Calendar insight icon not found
+2026-07-31 00:03:56,877 - INFO -   Market Image...
+2026-07-31 00:04:07,129 - WARNING -     Market capture failed: Page.wait_for_selector: Timeout 10000ms exceeded.
 Call log:
   - waiting for locator(".v-data-table, table, .top-gainers") to be visible
 
-2026-07-30 22:11:47,742 - INFO - Cycle completed. 2026-07-30 22:11:47.742426
+2026-07-31 00:04:07,144 - INFO - Cycle completed. 2026-07-31 00:04:07.144155
